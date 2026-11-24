@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-24T22:11:24Z",
+ "updated": "2026-11-24T23:11:31Z",
  "stories": [
+  {
+   "id": "gpt6-proteins",
+   "cat": "tech",
+   "group": "science",
+   "h": "OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab",
+   "src": "OpenAI",
+   "label": "Company claim",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+   "t": "2026-11-24T23:11:30Z",
+   "hn": {
+    "url": "https://news.ycombinator.com/item?id=50634658",
+    "comments": 17
+   }
+  },
   {
    "id": "ny-ai-toys",
    "cat": "politics",
@@ -11,7 +25,7 @@
    "t": "2026-11-24T22:11:23Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50635246",
-    "comments": 0
+    "comments": 2
    },
    "img": {
     "src": "img/hochul.jpg",
@@ -147,7 +161,7 @@
    "t": "2026-11-24T12:17:17Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 555
+    "comments": 592
    }
   },
   {
@@ -161,7 +175,7 @@
    "url": "https://www.yahoo.com/news/politics/articles/us-blacklists-megaspeed-over-suspected-010342870.html",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50630245",
-    "comments": 62
+    "comments": 63
    }
   },
   {
@@ -177,7 +191,7 @@
   {
    "id": "riemann",
    "cat": "quirky",
-   "group": "math",
+   "group": "science",
    "h": "Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE",
    "src": "Scientific American",
    "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
@@ -196,7 +210,7 @@
    "src": "Scientific American",
    "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/",
    "t": "2026-11-24T03:15:30Z",
-   "group": "math"
+   "group": "science"
   },
   {
    "id": "short-nvda-wipeout",
@@ -289,7 +303,7 @@
    "t": "2026-11-24T01:15:00Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3674
+    "comments": 3687
    },
    "group": "huang"
   },
@@ -423,46 +437,47 @@
   "level": 3,
   "label": "FEVERISH",
   "why": "Washington blacklisted Jensen's China-linked chip buyer the same day it brought him back, and Congress wants answers.",
-  "score": 56,
-  "delta": 2,
+  "score": 52,
+  "delta": -4,
   "moves": [
    {
-    "d": 6,
-    "why": "New York BANS AI chatbot toys for FIVE YEARS... just in time for ho...",
-    "id": "ny-ai-toys"
+    "d": 1,
+    "why": "OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbe...",
+    "id": "gpt6-proteins"
    }
   ],
   "contrib": {
+   "gpt6-proteins": 1.0,
    "ny-ai-toys": 6.0,
-   "too-dangerous": 8.6,
-   "tegmark-takeover": 2.9,
-   "uk-ai-hacks": 1.0,
+   "too-dangerous": 8.2,
+   "tegmark-takeover": 2.7,
+   "uk-ai-hacks": 0.9,
    "nvda-hangover": 0.8,
    "bubble-popped": 0.8,
-   "ec-ai-hack": 0.8,
-   "nk-chatbot": 2.3,
-   "nvda-board-doubts": 0.9,
+   "ec-ai-hack": 0.7,
+   "nk-chatbot": 2.2,
+   "nvda-board-doubts": 0.8,
    "trump-nvda-trades": 0.7,
-   "ant-below-ipo": 4.0,
-   "megaspeed-blacklist": 1.7,
+   "ant-below-ipo": 3.7,
+   "megaspeed-blacklist": 1.4,
    "congress-fury": 0.2,
-   "riemann": 2.7,
+   "riemann": 2.6,
    "navier-stokes": 0.2,
    "short-nvda-wipeout": 0.2,
    "glm-54": 0.2,
-   "nasdaq-rally": 1.2,
-   "together-leak": 0.2,
-   "anthropic-20b": 0.2,
-   "hilton-defiance": 0.2,
-   "openai-limits": 0.2,
-   "huang-back": 1.3,
-   "nvda-1t": 0.9,
+   "nasdaq-rally": 0.9,
+   "together-leak": 0.1,
+   "anthropic-20b": 0.1,
+   "hilton-defiance": 0.1,
+   "openai-limits": 0.1,
+   "huang-back": 0.9,
+   "nvda-1t": 0.6,
    "trump-board": 0.1,
-   "gta-lucia": 1.0,
+   "gta-lucia": 0.6,
    "grok-ags": 0.1,
-   "apple-18": 0.4,
-   "minecraft-gf": 0.3,
-   "amzn-decart": 0.4
+   "apple-18": 0.2,
+   "minecraft-gf": 0.2,
+   "amzn-decart": 0.1
   },
   "lastAdjust": 0,
   "history": [
@@ -597,9 +612,13 @@
    {
     "t": "2026-11-24T22:11:24Z",
     "s": 56
+   },
+   {
+    "t": "2026-11-24T23:11:31Z",
+    "s": 52
    }
   ],
-  "at": "2026-11-24T22:11:24Z"
+  "at": "2026-11-24T23:11:31Z"
  },
  "state": {
   "models": {
@@ -749,24 +768,24 @@
    ]
   },
   "crypto": {
-   "asOf": "5:11 pm ET",
+   "asOf": "6:11 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59886.0,
-     "chg": -2.14
+     "price": 59963.0,
+     "chg": -2.23
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1681.18,
-     "chg": -2.18
+     "price": 1682.55,
+     "chg": -1.93
     }
    ]
   }
  },
- "next": "2026-11-24T23:11:00Z"
+ "next": "2026-11-25T00:11:00Z"
 }

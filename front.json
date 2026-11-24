@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-24T22:11:24Z",
- "nextUpdate": "2026-11-24T23:11:00Z",
+ "updated": "2026-11-24T23:11:31Z",
+ "nextUpdate": "2026-11-25T00:11:00Z",
  "lead": [
   {
    "headline": "TOO DANGEROUS TO RELEASE: Anthropic and OpenAI staff fear their unreleased new models are too unsafe to let out...",
@@ -54,6 +54,18 @@
  ],
  "stories": [
   {
+   "headline": "OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+   "found": "2026-11-24T23:11:30Z",
+   "section": "tech",
+   "label": "Company claim",
+   "hackerNews": {
+    "url": "https://news.ycombinator.com/item?id=50634658",
+    "comments": 17
+   }
+  },
+  {
    "headline": "New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping",
    "source": "Office of the Governor of New York",
    "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
@@ -61,7 +73,7 @@
    "section": "politics",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50635246",
-    "comments": 0
+    "comments": 2
    }
   },
   {
@@ -122,7 +134,7 @@
    "section": "business",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 555
+    "comments": 592
    }
   },
   {
@@ -133,7 +145,7 @@
    "section": "politics",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50630245",
-    "comments": 62
+    "comments": 63
    }
   },
   {
@@ -215,7 +227,7 @@
    "section": "business",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3674
+    "comments": 3687
    }
   },
   {
@@ -309,7 +321,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
  },
  "skynetOMeter": {
-  "score": 56,
+  "score": 52,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
