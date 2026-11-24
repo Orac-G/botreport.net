@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:11:11Z",
+ "updated": "2026-11-24T20:11:07Z",
  "stories": [
   {
    "id": "too-dangerous",
@@ -20,6 +20,10 @@
     "alt": "Anthropic CEO Dario Amodei",
     "credit": "UK Prime Minister / CC BY 2.0",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_in_2023.jpg"
+   },
+   "hn": {
+    "url": "https://news.ycombinator.com/item?id=50631691",
+    "comments": 12
    }
   },
   {
@@ -32,7 +36,7 @@
    "t": "2026-11-24T18:14:00Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50631210",
-    "comments": 82
+    "comments": 92
    }
   },
   {
@@ -109,7 +113,7 @@
    "t": "2026-11-24T13:17:22Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50626861",
-    "comments": 150
+    "comments": 158
    },
    "top": true
   },
@@ -123,8 +127,8 @@
    "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/",
    "t": "2026-11-24T12:17:17Z",
    "hn": {
-    "url": "https://news.ycombinator.com/item?id=50628932",
-    "comments": 125
+    "url": "https://news.ycombinator.com/item?id=50627836",
+    "comments": 435
    }
   },
   {
@@ -138,7 +142,7 @@
    "url": "https://www.yahoo.com/news/politics/articles/us-blacklists-megaspeed-over-suspected-010342870.html",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50630245",
-    "comments": 51
+    "comments": 58
    }
   },
   {
@@ -266,7 +270,7 @@
    "t": "2026-11-24T01:15:00Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3632
+    "comments": 3644
    },
    "group": "huang"
   },
@@ -397,42 +401,42 @@
   "day": "2026-11-24"
  },
  "meter": {
-  "level": 4,
+  "level": 3,
   "label": "FEVERISH",
   "why": "Washington blacklisted Jensen's China-linked chip buyer the same day it brought him back, and Congress wants answers.",
-  "score": 61,
-  "delta": -3,
+  "score": 57,
+  "delta": -4,
   "moves": [],
   "contrib": {
    "too-dangerous": 9.0,
    "tegmark-takeover": 3.0,
    "uk-ai-hacks": 1.0,
-   "nvda-hangover": 1.0,
-   "bubble-popped": 1.0,
+   "nvda-hangover": 0.9,
+   "bubble-popped": 0.9,
    "ec-ai-hack": 0.9,
-   "nk-chatbot": 2.7,
+   "nk-chatbot": 2.6,
    "nvda-board-doubts": 1.0,
-   "trump-nvda-trades": 0.9,
-   "ant-below-ipo": 4.9,
-   "megaspeed-blacklist": 2.6,
-   "congress-fury": 0.4,
+   "trump-nvda-trades": 0.8,
+   "ant-below-ipo": 4.6,
+   "megaspeed-blacklist": 2.3,
+   "congress-fury": 0.3,
    "riemann": 3.0,
-   "navier-stokes": 0.4,
-   "short-nvda-wipeout": 0.4,
-   "glm-54": 0.4,
-   "nasdaq-rally": 2.0,
+   "navier-stokes": 0.3,
+   "short-nvda-wipeout": 0.3,
+   "glm-54": 0.3,
+   "nasdaq-rally": 1.7,
    "together-leak": 0.3,
    "anthropic-20b": 0.3,
    "hilton-defiance": 0.3,
    "openai-limits": 0.3,
-   "huang-back": 2.6,
-   "nvda-1t": 1.7,
-   "trump-board": 0.3,
-   "gta-lucia": 2.2,
-   "grok-ags": 0.3,
-   "apple-18": 0.8,
-   "minecraft-gf": 0.8,
-   "amzn-decart": 1.2
+   "huang-back": 2.2,
+   "nvda-1t": 1.4,
+   "trump-board": 0.2,
+   "gta-lucia": 1.8,
+   "grok-ags": 0.2,
+   "apple-18": 0.6,
+   "minecraft-gf": 0.6,
+   "amzn-decart": 0.9
   },
   "lastAdjust": 0,
   "history": [
@@ -555,9 +559,13 @@
    {
     "t": "2026-11-24T19:11:11Z",
     "s": 61
+   },
+   {
+    "t": "2026-11-24T20:11:07Z",
+    "s": 57
    }
   ],
-  "at": "2026-11-24T19:11:11Z"
+  "at": "2026-11-24T20:11:07Z"
  },
  "state": {
   "models": {
@@ -593,51 +601,51 @@
    ]
   },
   "stocks": {
-   "asOf": "2:11 pm ET",
+   "asOf": "3:11 pm ET",
    "src": "Yahoo Finance \u00b7 change vs. prior close",
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
     {
      "sym": "NVDA",
      "name": "Nvidia",
-     "price": 152.86,
-     "chg": -7.39
+     "price": 152.21,
+     "chg": -7.78
     },
     {
      "sym": "ANT",
      "name": "Anthropic",
-     "price": 79.99,
-     "chg": -8.73
+     "price": 79.83,
+     "chg": -8.91
     },
     {
      "sym": "CBRS",
      "name": "Cerebras",
-     "price": 90.41,
-     "chg": -8.22
+     "price": 89.48,
+     "chg": -9.17
     },
     {
      "sym": "CRWV",
      "name": "CoreWeave",
-     "price": 42.23,
-     "chg": -12.63
+     "price": 42.21,
+     "chg": -12.66
     },
     {
      "sym": "NBIS",
      "name": "Nebius",
-     "price": 87.13,
-     "chg": -10.91
+     "price": 86.82,
+     "chg": -11.23
     },
     {
      "sym": "PLTR",
      "name": "Palantir",
-     "price": 162.14,
-     "chg": 1.74
+     "price": 160.46,
+     "chg": 0.69
     },
     {
      "sym": "NASDAQ",
      "name": "Composite",
-     "price": 23691.88,
-     "chg": -1.65
+     "price": 23620.85,
+     "chg": -1.95
     }
    ]
   },
@@ -707,24 +715,24 @@
    ]
   },
   "crypto": {
-   "asOf": "2:11 pm ET",
+   "asOf": "3:11 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59816.0,
-     "chg": -2.75
+     "price": 59582.0,
+     "chg": -2.51
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1676.42,
-     "chg": -3.81
+     "price": 1671.32,
+     "chg": -3.2
     }
    ]
   }
  },
- "next": "2026-11-24T20:11:00Z"
+ "next": "2026-11-24T21:11:00Z"
 }
