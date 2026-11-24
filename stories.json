@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:11:07Z",
+ "updated": "2026-11-24T21:10:55Z",
  "stories": [
   {
    "id": "too-dangerous",
@@ -36,7 +36,7 @@
    "t": "2026-11-24T18:14:00Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50631210",
-    "comments": 92
+    "comments": 97
    }
   },
   {
@@ -113,7 +113,7 @@
    "t": "2026-11-24T13:17:22Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50626861",
-    "comments": 158
+    "comments": 159
    },
    "top": true
   },
@@ -128,7 +128,7 @@
    "t": "2026-11-24T12:17:17Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 435
+    "comments": 496
    }
   },
   {
@@ -142,7 +142,7 @@
    "url": "https://www.yahoo.com/news/politics/articles/us-blacklists-megaspeed-over-suspected-010342870.html",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50630245",
-    "comments": 58
+    "comments": 59
    }
   },
   {
@@ -270,7 +270,7 @@
    "t": "2026-11-24T01:15:00Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3644
+    "comments": 3656
    },
    "group": "huang"
   },
@@ -404,39 +404,45 @@
   "level": 3,
   "label": "FEVERISH",
   "why": "Washington blacklisted Jensen's China-linked chip buyer the same day it brought him back, and Congress wants answers.",
-  "score": 57,
-  "delta": -4,
-  "moves": [],
+  "score": 54,
+  "delta": -3,
+  "moves": [
+   {
+    "d": -1,
+    "why": "Nvidia brings Jensen BACK as CEO two weeks after he quit... Trump s...",
+    "id": "huang-back"
+   }
+  ],
   "contrib": {
    "too-dangerous": 9.0,
    "tegmark-takeover": 3.0,
    "uk-ai-hacks": 1.0,
    "nvda-hangover": 0.9,
    "bubble-popped": 0.9,
-   "ec-ai-hack": 0.9,
-   "nk-chatbot": 2.6,
-   "nvda-board-doubts": 1.0,
+   "ec-ai-hack": 0.8,
+   "nk-chatbot": 2.5,
+   "nvda-board-doubts": 0.9,
    "trump-nvda-trades": 0.8,
-   "ant-below-ipo": 4.6,
-   "megaspeed-blacklist": 2.3,
+   "ant-below-ipo": 4.3,
+   "megaspeed-blacklist": 2.0,
    "congress-fury": 0.3,
-   "riemann": 3.0,
+   "riemann": 2.8,
    "navier-stokes": 0.3,
    "short-nvda-wipeout": 0.3,
    "glm-54": 0.3,
-   "nasdaq-rally": 1.7,
-   "together-leak": 0.3,
-   "anthropic-20b": 0.3,
-   "hilton-defiance": 0.3,
-   "openai-limits": 0.3,
-   "huang-back": 2.2,
-   "nvda-1t": 1.4,
+   "nasdaq-rally": 1.4,
+   "together-leak": 0.2,
+   "anthropic-20b": 0.2,
+   "hilton-defiance": 0.2,
+   "openai-limits": 0.2,
+   "huang-back": 1.7,
+   "nvda-1t": 1.1,
    "trump-board": 0.2,
-   "gta-lucia": 1.8,
+   "gta-lucia": 1.4,
    "grok-ags": 0.2,
-   "apple-18": 0.6,
-   "minecraft-gf": 0.6,
-   "amzn-decart": 0.9
+   "apple-18": 0.5,
+   "minecraft-gf": 0.5,
+   "amzn-decart": 0.7
   },
   "lastAdjust": 0,
   "history": [
@@ -563,9 +569,13 @@
    {
     "t": "2026-11-24T20:11:07Z",
     "s": 57
+   },
+   {
+    "t": "2026-11-24T21:10:55Z",
+    "s": 54
    }
   ],
-  "at": "2026-11-24T20:11:07Z"
+  "at": "2026-11-24T21:10:55Z"
  },
  "state": {
   "models": {
@@ -601,51 +611,51 @@
    ]
   },
   "stocks": {
-   "asOf": "3:11 pm ET",
+   "asOf": "Close Nov 24",
    "src": "Yahoo Finance \u00b7 change vs. prior close",
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
     {
      "sym": "NVDA",
      "name": "Nvidia",
-     "price": 152.21,
-     "chg": -7.78
+     "price": 155.38,
+     "chg": -5.86
     },
     {
      "sym": "ANT",
      "name": "Anthropic",
-     "price": 79.83,
-     "chg": -8.91
+     "price": 81.91,
+     "chg": -6.54
     },
     {
      "sym": "CBRS",
      "name": "Cerebras",
-     "price": 89.48,
-     "chg": -9.17
+     "price": 88.78,
+     "chg": -9.88
     },
     {
      "sym": "CRWV",
      "name": "CoreWeave",
-     "price": 42.21,
-     "chg": -12.66
+     "price": 42.6,
+     "chg": -11.85
     },
     {
      "sym": "NBIS",
      "name": "Nebius",
-     "price": 86.82,
-     "chg": -11.23
+     "price": 87.31,
+     "chg": -10.73
     },
     {
      "sym": "PLTR",
      "name": "Palantir",
-     "price": 160.46,
-     "chg": 0.69
+     "price": 161.18,
+     "chg": 1.14
     },
     {
      "sym": "NASDAQ",
      "name": "Composite",
-     "price": 23620.85,
-     "chg": -1.95
+     "price": 23733.53,
+     "chg": -1.48
     }
    ]
   },
@@ -715,24 +725,24 @@
    ]
   },
   "crypto": {
-   "asOf": "3:11 pm ET",
+   "asOf": "4:10 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59582.0,
-     "chg": -2.51
+     "price": 59720.0,
+     "chg": -2.56
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1671.32,
-     "chg": -3.2
+     "price": 1673.2,
+     "chg": -2.98
     }
    ]
   }
  },
- "next": "2026-11-24T21:11:00Z"
+ "next": "2026-11-24T22:11:00Z"
 }
