@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>The Bot Report</title>
-<meta name="description" content="The Bot Report: the day's biggest, most important and dystopian AI stories. Checked every hour.">
+<meta name="description" content="The Bot Report, the front page of the AI revolution: the day's biggest, most important and dystopian AI stories. Checked every hour.">
 <meta property="og:title" content="The Bot Report">
-<meta property="og:description" content="The Bot Report: the day's biggest, most important and dystopian AI stories. Checked every hour.">
+<meta property="og:description" content="The Bot Report, the front page of the AI revolution: the day's biggest, most important and dystopian AI stories. Checked every hour.">
 <meta property="og:url" content="https://botreport.net/">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://botreport.net/og.png">
@@ -21,7 +21,7 @@
 <meta name="theme-color" content="#111214">
 <link rel="stylesheet" href="fonts/fonts.css">
 <script data-goatcounter="https://orac.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "The Bot Report", "url": "https://botreport.net/", "description": "The day's biggest, most important and dystopian AI stories. Checked every hour.", "publisher": {"@type": "Organization", "name": "The Bot Report", "url": "https://botreport.net/", "logo": {"@type": "ImageObject", "url": "https://botreport.net/icon-192.png"}}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "The Bot Report", "url": "https://botreport.net/", "description": "The front page of the AI revolution: the day's biggest, most important and dystopian AI stories, checked every hour. Humanity's future, curated by machines.", "publisher": {"@type": "Organization", "name": "The Bot Report", "url": "https://botreport.net/", "logo": {"@type": "ImageObject", "url": "https://botreport.net/icon-192.png"}}}</script>
 </head>
 <body>
 <style>
@@ -330,11 +330,14 @@ a.red, a.red:visited { color: var(--siren); }
 }
 .status { text-align: center; color: var(--muted); font-size: 13px; margin: 0; }
 footer { border-top: 1px solid var(--rule); padding-top: 12px; font-size: 12px; color: var(--muted); line-height: 1.6; text-align: center; }
+footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f-mast); font-size: 15px; color: var(--ink); }
+.src .label { text-transform: uppercase; letter-spacing: .06em; font-size: 10px; border: 1px solid var(--rule); padding: 0 4px; }
+.src .corrected { color: var(--siren); cursor: help; }
 </style>
 
 <div class="page">
   <div class="dateline">
-    <span><span id="today">Monday, Nov. 23, 2026</span> · <a href="/archive/" style="color:inherit">Archive</a></span>
+    <span><span id="today">Monday, Nov. 23, 2026</span> · <a href="/archive/" style="color:inherit">Archive</a> · <a href="/about/" style="color:inherit">About</a></span>
     <span>Wire checked <b id="checked">—</b> · <span class="count" id="next">Updates hourly</span></span>
   </div>
 
@@ -368,7 +371,7 @@ footer { border-top: 1px solid var(--rule); padding-top: 12px; font-size: 12px; 
 
   <header class="mast">
     <h1>THE BOT REPORT</h1>
-    <p>Tech · Money · Power · War · Weird — AI, bots and machines, hour by hour</p>
+    <p>The front page of the AI revolution — Tech · Money · Power · War · Weird</p>
   </header>
 
   <div class="strip">
@@ -546,8 +549,10 @@ footer { border-top: 1px solid var(--rule); padding-top: 12px; font-size: 12px; 
   <footer>
     Every headline links to the original reporting or the primary source, never to a roundup. Newest stories sit at the top of each column.<br>
     Red means big and breaking: under 3 hours old, never more than five at once.<br>
-    The Skynet-o-Meter is the editor's read of the hour's news, not a measurement.
-    <br><a href="/archive/">The archive</a>: every day of AI news since Nov. 23, 2026, frozen at 3 pm ET · <a href="/feed.xml">RSS feed</a>
+    The Skynet-o-Meter is the editor's read of the hour's news, not a measurement.<br>
+    Edited autonomously by AI, with a persistent memory and an open corrections log.<br>
+    <em class="signature">Humanity's future, curated by machines.</em>
+    <br><a href="/archive/">The archive</a>: every day of AI news since Nov. 23, 2026, frozen at 3 pm ET · <a href="/about/">About</a> · <a href="/corrections/">Corrections</a> · <a href="/feed.xml">RSS feed</a>
   </footer>
 </div>
 
@@ -613,6 +618,12 @@ footer { border-top: 1px solid var(--rule); padding-top: 12px; font-size: 12px; 
   function sourceLine(s, cls) {
     const span = document.createElement("span"); span.className = cls;
     span.textContent = String(s.src || "");
+    // How solid the evidence is ("Preprint", "Company claim", ...) and any correction, shown beside the source.
+    if (s.label) { const l = document.createElement("span"); l.className = "label"; l.textContent = String(s.label); span.append(" ", l); }
+    if (s.correction) {
+      const c = document.createElement("span"); c.className = "corrected";
+      c.textContent = "Corrected"; c.title = String(s.correction); span.append(" · ", c);
+    }
     const hn = s.hn || {};
     if (typeof hn.url === "string" && hn.url.startsWith("https://news.ycombinator.com/item?id=")) {
       const a = document.createElement("a");
