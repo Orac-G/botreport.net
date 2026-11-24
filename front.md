@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Tuesday, November 24, 2026, 6:11 PM ET. Every headline links to the original reporting or primary source.
+Updated Tuesday, November 24, 2026, 6:32 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 

@@ -341,7 +341,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
 <div class="page">
   <div class="dateline">
     <span><span id="today">Tuesday, Nov. 24, 2026</span> · <a href="/archive/" style="color:inherit">Archive</a> · <a href="/about/" style="color:inherit">About</a></span>
-    <span>Wire checked <b id="checked">6:11 pm ET</b> · <span class="count" id="next">Updates hourly</span></span>
+    <span>Wire checked <b id="checked">6:32 pm ET</b> · <span class="count" id="next">Updates hourly</span></span>
   </div>
 
   <div class="alert" id="alert" hidden>
@@ -703,9 +703,12 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
       const measured = last ? last.getBoundingClientRect().bottom - cols[c].getBoundingClientRect().top : 0;
       return measured > 0 ? measured : state[c].est;
     };
+    // On the full page, stories keep the column the editor assigned ("col"), so they stay put between visits and
+    // new stories appear at the tops of the columns. Filtered views (a beat, "New for you") are dealt fresh.
+    const fixed = beat === "all" && units.length > 0 && units.every((u) => Number.isInteger(u[0].col) && u[0].col >= 0 && u[0].col < cols.length);
     units.forEach((u, i) => {
-      let c = i;
-      if (i >= cols.length) {
+      let c = fixed ? u[0].col : i;
+      if (!fixed && i >= cols.length) {
         const hs = cols.map((_, k) => height(k));
         c = hs.indexOf(Math.min(...hs));
       }

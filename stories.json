@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:11:31Z",
+ "updated": "2026-11-24T23:32:42Z",
  "stories": [
   {
    "id": "gpt6-proteins",
@@ -13,7 +13,8 @@
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50634658",
     "comments": 17
-   }
+   },
+   "col": 2
   },
   {
    "id": "ny-ai-toys",
@@ -32,7 +33,8 @@
     "alt": "New York Governor Kathy Hochul",
     "credit": "US Congress (Official Photo) / Public domain",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kathy_Hochul,_official_portrait,_112th_Congress_(cropped).jpg"
-   }
+   },
+   "col": 0
   },
   {
    "id": "too-dangerous",
@@ -79,7 +81,8 @@
    "h": "UK cyber agency warns of 'MARKED RISE' in AI-driven attacks...",
    "src": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
-   "t": "2026-11-24T18:14:00Z"
+   "t": "2026-11-24T18:14:00Z",
+   "col": 0
   },
   {
    "id": "nvda-hangover",
@@ -88,7 +91,8 @@
    "h": "HANGOVER: Nvidia slides the morning after its $1 TRILLION day...",
    "src": "CNBC",
    "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-   "t": "2026-11-24T15:11:00Z"
+   "t": "2026-11-24T15:11:00Z",
+   "col": 1
   },
   {
    "id": "bubble-popped",
@@ -96,7 +100,8 @@
    "h": "Krugman and co. declare the AI bubble POPPED... Wall Street isn't listening",
    "src": "Fortune",
    "url": "https://fortune.com/2026/11/23/ai-bubble-krugman-stoller-dean-baker-wall-street-recession-wealth-effect/",
-   "t": "2026-11-24T15:11:00Z"
+   "t": "2026-11-24T15:11:00Z",
+   "col": 0
   },
   {
    "id": "ec-ai-hack",
@@ -134,7 +139,8 @@
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50629620",
     "comments": 8
-   }
+   },
+   "col": 0
   },
   {
    "id": "trump-nvda-trades",
@@ -162,7 +168,8 @@
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50627836",
     "comments": 592
-   }
+   },
+   "col": 1
   },
   {
    "id": "megaspeed-blacklist",
@@ -176,7 +183,8 @@
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50630245",
     "comments": 63
-   }
+   },
+   "col": 0
   },
   {
    "id": "congress-fury",
@@ -186,7 +194,8 @@
    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
    "t": "2026-11-24T03:15:30Z",
    "shout": "Congress erupts",
-   "group": "huang"
+   "group": "huang",
+   "col": 0
   },
   {
    "id": "riemann",
@@ -201,7 +210,8 @@
     "alt": "1863 engraved portrait of mathematician Bernhard Riemann",
     "credit": "Smithsonian Institution / No restrictions",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Bernhard_Riemann_(1826-1866),_Mathematician_(2551069295).jpg"
-   }
+   },
+   "col": 2
   },
   {
    "id": "navier-stokes",
@@ -210,7 +220,8 @@
    "src": "Scientific American",
    "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/",
    "t": "2026-11-24T03:15:30Z",
-   "group": "science"
+   "group": "science",
+   "col": 2
   },
   {
    "id": "short-nvda-wipeout",
@@ -223,7 +234,8 @@
     "url": "https://news.ycombinator.com/item?id=50621127",
     "comments": 4
    },
-   "group": "markets"
+   "group": "markets",
+   "col": 1
   },
   {
    "id": "glm-54",
@@ -235,7 +247,8 @@
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50609685",
     "comments": 380
-   }
+   },
+   "col": 0
   },
   {
    "id": "nasdaq-rally",
@@ -251,7 +264,8 @@
     "credit": "ajay_suresh / CC BY 2.0",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg"
    },
-   "group": "markets"
+   "group": "markets",
+   "col": 1
   },
   {
    "id": "together-leak",
@@ -259,7 +273,8 @@
    "h": "AI coding agent LEAKS THE KEYS... hackers grab months of customer prompts",
    "src": "Together AI",
    "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-   "t": "2026-11-24T02:12:00Z"
+   "t": "2026-11-24T02:12:00Z",
+   "col": 2
   },
   {
    "id": "anthropic-20b",
@@ -267,7 +282,8 @@
    "h": "Meet Anthropic's 7 new mega-billionaires... about $20 BILLION each",
    "src": "CBS News",
    "url": "https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/",
-   "t": "2026-11-24T02:11:00Z"
+   "t": "2026-11-24T02:11:00Z",
+   "col": 2
   },
   {
    "id": "hilton-defiance",
@@ -282,7 +298,8 @@
     "credit": "Office of Rep. Greg Steube / Public domain",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Paris_Hilton_at_the_US_Capitol_(cropped).jpg"
    },
-   "group": "deepfakes"
+   "group": "deepfakes",
+   "col": 1
   },
   {
    "id": "openai-limits",
@@ -305,7 +322,8 @@
     "url": "https://news.ycombinator.com/item?id=50611576",
     "comments": 3687
    },
-   "group": "huang"
+   "group": "huang",
+   "col": 0
   },
   {
    "id": "nvda-1t",
@@ -315,7 +333,8 @@
    "src": "Yahoo Finance",
    "url": "https://finance.yahoo.com/technology/article/nvidia-reinstates-jensen-huang-as-ceo-stock-rockets-141145439.html",
    "t": "2026-11-24T01:10:00Z",
-   "group": "markets"
+   "group": "markets",
+   "col": 1
   },
   {
    "id": "trump-board",
@@ -324,7 +343,8 @@
    "src": "NBC",
    "url": "https://www.nbcwashington.com/news/national-international/nvidia-reinstates-jensen-huang-ceo/4186956/",
    "t": "2026-11-24T01:05:00Z",
-   "group": "huang"
+   "group": "huang",
+   "col": 0
   },
   {
    "id": "gta-lucia",
@@ -334,7 +354,8 @@
    "src": "Vice",
    "url": "https://www.vice.com/en/article/men-are-spending-thousands-on-ai-girlfriends-inspired-by-gta-6s-lucia-yes-seriously/",
    "t": "2026-11-24T00:50:00Z",
-   "group": "companions"
+   "group": "companions",
+   "col": 2
   },
   {
    "id": "grok-ags",
@@ -352,7 +373,8 @@
    "src": "Cybernews",
    "url": "https://cybernews.com/ai-news/apple-app-store-ai-companions/",
    "t": "2026-11-24T00:40:00Z",
-   "group": "companions"
+   "group": "companions",
+   "col": 2
   },
   {
    "id": "minecraft-gf",
@@ -361,7 +383,8 @@
    "src": "IBTimes",
    "url": "https://ibtimes.co.uk/ai-companionship-gaming-loneliness-concerns-1833812",
    "t": "2026-11-24T00:35:00Z",
-   "group": "companions"
+   "group": "companions",
+   "col": 2
   },
   {
    "id": "amzn-decart",
@@ -370,7 +393,8 @@
    "h": "Amazon drops $7.5 BILLION on Decart",
    "src": "CNBC",
    "url": "https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
-   "t": "2026-11-23T23:30:00Z"
+   "t": "2026-11-23T23:30:00Z",
+   "col": 2
   },
   {
    "id": "army-swarm",
@@ -379,7 +403,8 @@
    "src": "Zona Militar",
    "url": "https://zona-militar.com/en/2026/11/22/us-army-demonstrates-autonomous-drone-swarm-launched-from-unmanned-ground-vehicle-in-germany",
    "t": "2026-11-22T20:00:00Z",
-   "group": "military"
+   "group": "military",
+   "col": 0
   },
   {
    "id": "attack-plans",
@@ -388,7 +413,8 @@
    "h": "Feds tricked ALL FOUR top chatbots into writing attack plans...",
    "src": "GAO",
    "url": "https://gao.gov/products/gao-27-108814",
-   "t": "2026-11-19T18:00:00Z"
+   "t": "2026-11-19T18:00:00Z",
+   "col": 2
   },
   {
    "id": "gpt62",
@@ -397,7 +423,8 @@
    "src": "OpenAI",
    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
    "t": "2026-11-17T18:00:00Z",
-   "group": "openai"
+   "group": "openai",
+   "col": 2
   },
   {
    "id": "drones-50b",
@@ -406,7 +433,8 @@
    "src": "Army Recognition",
    "url": "https://www.armyrecognition.com/news/army-news/2026/u-s-plans-50-billion-push-to-build-millions-of-autonomous-weapons-and-attack-drones",
    "t": "2026-11-12T18:00:00Z",
-   "group": "military"
+   "group": "military",
+   "col": 0
   },
   {
    "id": "dec2-ban",
@@ -415,7 +443,8 @@
    "src": "Brussels Times",
    "url": "https://www.brusselstimes.com/2208963/eu-bans-ai-generated-sexual-deepfakes-as-high-risk-rules-face-delays",
    "t": "2026-11-10T18:00:00Z",
-   "group": "deepfakes"
+   "group": "deepfakes",
+   "col": 1
   },
   {
    "id": "awc",
@@ -424,7 +453,8 @@
    "src": "Arms Control Assn.",
    "url": "https://www.armscontrol.org/act/2026-11/news/dod-seeks-autonomous-warfare-command",
    "t": "2026-11-05T18:00:00Z",
-   "group": "military"
+   "group": "military",
+   "col": 0
   }
  ],
  "quote": {
