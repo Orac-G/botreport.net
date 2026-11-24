@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>The Bot Report</title>
+  <rect width="64" height="64" rx="12" fill="#111214"/>
+  <g stroke="#ff5a67" stroke-width="4" stroke-linecap="round">
+    <path d="M32 6V13M11 15L17 21M53 15L47 21M5 33H12M52 33H59"/>
+  </g>
+  <path d="M18 45V37a14 14 0 0 1 28 0V45Z" fill="#c8102e"/>
+  <path d="M24.5 37a8 8 0 0 1 6-7.5" stroke="#ffffff" stroke-width="3.2" fill="none" stroke-linecap="round" opacity=".9"/>
+  <rect x="12" y="45" width="40" height="8" rx="2" fill="#ecedef"/>
+</svg>
