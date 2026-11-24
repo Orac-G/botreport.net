@@ -1,0 +1,43 @@
+# External accessibility check for botreport.net, run from GitHub's network (not the publishing machine).
+# Fetches the key pages as each major search/AI crawler would; the run fails (and GitHub emails the repo owner)
+# if any page doesn't return 200, if the headlines are missing from the raw HTML, or if robots.txt blocks crawlers.
+name: Access check
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch as each crawler
+        shell: bash
+        run: |
+          set -u
+          fail=0
+          declare -a UAS=(
+            "GPTBot|Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; GPTBot/1.4; +https://openai.com/gptbot"
+            "OAI-SearchBot|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.4; +https://openai.com/searchbot"
+            "ChatGPT-User|Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot"
+            "ClaudeBot|Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)"
+            "Claude-User|Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-User/1.0; +Claude-User@anthropic.com)"
+            "Googlebot|Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+            "Bingbot|Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36"
+            "PerplexityBot|Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)"
+          )
+          for e in "${UAS[@]}"; do
+            name=${e%%|*}; ua=${e#*|}; row="$name:"
+            for p in / /about/ /robots.txt /sitemap.xml /llms.txt /front.md /feed.xml /archive/; do
+              c=$(curl -s -o /dev/null -w "%{http_code}" -A "$ua" --max-time 20 "https://botreport.net$p")
+              row="$row $p=$c"; [ "$c" = "200" ] || fail=1
+            done
+            echo "$row"
+          done
+          home=$(curl -s --max-time 20 https://botreport.net/)
+          n=$(grep -o '<li><a href' <<<"$home" | wc -l)
+          echo "Headline links in raw HTML: $n"; [ "$n" -ge 10 ] || fail=1
+          if curl -s https://botreport.net/robots.txt | grep -qiE '^disallow:\s*/\s*$'; then echo "robots.txt blocks everything"; fail=1; fi
+          echo "TLS expiry: $(echo | openssl s_client -connect botreport.net:443 -servername botreport.net 2>/dev/null | openssl x509 -noout -enddate)"
+          exit $fail
