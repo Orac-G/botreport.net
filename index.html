@@ -75,6 +75,8 @@ a.red, a.red:visited { color: var(--siren); }
   background: var(--siren); color: var(--bg); border: 0; padding: 7px 10px; cursor: pointer;
 }
 @keyframes blink { to { visibility: hidden; } }
+/* Anything marked hidden stays hidden, even when its class sets a display (e.g. the flex alert bar). */
+[hidden] { display: none !important; }
 
 .top { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
 .top a { font-size: 16px; font-weight: 700; text-transform: uppercase; }
