@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-24T21:10:55Z",
+ "updated": "2026-11-24T22:11:24Z",
  "stories": [
+  {
+   "id": "ny-ai-toys",
+   "cat": "politics",
+   "red": true,
+   "h": "New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping",
+   "src": "Office of the Governor of New York",
+   "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
+   "t": "2026-11-24T22:11:23Z",
+   "hn": {
+    "url": "https://news.ycombinator.com/item?id=50635246",
+    "comments": 0
+   },
+   "img": {
+    "src": "img/hochul.jpg",
+    "alt": "New York Governor Kathy Hochul",
+    "credit": "US Congress (Official Photo) / Public domain",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kathy_Hochul,_official_portrait,_112th_Congress_(cropped).jpg"
+   }
+  },
   {
    "id": "too-dangerous",
    "cat": "tech",
@@ -128,7 +147,7 @@
    "t": "2026-11-24T12:17:17Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 496
+    "comments": 555
    }
   },
   {
@@ -142,7 +161,7 @@
    "url": "https://www.yahoo.com/news/politics/articles/us-blacklists-megaspeed-over-suspected-010342870.html",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50630245",
-    "comments": 59
+    "comments": 62
    }
   },
   {
@@ -270,7 +289,7 @@
    "t": "2026-11-24T01:15:00Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3656
+    "comments": 3674
    },
    "group": "huang"
   },
@@ -404,45 +423,46 @@
   "level": 3,
   "label": "FEVERISH",
   "why": "Washington blacklisted Jensen's China-linked chip buyer the same day it brought him back, and Congress wants answers.",
-  "score": 54,
-  "delta": -3,
+  "score": 56,
+  "delta": 2,
   "moves": [
    {
-    "d": -1,
-    "why": "Nvidia brings Jensen BACK as CEO two weeks after he quit... Trump s...",
-    "id": "huang-back"
+    "d": 6,
+    "why": "New York BANS AI chatbot toys for FIVE YEARS... just in time for ho...",
+    "id": "ny-ai-toys"
    }
   ],
   "contrib": {
-   "too-dangerous": 9.0,
-   "tegmark-takeover": 3.0,
+   "ny-ai-toys": 6.0,
+   "too-dangerous": 8.6,
+   "tegmark-takeover": 2.9,
    "uk-ai-hacks": 1.0,
-   "nvda-hangover": 0.9,
-   "bubble-popped": 0.9,
+   "nvda-hangover": 0.8,
+   "bubble-popped": 0.8,
    "ec-ai-hack": 0.8,
-   "nk-chatbot": 2.5,
+   "nk-chatbot": 2.3,
    "nvda-board-doubts": 0.9,
-   "trump-nvda-trades": 0.8,
-   "ant-below-ipo": 4.3,
-   "megaspeed-blacklist": 2.0,
-   "congress-fury": 0.3,
-   "riemann": 2.8,
-   "navier-stokes": 0.3,
-   "short-nvda-wipeout": 0.3,
-   "glm-54": 0.3,
-   "nasdaq-rally": 1.4,
+   "trump-nvda-trades": 0.7,
+   "ant-below-ipo": 4.0,
+   "megaspeed-blacklist": 1.7,
+   "congress-fury": 0.2,
+   "riemann": 2.7,
+   "navier-stokes": 0.2,
+   "short-nvda-wipeout": 0.2,
+   "glm-54": 0.2,
+   "nasdaq-rally": 1.2,
    "together-leak": 0.2,
    "anthropic-20b": 0.2,
    "hilton-defiance": 0.2,
    "openai-limits": 0.2,
-   "huang-back": 1.7,
-   "nvda-1t": 1.1,
-   "trump-board": 0.2,
-   "gta-lucia": 1.4,
-   "grok-ags": 0.2,
-   "apple-18": 0.5,
-   "minecraft-gf": 0.5,
-   "amzn-decart": 0.7
+   "huang-back": 1.3,
+   "nvda-1t": 0.9,
+   "trump-board": 0.1,
+   "gta-lucia": 1.0,
+   "grok-ags": 0.1,
+   "apple-18": 0.4,
+   "minecraft-gf": 0.3,
+   "amzn-decart": 0.4
   },
   "lastAdjust": 0,
   "history": [
@@ -573,9 +593,13 @@
    {
     "t": "2026-11-24T21:10:55Z",
     "s": 54
+   },
+   {
+    "t": "2026-11-24T22:11:24Z",
+    "s": 56
    }
   ],
-  "at": "2026-11-24T21:10:55Z"
+  "at": "2026-11-24T22:11:24Z"
  },
  "state": {
   "models": {
@@ -725,24 +749,24 @@
    ]
   },
   "crypto": {
-   "asOf": "4:10 pm ET",
+   "asOf": "5:11 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59720.0,
-     "chg": -2.56
+     "price": 59886.0,
+     "chg": -2.14
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1673.2,
-     "chg": -2.98
+     "price": 1681.18,
+     "chg": -2.18
     }
    ]
   }
  },
- "next": "2026-11-24T22:11:00Z"
+ "next": "2026-11-24T23:11:00Z"
 }
