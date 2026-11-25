@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T21:15:31Z",
- "nextUpdate": "2026-11-25T22:18:00Z",
+ "updated": "2026-11-25T22:13:40Z",
+ "nextUpdate": "2026-11-25T23:18:00Z",
  "lead": [
   {
    "headline": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...: Nasdaq, down 4.6% at its low, ends off just 0.6%... traders cite thin pre-Thanksgiving trading and a Michael Burry post saying he's almost entirely long",
@@ -45,6 +45,27 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...",
+   "source": "The Record",
+   "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+   "found": "2026-11-25T22:11:59Z",
+   "section": "tech"
+  },
+  {
+   "headline": "JPMorgan sees a $450 BILLION AI debt blitz in 2027... before a plateau",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau",
+   "found": "2026-11-25T22:11:59Z",
+   "section": "business"
+  },
+  {
+   "headline": "Man TRAPPED Waymo robotaxis with orange cones in Denver... then PELTED them with eggs, police say",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+   "found": "2026-11-25T22:11:59Z",
+   "section": "quirky"
+  },
   {
    "headline": "That viral '$300 MILLION' Nvidia insider-trading score? Three data firms find NO trading records to back it...",
    "source": "New York Times",
@@ -293,13 +314,6 @@
    }
   },
   {
-   "headline": "UK cyber agency warns of 'MARKED RISE' in AI-driven attacks...",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
-   "found": "2026-11-24T18:14:00Z",
-   "section": "tech"
-  },
-  {
    "headline": "Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE",
    "source": "Scientific American",
    "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
@@ -316,13 +330,6 @@
     "url": "https://news.ycombinator.com/item?id=50629620",
     "comments": 8
    }
-  },
-  {
-   "headline": "Krugman and co. declare the AI bubble POPPED... Wall Street isn't listening",
-   "source": "Fortune",
-   "url": "https://fortune.com/2026/11/23/ai-bubble-krugman-stoller-dean-baker-wall-street-recession-wealth-effect/",
-   "found": "2026-11-24T15:11:00Z",
-   "section": "business"
   },
   {
    "headline": "Hackers used AI to raid the European Commission... and got away with personal data",
@@ -409,13 +416,6 @@
    "url": "https://opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue",
    "found": "2026-11-24T00:45:00Z",
    "section": "politics"
-  },
-  {
-   "headline": "Apple slaps ADULTS ONLY label on AI girlfriends...",
-   "source": "Cybernews",
-   "url": "https://cybernews.com/ai-news/apple-app-store-ai-companions/",
-   "found": "2026-11-24T00:40:00Z",
-   "section": "quirky"
   }
  ],
  "quoteOfTheDay": {
@@ -424,7 +424,7 @@
   "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
  },
  "skynetOMeter": {
-  "score": 57,
+  "score": 60,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

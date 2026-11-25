@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:15:31Z",
+ "updated": "2026-11-25T22:13:40Z",
  "stories": [
   {
    "id": "dow-rebound",
@@ -24,6 +24,38 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg"
    },
    "card": "Dow wipes out a 1,100-point AI rout, closes higher"
+  },
+  {
+   "id": "artex-typhoon",
+   "cat": "tech",
+   "red": true,
+   "group": "hacks",
+   "saga": "hacks",
+   "h": "Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...",
+   "src": "The Record",
+   "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+   "t": "2026-11-25T22:11:59Z",
+   "col": 0,
+   "card": "Microsoft: Chinese hackers' AI tool takes networks in minutes"
+  },
+  {
+   "id": "jpm-ai-debt",
+   "cat": "business",
+   "h": "JPMorgan sees a $450 BILLION AI debt blitz in 2027... before a plateau",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau",
+   "t": "2026-11-25T22:11:59Z",
+   "col": 2
+  },
+  {
+   "id": "waymo-eggs",
+   "cat": "quirky",
+   "h": "Man TRAPPED Waymo robotaxis with orange cones in Denver... then PELTED them with eggs, police say",
+   "src": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+   "t": "2026-11-25T22:11:59Z",
+   "col": 2,
+   "card": "Denver man traps Waymos with cones, pelts them with eggs: police"
   },
   {
    "id": "nvda-rumor-bust",
@@ -471,25 +503,6 @@
    "col": 1
   },
   {
-   "id": "uk-ai-hacks",
-   "cat": "tech",
-   "group": "hacks",
-   "h": "UK cyber agency warns of 'MARKED RISE' in AI-driven attacks...",
-   "src": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
-   "t": "2026-11-24T18:14:00Z",
-   "col": 0
-  },
-  {
-   "id": "bubble-popped",
-   "cat": "business",
-   "h": "Krugman and co. declare the AI bubble POPPED... Wall Street isn't listening",
-   "src": "Fortune",
-   "url": "https://fortune.com/2026/11/23/ai-bubble-krugman-stoller-dean-baker-wall-street-recession-wealth-effect/",
-   "t": "2026-11-24T15:11:00Z",
-   "col": 2
-  },
-  {
    "id": "ec-ai-hack",
    "cat": "tech",
    "h": "Hackers used AI to raid the European Commission... and got away with personal data",
@@ -631,16 +644,6 @@
    "url": "https://opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue",
    "t": "2026-11-24T00:45:00Z",
    "col": 2
-  },
-  {
-   "id": "apple-18",
-   "cat": "quirky",
-   "h": "Apple slaps ADULTS ONLY label on AI girlfriends...",
-   "src": "Cybernews",
-   "url": "https://cybernews.com/ai-news/apple-app-store-ai-companions/",
-   "t": "2026-11-24T00:40:00Z",
-   "group": "companions",
-   "col": 1
   }
  ],
  "quote": {
@@ -650,46 +653,48 @@
   "day": "2026-11-25"
  },
  "meter": {
-  "level": 3,
-  "score": 57,
-  "delta": -1,
+  "level": 4,
+  "score": 60,
+  "delta": 3,
   "moves": [
    {
-    "d": 10,
-    "why": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes H...",
-    "id": "dow-rebound"
+    "d": 6,
+    "why": "Microsoft: China's SALT TYPHOON hackers now wield AI attack tool th...",
+    "id": "artex-typhoon"
    },
    {
-    "d": -4,
-    "why": "MORNING BEAR-MARKET SCARE",
-    "id": "nasdaq-bear"
+    "d": 3,
+    "why": "Man TRAPPED Waymo robotaxis with orange cones in Denver... then PEL...",
+    "id": "waymo-eggs"
    },
    {
-    "d": -2,
-    "why": "Older story dropped off the page",
-    "id": "nasdaq-open"
+    "d": -1,
+    "why": "42 state AGs fight Character.ai plan to AUCTION private chats from...",
+    "id": "cai-auction"
    }
   ],
   "contrib": {
-   "dow-rebound": 10.0,
-   "nasdaq-bear": 1.8,
-   "nvda-sp-watch": 6.0,
-   "huang-spy-brief": 1.2,
+   "dow-rebound": 9.5,
+   "nasdaq-bear": 1.4,
+   "artex-typhoon": 6.3,
+   "agent-attacks": 0.5,
+   "jpm-ai-debt": 1.1,
+   "waymo-eggs": 3.2,
+   "nvda-sp-watch": 5.2,
+   "huang-spy-brief": 0.9,
    "nvda-rumor-bust": 0.3,
-   "vance-no-probe": 0.3,
+   "vance-no-probe": 0.2,
    "credit-fear": 0.2,
    "dems-red-lights": 1.1,
-   "agent-attacks": 1.1,
-   "amodei-free-will": 1.0,
-   "anthropic-agency": 0.3,
-   "spacex-starmind": 5.4,
-   "cai-auction": 7.3,
-   "talkie-pulled": 0.6,
-   "dc-loans": 4.2,
-   "ai-targets": 2.8,
-   "motson-ai": 2.1,
-   "amzn-meta-muse": 0.3,
-   "deloitte-wa": 0.9
+   "amodei-free-will": 0.9,
+   "spacex-starmind": 4.6,
+   "cai-auction": 6.1,
+   "talkie-pulled": 0.4,
+   "dc-loans": 3.4,
+   "ai-targets": 2.3,
+   "motson-ai": 1.7,
+   "amzn-meta-muse": 0.2,
+   "deloitte-wa": 0.6
   },
   "lastAdjust": 0,
   "history": [
@@ -896,13 +901,17 @@
    {
     "t": "2026-11-25T21:14:52Z",
     "s": 57
+   },
+   {
+    "t": "2026-11-25T22:13:31Z",
+    "s": 60
    }
   ],
-  "at": "2026-11-25T21:14:52Z",
+  "at": "2026-11-25T22:13:31Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -1,
+   "delta": 3,
    "period": "since last reading",
    "line": [
     {
@@ -936,39 +945,49 @@
     {
      "t": "2026-11-25T21:14:52Z",
      "s": 57
+    },
+    {
+     "t": "2026-11-25T22:13:31Z",
+     "s": 60
     }
    ],
    "drivers": [
     {
-     "d": 10,
-     "id": "dow-rebound",
-     "text": "Dow wipes out a 1,100-point AI rout, closes higher"
+     "d": 6,
+     "id": "artex-typhoon",
+     "text": "Microsoft: Chinese hackers' AI tool takes networks in minutes"
     },
     {
-     "d": -11,
+     "d": 3,
+     "id": "waymo-eggs",
+     "text": "Denver man traps Waymos with cones, pelts them with eggs: police"
+    },
+    {
+     "d": -6,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "ai-targets": -0.4,
-   "amodei-free-will": 0.5,
+   "agent-attacks": -0.6,
+   "ai-targets": -0.5,
+   "amodei-free-will": -0.1,
    "amzn-meta-muse": -0.1,
-   "ant-premarket": -1.8,
-   "anthropic-agency": -0.9,
-   "cai-auction": -0.7,
-   "dc-loans": -0.6,
+   "anthropic-agency": -0.3,
+   "artex-typhoon": 6.3,
+   "cai-auction": -1.2,
+   "dc-loans": -0.8,
    "deloitte-wa": -0.3,
-   "dems-red-lights": 1.1,
-   "dow-rebound": 10.0,
-   "huang-spy-brief": 0.4,
-   "motson-ai": -0.3,
-   "nasdaq-bear": -4.5,
-   "nasdaq-open": -2.1,
-   "nvda-rumor-bust": 0.3,
-   "nvda-sp-watch": -0.6,
-   "spacex-starmind": -0.6,
-   "talkie-pulled": -0.2
+   "dow-rebound": -0.5,
+   "huang-spy-brief": -0.3,
+   "jpm-ai-debt": 1.1,
+   "motson-ai": -0.4,
+   "nasdaq-bear": -0.4,
+   "nvda-sp-watch": -0.8,
+   "spacex-starmind": -0.8,
+   "talkie-pulled": -0.2,
+   "vance-no-probe": -0.1,
+   "waymo-eggs": 3.2
   }
  },
  "state": {
@@ -1119,24 +1138,24 @@
    ]
   },
   "crypto": {
-   "asOf": "4:14 pm ET",
+   "asOf": "5:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60143.0,
-     "chg": 0.77
+     "price": 60079.0,
+     "chg": 0.31
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1684.99,
-     "chg": 0.75
+     "price": 1682.87,
+     "chg": 0.1
     }
    ]
   }
  },
- "next": "2026-11-25T22:18:00Z"
+ "next": "2026-11-25T23:18:00Z"
 }

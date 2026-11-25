@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Wednesday, November 25, 2026, 4:15 PM ET. Every headline links to the original reporting or primary source.
+Updated Wednesday, November 25, 2026, 5:13 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,9 @@ Updated Wednesday, November 25, 2026, 4:15 PM ET. Every headline links to the or
 
 ## All stories (newest first)
 
+- [Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool) (The Record)
+- [JPMorgan sees a $450 BILLION AI debt blitz in 2027... before a plateau](https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau) (Bloomberg)
+- [Man TRAPPED Waymo robotaxis with orange cones in Denver... then PELTED them with eggs, police say](https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html) (New York Times)
 - [That viral '$300 MILLION' Nvidia insider-trading score? Three data firms find NO trading records to back it...](https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html) (New York Times)
 - ['The flashing red lights couldn't be BRIGHTER': Democrats demand new AI curbs after lab staff fear their own models...](https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios) (Axios)
 - [Vance says AG Blanche ASSURED him Jensen was 'under NO investigation'... blames 'anonymous sources'](https://thehill.com/homenews/administration/6243432-vance-huang-nvidia-investigation/) (The Hill)
@@ -49,10 +52,8 @@ Updated Wednesday, November 25, 2026, 4:15 PM ET. Every headline links to the or
 - [New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping](https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot) (Office of the Governor of New York)
 - [Anthropic and OpenAI staff fear their new models are TOO DANGEROUS to release...](https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks) (Axios)
 - [MIT's Tegmark claims Anthropic staff talk of 'TAKING OVER THE WORLD' after a few drinks...](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/) (Novara Media)
-- [UK cyber agency warns of 'MARKED RISE' in AI-driven attacks...](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security) (TechCrunch)
 - [Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE](https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/) (Scientific American)
 - [Critics: Nvidia board's Huang U-TURN raises doubts it's really independent...](https://www.reuters.com/legal/transactional/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-2026-11-24/) (Reuters)
-- [Krugman and co. declare the AI bubble POPPED... Wall Street isn't listening](https://fortune.com/2026/11/23/ai-bubble-krugman-stoller-dean-baker-wall-street-recession-wealth-effect/) (Fortune)
 - [Hackers used AI to raid the European Commission... and got away with personal data](https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834) (The Register)
 - [Trump bought Nvidia 28 TIMES this year... up to $16.7 MILLION, disclosures show](https://www.kadoa.com/congress/insights/trump-nvidia) (Kadoa)
 - [Anthropic SINKS BELOW its $83 IPO price... debut rally unravels](https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/) (Bloomberg)
@@ -63,13 +64,12 @@ Updated Wednesday, November 25, 2026, 4:15 PM ET. Every headline links to the or
 - [Nvidia brings Jensen BACK as CEO two weeks after he quit... Trump says he made the call](https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia) (CNN)
 - [Men blow THOUSANDS on AI girlfriends modeled on GTA 6 heroine...](https://www.vice.com/en/article/men-are-spending-thousands-on-ai-girlfriends-inspired-by-gta-6s-lucia-yes-seriously/) (Vice)
 - [States sue Musk companies over Grok's SEX DEEPFAKES](https://opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue) (OPB)
-- [Apple slaps ADULTS ONLY label on AI girlfriends...](https://cybernews.com/ai-news/apple-app-store-ai-companions/) (Cybernews)
 
 ## Quote of the Day
 
 > “What the market is telling you is that the AI growth narrative has hit a wall and given the centrality of that theme at the economic level, the market is expecting some sort of a macro shock.”
 > — Venu Krishna, head of U.S. equity strategy at Barclays, on the AI sell-off that hit Nvidia ([source](https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html))
 
-Skynet-o-Meter: 57 out of 100.
+Skynet-o-Meter: 60 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml
