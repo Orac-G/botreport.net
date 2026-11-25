@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T22:13:40Z",
- "nextUpdate": "2026-11-25T23:18:00Z",
+ "updated": "2026-11-25T23:14:06Z",
+ "nextUpdate": "2026-11-26T00:18:00Z",
  "lead": [
   {
    "headline": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...: Nasdaq, down 4.6% at its low, ends off just 0.6%... traders cite thin pre-Thanksgiving trading and a Michael Burry post saying he's almost entirely long",
@@ -15,6 +15,13 @@
   }
  ],
  "topLinks": [
+  {
+   "headline": "Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...",
+   "source": "Washington Post",
+   "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/",
+   "found": "2026-11-25T23:11:56Z",
+   "section": "politics"
+  },
   {
    "headline": "FCC clears Musk's SpaceX to launch up to ONE MILLION satellites... for AI DATA CENTERS IN ORBIT",
    "source": "Bloomberg",
@@ -28,13 +35,6 @@
    "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
    "found": "2026-11-25T16:12:50Z",
    "section": "business"
-  },
-  {
-   "headline": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
-   "found": "2026-11-25T13:16:00Z",
-   "section": "politics"
   },
   {
    "headline": "Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...",
@@ -143,6 +143,13 @@
    "url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams",
    "found": "2026-11-25T15:12:49Z",
    "section": "business"
+  },
+  {
+   "headline": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
+   "found": "2026-11-25T13:16:00Z",
+   "section": "politics"
   },
   {
    "headline": "Amazon and Meta talk TRUCE in AI shopping-bot war... Zuck and Jassy must sign off, sources say",
@@ -424,7 +431,7 @@
   "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
  },
  "skynetOMeter": {
-  "score": 60,
+  "score": 59,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

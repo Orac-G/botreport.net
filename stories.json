@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:13:40Z",
+ "updated": "2026-11-25T23:14:06Z",
  "stories": [
   {
    "id": "dow-rebound",
@@ -24,6 +24,18 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg"
    },
    "card": "Dow wipes out a 1,100-point AI rout, closes higher"
+  },
+  {
+   "id": "hegseth-dpa",
+   "cat": "politics",
+   "red": true,
+   "top": true,
+   "h": "Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...",
+   "src": "Washington Post",
+   "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/",
+   "t": "2026-11-25T23:11:56Z",
+   "group": "huang-probe",
+   "card": "WaPo: Pentagon floated WARTIME LAW to reinstate Jensen"
   },
   {
    "id": "artex-typhoon",
@@ -225,7 +237,7 @@
    "saga": "huang",
    "sub": "FBI, CIA and ODNI briefers found no evidence China ordered the affair... but didn't dispute she passed intel to its spy agency once it began, NYT says",
    "card": "NYT: Jensen lover's husband the 'more significant' China asset",
-   "top": true
+   "col": 1
   },
   {
    "id": "talkie-pulled",
@@ -653,19 +665,19 @@
   "day": "2026-11-25"
  },
  "meter": {
-  "level": 4,
-  "score": 60,
-  "delta": 3,
+  "level": 3,
+  "score": 59,
+  "delta": -1,
   "moves": [
    {
     "d": 6,
-    "why": "Microsoft: China's SALT TYPHOON hackers now wield AI attack tool th...",
-    "id": "artex-typhoon"
+    "why": "Hegseth and Pentagon officials floated a WARTIME LAW to reinstate J...",
+    "id": "hegseth-dpa"
    },
    {
-    "d": 3,
-    "why": "Man TRAPPED Waymo robotaxis with orange cones in Denver... then PEL...",
-    "id": "waymo-eggs"
+    "d": -3,
+    "why": "S&P EYES NVIDIA DOWNGRADE",
+    "id": "nvda-sp-watch"
    },
    {
     "d": -1,
@@ -674,27 +686,28 @@
    }
   ],
   "contrib": {
-   "dow-rebound": 9.5,
-   "nasdaq-bear": 1.4,
-   "artex-typhoon": 6.3,
-   "agent-attacks": 0.5,
+   "dow-rebound": 8.8,
+   "nasdaq-bear": 1.2,
+   "hegseth-dpa": 6.4,
+   "nvda-sp-watch": 2.3,
+   "huang-spy-brief": 0.3,
+   "nvda-rumor-bust": 0.2,
+   "vance-no-probe": 0.2,
+   "credit-fear": 0.1,
+   "artex-typhoon": 6.4,
+   "agent-attacks": 0.4,
    "jpm-ai-debt": 1.1,
    "waymo-eggs": 3.2,
-   "nvda-sp-watch": 5.2,
-   "huang-spy-brief": 0.9,
-   "nvda-rumor-bust": 0.3,
-   "vance-no-probe": 0.2,
-   "credit-fear": 0.2,
-   "dems-red-lights": 1.1,
-   "amodei-free-will": 0.9,
-   "spacex-starmind": 4.6,
-   "cai-auction": 6.1,
-   "talkie-pulled": 0.4,
-   "dc-loans": 3.4,
-   "ai-targets": 2.3,
-   "motson-ai": 1.7,
-   "amzn-meta-muse": 0.2,
-   "deloitte-wa": 0.6
+   "dems-red-lights": 1.0,
+   "amodei-free-will": 0.8,
+   "spacex-starmind": 4.1,
+   "cai-auction": 5.4,
+   "talkie-pulled": 0.3,
+   "dc-loans": 2.9,
+   "ai-targets": 1.9,
+   "motson-ai": 1.5,
+   "amzn-meta-muse": 0.1,
+   "deloitte-wa": 0.3
   },
   "lastAdjust": 0,
   "history": [
@@ -905,13 +918,17 @@
    {
     "t": "2026-11-25T22:13:31Z",
     "s": 60
+   },
+   {
+    "t": "2026-11-25T23:14:02Z",
+    "s": 59
    }
   ],
-  "at": "2026-11-25T22:13:31Z",
+  "at": "2026-11-25T23:14:02Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 3,
+   "delta": -1,
    "period": "since last reading",
    "line": [
     {
@@ -949,45 +966,44 @@
     {
      "t": "2026-11-25T22:13:31Z",
      "s": 60
+    },
+    {
+     "t": "2026-11-25T23:14:02Z",
+     "s": 59
     }
    ],
    "drivers": [
     {
      "d": 6,
-     "id": "artex-typhoon",
-     "text": "Microsoft: Chinese hackers' AI tool takes networks in minutes"
+     "id": "hegseth-dpa",
+     "text": "WaPo: Pentagon floated WARTIME LAW to reinstate Jensen"
     },
     {
-     "d": 3,
-     "id": "waymo-eggs",
-     "text": "Denver man traps Waymos with cones, pelts them with eggs: police"
-    },
-    {
-     "d": -6,
+     "d": -7,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "agent-attacks": -0.6,
-   "ai-targets": -0.5,
+   "agent-attacks": -0.1,
+   "ai-targets": -0.4,
    "amodei-free-will": -0.1,
    "amzn-meta-muse": -0.1,
-   "anthropic-agency": -0.3,
-   "artex-typhoon": 6.3,
-   "cai-auction": -1.2,
-   "dc-loans": -0.8,
+   "artex-typhoon": 0.1,
+   "cai-auction": -0.7,
+   "credit-fear": -0.1,
+   "dc-loans": -0.5,
    "deloitte-wa": -0.3,
-   "dow-rebound": -0.5,
-   "huang-spy-brief": -0.3,
-   "jpm-ai-debt": 1.1,
-   "motson-ai": -0.4,
-   "nasdaq-bear": -0.4,
-   "nvda-sp-watch": -0.8,
-   "spacex-starmind": -0.8,
-   "talkie-pulled": -0.2,
-   "vance-no-probe": -0.1,
-   "waymo-eggs": 3.2
+   "dems-red-lights": -0.1,
+   "dow-rebound": -0.7,
+   "hegseth-dpa": 6.4,
+   "huang-spy-brief": -0.6,
+   "motson-ai": -0.2,
+   "nasdaq-bear": -0.2,
+   "nvda-rumor-bust": -0.1,
+   "nvda-sp-watch": -2.9,
+   "spacex-starmind": -0.5,
+   "talkie-pulled": -0.1
   }
  },
  "state": {
@@ -1057,18 +1073,6 @@
      "name": "Nebius",
      "price": 84.99,
      "chg": -2.64
-    },
-    {
-     "sym": "PLTR",
-     "name": "Palantir",
-     "price": 163.59,
-     "chg": 1.5
-    },
-    {
-     "sym": "NASDAQ",
-     "name": "Composite",
-     "price": 23585.8,
-     "chg": -0.62
     }
    ]
   },
@@ -1138,24 +1142,24 @@
    ]
   },
   "crypto": {
-   "asOf": "5:13 pm ET",
+   "asOf": "6:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60079.0,
-     "chg": 0.31
+     "price": 60089.0,
+     "chg": 0.33
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1682.87,
-     "chg": 0.1
+     "price": 1684.34,
+     "chg": 0.28
     }
    ]
   }
  },
- "next": "2026-11-25T23:18:00Z"
+ "next": "2026-11-26T00:18:00Z"
 }
