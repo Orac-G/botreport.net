@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-25T02:17:40Z",
+ "updated": "2026-11-25T03:13:57Z",
  "stories": [
+  {
+   "id": "asia-rout",
+   "cat": "business",
+   "top": true,
+   "red": true,
+   "h": "SoftBank PLUNGES 14% as AI sell-off rips through Asia's chip giants...",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+   "t": "2026-11-25T03:11:46Z"
+  },
+  {
+   "id": "tidal-ban",
+   "cat": "quirky",
+   "h": "Tidal BANS fully AI-made music... and expects to DELETE 29 MILLION+ tracks",
+   "src": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "t": "2026-11-25T03:11:46Z",
+   "col": 0
+  },
   {
    "id": "trump-pardon",
    "cat": "politics",
@@ -19,18 +38,19 @@
    "img": {
     "src": "img/huang.jpg",
     "alt": "Nvidia CEO Jensen Huang at Stanford University",
-    "credit": "Anders Eidesvik / CC BY-SA 4.0",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg"
+    "credit": "Anders Eidesvik / CC BY 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_005.jpg"
    }
   },
   {
    "id": "huang-therapy",
    "cat": "business",
-   "h": "Jensen tells Nvidia staff 'I HURT ALL OF YOU'... says he's in therapy, people present say",
+   "h": "Jensen tells Nvidia staff 'I HURT ALL OF YOU'... says he's in therapy, says one person in the room",
    "shout": "JENSEN: 'I HURT ALL OF YOU'",
    "src": "CNBC",
    "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-   "t": "2026-11-25T02:17:13Z"
+   "t": "2026-11-25T02:17:13Z",
+   "correction": "An earlier headline attributed the therapy remark to several people present; CNBC cites one."
   },
   {
    "id": "trump-stake",
@@ -45,11 +65,12 @@
    "id": "doj-diversion",
    "cat": "politics",
    "red": true,
-   "h": "NYT: Justice Dept. investigators gather evidence Nvidia chips were ILLEGALLY DIVERTED to China...",
-   "shout": "DOJ PROBES CHIP DIVERSION",
+   "h": "NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...",
+   "shout": "DOJ PROBES CHIP DIVERSION BY OTHERS",
    "src": "New York Times",
    "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
-   "t": "2026-11-25T02:17:13Z"
+   "t": "2026-11-25T02:17:13Z",
+   "correction": "An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries."
   },
   {
    "id": "alfozan-bail",
@@ -83,9 +104,9 @@
    "t": "2026-11-24T23:11:30Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50634658",
-    "comments": 44
+    "comments": 55
    },
-   "col": 2
+   "top": true
   },
   {
    "id": "ny-ai-toys",
@@ -188,7 +209,7 @@
     "credit": "Bjørn Christian Tørrissen / CC BY-SA 3.0",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Grand-Peoples-Study-House-Computer-Lab.jpg"
    },
-   "top": true
+   "col": 2
   },
   {
    "id": "nvda-board-doubts",
@@ -229,9 +250,9 @@
    "t": "2026-11-24T12:17:17Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 694
+    "comments": 703
    },
-   "top": true
+   "col": 1
   },
   {
    "id": "megaspeed-blacklist",
@@ -354,12 +375,6 @@
    "src": "CNBC",
    "url": "https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html",
    "t": "2026-11-24T02:10:00Z",
-   "img": {
-    "src": "img/hilton.jpg",
-    "alt": "Paris Hilton at the U.S. Capitol",
-    "credit": "Office of Rep. Greg Steube / Public domain",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Paris_Hilton_at_the_US_Capitol_(cropped).jpg"
-   },
    "group": "deepfakes",
    "col": 2
   },
@@ -470,26 +485,23 @@
   "level": 4,
   "label": "FEVERISH",
   "why": "Trump floats a pardon for Jensen as the DOJ digs into Nvidia chips diverted to China, and lab staff say their own models are too dangerous to release.",
-  "score": 69,
-  "delta": 18,
+  "score": 76,
+  "delta": 7,
   "moves": [
    {
-    "d": 9,
-    "why": "TRUMP: A PARDON FOR JENSEN IS 'ALWAYS AN OPTION'",
-    "id": "trump-pardon"
+    "d": 6,
+    "why": "SoftBank PLUNGES 14% as AI sell-off rips through Asia's chip giants...",
+    "id": "asia-rout"
    },
    {
-    "d": 6,
-    "why": "Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLI...",
-    "id": "alfozan-bail"
-   },
-   {
-    "d": 6,
-    "why": "DOJ PROBES CHIP DIVERSION",
-    "id": "doj-diversion"
+    "d": 3,
+    "why": "Tidal BANS fully AI-made music... and expects to DELETE 29 MILLION+...",
+    "id": "tidal-ban"
    }
   ],
   "contrib": {
+   "asia-rout": 6.0,
+   "tidal-ban": 3.0,
    "trump-pardon": 9.0,
    "huang-therapy": 1.0,
    "trump-stake": 1.0,
@@ -497,19 +509,19 @@
    "alfozan-bail": 6.0,
    "huang-senate": 6.0,
    "gpt6-proteins": 1.0,
-   "ny-ai-toys": 5.7,
-   "too-dangerous": 4.6,
-   "tegmark-takeover": 2.3,
-   "uk-ai-hacks": 0.8,
+   "ny-ai-toys": 5.4,
+   "too-dangerous": 4.3,
+   "tegmark-takeover": 2.1,
+   "uk-ai-hacks": 0.7,
    "nvda-hangover": 0.6,
    "bubble-popped": 0.6,
-   "ec-ai-hack": 0.6,
-   "nk-chatbot": 1.7,
-   "nvda-board-doubts": 0.7,
+   "ec-ai-hack": 0.5,
+   "nk-chatbot": 1.6,
+   "nvda-board-doubts": 0.6,
    "trump-nvda-trades": 0.5,
-   "ant-below-ipo": 2.9,
-   "megaspeed-blacklist": 0.5,
-   "riemann": 2.1
+   "ant-below-ipo": 2.6,
+   "megaspeed-blacklist": 0.3,
+   "riemann": 2.0
   },
   "lastAdjust": 0,
   "history": [
@@ -660,9 +672,13 @@
    {
     "t": "2026-11-25T02:17:40Z",
     "s": 69
+   },
+   {
+    "t": "2026-11-25T03:13:57Z",
+    "s": 76
    }
   ],
-  "at": "2026-11-25T02:17:40Z"
+  "at": "2026-11-25T03:13:57Z"
  },
  "state": {
   "models": {
@@ -703,18 +719,6 @@
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
     {
-     "sym": "NVDA",
-     "name": "Nvidia",
-     "price": 155.38,
-     "chg": -5.86
-    },
-    {
-     "sym": "ANT",
-     "name": "Anthropic",
-     "price": 81.91,
-     "chg": -6.54
-    },
-    {
      "sym": "CBRS",
      "name": "Cerebras",
      "price": 88.78,
@@ -737,12 +741,6 @@
      "name": "Palantir",
      "price": 161.18,
      "chg": 1.14
-    },
-    {
-     "sym": "NASDAQ",
-     "name": "Composite",
-     "price": 23733.53,
-     "chg": -1.48
     }
    ]
   },
@@ -812,24 +810,24 @@
    ]
   },
   "crypto": {
-   "asOf": "9:17 pm ET",
+   "asOf": "10:13 pm ET",
    "src": "CoinGecko · 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59096.0,
-     "chg": -2.77
+     "price": 59337.0,
+     "chg": -0.69
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1654.57,
-     "chg": -2.79
+     "price": 1659.97,
+     "chg": -1.07
     }
    ]
   }
  },
- "next": "2026-11-25T03:11:00Z"
+ "next": "2026-11-25T04:11:00Z"
 }

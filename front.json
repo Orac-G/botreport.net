@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T02:17:40Z",
- "nextUpdate": "2026-11-25T03:11:00Z",
+ "updated": "2026-11-25T03:13:57Z",
+ "nextUpdate": "2026-11-25T04:11:00Z",
  "lead": [
   {
    "headline": "TRUMP: A PARDON FOR JENSEN IS 'ALWAYS AN OPTION': President tells the Post he doesn't think it'll be necessary... and urges Huang not to take the Fifth before Congress...",
@@ -16,69 +16,17 @@
  ],
  "topLinks": [
   {
+   "headline": "SoftBank PLUNGES 14% as AI sell-off rips through Asia's chip giants...",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+   "found": "2026-11-25T03:11:46Z",
+   "section": "business"
+  },
+  {
    "headline": "Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor",
    "source": "CNBC",
    "url": "https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
    "found": "2026-11-25T02:17:13Z",
-   "section": "politics"
-  },
-  {
-   "headline": "New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping",
-   "source": "Office of the Governor of New York",
-   "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
-   "found": "2026-11-24T22:11:23Z",
-   "section": "politics",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50635246",
-    "comments": 3
-   }
-  },
-  {
-   "headline": "North Korea unveils its first AI chatbot... but it won't answer 'uncultured questions'",
-   "source": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions",
-   "found": "2026-11-24T14:22:05Z",
-   "section": "quirky"
-  },
-  {
-   "headline": "Anthropic SINKS BELOW its $83 IPO price... debut rally unravels",
-   "source": "Bloomberg",
-   "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/",
-   "found": "2026-11-24T12:17:17Z",
-   "section": "business",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 694
-   }
-  }
- ],
- "stories": [
-  {
-   "headline": "Jensen tells Nvidia staff 'I HURT ALL OF YOU'... says he's in therapy, people present say",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-   "found": "2026-11-25T02:17:13Z",
-   "section": "business"
-  },
-  {
-   "headline": "Trump mulls a US STAKE in Nvidia, Intel-style, after Jensen's return...",
-   "source": "Business Insider",
-   "url": "https://www.businessinsider.com/trump-us-equity-stake-nvidia-not-too-late-2026-11",
-   "found": "2026-11-25T02:17:13Z",
-   "section": "politics"
-  },
-  {
-   "headline": "NYT: Justice Dept. investigators gather evidence Nvidia chips were ILLEGALLY DIVERTED to China...",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
-   "found": "2026-11-25T02:17:13Z",
-   "section": "politics"
-  },
-  {
-   "headline": "Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
-   "found": "2026-11-25T01:11:00Z",
    "section": "politics"
   },
   {
@@ -90,8 +38,58 @@
    "label": "Company claim",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50634658",
-    "comments": 44
+    "comments": 55
    }
+  },
+  {
+   "headline": "New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping",
+   "source": "Office of the Governor of New York",
+   "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
+   "found": "2026-11-24T22:11:23Z",
+   "section": "politics",
+   "hackerNews": {
+    "url": "https://news.ycombinator.com/item?id=50635246",
+    "comments": 3
+   }
+  }
+ ],
+ "stories": [
+  {
+   "headline": "Tidal BANS fully AI-made music... and expects to DELETE 29 MILLION+ tracks",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "found": "2026-11-25T03:11:46Z",
+   "section": "quirky"
+  },
+  {
+   "headline": "Jensen tells Nvidia staff 'I HURT ALL OF YOU'... says he's in therapy, says one person in the room",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+   "found": "2026-11-25T02:17:13Z",
+   "section": "business",
+   "correction": "An earlier headline attributed the therapy remark to several people present; CNBC cites one."
+  },
+  {
+   "headline": "Trump mulls a US STAKE in Nvidia, Intel-style, after Jensen's return...",
+   "source": "Business Insider",
+   "url": "https://www.businessinsider.com/trump-us-equity-stake-nvidia-not-too-late-2026-11",
+   "found": "2026-11-25T02:17:13Z",
+   "section": "politics"
+  },
+  {
+   "headline": "NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+   "found": "2026-11-25T02:17:13Z",
+   "section": "politics",
+   "correction": "An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries."
+  },
+  {
+   "headline": "Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+   "found": "2026-11-25T01:11:00Z",
+   "section": "politics"
   },
   {
    "headline": "Anthropic and OpenAI staff fear their new models are TOO DANGEROUS to release...",
@@ -162,6 +160,13 @@
    "section": "tech"
   },
   {
+   "headline": "North Korea unveils its first AI chatbot... but it won't answer 'uncultured questions'",
+   "source": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions",
+   "found": "2026-11-24T14:22:05Z",
+   "section": "quirky"
+  },
+  {
    "headline": "Trump bought Nvidia 28 TIMES this year... up to $16.7 MILLION, disclosures show",
    "source": "Kadoa",
    "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
@@ -170,6 +175,17 @@
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50626861",
     "comments": 159
+   }
+  },
+  {
+   "headline": "Anthropic SINKS BELOW its $83 IPO price... debut rally unravels",
+   "source": "Bloomberg",
+   "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/",
+   "found": "2026-11-24T12:17:17Z",
+   "section": "business",
+   "hackerNews": {
+    "url": "https://news.ycombinator.com/item?id=50627836",
+    "comments": 703
    }
   },
   {
@@ -321,7 +337,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
  },
  "skynetOMeter": {
-  "score": 69,
+  "score": 76,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
