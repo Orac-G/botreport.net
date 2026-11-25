@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-25T12:15:19Z",
+ "updated": "2026-11-25T13:18:34Z",
  "stories": [
+  {
+   "id": "huang-spy-brief",
+   "cat": "politics",
+   "lead": true,
+   "red": true,
+   "h": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...",
+   "src": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
+   "t": "2026-11-25T13:16:00Z",
+   "saga": "huang",
+   "stack": [
+    "huang-affairs",
+    "trump-pardon",
+    "huang-senate"
+   ],
+   "sub": "FBI, CIA and ODNI briefers found no evidence China ordered the affair... but didn't dispute she passed intel to its spy agency once it began, NYT says",
+   "img": {
+    "src": "img/jensen-huang.jpg",
+    "alt": "Nvidia CEO Jensen Huang",
+    "credit": "Anders Eidesvik / CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg"
+   },
+   "card": "NYT: Jensen lover's husband the 'more significant' China asset"
+  },
+  {
+   "id": "talkie-pulled",
+   "cat": "quirky",
+   "h": "Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...",
+   "src": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
+   "t": "2026-11-25T13:16:00Z",
+   "group": "companions",
+   "col": 1
+  },
   {
    "id": "futures-slide",
    "cat": "business",
@@ -55,13 +89,7 @@
    "t": "2026-11-25T10:11:47Z",
    "label": "From Nov. 23",
    "group": "huang",
-   "col": 0,
-   "img": {
-    "src": "img/jensen-huang.jpg",
-    "alt": "Nvidia CEO Jensen Huang",
-    "credit": "Anders Eidesvik / CC BY-SA 4.0",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg"
-   }
+   "shout": "Disclosed MORE affairs"
   },
   {
    "id": "kospi-half",
@@ -77,19 +105,12 @@
   {
    "id": "cia-hack",
    "cat": "military",
-   "lead": true,
    "red": true,
-   "h": "HACKERS HIT UNCLASSIFIED CIA SYSTEM... SOME SOURCES POINT TO A CHINESE AI TOOL",
+   "h": "Hackers hit unclassified CIA system... some sources point to a CHINESE AI TOOL",
    "src": "New York Times",
    "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
    "t": "2026-11-25T04:12:27Z",
    "saga": "hacks",
-   "stack": [
-    "amazon-cairn",
-    "ec-ai-hack",
-    "uk-ai-hacks"
-   ],
-   "sub": "Spy agencies' unclassified intel system breached... some sources suggest China may be behind it...",
    "img": {
     "src": "img/cia-hq.jpg",
     "alt": "Aerial view of CIA headquarters in Langley, Virginia",
@@ -97,18 +118,20 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_CIA_headquarters,_Langley,_Virginia_14271v.jpg"
    },
    "correction": "An earlier headline left out that the system hit was unclassified, and that only some of the Times' sources point to the AI tool.",
-   "card": "Unclassified CIA system hacked; some sources blame AI tool"
+   "card": "Unclassified CIA system hacked; some sources blame AI tool",
+   "group": "hacks",
+   "col": 0
   },
   {
    "id": "amazon-cairn",
    "cat": "tech",
    "group": "hacks",
-   "shout": "AMAZON: AI AGENT FOUND A ZERO-DAY",
    "h": "Amazon says China-linked hackers' AI agent found and exploited a ZERO-DAY on its own...",
    "src": "Amazon (AWS Security Blog)",
    "url": "https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/",
    "t": "2026-11-25T04:12:27Z",
-   "label": "Company claim"
+   "label": "Company claim",
+   "col": 0
   },
   {
    "id": "blanche-dodge",
@@ -166,7 +189,7 @@
    "url": "https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/",
    "t": "2026-11-25T02:17:13Z",
    "group": "huang-probe",
-   "col": 0
+   "shout": "Trump: pardon 'always an option'"
   },
   {
    "id": "huang-therapy",
@@ -222,8 +245,8 @@
    "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
    "t": "2026-11-25T01:11:00Z",
    "group": "huang",
-   "col": 0,
-   "card": "Senate hauls Jensen in for a public grilling Dec. 3"
+   "card": "Senate hauls Jensen in for a public grilling Dec. 3",
+   "shout": "Public grilling Dec. 3"
   },
   {
    "id": "gpt6-proteins",
@@ -298,7 +321,7 @@
    "src": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
    "t": "2026-11-24T18:14:00Z",
-   "shout": "UK: 'MARKED RISE' IN AI ATTACKS"
+   "col": 0
   },
   {
    "id": "nvda-hangover",
@@ -327,7 +350,7 @@
    "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
    "t": "2026-11-24T14:22:05Z",
    "group": "hacks",
-   "shout": "AI RAIDED THE EU TOO"
+   "col": 0
   },
   {
    "id": "nk-chatbot",
@@ -578,52 +601,53 @@
   "level": 3,
   "label": "FEVERISH",
   "why": "Trump floats a pardon for Jensen as the DOJ digs into Nvidia chips diverted to China, and lab staff say their own models are too dangerous to release.",
-  "score": 53,
-  "delta": -1,
+  "score": 54,
+  "delta": 1,
   "moves": [
    {
+    "d": 7,
+    "why": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was...",
+    "id": "huang-spy-brief"
+   },
+   {
+    "d": -2,
+    "why": "Asked how DOJ can clear Huang mid-probe, AG Blanche: 'I DON'T KNOW...",
+    "id": "blanche-dodge"
+   },
+   {
     "d": 2,
-    "why": "Australian state SUSPENDS Deloitte over AI-riddled report... and wa...",
-    "id": "deloitte-wa"
-   },
-   {
-    "d": 1,
-    "why": "Amazon and Meta talk TRUCE in AI shopping-bot war... Zuck and Jassy...",
-    "id": "amzn-meta-muse"
-   },
-   {
-    "d": -1,
-    "why": "HACKERS HIT UNCLASSIFIED CIA SYSTEM... SOME SOURCES POINT TO A CHIN...",
-    "id": "cia-hack"
+    "why": "Chinese AI companion app Talkie PULLED from Apple's App Store WORLD...",
+    "id": "talkie-pulled"
    }
   ],
   "contrib": {
-   "blanche-dodge": 3.8,
-   "doj-diversion": 1.7,
-   "trump-pardon": 0.8,
-   "huang-senate": 0.8,
+   "huang-spy-brief": 7.2,
+   "blanche-dodge": 1.7,
+   "doj-diversion": 0.7,
+   "trump-pardon": 0.7,
+   "huang-senate": 0.7,
    "futures-slide": 0.2,
    "huang-affairs": 0.2,
    "huang-therapy": 0.1,
    "trump-stake": 0.1,
+   "talkie-pulled": 2.4,
    "amzn-meta-muse": 0.8,
-   "deloitte-wa": 2.5,
-   "anthropic-agency": 4.9,
-   "kospi-half": 4.5,
-   "cia-hack": 7.5,
+   "deloitte-wa": 2.4,
+   "anthropic-agency": 4.8,
+   "kospi-half": 4.1,
+   "cia-hack": 5.1,
    "amazon-cairn": 0.3,
-   "uk-ai-hacks": 0.1,
    "taiwan-fakes": 0.6,
-   "asia-rout": 3.5,
-   "tidal-ban": 1.8,
-   "alfozan-bail": 3.3,
-   "riemann": 0.6,
+   "asia-rout": 3.2,
+   "tidal-ban": 1.6,
+   "alfozan-bail": 3.0,
+   "riemann": 0.4,
    "gpt6-proteins": 0.2,
-   "ny-ai-toys": 2.3,
-   "too-dangerous": 1.4,
-   "tegmark-takeover": 0.4,
+   "ny-ai-toys": 2.0,
+   "too-dangerous": 1.1,
+   "tegmark-takeover": 0.3,
    "bubble-popped": 0.1,
-   "nk-chatbot": 0.2
+   "nk-chatbot": 0.1
   },
   "lastAdjust": 0,
   "history": [
@@ -794,9 +818,13 @@
    {
     "t": "2026-11-25T12:15:17Z",
     "s": 53
+   },
+   {
+    "t": "2026-11-25T13:18:30Z",
+    "s": 54
    }
   ],
-  "at": "2026-11-25T12:15:17Z",
+  "at": "2026-11-25T13:18:30Z",
   "formulaSince": "2026-11-25T07:13:23Z",
   "formula": 3
  },
@@ -851,10 +879,22 @@
      "chg": -6.54
     },
     {
+     "sym": "CBRS",
+     "name": "Cerebras",
+     "price": 88.78,
+     "chg": -9.88
+    },
+    {
      "sym": "CRWV",
      "name": "CoreWeave",
      "price": 42.6,
      "chg": -11.85
+    },
+    {
+     "sym": "NBIS",
+     "name": "Nebius",
+     "price": 87.31,
+     "chg": -10.73
     },
     {
      "sym": "PLTR",
@@ -893,16 +933,16 @@
      "url": "https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
     },
     {
+     "who": "Shield AI \u2192 Echodyne",
+     "amt": "$5.3B",
+     "note": "counter-drone radar deal, plus a $2.5B raise at $28.8B",
+     "url": "https://www.washingtontechnology.com/companies/2026/11/shield-ai-acquires-radar-maker-echodyne-53-billion-deal/417086/"
+    },
+    {
      "who": "Sierra",
      "amt": "$1.75B+",
      "note": "round at a reported $30B valuation (Bloomberg)",
      "url": "https://www.bloomberg.com/news/articles/2026-11-23/bret-taylor-s-sierra-finalizing-more-than-1-75-billion-round"
-    },
-    {
-     "who": "Fal",
-     "amt": "$1.3B",
-     "note": "AI inference round at a $16B valuation",
-     "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
     }
    ]
   },
@@ -936,24 +976,24 @@
    ]
   },
   "crypto": {
-   "asOf": "7:15 am ET",
+   "asOf": "8:18 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 58464.0,
-     "chg": -2.88
+     "price": 58700.0,
+     "chg": -2.0
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1638.03,
-     "chg": -3.41
+     "price": 1646.3,
+     "chg": -2.32
     }
    ]
   }
  },
- "next": "2026-11-25T13:18:00Z"
+ "next": "2026-11-25T14:18:00Z"
 }
