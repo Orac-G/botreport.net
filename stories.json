@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:15:04Z",
+ "updated": "2026-11-25T17:13:24Z",
  "stories": [
   {
    "id": "nasdaq-bear",
@@ -35,6 +35,16 @@
    "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
    "t": "2026-11-25T16:12:50Z",
    "card": "Chip curbs FREEZE billions in China-linked AI loans"
+  },
+  {
+   "id": "credit-fear",
+   "cat": "business",
+   "h": "Nvidia and CoreWeave CREDIT-RISK gauges hit RECORD HIGHS as Wall Street's AI fears mount...",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
+   "t": "2026-11-25T17:11:53Z",
+   "group": "markets",
+   "col": 1
   },
   {
    "id": "ai-targets",
@@ -634,39 +644,30 @@
  },
  "meter": {
   "level": 3,
-  "score": 58,
-  "delta": 7,
+  "score": 56,
+  "delta": -2,
   "moves": [
    {
-    "d": 7,
-    "why": "BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Ten...",
-    "id": "dc-loans"
-   },
-   {
-    "d": 4,
-    "why": "Half of AI models will pick MILITARY TARGETS when asked... nearly A...",
-    "id": "ai-targets"
-   },
-   {
-    "d": 3,
-    "why": "AI brings back the voice of late football legend John Motson for EA...",
-    "id": "motson-ai"
+    "d": -1,
+    "why": "Korea's chip-heavy stock market has lost NEARLY HALF its value in f...",
+    "id": "kospi-half"
    }
   ],
   "contrib": {
-   "nasdaq-bear": 9.8,
-   "ant-premarket": 3.0,
-   "dc-loans": 6.6,
-   "ai-targets": 4.4,
-   "motson-ai": 3.3,
-   "nasdaq-open": 6.6,
-   "huang-spy-brief": 2.7,
+   "nasdaq-bear": 9.3,
+   "ant-premarket": 2.8,
+   "dc-loans": 6.8,
+   "nasdaq-open": 6.2,
+   "huang-spy-brief": 2.5,
+   "credit-fear": 0.3,
    "huang-affairs": 0.1,
-   "talkie-pulled": 2.7,
-   "amzn-meta-muse": 0.8,
-   "deloitte-wa": 2.4,
-   "anthropic-agency": 3.6,
-   "kospi-half": 1.8
+   "ai-targets": 4.5,
+   "motson-ai": 3.4,
+   "talkie-pulled": 2.5,
+   "amzn-meta-muse": 0.7,
+   "deloitte-wa": 2.2,
+   "anthropic-agency": 3.1,
+   "kospi-half": 1.2
   },
   "lastAdjust": 0,
   "history": [
@@ -853,13 +854,17 @@
    {
     "t": "2026-11-25T16:14:58Z",
     "s": 58
+   },
+   {
+    "t": "2026-11-25T17:13:22Z",
+    "s": 56
    }
   ],
-  "at": "2026-11-25T16:14:58Z",
+  "at": "2026-11-25T17:13:22Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 7,
+   "delta": -2,
    "period": "since last reading",
    "line": [
     {
@@ -873,11 +878,15 @@
     {
      "t": "2026-11-25T16:14:58Z",
      "s": 58
+    },
+    {
+     "t": "2026-11-25T17:13:22Z",
+     "s": 56
     }
    ],
    "drivers": [
     {
-     "d": 10,
+     "d": 9,
      "id": "nasdaq-bear",
      "text": "Nasdaq 100 heads for its first bear market in over a year"
     },
@@ -887,7 +896,7 @@
      "text": "Chip curbs FREEZE billions in China-linked AI loans"
     },
     {
-     "d": 7,
+     "d": 6,
      "id": "nasdaq-open",
      "text": "Nvidia plunges as the AI sell-off resumes"
     }
@@ -1036,24 +1045,24 @@
    ]
   },
   "crypto": {
-   "asOf": "11:14 am ET",
+   "asOf": "12:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 58373.0,
-     "chg": -1.95
+     "price": 59189.0,
+     "chg": -1.24
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1644.49,
-     "chg": -1.63
+     "price": 1658.73,
+     "chg": -1.19
     }
    ]
   }
  },
- "next": "2026-11-25T17:18:00Z"
+ "next": "2026-11-25T18:18:00Z"
 }

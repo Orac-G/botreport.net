@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T16:15:04Z",
- "nextUpdate": "2026-11-25T17:18:00Z",
+ "updated": "2026-11-25T17:13:24Z",
+ "nextUpdate": "2026-11-25T18:18:00Z",
  "lead": [
   {
    "headline": "AI TRADE UNRAVELS: Nasdaq 100 heads for its first BEAR MARKET in more than a year...: Investors dump stocks exposed to AI as sentiment deteriorates rapidly, Bloomberg says",
@@ -45,6 +45,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Nvidia and CoreWeave CREDIT-RISK gauges hit RECORD HIGHS as Wall Street's AI fears mount...",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
+   "found": "2026-11-25T17:11:53Z",
+   "section": "business"
+  },
   {
    "headline": "Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds",
    "source": "Military Times",
@@ -421,7 +428,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
  },
  "skynetOMeter": {
-  "score": 58,
+  "score": 56,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

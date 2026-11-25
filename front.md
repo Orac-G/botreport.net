@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Wednesday, November 25, 2026, 11:15 AM ET. Every headline links to the original reporting or primary source.
+Updated Wednesday, November 25, 2026, 12:13 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,7 @@ Updated Wednesday, November 25, 2026, 11:15 AM ET. Every headline links to the o
 
 ## All stories (newest first)
 
+- [Nvidia and CoreWeave CREDIT-RISK gauges hit RECORD HIGHS as Wall Street's AI fears mount...](https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount) (Bloomberg)
 - [Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds](https://www.militarytimes.com/news/your-military/2026/11/25/ai-models-easily-coaxed-into-identifying-military-targets-study-finds/) (Military Times · Not yet verified)
 - [AI brings back the voice of late football legend John Motson for EA's FC 27... with his family's blessing](https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27) (The Guardian)
 - [Nvidia PLUNGES as the AI sell-off resumes... Dow down 700, Nasdaq down 4%, fear gauge tops 30](https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html) (CNBC)
@@ -69,6 +70,6 @@ Updated Wednesday, November 25, 2026, 11:15 AM ET. Every headline links to the o
 > “When I talk to people who work for Anthropic, after they've had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world.”
 > — Max Tegmark, MIT physicist, in an interview with Novara Media ([source](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/))
 
-Skynet-o-Meter: 58 out of 100.
+Skynet-o-Meter: 56 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml
