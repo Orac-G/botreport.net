@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T15:15:33Z",
- "nextUpdate": "2026-11-25T16:18:00Z",
+ "updated": "2026-11-25T16:15:04Z",
+ "nextUpdate": "2026-11-25T17:18:00Z",
  "lead": [
   {
    "headline": "AI TRADE UNRAVELS: Nasdaq 100 heads for its first BEAR MARKET in more than a year...: Investors dump stocks exposed to AI as sentiment deteriorates rapidly, Bloomberg says",
@@ -15,6 +15,13 @@
   }
  ],
  "topLinks": [
+  {
+   "headline": "BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Tencent GRIND TO A HALT after US chip curbs...",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
+   "found": "2026-11-25T16:12:50Z",
+   "section": "business"
+  },
   {
    "headline": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...",
    "source": "New York Times",
@@ -35,18 +42,26 @@
    "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
    "found": "2026-11-25T10:11:47Z",
    "section": "tech"
-  },
-  {
-   "headline": "Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor",
-   "source": "CNBC",
-   "url": "https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
-   "found": "2026-11-25T02:17:13Z",
-   "section": "politics"
   }
  ],
  "stories": [
   {
-   "headline": "Nvidia sinks 6% as the AI sell-off resumes... Dow down 700, Nasdaq down 3%, fear gauge tops 30",
+   "headline": "Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds",
+   "source": "Military Times",
+   "url": "https://www.militarytimes.com/news/your-military/2026/11/25/ai-models-easily-coaxed-into-identifying-military-targets-study-finds/",
+   "found": "2026-11-25T16:12:50Z",
+   "section": "military",
+   "label": "Not yet verified"
+  },
+  {
+   "headline": "AI brings back the voice of late football legend John Motson for EA's FC 27... with his family's blessing",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
+   "found": "2026-11-25T16:12:50Z",
+   "section": "quirky"
+  },
+  {
+   "headline": "Nvidia PLUNGES as the AI sell-off resumes... Dow down 700, Nasdaq down 4%, fear gauge tops 30",
    "source": "CNBC",
    "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
    "found": "2026-11-25T15:12:49Z",
@@ -161,6 +176,13 @@
    "found": "2026-11-25T02:17:13Z",
    "section": "politics",
    "correction": "An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries."
+  },
+  {
+   "headline": "Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor",
+   "source": "CNBC",
+   "url": "https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+   "found": "2026-11-25T02:17:13Z",
+   "section": "politics"
   },
   {
    "headline": "Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness",
@@ -399,7 +421,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
  },
  "skynetOMeter": {
-  "score": 51,
+  "score": 58,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

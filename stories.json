@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:15:33Z",
+ "updated": "2026-11-25T16:15:04Z",
  "stories": [
   {
    "id": "nasdaq-bear",
@@ -26,16 +26,54 @@
    "card": "Nasdaq 100 heads for its first bear market in over a year"
   },
   {
+   "id": "dc-loans",
+   "cat": "business",
+   "red": true,
+   "top": true,
+   "h": "BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Tencent GRIND TO A HALT after US chip curbs...",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
+   "t": "2026-11-25T16:12:50Z",
+   "card": "Chip curbs FREEZE billions in China-linked AI loans"
+  },
+  {
+   "id": "ai-targets",
+   "cat": "military",
+   "h": "Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds",
+   "src": "Military Times",
+   "url": "https://www.militarytimes.com/news/your-military/2026/11/25/ai-models-easily-coaxed-into-identifying-military-targets-study-finds/",
+   "t": "2026-11-25T16:12:50Z",
+   "label": "Not yet verified",
+   "col": 1,
+   "card": "Study: AI models pick military targets if told it's a game"
+  },
+  {
+   "id": "motson-ai",
+   "cat": "quirky",
+   "h": "AI brings back the voice of late football legend John Motson for EA's FC 27... with his family's blessing",
+   "src": "The Guardian",
+   "url": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
+   "t": "2026-11-25T16:12:50Z",
+   "col": 2,
+   "img": {
+    "src": "img/john-motson.jpg",
+    "alt": "John Motson in his trademark sheepskin coat in 2018",
+    "credit": "Everton Football Club / CC BY 3.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:John_Motson_2018.jpg"
+   },
+   "card": "AI brings back John Motson's voice for FC 27"
+  },
+  {
    "id": "nasdaq-open",
    "cat": "business",
    "red": true,
    "group": "markets",
-   "h": "Nvidia sinks 6% as the AI sell-off resumes... Dow down 700, Nasdaq down 3%, fear gauge tops 30",
+   "h": "Nvidia PLUNGES as the AI sell-off resumes... Dow down 700, Nasdaq down 4%, fear gauge tops 30",
    "src": "CNBC",
    "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
    "t": "2026-11-25T15:12:49Z",
-   "shout": "NVIDIA DOWN 6%, FEAR GAUGE TOPS 30",
-   "card": "Nvidia sinks 6% as the AI sell-off resumes"
+   "shout": "NVIDIA PLUNGES, FEAR GAUGE TOPS 30",
+   "card": "Nvidia plunges as the AI sell-off resumes"
   },
   {
    "id": "huang-spy-brief",
@@ -257,13 +295,13 @@
   {
    "id": "alfozan-bail",
    "cat": "politics",
-   "top": true,
    "red": true,
    "h": "Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor",
    "src": "CNBC",
    "url": "https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
    "t": "2026-11-25T02:17:13Z",
-   "card": "Judge FREES ex-OpenAI engineer accused of BUGGING execs"
+   "card": "Judge FREES ex-OpenAI engineer accused of BUGGING execs",
+   "col": 1
   },
   {
    "id": "huang-senate",
@@ -456,12 +494,6 @@
    "src": "Scientific American",
    "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
    "t": "2026-11-24T17:02:44Z",
-   "img": {
-    "src": "img/riemann.jpg",
-    "alt": "1863 engraved portrait of mathematician Bernhard Riemann",
-    "credit": "Smithsonian Institution / No restrictions",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Bernhard_Riemann_(1826-1866),_Mathematician_(2551069295).jpg"
-   },
    "col": 2
   },
   {
@@ -602,40 +634,39 @@
  },
  "meter": {
   "level": 3,
-  "score": 51,
-  "delta": 1,
+  "score": 58,
+  "delta": 7,
   "moves": [
    {
-    "d": 11,
-    "why": "AI TRADE UNRAVELS: Nasdaq 100 heads for its first BEAR MARKET in mo...",
-    "id": "nasdaq-bear"
-   },
-   {
-    "d": -8,
-    "why": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was...",
-    "id": "huang-spy-brief"
-   },
-   {
     "d": 7,
-    "why": "NVIDIA DOWN 6%, FEAR GAUGE TOPS 30",
-    "id": "nasdaq-open"
+    "why": "BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Ten...",
+    "id": "dc-loans"
+   },
+   {
+    "d": 4,
+    "why": "Half of AI models will pick MILITARY TARGETS when asked... nearly A...",
+    "id": "ai-targets"
+   },
+   {
+    "d": 3,
+    "why": "AI brings back the voice of late football legend John Motson for EA...",
+    "id": "motson-ai"
    }
   ],
   "contrib": {
-   "nasdaq-bear": 11.0,
-   "ant-premarket": 3.7,
-   "nasdaq-open": 7.3,
-   "huang-spy-brief": 3.3,
-   "huang-affairs": 0.2,
-   "blanche-dodge": 0.2,
-   "talkie-pulled": 3.3,
-   "amzn-meta-muse": 1.0,
-   "deloitte-wa": 3.0,
-   "anthropic-agency": 4.6,
-   "kospi-half": 2.6,
-   "cia-hack": 0.9,
-   "amazon-cairn": 0.1,
-   "taiwan-fakes": 0.1
+   "nasdaq-bear": 9.8,
+   "ant-premarket": 3.0,
+   "dc-loans": 6.6,
+   "ai-targets": 4.4,
+   "motson-ai": 3.3,
+   "nasdaq-open": 6.6,
+   "huang-spy-brief": 2.7,
+   "huang-affairs": 0.1,
+   "talkie-pulled": 2.7,
+   "amzn-meta-muse": 0.8,
+   "deloitte-wa": 2.4,
+   "anthropic-agency": 3.6,
+   "kospi-half": 1.8
   },
   "lastAdjust": 0,
   "history": [
@@ -818,13 +849,17 @@
    {
     "t": "2026-11-25T15:15:30Z",
     "s": 51
+   },
+   {
+    "t": "2026-11-25T16:14:58Z",
+    "s": 58
    }
   ],
-  "at": "2026-11-25T15:15:30Z",
+  "at": "2026-11-25T16:14:58Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 1,
+   "delta": 7,
    "period": "since last reading",
    "line": [
     {
@@ -834,23 +869,27 @@
     {
      "t": "2026-11-25T15:15:30Z",
      "s": 51
+    },
+    {
+     "t": "2026-11-25T16:14:58Z",
+     "s": 58
     }
    ],
    "drivers": [
     {
-     "d": 11,
+     "d": 10,
      "id": "nasdaq-bear",
      "text": "Nasdaq 100 heads for its first bear market in over a year"
     },
     {
      "d": 7,
-     "id": "nasdaq-open",
-     "text": "Nvidia sinks 6% as the AI sell-off resumes"
+     "id": "dc-loans",
+     "text": "Chip curbs FREEZE billions in China-linked AI loans"
     },
     {
-     "d": 5,
-     "id": "anthropic-agency",
-     "text": "AI bosses balk at Anthropic idea: surrender decisions to AI"
+     "d": 7,
+     "id": "nasdaq-open",
+     "text": "Nvidia plunges as the AI sell-off resumes"
     }
    ]
   }
@@ -889,45 +928,45 @@
    ]
   },
   "stocks": {
-   "asOf": "Close Nov 24",
+   "asOf": "11:14 am ET",
    "src": "Yahoo Finance \u00b7 change vs. prior close",
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
     {
      "sym": "NVDA",
      "name": "Nvidia",
-     "price": 155.38,
-     "chg": -5.86
+     "price": 142.22,
+     "chg": -8.47
     },
     {
      "sym": "ANT",
      "name": "Anthropic",
-     "price": 81.91,
-     "chg": -6.54
+     "price": 78.98,
+     "chg": -3.57
     },
     {
-     "sym": "CBRS",
-     "name": "Cerebras",
-     "price": 88.78,
-     "chg": -9.88
+     "sym": "CRWV",
+     "name": "CoreWeave",
+     "price": 37.98,
+     "chg": -10.84
     },
     {
      "sym": "NBIS",
      "name": "Nebius",
-     "price": 87.31,
-     "chg": -10.73
+     "price": 76.2,
+     "chg": -12.71
     },
     {
      "sym": "PLTR",
      "name": "Palantir",
-     "price": 161.18,
-     "chg": 1.14
+     "price": 154.29,
+     "chg": -4.27
     },
     {
      "sym": "NASDAQ",
      "name": "Composite",
-     "price": 23733.53,
-     "chg": -1.48
+     "price": 22759.72,
+     "chg": -4.1
     }
    ]
   },
@@ -960,10 +999,10 @@
      "url": "https://www.washingtontechnology.com/companies/2026/11/shield-ai-acquires-radar-maker-echodyne-53-billion-deal/417086/"
     },
     {
-     "who": "Sierra",
-     "amt": "$1.75B+",
-     "note": "round at a reported $30B valuation (Bloomberg)",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-23/bret-taylor-s-sierra-finalizing-more-than-1-75-billion-round"
+     "who": "Isomorphic Labs",
+     "amt": "$5B",
+     "note": "Series C for AI drug discovery, led by Greenoaks and Sequoia",
+     "url": "https://www.fiercebiotech.com/biotech/isomorphic-labs-raises-5b-series-c-months-after-21b-round"
     }
    ]
   },
@@ -997,24 +1036,24 @@
    ]
   },
   "crypto": {
-   "asOf": "10:15 am ET",
+   "asOf": "11:14 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 57841.0,
-     "chg": -3.48
+     "price": 58373.0,
+     "chg": -1.95
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1631.35,
-     "chg": -2.86
+     "price": 1644.49,
+     "chg": -1.63
     }
    ]
   }
  },
- "next": "2026-11-25T16:18:00Z"
+ "next": "2026-11-25T17:18:00Z"
 }
