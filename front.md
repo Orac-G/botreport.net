@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Wednesday, November 25, 2026, 5:14 AM ET. Every headline links to the original reporting or primary source.
+Updated Wednesday, November 25, 2026, 7:15 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,9 @@ Updated Wednesday, November 25, 2026, 5:14 AM ET. Every headline links to the or
 
 ## All stories (newest first)
 
+- [AI SELL-OFF RETURNS: Nasdaq futures sink as Jensen's comeback revives 'key-man risk' fears...](https://www.cnbc.com/2026/11/25/futures-sink-further-into-the-red-as-tech-worries-resurge.html) (CNBC)
+- [Amazon and Meta talk TRUCE in AI shopping-bot war... Zuck and Jassy must sign off, sources say](https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/) (Fortune)
+- [Australian state SUSPENDS Deloitte over AI-riddled report... and wants its fee BACK](https://www.abc.net.au/news/2026-11-25/deloitte-suspended-from-wa-govt-contracts-after-ai-uni-merger-/107427546) (ABC (Australia))
 - [Catching up: Jensen disclosed MORE AFFAIRS to Nvidia's board before it rehired him, WSJ says...](https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961) (Wall Street Journal · From Nov. 23)
 - [Korea's chip-heavy stock market has lost NEARLY HALF its value in five months... AI doubts blamed](https://www.koreaherald.com/article/10949190) (Korea Herald)
 - [Amazon says China-linked hackers' AI agent found and exploited a ZERO-DAY on its own...](https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/) (Amazon (AWS Security Blog) · Company claim)
@@ -61,6 +64,6 @@ Updated Wednesday, November 25, 2026, 5:14 AM ET. Every headline links to the or
 > “When I talk to people who work for Anthropic, after they've had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world.”
 > — Max Tegmark, MIT physicist, in an interview with Novara Media ([source](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/))
 
-Skynet-o-Meter: 54 out of 100.
+Skynet-o-Meter: 53 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

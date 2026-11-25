@@ -1,6 +1,40 @@
 {
- "updated": "2026-11-25T10:14:21Z",
+ "updated": "2026-11-25T12:15:19Z",
  "stories": [
+  {
+   "id": "futures-slide",
+   "cat": "business",
+   "group": "markets",
+   "h": "AI SELL-OFF RETURNS: Nasdaq futures sink as Jensen's comeback revives 'key-man risk' fears...",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/25/futures-sink-further-into-the-red-as-tech-worries-resurge.html",
+   "t": "2026-11-25T12:13:00Z",
+   "col": 1
+  },
+  {
+   "id": "amzn-meta-muse",
+   "cat": "business",
+   "h": "Amazon and Meta talk TRUCE in AI shopping-bot war... Zuck and Jassy must sign off, sources say",
+   "src": "Fortune",
+   "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/",
+   "t": "2026-11-25T12:13:00Z",
+   "col": 2,
+   "img": {
+    "src": "img/mark-zuckerberg.jpg",
+    "alt": "Meta CEO Mark Zuckerberg",
+    "credit": "The White House / Public domain",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:P20260929DT-1655_(55561811540)_(cropped_2).jpg"
+   }
+  },
+  {
+   "id": "deloitte-wa",
+   "cat": "quirky",
+   "h": "Australian state SUSPENDS Deloitte over AI-riddled report... and wants its fee BACK",
+   "src": "ABC (Australia)",
+   "url": "https://www.abc.net.au/news/2026-11-25/deloitte-suspended-from-wa-govt-contracts-after-ai-uni-merger-/107427546",
+   "t": "2026-11-25T12:13:00Z",
+   "col": 2
+  },
   {
    "id": "anthropic-agency",
    "cat": "tech",
@@ -202,7 +236,7 @@
    "t": "2026-11-24T23:11:30Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50634658",
-    "comments": 62
+    "comments": 86
    },
    "top": true
   },
@@ -302,12 +336,6 @@
    "src": "South China Morning Post",
    "url": "https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions",
    "t": "2026-11-24T14:22:05Z",
-   "img": {
-    "src": "img/nk-lab.jpg",
-    "alt": "Adults working at rows of computers in the Grand People's Study House, Pyongyang",
-    "credit": "Bj\u00f8rn Christian T\u00f8rrissen / CC BY-SA 3.0",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Grand-Peoples-Study-House-Computer-Lab.jpg"
-   },
    "col": 2
   },
   {
@@ -349,7 +377,7 @@
    "t": "2026-11-24T12:17:17Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 716
+    "comments": 770
    },
    "col": 1
   },
@@ -473,7 +501,7 @@
    "t": "2026-11-24T01:15:00Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3744
+    "comments": 3759
    },
    "group": "huang",
    "col": 0
@@ -550,51 +578,52 @@
   "level": 3,
   "label": "FEVERISH",
   "why": "Trump floats a pardon for Jensen as the DOJ digs into Nvidia chips diverted to China, and lab staff say their own models are too dangerous to release.",
-  "score": 54,
-  "delta": -2,
+  "score": 53,
+  "delta": -1,
   "moves": [
    {
-    "d": 5,
-    "why": "Rival AI bosses push back on Anthropic view that humans should SURR...",
-    "id": "anthropic-agency"
+    "d": 2,
+    "why": "Australian state SUSPENDS Deloitte over AI-riddled report... and wa...",
+    "id": "deloitte-wa"
+   },
+   {
+    "d": 1,
+    "why": "Amazon and Meta talk TRUCE in AI shopping-bot war... Zuck and Jassy...",
+    "id": "amzn-meta-muse"
    },
    {
     "d": -1,
-    "why": "Asked how DOJ can clear Huang mid-probe, AG Blanche: 'I DON'T KNOW...",
-    "id": "blanche-dodge"
-   },
-   {
-    "d": -1,
-    "why": "New York BANS AI chatbot toys for FIVE YEARS... just in time for ho...",
-    "id": "ny-ai-toys"
+    "why": "HACKERS HIT UNCLASSIFIED CIA SYSTEM... SOME SOURCES POINT TO A CHIN...",
+    "id": "cia-hack"
    }
   ],
   "contrib": {
-   "anthropic-agency": 4.8,
-   "blanche-dodge": 4.1,
-   "doj-diversion": 1.8,
-   "trump-pardon": 0.9,
-   "huang-senate": 0.9,
+   "blanche-dodge": 3.8,
+   "doj-diversion": 1.7,
+   "trump-pardon": 0.8,
+   "huang-senate": 0.8,
+   "futures-slide": 0.2,
    "huang-affairs": 0.2,
-   "huang-therapy": 0.2,
-   "trump-stake": 0.2,
-   "nvda-board-doubts": 0.1,
-   "kospi-half": 4.8,
-   "cia-hack": 8.3,
+   "huang-therapy": 0.1,
+   "trump-stake": 0.1,
+   "amzn-meta-muse": 0.8,
+   "deloitte-wa": 2.5,
+   "anthropic-agency": 4.9,
+   "kospi-half": 4.5,
+   "cia-hack": 7.5,
    "amazon-cairn": 0.3,
    "uk-ai-hacks": 0.1,
-   "taiwan-fakes": 0.7,
-   "asia-rout": 3.9,
-   "tidal-ban": 1.9,
-   "alfozan-bail": 3.7,
-   "riemann": 0.8,
+   "taiwan-fakes": 0.6,
+   "asia-rout": 3.5,
+   "tidal-ban": 1.8,
+   "alfozan-bail": 3.3,
+   "riemann": 0.6,
    "gpt6-proteins": 0.2,
-   "ny-ai-toys": 2.7,
-   "too-dangerous": 1.8,
-   "tegmark-takeover": 0.5,
-   "bubble-popped": 0.2,
-   "nk-chatbot": 0.5,
-   "ant-below-ipo": 0.5
+   "ny-ai-toys": 2.3,
+   "too-dangerous": 1.4,
+   "tegmark-takeover": 0.4,
+   "bubble-popped": 0.1,
+   "nk-chatbot": 0.2
   },
   "lastAdjust": 0,
   "history": [
@@ -761,9 +790,13 @@
    {
     "t": "2026-11-25T10:14:16Z",
     "s": 54
+   },
+   {
+    "t": "2026-11-25T12:15:17Z",
+    "s": 53
    }
   ],
-  "at": "2026-11-25T10:14:16Z",
+  "at": "2026-11-25T12:15:17Z",
   "formulaSince": "2026-11-25T07:13:23Z",
   "formula": 3
  },
@@ -818,22 +851,10 @@
      "chg": -6.54
     },
     {
-     "sym": "CBRS",
-     "name": "Cerebras",
-     "price": 88.78,
-     "chg": -9.88
-    },
-    {
      "sym": "CRWV",
      "name": "CoreWeave",
      "price": 42.6,
      "chg": -11.85
-    },
-    {
-     "sym": "NBIS",
-     "name": "Nebius",
-     "price": 87.31,
-     "chg": -10.73
     },
     {
      "sym": "PLTR",
@@ -915,24 +936,24 @@
    ]
   },
   "crypto": {
-   "asOf": "5:14 am ET",
+   "asOf": "7:15 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 58908.0,
-     "chg": -1.74
+     "price": 58464.0,
+     "chg": -2.88
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1640.98,
-     "chg": -2.6
+     "price": 1638.03,
+     "chg": -3.41
     }
    ]
   }
  },
- "next": "2026-11-25T12:18:00Z"
+ "next": "2026-11-25T13:18:00Z"
 }

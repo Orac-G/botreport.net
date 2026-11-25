@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T10:14:21Z",
- "nextUpdate": "2026-11-25T12:18:00Z",
+ "updated": "2026-11-25T12:15:19Z",
+ "nextUpdate": "2026-11-25T13:18:00Z",
  "lead": [
   {
    "headline": "HACKERS HIT UNCLASSIFIED CIA SYSTEM... SOME SOURCES POINT TO A CHINESE AI TOOL: Spy agencies' unclassified intel system breached... some sources suggest China may be behind it...",
@@ -46,11 +46,32 @@
    "label": "Company claim",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50634658",
-    "comments": 62
+    "comments": 86
    }
   }
  ],
  "stories": [
+  {
+   "headline": "AI SELL-OFF RETURNS: Nasdaq futures sink as Jensen's comeback revives 'key-man risk' fears...",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/25/futures-sink-further-into-the-red-as-tech-worries-resurge.html",
+   "found": "2026-11-25T12:13:00Z",
+   "section": "business"
+  },
+  {
+   "headline": "Amazon and Meta talk TRUCE in AI shopping-bot war... Zuck and Jassy must sign off, sources say",
+   "source": "Fortune",
+   "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/",
+   "found": "2026-11-25T12:13:00Z",
+   "section": "business"
+  },
+  {
+   "headline": "Australian state SUSPENDS Deloitte over AI-riddled report... and wants its fee BACK",
+   "source": "ABC (Australia)",
+   "url": "https://www.abc.net.au/news/2026-11-25/deloitte-suspended-from-wa-govt-contracts-after-ai-uni-merger-/107427546",
+   "found": "2026-11-25T12:13:00Z",
+   "section": "quirky"
+  },
   {
    "headline": "Catching up: Jensen disclosed MORE AFFAIRS to Nvidia's board before it rehired him, WSJ says...",
    "source": "Wall Street Journal",
@@ -237,7 +258,7 @@
    "section": "business",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 716
+    "comments": 770
    }
   },
   {
@@ -312,7 +333,7 @@
    "section": "business",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3744
+    "comments": 3759
    }
   },
   {
@@ -364,7 +385,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
  },
  "skynetOMeter": {
-  "score": 54,
+  "score": 53,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
