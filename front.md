@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Wednesday, November 25, 2026, 2:14 PM ET. Every headline links to the original reporting or primary source.
+Updated Wednesday, November 25, 2026, 3:13 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,8 @@ Updated Wednesday, November 25, 2026, 2:14 PM ET. Every headline links to the or
 
 ## All stories (newest first)
 
+- [Vance says AG Blanche ASSURED him Jensen was 'under NO investigation'... blames 'anonymous sources'](https://thehill.com/homenews/administration/6243432-vance-huang-nvidia-investigation/) (The Hill)
+- [Italy and Switzerland warn AI AGENTS are breaching critical infrastructure... 'writing malicious code in real time'](https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/) (BleepingComputer)
 - [S&P puts Nvidia on DOWNGRADE WATCH over the Jensen U-turn... cites 'governance risks'](https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries) (Bloomberg)
 - [Amodei HITS BACK at Axios: humans should NOT surrender free will to AI...](https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios) (Axios)
 - [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
@@ -51,12 +53,10 @@ Updated Wednesday, November 25, 2026, 2:14 PM ET. Every headline links to the or
 - [Critics: Nvidia board's Huang U-TURN raises doubts it's really independent...](https://www.reuters.com/legal/transactional/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-2026-11-24/) (Reuters)
 - [Krugman and co. declare the AI bubble POPPED... Wall Street isn't listening](https://fortune.com/2026/11/23/ai-bubble-krugman-stoller-dean-baker-wall-street-recession-wealth-effect/) (Fortune)
 - [Hackers used AI to raid the European Commission... and got away with personal data](https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834) (The Register)
-- [North Korea unveils its first AI chatbot... but it won't answer 'uncultured questions'](https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions) (South China Morning Post)
 - [Trump bought Nvidia 28 TIMES this year... up to $16.7 MILLION, disclosures show](https://www.kadoa.com/congress/insights/trump-nvidia) (Kadoa)
 - [Anthropic SINKS BELOW its $83 IPO price... debut rally unravels](https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/) (Bloomberg)
 - [Feds BLACKLIST Megaspeed, the Nvidia chip buyer at the center of the Huang scandal...](https://www.yahoo.com/news/politics/articles/us-blacklists-megaspeed-over-suspected-010342870.html) (Yahoo News)
 - [Anthropic mathematician and NYU prof claim AI-aided proof cracks $1M Navier-Stokes riddle...](https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/) (Scientific American)
-- [Fund that bet AGAINST Nvidia halted after 91% wipeout...](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/short-nvidia-fund-halted-after-91-wipeout-myoKEHNFkGcseucDUC48) (WSJ)
 - [Paris Hilton takes her fight against AI porn fakes to Congress...](https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html) (CNBC)
 - [OpenAI's top scientist begs rivals: Let's all SLOW DOWN... Altman signs on](https://thenextweb.com/news/openai-chief-scientist-shared-ai-limits) (The Next Web)
 - [Nvidia brings Jensen BACK as CEO two weeks after he quit... Trump says he made the call](https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia) (CNN)
@@ -69,6 +69,6 @@ Updated Wednesday, November 25, 2026, 2:14 PM ET. Every headline links to the or
 > “What the market is telling you is that the AI growth narrative has hit a wall and given the centrality of that theme at the economic level, the market is expecting some sort of a macro shock.”
 > — Venu Krishna, head of U.S. equity strategy at Barclays, on the AI sell-off that hit Nvidia ([source](https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html))
 
-Skynet-o-Meter: 60 out of 100.
+Skynet-o-Meter: 58 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

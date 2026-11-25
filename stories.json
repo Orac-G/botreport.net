@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-25T19:14:44Z",
+ "updated": "2026-11-25T20:13:19Z",
  "stories": [
+  {
+   "id": "vance-no-probe",
+   "cat": "politics",
+   "h": "Vance says AG Blanche ASSURED him Jensen was 'under NO investigation'... blames 'anonymous sources'",
+   "src": "The Hill",
+   "url": "https://thehill.com/homenews/administration/6243432-vance-huang-nvidia-investigation/",
+   "t": "2026-11-25T20:12:53Z",
+   "group": "huang-probe",
+   "col": 0
+  },
+  {
+   "id": "agent-attacks",
+   "cat": "tech",
+   "h": "Italy and Switzerland warn AI AGENTS are breaching critical infrastructure... 'writing malicious code in real time'",
+   "src": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+   "t": "2026-11-25T20:12:53Z",
+   "group": "hacks",
+   "col": 0
+  },
   {
    "id": "nvda-sp-watch",
    "cat": "business",
@@ -388,7 +408,7 @@
    "t": "2026-11-24T23:11:30Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50634658",
-    "comments": 86
+    "comments": 94
    },
    "col": 2
   },
@@ -472,15 +492,6 @@
    "col": 0
   },
   {
-   "id": "nk-chatbot",
-   "cat": "quirky",
-   "h": "North Korea unveils its first AI chatbot... but it won't answer 'uncultured questions'",
-   "src": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions",
-   "t": "2026-11-24T14:22:05Z",
-   "col": 2
-  },
-  {
    "id": "nvda-board-doubts",
    "cat": "politics",
    "group": "huang",
@@ -559,20 +570,6 @@
    "col": 2
   },
   {
-   "id": "short-nvda-wipeout",
-   "cat": "business",
-   "h": "Fund that bet AGAINST Nvidia halted after 91% wipeout...",
-   "src": "WSJ",
-   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/short-nvidia-fund-halted-after-91-wipeout-myoKEHNFkGcseucDUC48",
-   "t": "2026-11-24T03:05:00Z",
-   "hn": {
-    "url": "https://news.ycombinator.com/item?id=50621127",
-    "comments": 4
-   },
-   "group": "markets",
-   "col": 1
-  },
-  {
    "id": "hilton-defiance",
    "cat": "politics",
    "h": "Paris Hilton takes her fight against AI porn fakes to Congress...",
@@ -645,44 +642,40 @@
   "day": "2026-11-25"
  },
  "meter": {
-  "level": 4,
-  "score": 60,
-  "delta": 0,
+  "level": 3,
+  "score": 58,
+  "delta": -2,
   "moves": [
    {
-    "d": 6,
-    "why": "S&P puts Nvidia on DOWNGRADE WATCH over the Jensen U-turn... cites...",
-    "id": "nvda-sp-watch"
-   },
-   {
-    "d": -3,
-    "why": "NVIDIA PLUNGES, FEAR GAUGE TOPS 30",
-    "id": "nasdaq-open"
+    "d": 1,
+    "why": "Italy and Switzerland warn AI AGENTS are breaching critical infrast...",
+    "id": "agent-attacks"
    },
    {
     "d": -1,
-    "why": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was...",
-    "id": "huang-spy-brief"
+    "why": "AI TRADE UNRAVELS: Nasdaq 100 heads for its first BEAR MARKET in mo...",
+    "id": "nasdaq-bear"
    }
   ],
   "contrib": {
-   "nvda-sp-watch": 6.3,
-   "nasdaq-open": 2.3,
-   "huang-spy-brief": 0.9,
+   "nvda-sp-watch": 6.6,
+   "nasdaq-open": 2.1,
+   "huang-spy-brief": 0.8,
+   "vance-no-probe": 0.3,
    "credit-fear": 0.2,
-   "huang-affairs": 0.1,
-   "anthropic-agency": 1.7,
+   "agent-attacks": 1.1,
+   "anthropic-agency": 1.2,
    "amodei-free-will": 0.5,
-   "nasdaq-bear": 6.9,
-   "ant-premarket": 2.0,
-   "spacex-starmind": 6.3,
-   "cai-auction": 8.4,
-   "talkie-pulled": 0.9,
-   "dc-loans": 5.2,
-   "ai-targets": 3.4,
-   "motson-ai": 2.6,
-   "amzn-meta-muse": 0.5,
-   "deloitte-wa": 1.4
+   "nasdaq-bear": 6.3,
+   "ant-premarket": 1.8,
+   "spacex-starmind": 6.0,
+   "cai-auction": 8.0,
+   "talkie-pulled": 0.8,
+   "dc-loans": 4.8,
+   "ai-targets": 3.2,
+   "motson-ai": 2.4,
+   "amzn-meta-muse": 0.4,
+   "deloitte-wa": 1.2
   },
   "lastAdjust": 0,
   "history": [
@@ -881,13 +874,17 @@
    {
     "t": "2026-11-25T19:14:41Z",
     "s": 60
+   },
+   {
+    "t": "2026-11-25T20:13:17Z",
+    "s": 58
    }
   ],
-  "at": "2026-11-25T19:14:41Z",
+  "at": "2026-11-25T20:13:17Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 0,
+   "delta": -2,
    "period": "since last reading",
    "line": [
     {
@@ -913,37 +910,37 @@
     {
      "t": "2026-11-25T19:14:41Z",
      "s": 60
+    },
+    {
+     "t": "2026-11-25T20:13:17Z",
+     "s": 58
     }
    ],
    "drivers": [
     {
-     "d": 6,
-     "id": "nvda-sp-watch",
-     "text": "S&P puts Nvidia on downgrade watch over Jensen U-turn"
-    },
-    {
-     "d": -6,
+     "d": -2,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "ai-targets": -0.4,
-   "amodei-free-will": 0.5,
+   "agent-attacks": 1.1,
+   "ai-targets": -0.2,
    "amzn-meta-muse": -0.1,
-   "ant-premarket": -0.3,
-   "anthropic-agency": -0.6,
-   "cai-auction": 0.1,
-   "credit-fear": -0.1,
-   "dc-loans": -0.5,
-   "deloitte-wa": -0.3,
-   "huang-spy-brief": -1.1,
-   "kospi-half": -0.6,
+   "ant-premarket": -0.2,
+   "anthropic-agency": -0.5,
+   "cai-auction": -0.4,
+   "dc-loans": -0.4,
+   "deloitte-wa": -0.2,
+   "huang-affairs": -0.1,
+   "huang-spy-brief": -0.1,
    "motson-ai": -0.2,
-   "nasdaq-bear": -0.8,
-   "nasdaq-open": -2.8,
-   "nvda-sp-watch": 6.3,
-   "talkie-pulled": -0.1
+   "nasdaq-bear": -0.6,
+   "nasdaq-open": -0.2,
+   "nvda-sp-watch": 0.3,
+   "spacex-starmind": -0.3,
+   "talkie-pulled": -0.1,
+   "vance-no-probe": 0.3
   }
  },
  "state": {
@@ -980,51 +977,51 @@
    ]
   },
   "stocks": {
-   "asOf": "2:14 pm ET",
+   "asOf": "3:13 pm ET",
    "src": "Yahoo Finance \u00b7 change vs. prior close",
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
     {
      "sym": "NVDA",
      "name": "Nvidia",
-     "price": 147.44,
-     "chg": -5.11
+     "price": 148.09,
+     "chg": -4.69
     },
     {
      "sym": "ANT",
      "name": "Anthropic",
-     "price": 85.38,
-     "chg": 4.24
+     "price": 83.75,
+     "chg": 2.25
     },
     {
      "sym": "CBRS",
      "name": "Cerebras",
-     "price": 89.59,
-     "chg": 0.91
+     "price": 88.67,
+     "chg": -0.12
     },
     {
      "sym": "CRWV",
      "name": "CoreWeave",
-     "price": 41.13,
-     "chg": -3.45
+     "price": 41.38,
+     "chg": -2.89
     },
     {
      "sym": "NBIS",
      "name": "Nebius",
-     "price": 86.03,
-     "chg": -1.45
+     "price": 85.53,
+     "chg": -2.02
     },
     {
      "sym": "PLTR",
      "name": "Palantir",
-     "price": 163.86,
-     "chg": 1.66
+     "price": 163.79,
+     "chg": 1.62
     },
     {
      "sym": "NASDAQ",
      "name": "Composite",
-     "price": 23537.11,
-     "chg": -0.83
+     "price": 23541.96,
+     "chg": -0.81
     }
    ]
   },
@@ -1094,24 +1091,24 @@
    ]
   },
   "crypto": {
-   "asOf": "2:14 pm ET",
+   "asOf": "3:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59832.0,
-     "chg": -0.09
+     "price": 59898.0,
+     "chg": 0.4
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1682.69,
-     "chg": 0.23
+     "price": 1680.86,
+     "chg": 0.45
     }
    ]
   }
  },
- "next": "2026-11-25T20:18:00Z"
+ "next": "2026-11-25T21:18:00Z"
 }

@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T19:14:44Z",
- "nextUpdate": "2026-11-25T20:18:00Z",
+ "updated": "2026-11-25T20:13:19Z",
+ "nextUpdate": "2026-11-25T21:18:00Z",
  "lead": [
   {
    "headline": "AI TRADE UNRAVELS: Nasdaq 100 heads for its first BEAR MARKET in more than a year...: Investors dump stocks exposed to AI as sentiment deteriorates rapidly, Bloomberg says",
@@ -45,6 +45,20 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Vance says AG Blanche ASSURED him Jensen was 'under NO investigation'... blames 'anonymous sources'",
+   "source": "The Hill",
+   "url": "https://thehill.com/homenews/administration/6243432-vance-huang-nvidia-investigation/",
+   "found": "2026-11-25T20:12:53Z",
+   "section": "politics"
+  },
+  {
+   "headline": "Italy and Switzerland warn AI AGENTS are breaching critical infrastructure... 'writing malicious code in real time'",
+   "source": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+   "found": "2026-11-25T20:12:53Z",
+   "section": "tech"
+  },
   {
    "headline": "S&P puts Nvidia on DOWNGRADE WATCH over the Jensen U-turn... cites 'governance risks'",
    "source": "Bloomberg",
@@ -235,7 +249,7 @@
    "label": "Company claim",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50634658",
-    "comments": 86
+    "comments": 94
    }
   },
   {
@@ -311,13 +325,6 @@
    "section": "tech"
   },
   {
-   "headline": "North Korea unveils its first AI chatbot... but it won't answer 'uncultured questions'",
-   "source": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions",
-   "found": "2026-11-24T14:22:05Z",
-   "section": "quirky"
-  },
-  {
    "headline": "Trump bought Nvidia 28 TIMES this year... up to $16.7 MILLION, disclosures show",
    "source": "Kadoa",
    "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
@@ -356,17 +363,6 @@
    "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/",
    "found": "2026-11-24T03:15:30Z",
    "section": "tech"
-  },
-  {
-   "headline": "Fund that bet AGAINST Nvidia halted after 91% wipeout...",
-   "source": "WSJ",
-   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/short-nvidia-fund-halted-after-91-wipeout-myoKEHNFkGcseucDUC48",
-   "found": "2026-11-24T03:05:00Z",
-   "section": "business",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50621127",
-    "comments": 4
-   }
   },
   {
    "headline": "Paris Hilton takes her fight against AI porn fakes to Congress...",
@@ -421,7 +417,7 @@
   "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
  },
  "skynetOMeter": {
-  "score": 60,
+  "score": 58,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
