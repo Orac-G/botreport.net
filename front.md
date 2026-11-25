@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Wednesday, November 25, 2026, 1:14 PM ET. Every headline links to the original reporting or primary source.
+Updated Wednesday, November 25, 2026, 2:14 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,8 @@ Updated Wednesday, November 25, 2026, 1:14 PM ET. Every headline links to the or
 
 ## All stories (newest first)
 
+- [S&P puts Nvidia on DOWNGRADE WATCH over the Jensen U-turn... cites 'governance risks'](https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries) (Bloomberg)
+- [Amodei HITS BACK at Axios: humans should NOT surrender free will to AI...](https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios) (Axios)
 - [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
 - [Nvidia and CoreWeave CREDIT-RISK gauges hit RECORD HIGHS as Wall Street's AI fears mount...](https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount) (Bloomberg)
 - [Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds](https://www.militarytimes.com/news/your-military/2026/11/25/ai-models-easily-coaxed-into-identifying-military-targets-study-finds/) (Military Times · Not yet verified)
@@ -55,20 +57,17 @@ Updated Wednesday, November 25, 2026, 1:14 PM ET. Every headline links to the or
 - [Feds BLACKLIST Megaspeed, the Nvidia chip buyer at the center of the Huang scandal...](https://www.yahoo.com/news/politics/articles/us-blacklists-megaspeed-over-suspected-010342870.html) (Yahoo News)
 - [Anthropic mathematician and NYU prof claim AI-aided proof cracks $1M Navier-Stokes riddle...](https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/) (Scientific American)
 - [Fund that bet AGAINST Nvidia halted after 91% wipeout...](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/short-nvidia-fund-halted-after-91-wipeout-myoKEHNFkGcseucDUC48) (WSJ)
-- [NASDAQ ROCKETS 6.5%... Best day in 19 months as Jensen returns](https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html) (CNBC)
-- [AI coding agent LEAKS THE KEYS... hackers grab months of customer prompts](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026) (Together AI)
 - [Paris Hilton takes her fight against AI porn fakes to Congress...](https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html) (CNBC)
 - [OpenAI's top scientist begs rivals: Let's all SLOW DOWN... Altman signs on](https://thenextweb.com/news/openai-chief-scientist-shared-ai-limits) (The Next Web)
 - [Nvidia brings Jensen BACK as CEO two weeks after he quit... Trump says he made the call](https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia) (CNN)
-- [Nvidia adds nearly $1 TRILLION in a day... Best since 2003](https://finance.yahoo.com/technology/article/nvidia-reinstates-jensen-huang-as-ceo-stock-rockets-141145439.html) (Yahoo Finance)
 - [Men blow THOUSANDS on AI girlfriends modeled on GTA 6 heroine...](https://www.vice.com/en/article/men-are-spending-thousands-on-ai-girlfriends-inspired-by-gta-6s-lucia-yes-seriously/) (Vice)
 - [States sue Musk companies over Grok's SEX DEEPFAKES](https://opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue) (OPB)
 - [Apple slaps ADULTS ONLY label on AI girlfriends...](https://cybernews.com/ai-news/apple-app-store-ai-companions/) (Cybernews)
 
 ## Quote of the Day
 
-> “When I talk to people who work for Anthropic, after they've had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world.”
-> — Max Tegmark, MIT physicist, in an interview with Novara Media ([source](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/))
+> “What the market is telling you is that the AI growth narrative has hit a wall and given the centrality of that theme at the economic level, the market is expecting some sort of a macro shock.”
+> — Venu Krishna, head of U.S. equity strategy at Barclays, on the AI sell-off that hit Nvidia ([source](https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html))
 
 Skynet-o-Meter: 60 out of 100.
 

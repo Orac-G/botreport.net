@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T18:14:05Z",
- "nextUpdate": "2026-11-25T19:18:00Z",
+ "updated": "2026-11-25T19:14:44Z",
+ "nextUpdate": "2026-11-25T20:18:00Z",
  "lead": [
   {
    "headline": "AI TRADE UNRAVELS: Nasdaq 100 heads for its first BEAR MARKET in more than a year...: Investors dump stocks exposed to AI as sentiment deteriorates rapidly, Bloomberg says",
@@ -45,6 +45,20 @@
   }
  ],
  "stories": [
+  {
+   "headline": "S&P puts Nvidia on DOWNGRADE WATCH over the Jensen U-turn... cites 'governance risks'",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries",
+   "found": "2026-11-25T19:11:51Z",
+   "section": "business"
+  },
+  {
+   "headline": "Amodei HITS BACK at Axios: humans should NOT surrender free will to AI...",
+   "source": "Axios",
+   "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
+   "found": "2026-11-25T19:11:51Z",
+   "section": "tech"
+  },
   {
    "headline": "42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors",
    "source": "TechCrunch",
@@ -355,20 +369,6 @@
    }
   },
   {
-   "headline": "NASDAQ ROCKETS 6.5%... Best day in 19 months as Jensen returns",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-   "found": "2026-11-24T02:14:00Z",
-   "section": "business"
-  },
-  {
-   "headline": "AI coding agent LEAKS THE KEYS... hackers grab months of customer prompts",
-   "source": "Together AI",
-   "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-   "found": "2026-11-24T02:12:00Z",
-   "section": "tech"
-  },
-  {
    "headline": "Paris Hilton takes her fight against AI porn fakes to Congress...",
    "source": "CNBC",
    "url": "https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html",
@@ -394,13 +394,6 @@
    }
   },
   {
-   "headline": "Nvidia adds nearly $1 TRILLION in a day... Best since 2003",
-   "source": "Yahoo Finance",
-   "url": "https://finance.yahoo.com/technology/article/nvidia-reinstates-jensen-huang-as-ceo-stock-rockets-141145439.html",
-   "found": "2026-11-24T01:10:00Z",
-   "section": "business"
-  },
-  {
    "headline": "Men blow THOUSANDS on AI girlfriends modeled on GTA 6 heroine...",
    "source": "Vice",
    "url": "https://www.vice.com/en/article/men-are-spending-thousands-on-ai-girlfriends-inspired-by-gta-6s-lucia-yes-seriously/",
@@ -423,9 +416,9 @@
   }
  ],
  "quoteOfTheDay": {
-  "text": "When I talk to people who work for Anthropic, after they've had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world.",
-  "who": "Max Tegmark, MIT physicist, in an interview with Novara Media",
-  "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
+  "text": "What the market is telling you is that the AI growth narrative has hit a wall and given the centrality of that theme at the economic level, the market is expecting some sort of a macro shock.",
+  "who": "Venu Krishna, head of U.S. equity strategy at Barclays, on the AI sell-off that hit Nvidia",
+  "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
  },
  "skynetOMeter": {
   "score": 60,

@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-25T18:14:05Z",
+ "updated": "2026-11-25T19:14:44Z",
  "stories": [
+  {
+   "id": "nvda-sp-watch",
+   "cat": "business",
+   "red": true,
+   "h": "S&P puts Nvidia on DOWNGRADE WATCH over the Jensen U-turn... cites 'governance risks'",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries",
+   "t": "2026-11-25T19:11:51Z",
+   "group": "markets",
+   "col": 1,
+   "card": "S&P puts Nvidia on downgrade watch over Jensen U-turn"
+  },
+  {
+   "id": "amodei-free-will",
+   "cat": "tech",
+   "h": "Amodei HITS BACK at Axios: humans should NOT surrender free will to AI...",
+   "src": "Axios",
+   "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
+   "t": "2026-11-25T19:11:51Z",
+   "group": "agency",
+   "col": 2,
+   "img": {
+    "src": "img/dario-amodei.jpg",
+    "alt": "Anthropic CEO Dario Amodei",
+    "credit": "TechCrunch / CC BY 2.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_01_(cropped).jpg"
+   }
+  },
   {
    "id": "nasdaq-bear",
    "cat": "business",
@@ -157,13 +185,7 @@
    "src": "Fortune",
    "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/",
    "t": "2026-11-25T12:13:00Z",
-   "col": 2,
-   "img": {
-    "src": "img/mark-zuckerberg.jpg",
-    "alt": "Meta CEO Mark Zuckerberg",
-    "credit": "The White House / Public domain",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:P20260929DT-1655_(55561811540)_(cropped_2).jpg"
-   }
+   "col": 2
   },
   {
    "id": "deloitte-wa",
@@ -184,7 +206,8 @@
    "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
    "t": "2026-11-25T10:11:47Z",
    "card": "AI bosses balk at Anthropic idea: surrender decisions to AI",
-   "col": 2
+   "col": 2,
+   "group": "agency"
   },
   {
    "id": "huang-affairs",
@@ -403,7 +426,7 @@
     "comments": 12
    },
    "group": "doom",
-   "col": 0
+   "col": 1
   },
   {
    "id": "tegmark-takeover",
@@ -417,7 +440,7 @@
     "comments": 97
    },
    "group": "doom",
-   "col": 0
+   "col": 1
   },
   {
    "id": "uk-ai-hacks",
@@ -550,26 +573,6 @@
    "col": 1
   },
   {
-   "id": "nasdaq-rally",
-   "red": true,
-   "cat": "business",
-   "h": "NASDAQ ROCKETS 6.5%... Best day in 19 months as Jensen returns",
-   "src": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-   "t": "2026-11-24T02:14:00Z",
-   "group": "markets",
-   "col": 1
-  },
-  {
-   "id": "together-leak",
-   "cat": "tech",
-   "h": "AI coding agent LEAKS THE KEYS... hackers grab months of customer prompts",
-   "src": "Together AI",
-   "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-   "t": "2026-11-24T02:12:00Z",
-   "col": 2
-  },
-  {
    "id": "hilton-defiance",
    "cat": "politics",
    "h": "Paris Hilton takes her fight against AI porn fakes to Congress...",
@@ -587,7 +590,7 @@
    "url": "https://thenextweb.com/news/openai-chief-scientist-shared-ai-limits",
    "t": "2026-11-24T02:09:00Z",
    "group": "doom",
-   "col": 0
+   "col": 1
   },
   {
    "id": "huang-back",
@@ -603,17 +606,6 @@
    },
    "group": "huang",
    "col": 0
-  },
-  {
-   "id": "nvda-1t",
-   "red": true,
-   "cat": "business",
-   "h": "Nvidia adds nearly $1 TRILLION in a day... Best since 2003",
-   "src": "Yahoo Finance",
-   "url": "https://finance.yahoo.com/technology/article/nvidia-reinstates-jensen-huang-as-ceo-stock-rockets-141145439.html",
-   "t": "2026-11-24T01:10:00Z",
-   "group": "markets",
-   "col": 1
   },
   {
    "id": "gta-lucia",
@@ -647,49 +639,50 @@
   }
  ],
  "quote": {
-  "text": "When I talk to people who work for Anthropic, after they've had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world.",
-  "who": "Max Tegmark, MIT physicist, in an interview with Novara Media",
-  "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
-  "day": "2026-11-24"
+  "text": "What the market is telling you is that the AI growth narrative has hit a wall and given the centrality of that theme at the economic level, the market is expecting some sort of a macro shock.",
+  "who": "Venu Krishna, head of U.S. equity strategy at Barclays, on the AI sell-off that hit Nvidia",
+  "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+  "day": "2026-11-25"
  },
  "meter": {
   "level": 4,
   "score": 60,
-  "delta": 4,
+  "delta": 0,
   "moves": [
    {
-    "d": 8,
-    "why": "42 state AGs fight Character.ai plan to AUCTION private chats from...",
-    "id": "cai-auction"
-   },
-   {
     "d": 6,
-    "why": "FCC clears Musk's SpaceX to launch up to ONE MILLION satellites......",
-    "id": "spacex-starmind"
+    "why": "S&P puts Nvidia on DOWNGRADE WATCH over the Jensen U-turn... cites...",
+    "id": "nvda-sp-watch"
    },
    {
-    "d": -2,
-    "why": "AI TRADE UNRAVELS: Nasdaq 100 heads for its first BEAR MARKET in mo...",
-    "id": "nasdaq-bear"
+    "d": -3,
+    "why": "NVIDIA PLUNGES, FEAR GAUGE TOPS 30",
+    "id": "nasdaq-open"
+   },
+   {
+    "d": -1,
+    "why": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was...",
+    "id": "huang-spy-brief"
    }
   ],
   "contrib": {
-   "nasdaq-bear": 7.7,
-   "ant-premarket": 2.3,
-   "spacex-starmind": 6.3,
-   "cai-auction": 8.3,
-   "talkie-pulled": 1.0,
-   "dc-loans": 5.7,
-   "nasdaq-open": 5.1,
-   "huang-spy-brief": 2.0,
-   "credit-fear": 0.3,
+   "nvda-sp-watch": 6.3,
+   "nasdaq-open": 2.3,
+   "huang-spy-brief": 0.9,
+   "credit-fear": 0.2,
    "huang-affairs": 0.1,
-   "ai-targets": 3.8,
-   "motson-ai": 2.8,
-   "amzn-meta-muse": 0.6,
-   "deloitte-wa": 1.7,
-   "anthropic-agency": 2.3,
-   "kospi-half": 0.6
+   "anthropic-agency": 1.7,
+   "amodei-free-will": 0.5,
+   "nasdaq-bear": 6.9,
+   "ant-premarket": 2.0,
+   "spacex-starmind": 6.3,
+   "cai-auction": 8.4,
+   "talkie-pulled": 0.9,
+   "dc-loans": 5.2,
+   "ai-targets": 3.4,
+   "motson-ai": 2.6,
+   "amzn-meta-muse": 0.5,
+   "deloitte-wa": 1.4
   },
   "lastAdjust": 0,
   "history": [
@@ -884,13 +877,17 @@
    {
     "t": "2026-11-25T18:13:59Z",
     "s": 60
+   },
+   {
+    "t": "2026-11-25T19:14:41Z",
+    "s": 60
    }
   ],
-  "at": "2026-11-25T18:13:59Z",
+  "at": "2026-11-25T19:14:41Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 4,
+   "delta": 0,
    "period": "since last reading",
    "line": [
     {
@@ -912,40 +909,41 @@
     {
      "t": "2026-11-25T18:13:59Z",
      "s": 60
+    },
+    {
+     "t": "2026-11-25T19:14:41Z",
+     "s": 60
     }
    ],
    "drivers": [
     {
-     "d": 8,
-     "id": "cai-auction",
-     "text": "42 AGs fight Character.ai sale of 21M users' private chats"
-    },
-    {
      "d": 6,
-     "id": "spacex-starmind",
-     "text": "FCC clears SpaceX for 1 MILLION data-center satellites"
+     "id": "nvda-sp-watch",
+     "text": "S&P puts Nvidia on downgrade watch over Jensen U-turn"
     },
     {
-     "d": -10,
+     "d": -6,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "ai-targets": -0.7,
+   "ai-targets": -0.4,
+   "amodei-free-will": 0.5,
    "amzn-meta-muse": -0.1,
-   "ant-premarket": -0.5,
-   "anthropic-agency": -0.8,
-   "cai-auction": 8.3,
-   "dc-loans": -1.1,
-   "deloitte-wa": -0.5,
-   "huang-spy-brief": -0.5,
+   "ant-premarket": -0.3,
+   "anthropic-agency": -0.6,
+   "cai-auction": 0.1,
+   "credit-fear": -0.1,
+   "dc-loans": -0.5,
+   "deloitte-wa": -0.3,
+   "huang-spy-brief": -1.1,
    "kospi-half": -0.6,
-   "motson-ai": -0.6,
-   "nasdaq-bear": -1.6,
-   "nasdaq-open": -1.1,
-   "spacex-starmind": 6.3,
-   "talkie-pulled": -1.5
+   "motson-ai": -0.2,
+   "nasdaq-bear": -0.8,
+   "nasdaq-open": -2.8,
+   "nvda-sp-watch": 6.3,
+   "talkie-pulled": -0.1
   }
  },
  "state": {
@@ -982,51 +980,51 @@
    ]
   },
   "stocks": {
-   "asOf": "1:13 pm ET",
+   "asOf": "2:14 pm ET",
    "src": "Yahoo Finance \u00b7 change vs. prior close",
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
     {
      "sym": "NVDA",
      "name": "Nvidia",
-     "price": 146.13,
-     "chg": -5.95
+     "price": 147.44,
+     "chg": -5.11
     },
     {
      "sym": "ANT",
      "name": "Anthropic",
-     "price": 84.61,
-     "chg": 3.3
+     "price": 85.38,
+     "chg": 4.24
     },
     {
      "sym": "CBRS",
      "name": "Cerebras",
-     "price": 87.28,
-     "chg": -1.7
+     "price": 89.59,
+     "chg": 0.91
     },
     {
      "sym": "CRWV",
      "name": "CoreWeave",
-     "price": 40.5,
-     "chg": -4.95
+     "price": 41.13,
+     "chg": -3.45
     },
     {
      "sym": "NBIS",
      "name": "Nebius",
-     "price": 81.88,
-     "chg": -6.2
+     "price": 86.03,
+     "chg": -1.45
     },
     {
      "sym": "PLTR",
      "name": "Palantir",
-     "price": 161.31,
-     "chg": 0.08
+     "price": 163.86,
+     "chg": 1.66
     },
     {
      "sym": "NASDAQ",
      "name": "Composite",
-     "price": 23298.38,
-     "chg": -1.83
+     "price": 23537.11,
+     "chg": -0.83
     }
    ]
   },
@@ -1096,24 +1094,24 @@
    ]
   },
   "crypto": {
-   "asOf": "1:13 pm ET",
+   "asOf": "2:14 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59727.0,
-     "chg": -0.54
+     "price": 59832.0,
+     "chg": -0.09
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1680.38,
-     "chg": -0.13
+     "price": 1682.69,
+     "chg": 0.23
     }
    ]
   }
  },
- "next": "2026-11-25T19:18:00Z"
+ "next": "2026-11-25T20:18:00Z"
 }
