@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Wednesday, November 25, 2026, 2:13 AM ET. Every headline links to the original reporting or primary source.
+Updated Wednesday, November 25, 2026, 5:14 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -10,13 +10,14 @@ Updated Wednesday, November 25, 2026, 2:13 AM ET. Every headline links to the or
 
 ## Top stories
 
+- [Rival AI bosses push back on Anthropic view that humans should SURRENDER some decisions to superintelligent AI, sources tell Axios...](https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will) (Axios)
 - [SoftBank PLUNGES 14% as AI sell-off rips through Asia's chip giants...](https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html) (CNBC)
 - [Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor](https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html) (CNBC)
 - [OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) (OpenAI · Company claim)
-- [New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping](https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot) (Office of the Governor of New York)
 
 ## All stories (newest first)
 
+- [Catching up: Jensen disclosed MORE AFFAIRS to Nvidia's board before it rehired him, WSJ says...](https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961) (Wall Street Journal · From Nov. 23)
 - [Korea's chip-heavy stock market has lost NEARLY HALF its value in five months... AI doubts blamed](https://www.koreaherald.com/article/10949190) (Korea Herald)
 - [Amazon says China-linked hackers' AI agent found and exploited a ZERO-DAY on its own...](https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/) (Amazon (AWS Security Blog) · Company claim)
 - [Asked how DOJ can clear Huang mid-probe, AG Blanche: 'I DON'T KNOW WHAT YOU'RE TALKING ABOUT'... FBI's Patel dodges too](https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html) (CNBC)
@@ -27,6 +28,7 @@ Updated Wednesday, November 25, 2026, 2:13 AM ET. Every headline links to the or
 - [Trump mulls a US STAKE in Nvidia, Intel-style, after Jensen's return...](https://www.businessinsider.com/trump-us-equity-stake-nvidia-not-too-late-2026-11) (Business Insider)
 - [NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...](https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html) (New York Times · Corrected: An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries.)
 - [Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness](https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html) (CNBC)
+- [New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping](https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot) (Office of the Governor of New York)
 - [Anthropic and OpenAI staff fear their new models are TOO DANGEROUS to release...](https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks) (Axios)
 - [MIT's Tegmark claims Anthropic staff talk of 'TAKING OVER THE WORLD' after a few drinks...](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/) (Novara Media)
 - [UK cyber agency warns of 'MARKED RISE' in AI-driven attacks...](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security) (TechCrunch)
@@ -59,6 +61,6 @@ Updated Wednesday, November 25, 2026, 2:13 AM ET. Every headline links to the or
 > “When I talk to people who work for Anthropic, after they've had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world.”
 > — Max Tegmark, MIT physicist, in an interview with Novara Media ([source](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/))
 
-Skynet-o-Meter: 56 out of 100.
+Skynet-o-Meter: 54 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

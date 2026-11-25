@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T07:13:27Z",
- "nextUpdate": "2026-11-25T10:18:00Z",
+ "updated": "2026-11-25T10:14:21Z",
+ "nextUpdate": "2026-11-25T12:18:00Z",
  "lead": [
   {
    "headline": "HACKERS HIT UNCLASSIFIED CIA SYSTEM... SOME SOURCES POINT TO A CHINESE AI TOOL: Spy agencies' unclassified intel system breached... some sources suggest China may be behind it...",
@@ -16,6 +16,13 @@
   }
  ],
  "topLinks": [
+  {
+   "headline": "Rival AI bosses push back on Anthropic view that humans should SURRENDER some decisions to superintelligent AI, sources tell Axios...",
+   "source": "Axios",
+   "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
+   "found": "2026-11-25T10:11:47Z",
+   "section": "tech"
+  },
   {
    "headline": "SoftBank PLUNGES 14% as AI sell-off rips through Asia's chip giants...",
    "source": "CNBC",
@@ -41,20 +48,17 @@
     "url": "https://news.ycombinator.com/item?id=50634658",
     "comments": 62
    }
-  },
-  {
-   "headline": "New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping",
-   "source": "Office of the Governor of New York",
-   "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
-   "found": "2026-11-24T22:11:23Z",
-   "section": "politics",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50635246",
-    "comments": 3
-   }
   }
  ],
  "stories": [
+  {
+   "headline": "Catching up: Jensen disclosed MORE AFFAIRS to Nvidia's board before it rehired him, WSJ says...",
+   "source": "Wall Street Journal",
+   "url": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961",
+   "found": "2026-11-25T10:11:47Z",
+   "section": "business",
+   "label": "From Nov. 23"
+  },
   {
    "headline": "Korea's chip-heavy stock market has lost NEARLY HALF its value in five months... AI doubts blamed",
    "source": "Korea Herald",
@@ -127,6 +131,17 @@
    "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
    "found": "2026-11-25T01:11:00Z",
    "section": "politics"
+  },
+  {
+   "headline": "New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping",
+   "source": "Office of the Governor of New York",
+   "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
+   "found": "2026-11-24T22:11:23Z",
+   "section": "politics",
+   "hackerNews": {
+    "url": "https://news.ycombinator.com/item?id=50635246",
+    "comments": 3
+   }
   },
   {
    "headline": "Anthropic and OpenAI staff fear their new models are TOO DANGEROUS to release...",
@@ -349,7 +364,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
  },
  "skynetOMeter": {
-  "score": 56,
+  "score": 54,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
