@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-25T20:13:19Z",
+ "updated": "2026-11-25T21:15:31Z",
  "stories": [
+  {
+   "id": "dow-rebound",
+   "cat": "business",
+   "lead": true,
+   "red": true,
+   "h": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+   "t": "2026-11-25T21:14:19Z",
+   "saga": "markets",
+   "stack": [
+    "nasdaq-bear",
+    "nvda-sp-watch",
+    "asia-rout"
+   ],
+   "sub": "Nasdaq, down 4.6% at its low, ends off just 0.6%... traders cite thin pre-Thanksgiving trading and a Michael Burry post saying he's almost entirely long",
+   "img": {
+    "src": "img/new-york-stock-exchange.jpg",
+    "alt": "The New York Stock Exchange on Wall Street",
+    "credit": "Jeffrey Zeldman from Manhattan, USA / CC BY 2.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg"
+   },
+   "card": "Dow wipes out a 1,100-point AI rout, closes higher"
+  },
+  {
+   "id": "nvda-rumor-bust",
+   "cat": "business",
+   "group": "huang",
+   "h": "That viral '$300 MILLION' Nvidia insider-trading score? Three data firms find NO trading records to back it...",
+   "src": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
+   "t": "2026-11-25T21:14:19Z",
+   "col": 0
+  },
+  {
+   "id": "dems-red-lights",
+   "cat": "politics",
+   "group": "doom",
+   "h": "'The flashing red lights couldn't be BRIGHTER': Democrats demand new AI curbs after lab staff fear their own models...",
+   "src": "Axios",
+   "url": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
+   "t": "2026-11-25T21:14:19Z",
+   "col": 1
+  },
   {
    "id": "vance-no-probe",
    "cat": "politics",
@@ -30,8 +74,8 @@
    "url": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries",
    "t": "2026-11-25T19:11:51Z",
    "group": "markets",
-   "col": 1,
-   "card": "S&P puts Nvidia on downgrade watch over Jensen U-turn"
+   "card": "S&P puts Nvidia on downgrade watch over Jensen U-turn",
+   "shout": "S&P EYES NVIDIA DOWNGRADE"
   },
   {
    "id": "amodei-free-will",
@@ -52,26 +96,14 @@
   {
    "id": "nasdaq-bear",
    "cat": "business",
-   "lead": true,
    "red": true,
-   "h": "AI TRADE UNRAVELS: Nasdaq 100 heads for its first BEAR MARKET in more than a year...",
+   "h": "Nasdaq 100 heads for its first BEAR MARKET in more than a year as the AI trade unravels...",
    "src": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams",
    "t": "2026-11-25T15:12:49Z",
    "saga": "markets",
-   "stack": [
-    "nasdaq-open",
-    "ant-premarket",
-    "asia-rout"
-   ],
-   "sub": "Investors dump stocks exposed to AI as sentiment deteriorates rapidly, Bloomberg says",
-   "img": {
-    "src": "img/nasdaq.jpg",
-    "alt": "The Nasdaq MarketSite tower in Times Square",
-    "credit": "ajay_suresh / CC BY 2.0",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg"
-   },
-   "card": "Nasdaq 100 heads for its first bear market in over a year"
+   "card": "Nasdaq 100 heads for its first bear market in over a year",
+   "shout": "MORNING BEAR-MARKET SCARE"
   },
   {
    "id": "spacex-starmind",
@@ -151,18 +183,6 @@
    "card": "AI brings back John Motson's voice for FC 27"
   },
   {
-   "id": "nasdaq-open",
-   "cat": "business",
-   "red": true,
-   "group": "markets",
-   "h": "Nvidia PLUNGES as the AI sell-off resumes... Dow down 700, Nasdaq down 4%, fear gauge tops 30",
-   "src": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-   "t": "2026-11-25T15:12:49Z",
-   "shout": "NVIDIA PLUNGES, FEAR GAUGE TOPS 30",
-   "card": "Nvidia plunges as the AI sell-off resumes"
-  },
-  {
    "id": "huang-spy-brief",
    "cat": "politics",
    "red": true,
@@ -185,18 +205,6 @@
    "group": "companions",
    "top": true,
    "card": "Apple pulls AI companion app Talkie worldwide over sex content"
-  },
-  {
-   "id": "ant-premarket",
-   "cat": "business",
-   "red": true,
-   "group": "markets",
-   "h": "Anthropic drops ANOTHER 5% before the bell to $77.86... far below its $83 IPO price",
-   "src": "CBS News",
-   "url": "https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/",
-   "t": "2026-11-25T14:14:01Z",
-   "card": "Anthropic sinks to $77.86 pre-market, far under its $83 IPO",
-   "shout": "ANTHROPIC SLIDES DEEPER BELOW IPO"
   },
   {
    "id": "amzn-meta-muse",
@@ -327,7 +335,7 @@
    "src": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
    "t": "2026-11-25T03:11:46Z",
-   "col": 0
+   "col": 2
   },
   {
    "id": "trump-pardon",
@@ -643,39 +651,45 @@
  },
  "meter": {
   "level": 3,
-  "score": 58,
-  "delta": -2,
+  "score": 57,
+  "delta": -1,
   "moves": [
    {
-    "d": 1,
-    "why": "Italy and Switzerland warn AI AGENTS are breaching critical infrast...",
-    "id": "agent-attacks"
+    "d": 10,
+    "why": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes H...",
+    "id": "dow-rebound"
    },
    {
-    "d": -1,
-    "why": "AI TRADE UNRAVELS: Nasdaq 100 heads for its first BEAR MARKET in mo...",
+    "d": -4,
+    "why": "MORNING BEAR-MARKET SCARE",
     "id": "nasdaq-bear"
+   },
+   {
+    "d": -2,
+    "why": "Older story dropped off the page",
+    "id": "nasdaq-open"
    }
   ],
   "contrib": {
-   "nvda-sp-watch": 6.6,
-   "nasdaq-open": 2.1,
-   "huang-spy-brief": 0.8,
+   "dow-rebound": 10.0,
+   "nasdaq-bear": 1.8,
+   "nvda-sp-watch": 6.0,
+   "huang-spy-brief": 1.2,
+   "nvda-rumor-bust": 0.3,
    "vance-no-probe": 0.3,
    "credit-fear": 0.2,
+   "dems-red-lights": 1.1,
    "agent-attacks": 1.1,
-   "anthropic-agency": 1.2,
-   "amodei-free-will": 0.5,
-   "nasdaq-bear": 6.3,
-   "ant-premarket": 1.8,
-   "spacex-starmind": 6.0,
-   "cai-auction": 8.0,
-   "talkie-pulled": 0.8,
-   "dc-loans": 4.8,
-   "ai-targets": 3.2,
-   "motson-ai": 2.4,
-   "amzn-meta-muse": 0.4,
-   "deloitte-wa": 1.2
+   "amodei-free-will": 1.0,
+   "anthropic-agency": 0.3,
+   "spacex-starmind": 5.4,
+   "cai-auction": 7.3,
+   "talkie-pulled": 0.6,
+   "dc-loans": 4.2,
+   "ai-targets": 2.8,
+   "motson-ai": 2.1,
+   "amzn-meta-muse": 0.3,
+   "deloitte-wa": 0.9
   },
   "lastAdjust": 0,
   "history": [
@@ -878,13 +892,17 @@
    {
     "t": "2026-11-25T20:13:17Z",
     "s": 58
+   },
+   {
+    "t": "2026-11-25T21:14:52Z",
+    "s": 57
    }
   ],
-  "at": "2026-11-25T20:13:17Z",
+  "at": "2026-11-25T21:14:52Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -2,
+   "delta": -1,
    "period": "since last reading",
    "line": [
     {
@@ -914,33 +932,43 @@
     {
      "t": "2026-11-25T20:13:17Z",
      "s": 58
+    },
+    {
+     "t": "2026-11-25T21:14:52Z",
+     "s": 57
     }
    ],
    "drivers": [
     {
-     "d": -2,
+     "d": 10,
+     "id": "dow-rebound",
+     "text": "Dow wipes out a 1,100-point AI rout, closes higher"
+    },
+    {
+     "d": -11,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "agent-attacks": 1.1,
-   "ai-targets": -0.2,
+   "ai-targets": -0.4,
+   "amodei-free-will": 0.5,
    "amzn-meta-muse": -0.1,
-   "ant-premarket": -0.2,
-   "anthropic-agency": -0.5,
-   "cai-auction": -0.4,
-   "dc-loans": -0.4,
-   "deloitte-wa": -0.2,
-   "huang-affairs": -0.1,
-   "huang-spy-brief": -0.1,
-   "motson-ai": -0.2,
-   "nasdaq-bear": -0.6,
-   "nasdaq-open": -0.2,
-   "nvda-sp-watch": 0.3,
-   "spacex-starmind": -0.3,
-   "talkie-pulled": -0.1,
-   "vance-no-probe": 0.3
+   "ant-premarket": -1.8,
+   "anthropic-agency": -0.9,
+   "cai-auction": -0.7,
+   "dc-loans": -0.6,
+   "deloitte-wa": -0.3,
+   "dems-red-lights": 1.1,
+   "dow-rebound": 10.0,
+   "huang-spy-brief": 0.4,
+   "motson-ai": -0.3,
+   "nasdaq-bear": -4.5,
+   "nasdaq-open": -2.1,
+   "nvda-rumor-bust": 0.3,
+   "nvda-sp-watch": -0.6,
+   "spacex-starmind": -0.6,
+   "talkie-pulled": -0.2
   }
  },
  "state": {
@@ -977,51 +1005,51 @@
    ]
   },
   "stocks": {
-   "asOf": "3:13 pm ET",
+   "asOf": "Close Nov 25",
    "src": "Yahoo Finance \u00b7 change vs. prior close",
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
     {
      "sym": "NVDA",
      "name": "Nvidia",
-     "price": 148.09,
-     "chg": -4.69
+     "price": 149.3,
+     "chg": -3.91
     },
     {
      "sym": "ANT",
      "name": "Anthropic",
-     "price": 83.75,
-     "chg": 2.25
+     "price": 82.79,
+     "chg": 1.08
     },
     {
      "sym": "CBRS",
      "name": "Cerebras",
-     "price": 88.67,
-     "chg": -0.12
+     "price": 89.68,
+     "chg": 1.01
     },
     {
      "sym": "CRWV",
      "name": "CoreWeave",
-     "price": 41.38,
-     "chg": -2.89
+     "price": 42.57,
+     "chg": -0.08
     },
     {
      "sym": "NBIS",
      "name": "Nebius",
-     "price": 85.53,
-     "chg": -2.02
+     "price": 84.99,
+     "chg": -2.64
     },
     {
      "sym": "PLTR",
      "name": "Palantir",
-     "price": 163.79,
-     "chg": 1.62
+     "price": 163.59,
+     "chg": 1.5
     },
     {
      "sym": "NASDAQ",
      "name": "Composite",
-     "price": 23541.96,
-     "chg": -0.81
+     "price": 23585.8,
+     "chg": -0.62
     }
    ]
   },
@@ -1091,24 +1119,24 @@
    ]
   },
   "crypto": {
-   "asOf": "3:13 pm ET",
+   "asOf": "4:14 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59898.0,
-     "chg": 0.4
+     "price": 60143.0,
+     "chg": 0.77
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1680.86,
-     "chg": 0.45
+     "price": 1684.99,
+     "chg": 0.75
     }
    ]
   }
  },
- "next": "2026-11-25T21:18:00Z"
+ "next": "2026-11-25T22:18:00Z"
 }
