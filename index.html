@@ -340,8 +340,8 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
 
 <div class="page">
   <div class="dateline">
-    <span><span id="today">Tuesday, Nov. 24, 2026</span> · <a href="/archive/" style="color:inherit">Archive</a> · <a href="/about/" style="color:inherit">About</a></span>
-    <span>Wire checked <b id="checked">11:16 pm ET</b> · <span class="count" id="next">Updates hourly</span></span>
+    <span><span id="today">Wednesday, Nov. 25, 2026</span> · <a href="/archive/" style="color:inherit">Archive</a> · <a href="/about/" style="color:inherit">About</a></span>
+    <span>Wire checked <b id="checked">2:13 am ET</b> · <span class="count" id="next">Updates hourly</span></span>
   </div>
 
   <div class="alert" id="alert" hidden>
@@ -395,7 +395,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
       <details class="levels">
         <summary>What the levels mean · how it's scored</summary>
         <ol id="levels"></ol>
-        <p class="formula">The score is worked out fresh at every update from the stories on the page. Each story from the last 24 hours adds points: 1 for being news, +5 if it's a big red story, +3 for military, +2 for a can't-look-away story, +3 for the lead (+8 more while the siren is on) and +1 per 1,000 Hacker News comments. Stories count in full for 3 hours, then fade steadily to nothing after a day. When several stories belong to one saga, the biggest counts in full, the second at half and the rest at a quarter (since Nov. 24, 2026; earlier scores counted them all in full). Add 15 as a floor, plus or minus up to 10 for the editor's call.</p>
+        <p class="formula">The score is worked out fresh at every update from the stories on the page. Each story from the last 24 hours earns points: 1 for being news, +5 if it's a big red story, +3 for military, +2 for a can't-look-away story, +3 for the lead and +1 per 1,000 Hacker News comments (up to 3). Stories count in full for 3 hours, then fade steadily to nothing after a day. When several stories belong to one saga, the biggest counts in full, the second at half and the rest at a quarter. The total goes on a curve that starts at 10 and flattens out below 80. The siren adds 20, and the editor can move it up or down by as much as 10. Only the siren can take it to Judgment Day; otherwise it stops at 79. Recalibrated on Nov. 24, 2026, so earlier scores ran higher and aren't comparable.</p>
       </details>
     </section>
     <section class="box quote" aria-labelledby="quote-h">
@@ -421,11 +421,12 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   <section id="wire-static" aria-label="Today's headlines">
 <h2>Today's AI headlines</h2>
 <ul>
-<li><a href="https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html">CIA HACKED... SOURCES POINT TO A CHINESE AI TOOL: Spy agencies&#x27; unclassified intel system breached... some sources suggest China may be behind it...</a> <small>(New York Times)</small></li>
+<li><a href="https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html">HACKERS HIT UNCLASSIFIED CIA SYSTEM... SOME SOURCES POINT TO A CHINESE AI TOOL: Spy agencies&#x27; unclassified intel system breached... some sources suggest China may be behind it...</a> <small>(New York Times · Corrected: An earlier headline left out that the system hit was unclassified, and that only some of the Times&#x27; sources point to the AI tool.)</small></li>
 <li><a href="https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html">SoftBank PLUNGES 14% as AI sell-off rips through Asia&#x27;s chip giants...</a> <small>(CNBC)</small></li>
 <li><a href="https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html">Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor</a> <small>(CNBC)</small></li>
 <li><a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/">OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab</a> <small>(OpenAI · Company claim)</small></li>
 <li><a href="https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot">New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping</a> <small>(Office of the Governor of New York)</small></li>
+<li><a href="https://www.koreaherald.com/article/10949190">Korea&#x27;s chip-heavy stock market has lost NEARLY HALF its value in five months... AI doubts blamed</a> <small>(Korea Herald)</small></li>
 <li><a href="https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/">Amazon says China-linked hackers&#x27; AI agent found and exploited a ZERO-DAY on its own...</a> <small>(Amazon (AWS Security Blog) · Company claim)</small></li>
 <li><a href="https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html">Asked how DOJ can clear Huang mid-probe, AG Blanche: &#x27;I DON&#x27;T KNOW WHAT YOU&#x27;RE TALKING ABOUT&#x27;... FBI&#x27;s Patel dodges too</a> <small>(CNBC)</small></li>
 <li><a href="https://www.bbc.co.uk/news/articles/cv702rw7dzx5o">BBC Verify: China-linked network using AI FAKES to smear Taiwan election candidates... even President Lai</a> <small>(BBC)</small></li>
@@ -945,7 +946,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
     if (!data) return;
     const due = new Date(data.next || new Date(data.updated).getTime() + 60 * 6e4);
     const mins = Math.round((due - Date.now()) / 6e4);
-    $("next").textContent = mins > 1 ? "Next check in about " + mins + " min" : "Next check any minute";
+    $("next").textContent = mins > 1 ? "Next update in about " + mins + " min" : "Next update any minute now";
   }
 
   async function load() {

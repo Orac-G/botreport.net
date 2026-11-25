@@ -1,12 +1,23 @@
 {
- "updated": "2026-11-25T04:16:51Z",
+ "updated": "2026-11-25T07:13:27Z",
  "stories": [
+  {
+   "id": "kospi-half",
+   "cat": "business",
+   "red": true,
+   "h": "Korea's chip-heavy stock market has lost NEARLY HALF its value in five months... AI doubts blamed",
+   "src": "Korea Herald",
+   "url": "https://www.koreaherald.com/article/10949190",
+   "t": "2026-11-25T07:13:13Z",
+   "col": 2,
+   "card": "Korea's chip-heavy market has lost NEARLY HALF its value"
+  },
   {
    "id": "cia-hack",
    "cat": "military",
    "lead": true,
    "red": true,
-   "h": "CIA HACKED... SOURCES POINT TO A CHINESE AI TOOL",
+   "h": "HACKERS HIT UNCLASSIFIED CIA SYSTEM... SOME SOURCES POINT TO A CHINESE AI TOOL",
    "src": "New York Times",
    "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
    "t": "2026-11-25T04:12:27Z",
@@ -22,7 +33,9 @@
     "alt": "Aerial view of CIA headquarters in Langley, Virginia",
     "credit": "Carol M. Highsmith / Public domain",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_CIA_headquarters,_Langley,_Virginia_14271v.jpg"
-   }
+   },
+   "correction": "An earlier headline left out that the system hit was unclassified, and that only some of the Times' sources point to the AI tool.",
+   "card": "Unclassified CIA system hacked; some sources blame AI tool"
   },
   {
    "id": "amazon-cairn",
@@ -183,7 +196,8 @@
     "credit": "US Congress (Official Photo) / Public domain",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kathy_Hochul,_official_portrait,_112th_Congress_(cropped).jpg"
    },
-   "top": true
+   "top": true,
+   "card": "New York BANS AI chatbot toys for FIVE YEARS"
   },
   {
    "id": "too-dangerous",
@@ -505,38 +519,39 @@
   "day": "2026-11-24"
  },
  "meter": {
-  "level": 5,
+  "level": 3,
   "label": "FEVERISH",
   "why": "Trump floats a pardon for Jensen as the DOJ digs into Nvidia chips diverted to China, and lab staff say their own models are too dangerous to release.",
-  "score": 83,
+  "score": 56,
   "delta": null,
   "moves": [],
   "contrib": {
-   "cia-hack": 12.0,
-   "amazon-cairn": 0.5,
-   "uk-ai-hacks": 0.2,
+   "kospi-half": 4.7,
+   "cia-hack": 9.4,
+   "amazon-cairn": 0.4,
+   "uk-ai-hacks": 0.1,
    "ec-ai-hack": 0.1,
-   "blanche-dodge": 6.0,
-   "trump-pardon": 3.0,
+   "blanche-dodge": 4.7,
+   "doj-diversion": 2.1,
+   "trump-pardon": 1.1,
+   "huang-senate": 1.0,
+   "huang-therapy": 0.2,
    "trump-stake": 0.2,
-   "taiwan-fakes": 1.0,
-   "asia-rout": 6.0,
-   "tidal-ban": 3.0,
-   "huang-senate": 6.0,
-   "huang-therapy": 0.5,
    "nvda-board-doubts": 0.1,
-   "doj-diversion": 6.0,
-   "trump-nvda-trades": 0.2,
-   "alfozan-bail": 6.0,
-   "riemann": 1.8,
-   "gpt6-proteins": 0.5,
-   "ny-ai-toys": 5.1,
-   "too-dangerous": 4.0,
-   "tegmark-takeover": 1.0,
-   "ant-below-ipo": 2.3,
-   "nvda-hangover": 0.3,
-   "bubble-popped": 0.5,
-   "nk-chatbot": 1.4
+   "nvda-hangover": 0.1,
+   "trump-nvda-trades": 0.1,
+   "taiwan-fakes": 0.8,
+   "asia-rout": 4.5,
+   "tidal-ban": 2.2,
+   "alfozan-bail": 4.3,
+   "riemann": 1.1,
+   "gpt6-proteins": 0.3,
+   "ny-ai-toys": 3.3,
+   "too-dangerous": 2.5,
+   "tegmark-takeover": 0.6,
+   "bubble-popped": 0.3,
+   "nk-chatbot": 0.8,
+   "ant-below-ipo": 1.1
   },
   "lastAdjust": 0,
   "history": [
@@ -695,11 +710,15 @@
    {
     "t": "2026-11-25T04:16:41Z",
     "s": 83
+   },
+   {
+    "t": "2026-11-25T07:13:23Z",
+    "s": 56
    }
   ],
-  "at": "2026-11-25T04:16:41Z",
-  "formulaSince": "2026-11-25T04:16:41Z",
-  "formula": 2
+  "at": "2026-11-25T07:13:23Z",
+  "formulaSince": "2026-11-25T07:13:23Z",
+  "formula": 3
  },
  "state": {
   "models": {
@@ -849,24 +868,24 @@
    ]
   },
   "crypto": {
-   "asOf": "11:16 pm ET",
+   "asOf": "2:13 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59236.0,
-     "chg": -1.86
+     "price": 59256.0,
+     "chg": -1.87
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1660.8,
-     "chg": -2.08
+     "price": 1660.34,
+     "chg": -2.18
     }
    ]
   }
  },
- "next": "2026-11-25T07:11:00Z"
+ "next": "2026-11-25T10:18:00Z"
 }

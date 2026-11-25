@@ -2,11 +2,11 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Tuesday, November 24, 2026, 11:16 PM ET. Every headline links to the original reporting or primary source.
+Updated Wednesday, November 25, 2026, 2:13 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
-- [CIA HACKED... SOURCES POINT TO A CHINESE AI TOOL: Spy agencies' unclassified intel system breached... some sources suggest China may be behind it...](https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html) (New York Times)
+- [HACKERS HIT UNCLASSIFIED CIA SYSTEM... SOME SOURCES POINT TO A CHINESE AI TOOL: Spy agencies' unclassified intel system breached... some sources suggest China may be behind it...](https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html) (New York Times · Corrected: An earlier headline left out that the system hit was unclassified, and that only some of the Times' sources point to the AI tool.)
 
 ## Top stories
 
@@ -17,6 +17,7 @@ Updated Tuesday, November 24, 2026, 11:16 PM ET. Every headline links to the ori
 
 ## All stories (newest first)
 
+- [Korea's chip-heavy stock market has lost NEARLY HALF its value in five months... AI doubts blamed](https://www.koreaherald.com/article/10949190) (Korea Herald)
 - [Amazon says China-linked hackers' AI agent found and exploited a ZERO-DAY on its own...](https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/) (Amazon (AWS Security Blog) · Company claim)
 - [Asked how DOJ can clear Huang mid-probe, AG Blanche: 'I DON'T KNOW WHAT YOU'RE TALKING ABOUT'... FBI's Patel dodges too](https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html) (CNBC)
 - [BBC Verify: China-linked network using AI FAKES to smear Taiwan election candidates... even President Lai](https://www.bbc.co.uk/news/articles/cv702rw7dzx5o) (BBC)
@@ -58,6 +59,6 @@ Updated Tuesday, November 24, 2026, 11:16 PM ET. Every headline links to the ori
 > “When I talk to people who work for Anthropic, after they've had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world.”
 > — Max Tegmark, MIT physicist, in an interview with Novara Media ([source](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/))
 
-Skynet-o-Meter: 83 out of 100.
+Skynet-o-Meter: 56 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

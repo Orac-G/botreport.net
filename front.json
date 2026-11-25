@@ -3,15 +3,16 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T04:16:51Z",
- "nextUpdate": "2026-11-25T07:11:00Z",
+ "updated": "2026-11-25T07:13:27Z",
+ "nextUpdate": "2026-11-25T10:18:00Z",
  "lead": [
   {
-   "headline": "CIA HACKED... SOURCES POINT TO A CHINESE AI TOOL: Spy agencies' unclassified intel system breached... some sources suggest China may be behind it...",
+   "headline": "HACKERS HIT UNCLASSIFIED CIA SYSTEM... SOME SOURCES POINT TO A CHINESE AI TOOL: Spy agencies' unclassified intel system breached... some sources suggest China may be behind it...",
    "source": "New York Times",
    "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
    "found": "2026-11-25T04:12:27Z",
-   "section": "military"
+   "section": "military",
+   "correction": "An earlier headline left out that the system hit was unclassified, and that only some of the Times' sources point to the AI tool."
   }
  ],
  "topLinks": [
@@ -54,6 +55,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Korea's chip-heavy stock market has lost NEARLY HALF its value in five months... AI doubts blamed",
+   "source": "Korea Herald",
+   "url": "https://www.koreaherald.com/article/10949190",
+   "found": "2026-11-25T07:13:13Z",
+   "section": "business"
+  },
   {
    "headline": "Amazon says China-linked hackers' AI agent found and exploited a ZERO-DAY on its own...",
    "source": "Amazon (AWS Security Blog)",
@@ -341,7 +349,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
  },
  "skynetOMeter": {
-  "score": 83,
+  "score": 56,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
