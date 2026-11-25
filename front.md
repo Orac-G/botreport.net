@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Tuesday, November 24, 2026, 6:32 PM ET. Every headline links to the original reporting or primary source.
+Updated Tuesday, November 24, 2026, 7:10 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -55,6 +55,6 @@ Updated Tuesday, November 24, 2026, 6:32 PM ET. Every headline links to the orig
 > “When I talk to people who work for Anthropic, after they've had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world.”
 > — Max Tegmark, MIT physicist, in an interview with Novara Media ([source](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/))
 
-Skynet-o-Meter: 52 out of 100.
+Skynet-o-Meter: 48 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

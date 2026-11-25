@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:32:42Z",
+ "updated": "2026-11-25T00:10:51Z",
  "stories": [
   {
    "id": "gpt6-proteins",
@@ -12,7 +12,7 @@
    "t": "2026-11-24T23:11:30Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50634658",
-    "comments": 17
+    "comments": 27
    },
    "col": 2
   },
@@ -26,7 +26,7 @@
    "t": "2026-11-24T22:11:23Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50635246",
-    "comments": 2
+    "comments": 3
    },
    "img": {
     "src": "img/hochul.jpg",
@@ -167,7 +167,7 @@
    "t": "2026-11-24T12:17:17Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 592
+    "comments": 631
    },
    "col": 1
   },
@@ -182,7 +182,7 @@
    "url": "https://www.yahoo.com/news/politics/articles/us-blacklists-megaspeed-over-suspected-010342870.html",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50630245",
-    "comments": 63
+    "comments": 65
    },
    "col": 0
   },
@@ -320,7 +320,7 @@
    "t": "2026-11-24T01:15:00Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3687
+    "comments": 3693
    },
    "group": "huang",
    "col": 0
@@ -467,47 +467,38 @@
   "level": 3,
   "label": "FEVERISH",
   "why": "Washington blacklisted Jensen's China-linked chip buyer the same day it brought him back, and Congress wants answers.",
-  "score": 52,
+  "score": 48,
   "delta": -4,
-  "moves": [
-   {
-    "d": 1,
-    "why": "OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbe...",
-    "id": "gpt6-proteins"
-   }
-  ],
+  "moves": [],
   "contrib": {
    "gpt6-proteins": 1.0,
    "ny-ai-toys": 6.0,
-   "too-dangerous": 8.2,
-   "tegmark-takeover": 2.7,
+   "too-dangerous": 7.7,
+   "tegmark-takeover": 2.6,
    "uk-ai-hacks": 0.9,
-   "nvda-hangover": 0.8,
-   "bubble-popped": 0.8,
+   "nvda-hangover": 0.7,
+   "bubble-popped": 0.7,
    "ec-ai-hack": 0.7,
-   "nk-chatbot": 2.2,
+   "nk-chatbot": 2.0,
    "nvda-board-doubts": 0.8,
-   "trump-nvda-trades": 0.7,
-   "ant-below-ipo": 3.7,
-   "megaspeed-blacklist": 1.4,
-   "congress-fury": 0.2,
-   "riemann": 2.6,
-   "navier-stokes": 0.2,
-   "short-nvda-wipeout": 0.2,
-   "glm-54": 0.2,
-   "nasdaq-rally": 0.9,
+   "trump-nvda-trades": 0.6,
+   "ant-below-ipo": 3.5,
+   "megaspeed-blacklist": 1.1,
+   "congress-fury": 0.1,
+   "riemann": 2.4,
+   "navier-stokes": 0.1,
+   "short-nvda-wipeout": 0.1,
+   "glm-54": 0.1,
+   "nasdaq-rally": 0.6,
    "together-leak": 0.1,
    "anthropic-20b": 0.1,
    "hilton-defiance": 0.1,
    "openai-limits": 0.1,
-   "huang-back": 0.9,
-   "nvda-1t": 0.6,
-   "trump-board": 0.1,
-   "gta-lucia": 0.6,
-   "grok-ags": 0.1,
-   "apple-18": 0.2,
-   "minecraft-gf": 0.2,
-   "amzn-decart": 0.1
+   "huang-back": 0.5,
+   "nvda-1t": 0.3,
+   "gta-lucia": 0.2,
+   "apple-18": 0.1,
+   "minecraft-gf": 0.1
   },
   "lastAdjust": 0,
   "history": [
@@ -646,9 +637,13 @@
    {
     "t": "2026-11-24T23:11:31Z",
     "s": 52
+   },
+   {
+    "t": "2026-11-25T00:10:51Z",
+    "s": 48
    }
   ],
-  "at": "2026-11-24T23:11:31Z"
+  "at": "2026-11-25T00:10:51Z"
  },
  "state": {
   "models": {
@@ -798,24 +793,24 @@
    ]
   },
   "crypto": {
-   "asOf": "6:11 pm ET",
+   "asOf": "7:10 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59963.0,
-     "chg": -2.23
+     "price": 59675.0,
+     "chg": -2.31
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1682.55,
-     "chg": -1.93
+     "price": 1674.98,
+     "chg": -1.72
     }
    ]
   }
  },
- "next": "2026-11-25T00:11:00Z"
+ "next": "2026-11-25T01:11:00Z"
 }
