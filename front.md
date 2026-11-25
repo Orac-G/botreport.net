@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Tuesday, November 24, 2026, 7:10 PM ET. Every headline links to the original reporting or primary source.
+Updated Tuesday, November 24, 2026, 8:14 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -10,15 +10,15 @@ Updated Tuesday, November 24, 2026, 7:10 PM ET. Every headline links to the orig
 
 ## Top stories
 
+- [New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping](https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot) (Office of the Governor of New York)
 - [Hackers used AI to raid the European Commission... and got away with personal data](https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834) (The Register)
 - [North Korea unveils its first AI chatbot... but it won't answer 'uncultured questions'](https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions) (South China Morning Post)
 - [Trump bought Nvidia 28 TIMES this year... up to $16.7 MILLION, disclosures show](https://www.kadoa.com/congress/insights/trump-nvidia) (Kadoa)
-- [States sue Musk companies over Grok's SEX DEEPFAKES](https://opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue) (OPB)
 
 ## All stories (newest first)
 
+- [Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness](https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html) (CNBC)
 - [OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) (OpenAI · Company claim)
-- [New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping](https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot) (Office of the Governor of New York)
 - [MIT's Tegmark claims Anthropic staff talk of 'TAKING OVER THE WORLD' after a few drinks...](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/) (Novara Media)
 - [UK cyber agency warns of 'MARKED RISE' in AI-driven attacks...](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security) (TechCrunch)
 - [Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE](https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/) (Scientific American)
@@ -40,21 +40,19 @@ Updated Tuesday, November 24, 2026, 7:10 PM ET. Every headline links to the orig
 - [Nvidia adds nearly $1 TRILLION in a day... Best since 2003](https://finance.yahoo.com/technology/article/nvidia-reinstates-jensen-huang-as-ceo-stock-rockets-141145439.html) (Yahoo Finance)
 - [Trump: I talked the board into it](https://www.nbcwashington.com/news/national-international/nvidia-reinstates-jensen-huang-ceo/4186956/) (NBC)
 - [Men blow THOUSANDS on AI girlfriends modeled on GTA 6 heroine...](https://www.vice.com/en/article/men-are-spending-thousands-on-ai-girlfriends-inspired-by-gta-6s-lucia-yes-seriously/) (Vice)
+- [States sue Musk companies over Grok's SEX DEEPFAKES](https://opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue) (OPB)
 - [Apple slaps ADULTS ONLY label on AI girlfriends...](https://cybernews.com/ai-news/apple-app-store-ai-companions/) (Cybernews)
 - [AI girlfriends sneak into Minecraft and Discord...](https://ibtimes.co.uk/ai-companionship-gaming-loneliness-concerns-1833812) (IBTimes)
 - [Amazon drops $7.5 BILLION on Decart](https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html) (CNBC)
 - [Robot truck unleashes DRONE SWARM in Germany](https://zona-militar.com/en/2026/11/22/us-army-demonstrates-autonomous-drone-swarm-launched-from-unmanned-ground-vehicle-in-germany) (Zona Militar)
 - [Feds tricked ALL FOUR top chatbots into writing attack plans...](https://gao.gov/products/gao-27-108814) (GAO)
-- [OpenAI unleashes GPT-6.2 Astra](https://openai.com/index/introducing-gpt-6-2-astra-sol) (OpenAI)
-- [Pentagon wants $50 BILLION for MILLIONS of attack drones](https://www.armyrecognition.com/news/army-news/2026/u-s-plans-50-billion-push-to-build-millions-of-autonomous-weapons-and-attack-drones) (Army Recognition)
 - [EU outlaws AI SEX FAKES... starting Dec. 2](https://www.brusselstimes.com/2208963/eu-bans-ai-generated-sexual-deepfakes-as-high-risk-rules-face-delays) (Brussels Times)
-- [Pentagon plans four-star robot war command](https://www.armscontrol.org/act/2026-11/news/dod-seeks-autonomous-warfare-command) (Arms Control Assn.)
 
 ## Quote of the Day
 
 > “When I talk to people who work for Anthropic, after they've had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world.”
 > — Max Tegmark, MIT physicist, in an interview with Novara Media ([source](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/))
 
-Skynet-o-Meter: 48 out of 100.
+Skynet-o-Meter: 51 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

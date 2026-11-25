@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T00:10:51Z",
+ "updated": "2026-11-25T01:14:17Z",
  "stories": [
+  {
+   "id": "huang-senate",
+   "cat": "politics",
+   "red": true,
+   "h": "Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+   "t": "2026-11-25T01:11:00Z",
+   "group": "huang",
+   "col": 0
+  },
   {
    "id": "gpt6-proteins",
    "cat": "tech",
@@ -12,7 +23,7 @@
    "t": "2026-11-24T23:11:30Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50634658",
-    "comments": 27
+    "comments": 35
    },
    "col": 2
   },
@@ -34,7 +45,7 @@
     "credit": "US Congress (Official Photo) / Public domain",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Kathy_Hochul,_official_portrait,_112th_Congress_(cropped).jpg"
    },
-   "col": 0
+   "top": true
   },
   {
    "id": "too-dangerous",
@@ -123,7 +134,7 @@
    "img": {
     "src": "img/nk-lab.jpg",
     "alt": "Adults working at rows of computers in the Grand People's Study House, Pyongyang",
-    "credit": "Bj\u00f8rn Christian T\u00f8rrissen / CC BY-SA 3.0",
+    "credit": "Bjørn Christian Tørrissen / CC BY-SA 3.0",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Grand-Peoples-Study-House-Computer-Lab.jpg"
    },
    "top": true
@@ -167,7 +178,7 @@
    "t": "2026-11-24T12:17:17Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 631
+    "comments": 674
    },
    "col": 1
   },
@@ -320,7 +331,7 @@
    "t": "2026-11-24T01:15:00Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3693
+    "comments": 3698
    },
    "group": "huang",
    "col": 0
@@ -364,7 +375,7 @@
    "src": "OPB",
    "url": "https://opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue",
    "t": "2026-11-24T00:45:00Z",
-   "top": true
+   "col": 0
   },
   {
    "id": "apple-18",
@@ -417,26 +428,6 @@
    "col": 2
   },
   {
-   "id": "gpt62",
-   "cat": "tech",
-   "h": "OpenAI unleashes GPT-6.2 Astra",
-   "src": "OpenAI",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-   "t": "2026-11-17T18:00:00Z",
-   "group": "openai",
-   "col": 2
-  },
-  {
-   "id": "drones-50b",
-   "cat": "military",
-   "h": "Pentagon wants $50 BILLION for MILLIONS of attack drones",
-   "src": "Army Recognition",
-   "url": "https://www.armyrecognition.com/news/army-news/2026/u-s-plans-50-billion-push-to-build-millions-of-autonomous-weapons-and-attack-drones",
-   "t": "2026-11-12T18:00:00Z",
-   "group": "military",
-   "col": 0
-  },
-  {
    "id": "dec2-ban",
    "cat": "politics",
    "h": "EU outlaws AI SEX FAKES... starting Dec. 2",
@@ -445,16 +436,6 @@
    "t": "2026-11-10T18:00:00Z",
    "group": "deepfakes",
    "col": 1
-  },
-  {
-   "id": "awc",
-   "cat": "military",
-   "h": "Pentagon plans four-star robot war command",
-   "src": "Arms Control Assn.",
-   "url": "https://www.armscontrol.org/act/2026-11/news/dod-seeks-autonomous-warfare-command",
-   "t": "2026-11-05T18:00:00Z",
-   "group": "military",
-   "col": 0
   }
  ],
  "quote": {
@@ -466,39 +447,37 @@
  "meter": {
   "level": 3,
   "label": "FEVERISH",
-  "why": "Washington blacklisted Jensen's China-linked chip buyer the same day it brought him back, and Congress wants answers.",
-  "score": 48,
-  "delta": -4,
-  "moves": [],
+  "why": "AI lab staff say their own new models are too dangerous to release, and the Senate wants Jensen under oath in public.",
+  "score": 51,
+  "delta": 3,
+  "moves": [
+   {
+    "d": 6,
+    "why": "Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY...",
+    "id": "huang-senate"
+   }
+  ],
   "contrib": {
+   "huang-senate": 6.0,
    "gpt6-proteins": 1.0,
    "ny-ai-toys": 6.0,
-   "too-dangerous": 7.7,
-   "tegmark-takeover": 2.6,
-   "uk-ai-hacks": 0.9,
+   "too-dangerous": 7.3,
+   "tegmark-takeover": 2.4,
+   "uk-ai-hacks": 0.8,
    "nvda-hangover": 0.7,
    "bubble-popped": 0.7,
-   "ec-ai-hack": 0.7,
-   "nk-chatbot": 2.0,
-   "nvda-board-doubts": 0.8,
+   "ec-ai-hack": 0.6,
+   "nk-chatbot": 1.9,
+   "nvda-board-doubts": 0.7,
    "trump-nvda-trades": 0.6,
-   "ant-below-ipo": 3.5,
-   "megaspeed-blacklist": 1.1,
+   "ant-below-ipo": 3.2,
+   "megaspeed-blacklist": 0.8,
    "congress-fury": 0.1,
-   "riemann": 2.4,
+   "riemann": 2.3,
    "navier-stokes": 0.1,
    "short-nvda-wipeout": 0.1,
    "glm-54": 0.1,
-   "nasdaq-rally": 0.6,
-   "together-leak": 0.1,
-   "anthropic-20b": 0.1,
-   "hilton-defiance": 0.1,
-   "openai-limits": 0.1,
-   "huang-back": 0.5,
-   "nvda-1t": 0.3,
-   "gta-lucia": 0.2,
-   "apple-18": 0.1,
-   "minecraft-gf": 0.1
+   "nasdaq-rally": 0.3
   },
   "lastAdjust": 0,
   "history": [
@@ -641,9 +620,13 @@
    {
     "t": "2026-11-25T00:10:51Z",
     "s": 48
+   },
+   {
+    "t": "2026-11-25T01:14:17Z",
+    "s": 51
    }
   ],
-  "at": "2026-11-25T00:10:51Z"
+  "at": "2026-11-25T01:14:17Z"
  },
  "state": {
   "models": {
@@ -668,7 +651,7 @@
     },
     {
      "name": "Kimi K3.1 Pro",
-     "lab": "Moonshot \u00b7 best open model",
+     "lab": "Moonshot · best open model",
      "score": 46
     },
     {
@@ -680,7 +663,7 @@
   },
   "stocks": {
    "asOf": "Close Nov 24",
-   "src": "Yahoo Finance \u00b7 change vs. prior close",
+   "src": "Yahoo Finance · change vs. prior close",
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
     {
@@ -733,9 +716,9 @@
    "items": [
     {
      "who": "Anthropic",
-     "amt": "Record IPO",
-     "note": "debuts at a reported $1.5T valuation",
-     "url": "https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/"
+     "amt": "$81.3B",
+     "note": "record IPO, the largest offering ever",
+     "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
     },
     {
      "who": "OpenAI",
@@ -744,22 +727,22 @@
      "url": "https://gvwire.com/2026/11/06/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports/"
     },
     {
-     "who": "Amazon \u2192 Decart",
+     "who": "Amazon → Decart",
      "amt": "$7.5B",
      "note": "tech and team deal, pending approval",
      "url": "https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
+    },
+    {
+     "who": "Sierra",
+     "amt": "$1.75B+",
+     "note": "round at a reported $30B valuation (Bloomberg)",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-23/bret-taylor-s-sierra-finalizing-more-than-1-75-billion-round"
     },
     {
      "who": "Fal",
      "amt": "$1.3B",
      "note": "AI inference round at a $16B valuation",
      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
-    },
-    {
-     "who": "Genesis AI",
-     "amt": "$500M",
-     "note": "robotics round at $3.5B, Nvidia joins (Bloomberg)",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-backed-genesis-ai-raises-funds-at-3-5-billion-valuation"
     }
    ]
   },
@@ -776,41 +759,41 @@
      "url": "https://www.brusselstimes.com/2208963/eu-bans-ai-generated-sexual-deepfakes-as-high-risk-rules-face-delays"
     },
     {
+     "date": "2026-12-03",
+     "what": "Jensen Huang testifies in public to Senate Banking on export controls",
+     "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html"
+    },
+    {
      "date": "2026-12-06",
      "what": "NeurIPS opens in Sydney (through Dec. 12)",
      "url": "https://neurips.cc/Conferences/2026/Dates"
     },
     {
      "date": "2026-12-09",
-     "what": "The AI Summit New York (Dec. 9\u201310)",
+     "what": "The AI Summit New York (Dec. 9–10)",
      "url": "https://newyork.theaisummit.com/"
-    },
-    {
-     "date": "2027-01-12",
-     "what": "Apple deadline for AI companion apps' 18+ ratings",
-     "url": "https://cybernews.com/ai-news/apple-app-store-ai-companions/"
     }
    ]
   },
   "crypto": {
-   "asOf": "7:10 pm ET",
-   "src": "CoinGecko \u00b7 24-hour change",
+   "asOf": "8:14 pm ET",
+   "src": "CoinGecko · 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59675.0,
-     "chg": -2.31
+     "price": 59516.0,
+     "chg": -3.2
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1674.98,
-     "chg": -1.72
+     "price": 1668.01,
+     "chg": -2.83
     }
    ]
   }
  },
- "next": "2026-11-25T01:11:00Z"
+ "next": "2026-11-25T02:11:00Z"
 }

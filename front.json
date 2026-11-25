@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T00:10:51Z",
- "nextUpdate": "2026-11-25T01:11:00Z",
+ "updated": "2026-11-25T01:14:17Z",
+ "nextUpdate": "2026-11-25T02:11:00Z",
  "lead": [
   {
    "headline": "TOO DANGEROUS TO RELEASE: Anthropic and OpenAI staff fear their unreleased new models are too unsafe to let out...",
@@ -19,6 +19,17 @@
   }
  ],
  "topLinks": [
+  {
+   "headline": "New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping",
+   "source": "Office of the Governor of New York",
+   "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
+   "found": "2026-11-24T22:11:23Z",
+   "section": "politics",
+   "hackerNews": {
+    "url": "https://news.ycombinator.com/item?id=50635246",
+    "comments": 3
+   }
+  },
   {
    "headline": "Hackers used AI to raid the European Commission... and got away with personal data",
    "source": "The Register",
@@ -43,16 +54,16 @@
     "url": "https://news.ycombinator.com/item?id=50626861",
     "comments": 159
    }
-  },
-  {
-   "headline": "States sue Musk companies over Grok's SEX DEEPFAKES",
-   "source": "OPB",
-   "url": "https://opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue",
-   "found": "2026-11-24T00:45:00Z",
-   "section": "politics"
   }
  ],
  "stories": [
+  {
+   "headline": "Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+   "found": "2026-11-25T01:11:00Z",
+   "section": "politics"
+  },
   {
    "headline": "OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab",
    "source": "OpenAI",
@@ -62,18 +73,7 @@
    "label": "Company claim",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50634658",
-    "comments": 27
-   }
-  },
-  {
-   "headline": "New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping",
-   "source": "Office of the Governor of New York",
-   "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
-   "found": "2026-11-24T22:11:23Z",
-   "section": "politics",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50635246",
-    "comments": 3
+    "comments": 35
    }
   },
   {
@@ -134,7 +134,7 @@
    "section": "business",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 631
+    "comments": 674
    }
   },
   {
@@ -227,7 +227,7 @@
    "section": "business",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3693
+    "comments": 3698
    }
   },
   {
@@ -250,6 +250,13 @@
    "url": "https://www.vice.com/en/article/men-are-spending-thousands-on-ai-girlfriends-inspired-by-gta-6s-lucia-yes-seriously/",
    "found": "2026-11-24T00:50:00Z",
    "section": "quirky"
+  },
+  {
+   "headline": "States sue Musk companies over Grok's SEX DEEPFAKES",
+   "source": "OPB",
+   "url": "https://opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue",
+   "found": "2026-11-24T00:45:00Z",
+   "section": "politics"
   },
   {
    "headline": "Apple slaps ADULTS ONLY label on AI girlfriends...",
@@ -287,32 +294,11 @@
    "section": "politics"
   },
   {
-   "headline": "OpenAI unleashes GPT-6.2 Astra",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-   "found": "2026-11-17T18:00:00Z",
-   "section": "tech"
-  },
-  {
-   "headline": "Pentagon wants $50 BILLION for MILLIONS of attack drones",
-   "source": "Army Recognition",
-   "url": "https://www.armyrecognition.com/news/army-news/2026/u-s-plans-50-billion-push-to-build-millions-of-autonomous-weapons-and-attack-drones",
-   "found": "2026-11-12T18:00:00Z",
-   "section": "military"
-  },
-  {
    "headline": "EU outlaws AI SEX FAKES... starting Dec. 2",
    "source": "Brussels Times",
    "url": "https://www.brusselstimes.com/2208963/eu-bans-ai-generated-sexual-deepfakes-as-high-risk-rules-face-delays",
    "found": "2026-11-10T18:00:00Z",
    "section": "politics"
-  },
-  {
-   "headline": "Pentagon plans four-star robot war command",
-   "source": "Arms Control Assn.",
-   "url": "https://www.armscontrol.org/act/2026-11/news/dod-seeks-autonomous-warfare-command",
-   "found": "2026-11-05T18:00:00Z",
-   "section": "military"
   }
  ],
  "quoteOfTheDay": {
@@ -321,7 +307,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
  },
  "skynetOMeter": {
-  "score": 48,
+  "score": 51,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
