@@ -1,29 +1,54 @@
 {
- "updated": "2026-11-25T14:16:13Z",
+ "updated": "2026-11-25T15:15:33Z",
  "stories": [
+  {
+   "id": "nasdaq-bear",
+   "cat": "business",
+   "lead": true,
+   "red": true,
+   "h": "AI TRADE UNRAVELS: Nasdaq 100 heads for its first BEAR MARKET in more than a year...",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams",
+   "t": "2026-11-25T15:12:49Z",
+   "saga": "markets",
+   "stack": [
+    "nasdaq-open",
+    "ant-premarket",
+    "asia-rout"
+   ],
+   "sub": "Investors dump stocks exposed to AI as sentiment deteriorates rapidly, Bloomberg says",
+   "img": {
+    "src": "img/nasdaq.jpg",
+    "alt": "The Nasdaq MarketSite tower in Times Square",
+    "credit": "ajay_suresh / CC BY 2.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg"
+   },
+   "card": "Nasdaq 100 heads for its first bear market in over a year"
+  },
+  {
+   "id": "nasdaq-open",
+   "cat": "business",
+   "red": true,
+   "group": "markets",
+   "h": "Nvidia sinks 6% as the AI sell-off resumes... Dow down 700, Nasdaq down 3%, fear gauge tops 30",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+   "t": "2026-11-25T15:12:49Z",
+   "shout": "NVIDIA DOWN 6%, FEAR GAUGE TOPS 30",
+   "card": "Nvidia sinks 6% as the AI sell-off resumes"
+  },
   {
    "id": "huang-spy-brief",
    "cat": "politics",
-   "lead": true,
    "red": true,
    "h": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...",
    "src": "New York Times",
    "url": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
    "t": "2026-11-25T13:16:00Z",
    "saga": "huang",
-   "stack": [
-    "huang-affairs",
-    "trump-pardon",
-    "huang-senate"
-   ],
    "sub": "FBI, CIA and ODNI briefers found no evidence China ordered the affair... but didn't dispute she passed intel to its spy agency once it began, NYT says",
-   "img": {
-    "src": "img/jensen-huang.jpg",
-    "alt": "Nvidia CEO Jensen Huang",
-    "credit": "Anders Eidesvik / CC BY-SA 4.0",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg"
-   },
-   "card": "NYT: Jensen lover's husband the 'more significant' China asset"
+   "card": "NYT: Jensen lover's husband the 'more significant' China asset",
+   "top": true
   },
   {
    "id": "talkie-pulled",
@@ -45,18 +70,8 @@
    "src": "CBS News",
    "url": "https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/",
    "t": "2026-11-25T14:14:01Z",
-   "col": 1,
-   "card": "Anthropic sinks to $77.86 pre-market, far under its $83 IPO"
-  },
-  {
-   "id": "futures-slide",
-   "cat": "business",
-   "group": "markets",
-   "h": "AI SELL-OFF RETURNS: Nasdaq futures sink as Jensen's comeback revives 'key-man risk' fears...",
-   "src": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/25/futures-sink-further-into-the-red-as-tech-worries-resurge.html",
-   "t": "2026-11-25T12:13:00Z",
-   "col": 1
+   "card": "Anthropic sinks to $77.86 pre-market, far under its $83 IPO",
+   "shout": "ANTHROPIC SLIDES DEEPER BELOW IPO"
   },
   {
    "id": "amzn-meta-muse",
@@ -103,7 +118,7 @@
    "t": "2026-11-25T10:11:47Z",
    "label": "From Nov. 23",
    "group": "huang",
-   "shout": "Disclosed MORE affairs"
+   "col": 0
   },
   {
    "id": "kospi-half",
@@ -177,13 +192,13 @@
   {
    "id": "asia-rout",
    "cat": "business",
-   "top": true,
    "red": true,
    "h": "SoftBank PLUNGES 14% as AI sell-off rips through Asia's chip giants...",
    "src": "CNBC",
    "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
    "t": "2026-11-25T03:11:46Z",
-   "card": "SoftBank PLUNGES 14% as AI sell-off hits Asia"
+   "card": "SoftBank PLUNGES 14% as AI sell-off hits Asia",
+   "shout": "SOFTBANK PLUNGES 14%"
   },
   {
    "id": "tidal-ban",
@@ -203,7 +218,7 @@
    "url": "https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/",
    "t": "2026-11-25T02:17:13Z",
    "group": "huang-probe",
-   "shout": "Trump: pardon 'always an option'"
+   "col": 0
   },
   {
    "id": "huang-therapy",
@@ -236,7 +251,7 @@
    "t": "2026-11-25T02:17:13Z",
    "correction": "An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries.",
    "group": "nvda-china",
-   "col": 0,
+   "col": 1,
    "card": "Sources: DOJ has evidence others diverted Nvidia chips to China"
   },
   {
@@ -260,7 +275,7 @@
    "t": "2026-11-25T01:11:00Z",
    "group": "huang",
    "card": "Senate hauls Jensen in for a public grilling Dec. 3",
-   "shout": "Public grilling Dec. 3"
+   "col": 0
   },
   {
    "id": "gpt6-proteins",
@@ -401,7 +416,7 @@
     "url": "https://news.ycombinator.com/item?id=50626861",
     "comments": 159
    },
-   "col": 0
+   "col": 1
   },
   {
    "id": "ant-below-ipo",
@@ -431,7 +446,7 @@
     "url": "https://news.ycombinator.com/item?id=50630245",
     "comments": 65
    },
-   "col": 0
+   "col": 1
   },
   {
    "id": "riemann",
@@ -481,12 +496,6 @@
    "src": "CNBC",
    "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
    "t": "2026-11-24T02:14:00Z",
-   "img": {
-    "src": "img/nasdaq.jpg",
-    "alt": "The Nasdaq MarketSite tower in Times Square",
-    "credit": "ajay_suresh / CC BY 2.0",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg"
-   },
    "group": "markets",
    "col": 1
   },
@@ -583,26 +592,6 @@
    "t": "2026-11-24T00:40:00Z",
    "group": "companions",
    "col": 1
-  },
-  {
-   "id": "minecraft-gf",
-   "cat": "quirky",
-   "h": "AI girlfriends sneak into Minecraft and Discord...",
-   "src": "IBTimes",
-   "url": "https://ibtimes.co.uk/ai-companionship-gaming-loneliness-concerns-1833812",
-   "t": "2026-11-24T00:35:00Z",
-   "group": "companions",
-   "col": 1
-  },
-  {
-   "id": "amzn-decart",
-   "red": true,
-   "cat": "business",
-   "h": "Amazon drops $7.5 BILLION on Decart",
-   "src": "CNBC",
-   "url": "https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
-   "t": "2026-11-23T23:30:00Z",
-   "col": 2
   }
  ],
  "quote": {
@@ -613,25 +602,40 @@
  },
  "meter": {
   "level": 3,
-  "score": 50,
-  "delta": null,
-  "moves": [],
+  "score": 51,
+  "delta": 1,
+  "moves": [
+   {
+    "d": 11,
+    "why": "AI TRADE UNRAVELS: Nasdaq 100 heads for its first BEAR MARKET in mo...",
+    "id": "nasdaq-bear"
+   },
+   {
+    "d": -8,
+    "why": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was...",
+    "id": "huang-spy-brief"
+   },
+   {
+    "d": 7,
+    "why": "NVIDIA DOWN 6%, FEAR GAUGE TOPS 30",
+    "id": "nasdaq-open"
+   }
+  ],
   "contrib": {
-   "huang-spy-brief": 11.2,
-   "blanche-dodge": 0.7,
-   "futures-slide": 0.3,
+   "nasdaq-bear": 11.0,
+   "ant-premarket": 3.7,
+   "nasdaq-open": 7.3,
+   "huang-spy-brief": 3.3,
    "huang-affairs": 0.2,
-   "talkie-pulled": 3.7,
-   "ant-premarket": 7.5,
-   "amzn-meta-muse": 1.1,
-   "deloitte-wa": 3.4,
-   "anthropic-agency": 5.4,
-   "kospi-half": 3.4,
-   "cia-hack": 2.0,
+   "blanche-dodge": 0.2,
+   "talkie-pulled": 3.3,
+   "amzn-meta-muse": 1.0,
+   "deloitte-wa": 3.0,
+   "anthropic-agency": 4.6,
+   "kospi-half": 2.6,
+   "cia-hack": 0.9,
    "amazon-cairn": 0.1,
-   "taiwan-fakes": 0.2,
-   "asia-rout": 0.6,
-   "tidal-ban": 0.3
+   "taiwan-fakes": 0.1
   },
   "lastAdjust": 0,
   "history": [
@@ -810,30 +814,38 @@
    {
     "t": "2026-11-25T14:16:09Z",
     "s": 50
+   },
+   {
+    "t": "2026-11-25T15:15:30Z",
+    "s": 51
    }
   ],
-  "at": "2026-11-25T14:16:09Z",
+  "at": "2026-11-25T15:15:30Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": null,
-   "period": "",
+   "delta": 1,
+   "period": "since last reading",
    "line": [
     {
      "t": "2026-11-25T14:16:09Z",
      "s": 50
+    },
+    {
+     "t": "2026-11-25T15:15:30Z",
+     "s": 51
     }
    ],
    "drivers": [
     {
      "d": 11,
-     "id": "huang-spy-brief",
-     "text": "NYT: Jensen lover's husband the 'more significant' China asset"
+     "id": "nasdaq-bear",
+     "text": "Nasdaq 100 heads for its first bear market in over a year"
     },
     {
-     "d": 8,
-     "id": "ant-premarket",
-     "text": "Anthropic sinks to $77.86 pre-market, far under its $83 IPO"
+     "d": 7,
+     "id": "nasdaq-open",
+     "text": "Nvidia sinks 6% as the AI sell-off resumes"
     },
     {
      "d": 5,
@@ -985,24 +997,24 @@
    ]
   },
   "crypto": {
-   "asOf": "9:15 am ET",
+   "asOf": "10:15 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 58265.0,
-     "chg": -3.34
+     "price": 57841.0,
+     "chg": -3.48
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1635.06,
-     "chg": -3.49
+     "price": 1631.35,
+     "chg": -2.86
     }
    ]
   }
  },
- "next": "2026-11-25T15:18:00Z"
+ "next": "2026-11-25T16:18:00Z"
 }

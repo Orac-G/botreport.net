@@ -3,18 +3,25 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T14:16:13Z",
- "nextUpdate": "2026-11-25T15:18:00Z",
+ "updated": "2026-11-25T15:15:33Z",
+ "nextUpdate": "2026-11-25T16:18:00Z",
  "lead": [
   {
-   "headline": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...: FBI, CIA and ODNI briefers found no evidence China ordered the affair... but didn't dispute she passed intel to its spy agency once it began, NYT says",
+   "headline": "AI TRADE UNRAVELS: Nasdaq 100 heads for its first BEAR MARKET in more than a year...: Investors dump stocks exposed to AI as sentiment deteriorates rapidly, Bloomberg says",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams",
+   "found": "2026-11-25T15:12:49Z",
+   "section": "business"
+  }
+ ],
+ "topLinks": [
+  {
+   "headline": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...",
    "source": "New York Times",
    "url": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
    "found": "2026-11-25T13:16:00Z",
    "section": "politics"
-  }
- ],
- "topLinks": [
+  },
   {
    "headline": "Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...",
    "source": "South China Morning Post",
@@ -30,13 +37,6 @@
    "section": "tech"
   },
   {
-   "headline": "SoftBank PLUNGES 14% as AI sell-off rips through Asia's chip giants...",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-   "found": "2026-11-25T03:11:46Z",
-   "section": "business"
-  },
-  {
    "headline": "Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor",
    "source": "CNBC",
    "url": "https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
@@ -46,17 +46,17 @@
  ],
  "stories": [
   {
+   "headline": "Nvidia sinks 6% as the AI sell-off resumes... Dow down 700, Nasdaq down 3%, fear gauge tops 30",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+   "found": "2026-11-25T15:12:49Z",
+   "section": "business"
+  },
+  {
    "headline": "Anthropic drops ANOTHER 5% before the bell to $77.86... far below its $83 IPO price",
    "source": "CBS News",
    "url": "https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/",
    "found": "2026-11-25T14:14:01Z",
-   "section": "business"
-  },
-  {
-   "headline": "AI SELL-OFF RETURNS: Nasdaq futures sink as Jensen's comeback revives 'key-man risk' fears...",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/25/futures-sink-further-into-the-red-as-tech-worries-resurge.html",
-   "found": "2026-11-25T12:13:00Z",
    "section": "business"
   },
   {
@@ -117,6 +117,13 @@
    "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o",
    "found": "2026-11-25T04:12:27Z",
    "section": "politics"
+  },
+  {
+   "headline": "SoftBank PLUNGES 14% as AI sell-off rips through Asia's chip giants...",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+   "found": "2026-11-25T03:11:46Z",
+   "section": "business"
   },
   {
    "headline": "Tidal BANS fully AI-made music... and expects to DELETE 29 MILLION+ tracks",
@@ -384,20 +391,6 @@
    "url": "https://cybernews.com/ai-news/apple-app-store-ai-companions/",
    "found": "2026-11-24T00:40:00Z",
    "section": "quirky"
-  },
-  {
-   "headline": "AI girlfriends sneak into Minecraft and Discord...",
-   "source": "IBTimes",
-   "url": "https://ibtimes.co.uk/ai-companionship-gaming-loneliness-concerns-1833812",
-   "found": "2026-11-24T00:35:00Z",
-   "section": "quirky"
-  },
-  {
-   "headline": "Amazon drops $7.5 BILLION on Decart",
-   "source": "CNBC",
-   "url": "https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
-   "found": "2026-11-23T23:30:00Z",
-   "section": "business"
   }
  ],
  "quoteOfTheDay": {
@@ -406,7 +399,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
  },
  "skynetOMeter": {
-  "score": 50,
+  "score": 51,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
