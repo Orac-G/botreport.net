@@ -1,6 +1,67 @@
 {
- "updated": "2026-11-25T03:13:57Z",
+ "updated": "2026-11-25T04:16:51Z",
  "stories": [
+  {
+   "id": "cia-hack",
+   "cat": "military",
+   "lead": true,
+   "red": true,
+   "h": "CIA HACKED... SOURCES POINT TO A CHINESE AI TOOL",
+   "src": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
+   "t": "2026-11-25T04:12:27Z",
+   "saga": "hacks",
+   "stack": [
+    "amazon-cairn",
+    "ec-ai-hack",
+    "uk-ai-hacks"
+   ],
+   "sub": "Spy agencies' unclassified intel system breached... some sources suggest China may be behind it...",
+   "img": {
+    "src": "img/cia-hq.jpg",
+    "alt": "Aerial view of CIA headquarters in Langley, Virginia",
+    "credit": "Carol M. Highsmith / Public domain",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_CIA_headquarters,_Langley,_Virginia_14271v.jpg"
+   }
+  },
+  {
+   "id": "amazon-cairn",
+   "cat": "tech",
+   "group": "hacks",
+   "shout": "AMAZON: AI AGENT FOUND A ZERO-DAY",
+   "h": "Amazon says China-linked hackers' AI agent found and exploited a ZERO-DAY on its own...",
+   "src": "Amazon (AWS Security Blog)",
+   "url": "https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/",
+   "t": "2026-11-25T04:12:27Z",
+   "label": "Company claim"
+  },
+  {
+   "id": "blanche-dodge",
+   "cat": "politics",
+   "red": true,
+   "group": "huang-probe",
+   "h": "Asked how DOJ can clear Huang mid-probe, AG Blanche: 'I DON'T KNOW WHAT YOU'RE TALKING ABOUT'... FBI's Patel dodges too",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
+   "t": "2026-11-25T04:12:27Z",
+   "img": {
+    "src": "img/todd-blanche.jpg",
+    "alt": "Attorney General Todd Blanche, official portrait",
+    "credit": "Ryan M. Biller / Public domain",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:AG_Todd_Blanche_Official_Portrait.jpg"
+   },
+   "col": 0,
+   "card": "AG Blanche on Huang: 'I don't know what you're talking about'"
+  },
+  {
+   "id": "taiwan-fakes",
+   "cat": "politics",
+   "h": "BBC Verify: China-linked network using AI FAKES to smear Taiwan election candidates... even President Lai",
+   "src": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o",
+   "t": "2026-11-25T04:12:27Z",
+   "col": 2
+  },
   {
    "id": "asia-rout",
    "cat": "business",
@@ -9,7 +70,8 @@
    "h": "SoftBank PLUNGES 14% as AI sell-off rips through Asia's chip giants...",
    "src": "CNBC",
    "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-   "t": "2026-11-25T03:11:46Z"
+   "t": "2026-11-25T03:11:46Z",
+   "card": "SoftBank PLUNGES 14% as AI sell-off hits Asia"
   },
   {
    "id": "tidal-ban",
@@ -23,54 +85,47 @@
   {
    "id": "trump-pardon",
    "cat": "politics",
-   "lead": true,
    "red": true,
-   "h": "TRUMP: A PARDON FOR JENSEN IS 'ALWAYS AN OPTION'",
-   "sub": "President tells the Post he doesn't think it'll be necessary... and urges Huang not to take the Fifth before Congress...",
+   "h": "Trump: a pardon for Jensen is 'ALWAYS AN OPTION'... urges him not to take the Fifth",
    "src": "New York Post",
    "url": "https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/",
    "t": "2026-11-25T02:17:13Z",
-   "stack": [
-    "huang-therapy",
-    "trump-stake",
-    "doj-diversion"
-   ],
-   "img": {
-    "src": "img/huang.jpg",
-    "alt": "Nvidia CEO Jensen Huang at Stanford University",
-    "credit": "Anders Eidesvik / CC BY 4.0",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_005.jpg"
-   }
+   "group": "huang-probe",
+   "col": 0
   },
   {
    "id": "huang-therapy",
    "cat": "business",
    "h": "Jensen tells Nvidia staff 'I HURT ALL OF YOU'... says he's in therapy, says one person in the room",
-   "shout": "JENSEN: 'I HURT ALL OF YOU'",
    "src": "CNBC",
    "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
    "t": "2026-11-25T02:17:13Z",
-   "correction": "An earlier headline attributed the therapy remark to several people present; CNBC cites one."
+   "correction": "An earlier headline attributed the therapy remark to several people present; CNBC cites one.",
+   "group": "huang",
+   "col": 0
   },
   {
    "id": "trump-stake",
    "cat": "politics",
    "h": "Trump mulls a US STAKE in Nvidia, Intel-style, after Jensen's return...",
-   "shout": "TRUMP EYES A STAKE IN NVIDIA",
    "src": "Business Insider",
    "url": "https://www.businessinsider.com/trump-us-equity-stake-nvidia-not-too-late-2026-11",
-   "t": "2026-11-25T02:17:13Z"
+   "t": "2026-11-25T02:17:13Z",
+   "group": "huang-probe",
+   "col": 0
   },
   {
    "id": "doj-diversion",
    "cat": "politics",
    "red": true,
    "h": "NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...",
-   "shout": "DOJ PROBES CHIP DIVERSION BY OTHERS",
    "src": "New York Times",
    "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
    "t": "2026-11-25T02:17:13Z",
-   "correction": "An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries."
+   "correction": "An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries.",
+   "group": "nvda-china",
+   "col": 0,
+   "card": "Sources: DOJ has evidence others diverted Nvidia chips to China"
   },
   {
    "id": "alfozan-bail",
@@ -80,7 +135,8 @@
    "h": "Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor",
    "src": "CNBC",
    "url": "https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
-   "t": "2026-11-25T02:17:13Z"
+   "t": "2026-11-25T02:17:13Z",
+   "card": "Judge FREES ex-OpenAI engineer accused of BUGGING execs"
   },
   {
    "id": "huang-senate",
@@ -91,7 +147,8 @@
    "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
    "t": "2026-11-25T01:11:00Z",
    "group": "huang",
-   "col": 0
+   "col": 0,
+   "card": "Senate hauls Jensen in for a public grilling Dec. 3"
   },
   {
    "id": "gpt6-proteins",
@@ -104,7 +161,7 @@
    "t": "2026-11-24T23:11:30Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50634658",
-    "comments": 55
+    "comments": 62
    },
    "top": true
   },
@@ -165,7 +222,7 @@
    "src": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
    "t": "2026-11-24T18:14:00Z",
-   "col": 0
+   "shout": "UK: 'MARKED RISE' IN AI ATTACKS"
   },
   {
    "id": "nvda-hangover",
@@ -194,7 +251,7 @@
    "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
    "t": "2026-11-24T14:22:05Z",
    "group": "hacks",
-   "col": 0
+   "shout": "AI RAIDED THE EU TOO"
   },
   {
    "id": "nk-chatbot",
@@ -206,7 +263,7 @@
    "img": {
     "src": "img/nk-lab.jpg",
     "alt": "Adults working at rows of computers in the Grand People's Study House, Pyongyang",
-    "credit": "Bjørn Christian Tørrissen / CC BY-SA 3.0",
+    "credit": "Bj\u00f8rn Christian T\u00f8rrissen / CC BY-SA 3.0",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Grand-Peoples-Study-House-Computer-Lab.jpg"
    },
    "col": 2
@@ -250,7 +307,7 @@
    "t": "2026-11-24T12:17:17Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 703
+    "comments": 716
    },
    "col": 1
   },
@@ -267,17 +324,6 @@
     "url": "https://news.ycombinator.com/item?id=50630245",
     "comments": 65
    },
-   "col": 0
-  },
-  {
-   "id": "congress-fury",
-   "cat": "politics",
-   "h": "Congress BLASTS Nvidia for bringing Jensen back... probes roll on",
-   "src": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
-   "t": "2026-11-24T03:15:30Z",
-   "shout": "Congress erupts",
-   "group": "huang",
    "col": 0
   },
   {
@@ -319,19 +365,6 @@
    },
    "group": "markets",
    "col": 1
-  },
-  {
-   "id": "glm-54",
-   "cat": "tech",
-   "h": "China fires back: Z.ai's GLM-5.4 coding model lights up Hacker News...",
-   "src": "Z.ai",
-   "url": "https://z.ai/blog/glm-5.4",
-   "t": "2026-11-24T03:04:00Z",
-   "hn": {
-    "url": "https://news.ycombinator.com/item?id=50609685",
-    "comments": 380
-   },
-   "col": 0
   },
   {
    "id": "nasdaq-rally",
@@ -398,7 +431,7 @@
    "t": "2026-11-24T01:15:00Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3702
+    "comments": 3744
    },
    "group": "huang",
    "col": 0
@@ -413,16 +446,6 @@
    "t": "2026-11-24T01:10:00Z",
    "group": "markets",
    "col": 1
-  },
-  {
-   "id": "trump-board",
-   "cat": "politics",
-   "h": "Trump: I talked the board into it",
-   "src": "NBC",
-   "url": "https://www.nbcwashington.com/news/national-international/nvidia-reinstates-jensen-huang-ceo/4186956/",
-   "t": "2026-11-24T01:05:00Z",
-   "group": "huang",
-   "col": 0
   },
   {
    "id": "gta-lucia",
@@ -442,7 +465,7 @@
    "src": "OPB",
    "url": "https://opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue",
    "t": "2026-11-24T00:45:00Z",
-   "col": 0
+   "col": 2
   },
   {
    "id": "apple-18",
@@ -482,46 +505,38 @@
   "day": "2026-11-24"
  },
  "meter": {
-  "level": 4,
+  "level": 5,
   "label": "FEVERISH",
   "why": "Trump floats a pardon for Jensen as the DOJ digs into Nvidia chips diverted to China, and lab staff say their own models are too dangerous to release.",
-  "score": 76,
-  "delta": 7,
-  "moves": [
-   {
-    "d": 6,
-    "why": "SoftBank PLUNGES 14% as AI sell-off rips through Asia's chip giants...",
-    "id": "asia-rout"
-   },
-   {
-    "d": 3,
-    "why": "Tidal BANS fully AI-made music... and expects to DELETE 29 MILLION+...",
-    "id": "tidal-ban"
-   }
-  ],
+  "score": 83,
+  "delta": null,
+  "moves": [],
   "contrib": {
+   "cia-hack": 12.0,
+   "amazon-cairn": 0.5,
+   "uk-ai-hacks": 0.2,
+   "ec-ai-hack": 0.1,
+   "blanche-dodge": 6.0,
+   "trump-pardon": 3.0,
+   "trump-stake": 0.2,
+   "taiwan-fakes": 1.0,
    "asia-rout": 6.0,
    "tidal-ban": 3.0,
-   "trump-pardon": 9.0,
-   "huang-therapy": 1.0,
-   "trump-stake": 1.0,
-   "doj-diversion": 6.0,
-   "alfozan-bail": 6.0,
    "huang-senate": 6.0,
-   "gpt6-proteins": 1.0,
-   "ny-ai-toys": 5.4,
-   "too-dangerous": 4.3,
-   "tegmark-takeover": 2.1,
-   "uk-ai-hacks": 0.7,
-   "nvda-hangover": 0.6,
-   "bubble-popped": 0.6,
-   "ec-ai-hack": 0.5,
-   "nk-chatbot": 1.6,
-   "nvda-board-doubts": 0.6,
-   "trump-nvda-trades": 0.5,
-   "ant-below-ipo": 2.6,
-   "megaspeed-blacklist": 0.3,
-   "riemann": 2.0
+   "huang-therapy": 0.5,
+   "nvda-board-doubts": 0.1,
+   "doj-diversion": 6.0,
+   "trump-nvda-trades": 0.2,
+   "alfozan-bail": 6.0,
+   "riemann": 1.8,
+   "gpt6-proteins": 0.5,
+   "ny-ai-toys": 5.1,
+   "too-dangerous": 4.0,
+   "tegmark-takeover": 1.0,
+   "ant-below-ipo": 2.3,
+   "nvda-hangover": 0.3,
+   "bubble-popped": 0.5,
+   "nk-chatbot": 1.4
   },
   "lastAdjust": 0,
   "history": [
@@ -676,9 +691,15 @@
    {
     "t": "2026-11-25T03:13:57Z",
     "s": 76
+   },
+   {
+    "t": "2026-11-25T04:16:41Z",
+    "s": 83
    }
   ],
-  "at": "2026-11-25T03:13:57Z"
+  "at": "2026-11-25T04:16:41Z",
+  "formulaSince": "2026-11-25T04:16:41Z",
+  "formula": 2
  },
  "state": {
   "models": {
@@ -703,7 +724,7 @@
     },
     {
      "name": "Kimi K3.1 Pro",
-     "lab": "Moonshot · best open model",
+     "lab": "Moonshot \u00b7 best open model",
      "score": 46
     },
     {
@@ -715,9 +736,21 @@
   },
   "stocks": {
    "asOf": "Close Nov 24",
-   "src": "Yahoo Finance · change vs. prior close",
+   "src": "Yahoo Finance \u00b7 change vs. prior close",
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
+    {
+     "sym": "NVDA",
+     "name": "Nvidia",
+     "price": 155.38,
+     "chg": -5.86
+    },
+    {
+     "sym": "ANT",
+     "name": "Anthropic",
+     "price": 81.91,
+     "chg": -6.54
+    },
     {
      "sym": "CBRS",
      "name": "Cerebras",
@@ -741,6 +774,12 @@
      "name": "Palantir",
      "price": 161.18,
      "chg": 1.14
+    },
+    {
+     "sym": "NASDAQ",
+     "name": "Composite",
+     "price": 23733.53,
+     "chg": -1.48
     }
    ]
   },
@@ -761,7 +800,7 @@
      "url": "https://gvwire.com/2026/11/06/openai-secures-11-billion-funding-at-1-25-trillion-valuation-bloomberg-news-reports/"
     },
     {
-     "who": "Amazon → Decart",
+     "who": "Amazon \u2192 Decart",
      "amt": "$7.5B",
      "note": "tech and team deal, pending approval",
      "url": "https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
@@ -804,30 +843,30 @@
     },
     {
      "date": "2026-12-09",
-     "what": "The AI Summit New York (Dec. 9–10)",
+     "what": "The AI Summit New York (Dec. 9\u201310)",
      "url": "https://newyork.theaisummit.com/"
     }
    ]
   },
   "crypto": {
-   "asOf": "10:13 pm ET",
-   "src": "CoinGecko · 24-hour change",
+   "asOf": "11:16 pm ET",
+   "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59337.0,
-     "chg": -0.69
+     "price": 59236.0,
+     "chg": -1.86
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1659.97,
-     "chg": -1.07
+     "price": 1660.8,
+     "chg": -2.08
     }
    ]
   }
  },
- "next": "2026-11-25T04:11:00Z"
+ "next": "2026-11-25T07:11:00Z"
 }

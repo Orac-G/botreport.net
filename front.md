@@ -2,11 +2,11 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Tuesday, November 24, 2026, 10:13 PM ET. Every headline links to the original reporting or primary source.
+Updated Tuesday, November 24, 2026, 11:16 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
-- [TRUMP: A PARDON FOR JENSEN IS 'ALWAYS AN OPTION': President tells the Post he doesn't think it'll be necessary... and urges Huang not to take the Fifth before Congress...](https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/) (New York Post)
+- [CIA HACKED... SOURCES POINT TO A CHINESE AI TOOL: Spy agencies' unclassified intel system breached... some sources suggest China may be behind it...](https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html) (New York Times)
 
 ## Top stories
 
@@ -17,7 +17,11 @@ Updated Tuesday, November 24, 2026, 10:13 PM ET. Every headline links to the ori
 
 ## All stories (newest first)
 
+- [Amazon says China-linked hackers' AI agent found and exploited a ZERO-DAY on its own...](https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/) (Amazon (AWS Security Blog) · Company claim)
+- [Asked how DOJ can clear Huang mid-probe, AG Blanche: 'I DON'T KNOW WHAT YOU'RE TALKING ABOUT'... FBI's Patel dodges too](https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html) (CNBC)
+- [BBC Verify: China-linked network using AI FAKES to smear Taiwan election candidates... even President Lai](https://www.bbc.co.uk/news/articles/cv702rw7dzx5o) (BBC)
 - [Tidal BANS fully AI-made music... and expects to DELETE 29 MILLION+ tracks](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/) (TechCrunch)
+- [Trump: a pardon for Jensen is 'ALWAYS AN OPTION'... urges him not to take the Fifth](https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/) (New York Post)
 - [Jensen tells Nvidia staff 'I HURT ALL OF YOU'... says he's in therapy, says one person in the room](https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html) (CNBC · Corrected: An earlier headline attributed the therapy remark to several people present; CNBC cites one.)
 - [Trump mulls a US STAKE in Nvidia, Intel-style, after Jensen's return...](https://www.businessinsider.com/trump-us-equity-stake-nvidia-not-too-late-2026-11) (Business Insider)
 - [NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...](https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html) (New York Times · Corrected: An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries.)
@@ -34,10 +38,8 @@ Updated Tuesday, November 24, 2026, 10:13 PM ET. Every headline links to the ori
 - [Trump bought Nvidia 28 TIMES this year... up to $16.7 MILLION, disclosures show](https://www.kadoa.com/congress/insights/trump-nvidia) (Kadoa)
 - [Anthropic SINKS BELOW its $83 IPO price... debut rally unravels](https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/) (Bloomberg)
 - [Feds BLACKLIST Megaspeed, the Nvidia chip buyer at the center of the Huang scandal...](https://www.yahoo.com/news/politics/articles/us-blacklists-megaspeed-over-suspected-010342870.html) (Yahoo News)
-- [Congress BLASTS Nvidia for bringing Jensen back... probes roll on](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html) (CNBC)
 - [Anthropic mathematician and NYU prof claim AI-aided proof cracks $1M Navier-Stokes riddle...](https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/) (Scientific American)
 - [Fund that bet AGAINST Nvidia halted after 91% wipeout...](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/short-nvidia-fund-halted-after-91-wipeout-myoKEHNFkGcseucDUC48) (WSJ)
-- [China fires back: Z.ai's GLM-5.4 coding model lights up Hacker News...](https://z.ai/blog/glm-5.4) (Z.ai)
 - [NASDAQ ROCKETS 6.5%... Best day in 19 months as Jensen returns](https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html) (CNBC)
 - [AI coding agent LEAKS THE KEYS... hackers grab months of customer prompts](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026) (Together AI)
 - [Meet Anthropic's 7 new mega-billionaires... about $20 BILLION each](https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/) (CBS News)
@@ -45,7 +47,6 @@ Updated Tuesday, November 24, 2026, 10:13 PM ET. Every headline links to the ori
 - [OpenAI's top scientist begs rivals: Let's all SLOW DOWN... Altman signs on](https://thenextweb.com/news/openai-chief-scientist-shared-ai-limits) (The Next Web)
 - [Nvidia brings Jensen BACK as CEO two weeks after he quit... Trump says he made the call](https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia) (CNN)
 - [Nvidia adds nearly $1 TRILLION in a day... Best since 2003](https://finance.yahoo.com/technology/article/nvidia-reinstates-jensen-huang-as-ceo-stock-rockets-141145439.html) (Yahoo Finance)
-- [Trump: I talked the board into it](https://www.nbcwashington.com/news/national-international/nvidia-reinstates-jensen-huang-ceo/4186956/) (NBC)
 - [Men blow THOUSANDS on AI girlfriends modeled on GTA 6 heroine...](https://www.vice.com/en/article/men-are-spending-thousands-on-ai-girlfriends-inspired-by-gta-6s-lucia-yes-seriously/) (Vice)
 - [States sue Musk companies over Grok's SEX DEEPFAKES](https://opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue) (OPB)
 - [Apple slaps ADULTS ONLY label on AI girlfriends...](https://cybernews.com/ai-news/apple-app-store-ai-companions/) (Cybernews)
@@ -57,6 +58,6 @@ Updated Tuesday, November 24, 2026, 10:13 PM ET. Every headline links to the ori
 > “When I talk to people who work for Anthropic, after they've had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world.”
 > — Max Tegmark, MIT physicist, in an interview with Novara Media ([source](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/))
 
-Skynet-o-Meter: 76 out of 100.
+Skynet-o-Meter: 83 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml
