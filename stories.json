@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:13:24Z",
+ "updated": "2026-11-25T18:14:05Z",
  "stories": [
   {
    "id": "nasdaq-bear",
@@ -24,6 +24,35 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg"
    },
    "card": "Nasdaq 100 heads for its first bear market in over a year"
+  },
+  {
+   "id": "spacex-starmind",
+   "cat": "tech",
+   "red": true,
+   "top": true,
+   "h": "FCC clears Musk's SpaceX to launch up to ONE MILLION satellites... for AI DATA CENTERS IN ORBIT",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers",
+   "t": "2026-11-25T18:13:39Z",
+   "card": "FCC clears SpaceX for 1 MILLION data-center satellites"
+  },
+  {
+   "id": "cai-auction",
+   "cat": "quirky",
+   "red": true,
+   "group": "companions",
+   "h": "42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors",
+   "src": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "t": "2026-11-25T18:13:39Z",
+   "col": 1,
+   "img": {
+    "src": "img/rob-bonta.jpg",
+    "alt": "California Attorney General Rob Bonta",
+    "credit": "Douglas Despres, California Attorney General's Office / Public domain",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Rob_Bonta_official_portrait_(cropped).jpg"
+   },
+   "card": "42 AGs fight Character.ai sale of 21M users' private chats"
   },
   {
    "id": "dc-loans",
@@ -154,8 +183,8 @@
    "src": "Axios",
    "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
    "t": "2026-11-25T10:11:47Z",
-   "top": true,
-   "card": "AI bosses balk at Anthropic idea: surrender decisions to AI"
+   "card": "AI bosses balk at Anthropic idea: surrender decisions to AI",
+   "col": 2
   },
   {
    "id": "huang-affairs",
@@ -374,7 +403,7 @@
     "comments": 12
    },
    "group": "doom",
-   "col": 1
+   "col": 0
   },
   {
    "id": "tegmark-takeover",
@@ -388,7 +417,7 @@
     "comments": 97
    },
    "group": "doom",
-   "col": 1
+   "col": 0
   },
   {
    "id": "uk-ai-hacks",
@@ -399,16 +428,6 @@
    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
    "t": "2026-11-24T18:14:00Z",
    "col": 0
-  },
-  {
-   "id": "nvda-hangover",
-   "cat": "business",
-   "group": "markets",
-   "h": "HANGOVER: Nvidia slides the morning after its $1 TRILLION day...",
-   "src": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-   "t": "2026-11-24T15:11:00Z",
-   "col": 1
   },
   {
    "id": "bubble-popped",
@@ -551,15 +570,6 @@
    "col": 2
   },
   {
-   "id": "anthropic-20b",
-   "cat": "business",
-   "h": "Meet Anthropic's 7 new mega-billionaires... about $20 BILLION each",
-   "src": "CBS News",
-   "url": "https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/",
-   "t": "2026-11-24T02:11:00Z",
-   "col": 2
-  },
-  {
    "id": "hilton-defiance",
    "cat": "politics",
    "h": "Paris Hilton takes her fight against AI porn fakes to Congress...",
@@ -577,7 +587,7 @@
    "url": "https://thenextweb.com/news/openai-chief-scientist-shared-ai-limits",
    "t": "2026-11-24T02:09:00Z",
    "group": "doom",
-   "col": 1
+   "col": 0
   },
   {
    "id": "huang-back",
@@ -643,31 +653,43 @@
   "day": "2026-11-24"
  },
  "meter": {
-  "level": 3,
-  "score": 56,
-  "delta": -2,
+  "level": 4,
+  "score": 60,
+  "delta": 4,
   "moves": [
    {
-    "d": -1,
-    "why": "Korea's chip-heavy stock market has lost NEARLY HALF its value in f...",
-    "id": "kospi-half"
+    "d": 8,
+    "why": "42 state AGs fight Character.ai plan to AUCTION private chats from...",
+    "id": "cai-auction"
+   },
+   {
+    "d": 6,
+    "why": "FCC clears Musk's SpaceX to launch up to ONE MILLION satellites......",
+    "id": "spacex-starmind"
+   },
+   {
+    "d": -2,
+    "why": "AI TRADE UNRAVELS: Nasdaq 100 heads for its first BEAR MARKET in mo...",
+    "id": "nasdaq-bear"
    }
   ],
   "contrib": {
-   "nasdaq-bear": 9.3,
-   "ant-premarket": 2.8,
-   "dc-loans": 6.8,
-   "nasdaq-open": 6.2,
-   "huang-spy-brief": 2.5,
+   "nasdaq-bear": 7.7,
+   "ant-premarket": 2.3,
+   "spacex-starmind": 6.3,
+   "cai-auction": 8.3,
+   "talkie-pulled": 1.0,
+   "dc-loans": 5.7,
+   "nasdaq-open": 5.1,
+   "huang-spy-brief": 2.0,
    "credit-fear": 0.3,
    "huang-affairs": 0.1,
-   "ai-targets": 4.5,
-   "motson-ai": 3.4,
-   "talkie-pulled": 2.5,
-   "amzn-meta-muse": 0.7,
-   "deloitte-wa": 2.2,
-   "anthropic-agency": 3.1,
-   "kospi-half": 1.2
+   "ai-targets": 3.8,
+   "motson-ai": 2.8,
+   "amzn-meta-muse": 0.6,
+   "deloitte-wa": 1.7,
+   "anthropic-agency": 2.3,
+   "kospi-half": 0.6
   },
   "lastAdjust": 0,
   "history": [
@@ -858,13 +880,17 @@
    {
     "t": "2026-11-25T17:13:22Z",
     "s": 56
+   },
+   {
+    "t": "2026-11-25T18:13:59Z",
+    "s": 60
    }
   ],
-  "at": "2026-11-25T17:13:22Z",
+  "at": "2026-11-25T18:13:59Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -2,
+   "delta": 4,
    "period": "since last reading",
    "line": [
     {
@@ -882,25 +908,44 @@
     {
      "t": "2026-11-25T17:13:22Z",
      "s": 56
+    },
+    {
+     "t": "2026-11-25T18:13:59Z",
+     "s": 60
     }
    ],
    "drivers": [
     {
-     "d": 9,
-     "id": "nasdaq-bear",
-     "text": "Nasdaq 100 heads for its first bear market in over a year"
-    },
-    {
-     "d": 7,
-     "id": "dc-loans",
-     "text": "Chip curbs FREEZE billions in China-linked AI loans"
+     "d": 8,
+     "id": "cai-auction",
+     "text": "42 AGs fight Character.ai sale of 21M users' private chats"
     },
     {
      "d": 6,
-     "id": "nasdaq-open",
-     "text": "Nvidia plunges as the AI sell-off resumes"
+     "id": "spacex-starmind",
+     "text": "FCC clears SpaceX for 1 MILLION data-center satellites"
+    },
+    {
+     "d": -10,
+     "text": "Older stories cooling off"
     }
    ]
+  },
+  "change": {
+   "ai-targets": -0.7,
+   "amzn-meta-muse": -0.1,
+   "ant-premarket": -0.5,
+   "anthropic-agency": -0.8,
+   "cai-auction": 8.3,
+   "dc-loans": -1.1,
+   "deloitte-wa": -0.5,
+   "huang-spy-brief": -0.5,
+   "kospi-half": -0.6,
+   "motson-ai": -0.6,
+   "nasdaq-bear": -1.6,
+   "nasdaq-open": -1.1,
+   "spacex-starmind": 6.3,
+   "talkie-pulled": -1.5
   }
  },
  "state": {
@@ -937,45 +982,51 @@
    ]
   },
   "stocks": {
-   "asOf": "11:14 am ET",
+   "asOf": "1:13 pm ET",
    "src": "Yahoo Finance \u00b7 change vs. prior close",
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
     {
      "sym": "NVDA",
      "name": "Nvidia",
-     "price": 142.22,
-     "chg": -8.47
+     "price": 146.13,
+     "chg": -5.95
     },
     {
      "sym": "ANT",
      "name": "Anthropic",
-     "price": 78.98,
-     "chg": -3.57
+     "price": 84.61,
+     "chg": 3.3
+    },
+    {
+     "sym": "CBRS",
+     "name": "Cerebras",
+     "price": 87.28,
+     "chg": -1.7
     },
     {
      "sym": "CRWV",
      "name": "CoreWeave",
-     "price": 37.98,
-     "chg": -10.84
+     "price": 40.5,
+     "chg": -4.95
     },
     {
      "sym": "NBIS",
      "name": "Nebius",
-     "price": 76.2,
-     "chg": -12.71
+     "price": 81.88,
+     "chg": -6.2
     },
     {
      "sym": "PLTR",
      "name": "Palantir",
-     "price": 154.29,
-     "chg": -4.27
+     "price": 161.31,
+     "chg": 0.08
     },
     {
      "sym": "NASDAQ",
      "name": "Composite",
-     "price": 22759.72,
-     "chg": -4.1
+     "price": 23298.38,
+     "chg": -1.83
     }
    ]
   },
@@ -1019,6 +1070,11 @@
    "items": [
     {
      "date": "2026-12-01",
+     "what": "Character.ai bankruptcy auction of users' chats, opposed by 42 state AGs",
+     "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+    },
+    {
+     "date": "2026-12-01",
      "what": "House committees question Jensen Huang behind closed doors",
      "url": "https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia"
     },
@@ -1036,33 +1092,28 @@
      "date": "2026-12-06",
      "what": "NeurIPS opens in Sydney (through Dec. 12)",
      "url": "https://neurips.cc/Conferences/2026/Dates"
-    },
-    {
-     "date": "2026-12-09",
-     "what": "The AI Summit New York (Dec. 9\u201310)",
-     "url": "https://newyork.theaisummit.com/"
     }
    ]
   },
   "crypto": {
-   "asOf": "12:13 pm ET",
+   "asOf": "1:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59189.0,
-     "chg": -1.24
+     "price": 59727.0,
+     "chg": -0.54
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1658.73,
-     "chg": -1.19
+     "price": 1680.38,
+     "chg": -0.13
     }
    ]
   }
  },
- "next": "2026-11-25T18:18:00Z"
+ "next": "2026-11-25T19:18:00Z"
 }

@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T17:13:24Z",
- "nextUpdate": "2026-11-25T18:18:00Z",
+ "updated": "2026-11-25T18:14:05Z",
+ "nextUpdate": "2026-11-25T19:18:00Z",
  "lead": [
   {
    "headline": "AI TRADE UNRAVELS: Nasdaq 100 heads for its first BEAR MARKET in more than a year...: Investors dump stocks exposed to AI as sentiment deteriorates rapidly, Bloomberg says",
@@ -15,6 +15,13 @@
   }
  ],
  "topLinks": [
+  {
+   "headline": "FCC clears Musk's SpaceX to launch up to ONE MILLION satellites... for AI DATA CENTERS IN ORBIT",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers",
+   "found": "2026-11-25T18:13:39Z",
+   "section": "tech"
+  },
   {
    "headline": "BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Tencent GRIND TO A HALT after US chip curbs...",
    "source": "Bloomberg",
@@ -35,16 +42,16 @@
    "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
    "found": "2026-11-25T13:16:00Z",
    "section": "quirky"
-  },
-  {
-   "headline": "Rival AI bosses push back on Anthropic view that humans should SURRENDER some decisions to superintelligent AI, sources tell Axios...",
-   "source": "Axios",
-   "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
-   "found": "2026-11-25T10:11:47Z",
-   "section": "tech"
   }
  ],
  "stories": [
+  {
+   "headline": "42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "found": "2026-11-25T18:13:39Z",
+   "section": "quirky"
+  },
   {
    "headline": "Nvidia and CoreWeave CREDIT-RISK gauges hit RECORD HIGHS as Wall Street's AI fears mount...",
    "source": "Bloomberg",
@@ -94,6 +101,13 @@
    "url": "https://www.abc.net.au/news/2026-11-25/deloitte-suspended-from-wa-govt-contracts-after-ai-uni-merger-/107427546",
    "found": "2026-11-25T12:13:00Z",
    "section": "quirky"
+  },
+  {
+   "headline": "Rival AI bosses push back on Anthropic view that humans should SURRENDER some decisions to superintelligent AI, sources tell Axios...",
+   "source": "Axios",
+   "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
+   "found": "2026-11-25T10:11:47Z",
+   "section": "tech"
   },
   {
    "headline": "Catching up: Jensen disclosed MORE AFFAIRS to Nvidia's board before it rehired him, WSJ says...",
@@ -269,13 +283,6 @@
    }
   },
   {
-   "headline": "HANGOVER: Nvidia slides the morning after its $1 TRILLION day...",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
-   "found": "2026-11-24T15:11:00Z",
-   "section": "business"
-  },
-  {
    "headline": "Krugman and co. declare the AI bubble POPPED... Wall Street isn't listening",
    "source": "Fortune",
    "url": "https://fortune.com/2026/11/23/ai-bubble-krugman-stoller-dean-baker-wall-street-recession-wealth-effect/",
@@ -362,13 +369,6 @@
    "section": "tech"
   },
   {
-   "headline": "Meet Anthropic's 7 new mega-billionaires... about $20 BILLION each",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/",
-   "found": "2026-11-24T02:11:00Z",
-   "section": "business"
-  },
-  {
    "headline": "Paris Hilton takes her fight against AI porn fakes to Congress...",
    "source": "CNBC",
    "url": "https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html",
@@ -428,7 +428,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
  },
  "skynetOMeter": {
-  "score": 56,
+  "score": 60,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

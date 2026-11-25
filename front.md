@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Wednesday, November 25, 2026, 12:13 PM ET. Every headline links to the original reporting or primary source.
+Updated Wednesday, November 25, 2026, 1:14 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -10,13 +10,14 @@ Updated Wednesday, November 25, 2026, 12:13 PM ET. Every headline links to the o
 
 ## Top stories
 
+- [FCC clears Musk's SpaceX to launch up to ONE MILLION satellites... for AI DATA CENTERS IN ORBIT](https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers) (Bloomberg)
 - [BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Tencent GRIND TO A HALT after US chip curbs...](https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs) (Bloomberg)
 - [SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...](https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html) (New York Times)
 - [Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...](https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content) (South China Morning Post)
-- [Rival AI bosses push back on Anthropic view that humans should SURRENDER some decisions to superintelligent AI, sources tell Axios...](https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will) (Axios)
 
 ## All stories (newest first)
 
+- [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
 - [Nvidia and CoreWeave CREDIT-RISK gauges hit RECORD HIGHS as Wall Street's AI fears mount...](https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount) (Bloomberg)
 - [Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds](https://www.militarytimes.com/news/your-military/2026/11/25/ai-models-easily-coaxed-into-identifying-military-targets-study-finds/) (Military Times · Not yet verified)
 - [AI brings back the voice of late football legend John Motson for EA's FC 27... with his family's blessing](https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27) (The Guardian)
@@ -24,6 +25,7 @@ Updated Wednesday, November 25, 2026, 12:13 PM ET. Every headline links to the o
 - [Anthropic drops ANOTHER 5% before the bell to $77.86... far below its $83 IPO price](https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/) (CBS News)
 - [Amazon and Meta talk TRUCE in AI shopping-bot war... Zuck and Jassy must sign off, sources say](https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/) (Fortune)
 - [Australian state SUSPENDS Deloitte over AI-riddled report... and wants its fee BACK](https://www.abc.net.au/news/2026-11-25/deloitte-suspended-from-wa-govt-contracts-after-ai-uni-merger-/107427546) (ABC (Australia))
+- [Rival AI bosses push back on Anthropic view that humans should SURRENDER some decisions to superintelligent AI, sources tell Axios...](https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will) (Axios)
 - [Catching up: Jensen disclosed MORE AFFAIRS to Nvidia's board before it rehired him, WSJ says...](https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961) (Wall Street Journal · From Nov. 23)
 - [Korea's chip-heavy stock market has lost NEARLY HALF its value in five months... AI doubts blamed](https://www.koreaherald.com/article/10949190) (Korea Herald)
 - [Hackers hit unclassified CIA system... some sources point to a CHINESE AI TOOL](https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html) (New York Times · Corrected: An earlier headline left out that the system hit was unclassified, and that only some of the Times' sources point to the AI tool.)
@@ -45,7 +47,6 @@ Updated Wednesday, November 25, 2026, 12:13 PM ET. Every headline links to the o
 - [UK cyber agency warns of 'MARKED RISE' in AI-driven attacks...](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security) (TechCrunch)
 - [Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE](https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/) (Scientific American)
 - [Critics: Nvidia board's Huang U-TURN raises doubts it's really independent...](https://www.reuters.com/legal/transactional/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-2026-11-24/) (Reuters)
-- [HANGOVER: Nvidia slides the morning after its $1 TRILLION day...](https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html) (CNBC)
 - [Krugman and co. declare the AI bubble POPPED... Wall Street isn't listening](https://fortune.com/2026/11/23/ai-bubble-krugman-stoller-dean-baker-wall-street-recession-wealth-effect/) (Fortune)
 - [Hackers used AI to raid the European Commission... and got away with personal data](https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834) (The Register)
 - [North Korea unveils its first AI chatbot... but it won't answer 'uncultured questions'](https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions) (South China Morning Post)
@@ -56,7 +57,6 @@ Updated Wednesday, November 25, 2026, 12:13 PM ET. Every headline links to the o
 - [Fund that bet AGAINST Nvidia halted after 91% wipeout...](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/short-nvidia-fund-halted-after-91-wipeout-myoKEHNFkGcseucDUC48) (WSJ)
 - [NASDAQ ROCKETS 6.5%... Best day in 19 months as Jensen returns](https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html) (CNBC)
 - [AI coding agent LEAKS THE KEYS... hackers grab months of customer prompts](https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026) (Together AI)
-- [Meet Anthropic's 7 new mega-billionaires... about $20 BILLION each](https://www.cbsnews.com/news/anthropic-ipo-founders-net-worth/) (CBS News)
 - [Paris Hilton takes her fight against AI porn fakes to Congress...](https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html) (CNBC)
 - [OpenAI's top scientist begs rivals: Let's all SLOW DOWN... Altman signs on](https://thenextweb.com/news/openai-chief-scientist-shared-ai-limits) (The Next Web)
 - [Nvidia brings Jensen BACK as CEO two weeks after he quit... Trump says he made the call](https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia) (CNN)
@@ -70,6 +70,6 @@ Updated Wednesday, November 25, 2026, 12:13 PM ET. Every headline links to the o
 > “When I talk to people who work for Anthropic, after they've had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world.”
 > — Max Tegmark, MIT physicist, in an interview with Novara Media ([source](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/))
 
-Skynet-o-Meter: 56 out of 100.
+Skynet-o-Meter: 60 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml
