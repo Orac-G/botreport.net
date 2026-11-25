@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:18:34Z",
+ "updated": "2026-11-25T14:16:13Z",
  "stories": [
   {
    "id": "huang-spy-brief",
@@ -33,7 +33,20 @@
    "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
    "t": "2026-11-25T13:16:00Z",
    "group": "companions",
-   "col": 1
+   "top": true,
+   "card": "Apple pulls AI companion app Talkie worldwide over sex content"
+  },
+  {
+   "id": "ant-premarket",
+   "cat": "business",
+   "red": true,
+   "group": "markets",
+   "h": "Anthropic drops ANOTHER 5% before the bell to $77.86... far below its $83 IPO price",
+   "src": "CBS News",
+   "url": "https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/",
+   "t": "2026-11-25T14:14:01Z",
+   "col": 1,
+   "card": "Anthropic sinks to $77.86 pre-market, far under its $83 IPO"
   },
   {
    "id": "futures-slide",
@@ -67,7 +80,8 @@
    "src": "ABC (Australia)",
    "url": "https://www.abc.net.au/news/2026-11-25/deloitte-suspended-from-wa-govt-contracts-after-ai-uni-merger-/107427546",
    "t": "2026-11-25T12:13:00Z",
-   "col": 2
+   "col": 2,
+   "card": "Australian state suspends Deloitte over AI-riddled report"
   },
   {
    "id": "anthropic-agency",
@@ -118,7 +132,7 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_CIA_headquarters,_Langley,_Virginia_14271v.jpg"
    },
    "correction": "An earlier headline left out that the system hit was unclassified, and that only some of the Times' sources point to the AI tool.",
-   "card": "Unclassified CIA system hacked; some sources blame AI tool",
+   "card": "Unclassified CIA system hit; some sources cite Chinese AI tool",
    "group": "hacks",
    "col": 0
   },
@@ -261,7 +275,7 @@
     "url": "https://news.ycombinator.com/item?id=50634658",
     "comments": 86
    },
-   "top": true
+   "col": 2
   },
   {
    "id": "ny-ai-toys",
@@ -599,55 +613,25 @@
  },
  "meter": {
   "level": 3,
-  "label": "FEVERISH",
-  "why": "Trump floats a pardon for Jensen as the DOJ digs into Nvidia chips diverted to China, and lab staff say their own models are too dangerous to release.",
-  "score": 54,
-  "delta": 1,
-  "moves": [
-   {
-    "d": 7,
-    "why": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was...",
-    "id": "huang-spy-brief"
-   },
-   {
-    "d": -2,
-    "why": "Asked how DOJ can clear Huang mid-probe, AG Blanche: 'I DON'T KNOW...",
-    "id": "blanche-dodge"
-   },
-   {
-    "d": 2,
-    "why": "Chinese AI companion app Talkie PULLED from Apple's App Store WORLD...",
-    "id": "talkie-pulled"
-   }
-  ],
+  "score": 50,
+  "delta": null,
+  "moves": [],
   "contrib": {
-   "huang-spy-brief": 7.2,
-   "blanche-dodge": 1.7,
-   "doj-diversion": 0.7,
-   "trump-pardon": 0.7,
-   "huang-senate": 0.7,
-   "futures-slide": 0.2,
+   "huang-spy-brief": 11.2,
+   "blanche-dodge": 0.7,
+   "futures-slide": 0.3,
    "huang-affairs": 0.2,
-   "huang-therapy": 0.1,
-   "trump-stake": 0.1,
-   "talkie-pulled": 2.4,
-   "amzn-meta-muse": 0.8,
-   "deloitte-wa": 2.4,
-   "anthropic-agency": 4.8,
-   "kospi-half": 4.1,
-   "cia-hack": 5.1,
-   "amazon-cairn": 0.3,
-   "taiwan-fakes": 0.6,
-   "asia-rout": 3.2,
-   "tidal-ban": 1.6,
-   "alfozan-bail": 3.0,
-   "riemann": 0.4,
-   "gpt6-proteins": 0.2,
-   "ny-ai-toys": 2.0,
-   "too-dangerous": 1.1,
-   "tegmark-takeover": 0.3,
-   "bubble-popped": 0.1,
-   "nk-chatbot": 0.1
+   "talkie-pulled": 3.7,
+   "ant-premarket": 7.5,
+   "amzn-meta-muse": 1.1,
+   "deloitte-wa": 3.4,
+   "anthropic-agency": 5.4,
+   "kospi-half": 3.4,
+   "cia-hack": 2.0,
+   "amazon-cairn": 0.1,
+   "taiwan-fakes": 0.2,
+   "asia-rout": 0.6,
+   "tidal-ban": 0.3
   },
   "lastAdjust": 0,
   "history": [
@@ -822,15 +806,46 @@
    {
     "t": "2026-11-25T13:18:30Z",
     "s": 54
+   },
+   {
+    "t": "2026-11-25T14:16:09Z",
+    "s": 50
    }
   ],
-  "at": "2026-11-25T13:18:30Z",
-  "formulaSince": "2026-11-25T07:13:23Z",
-  "formula": 3
+  "at": "2026-11-25T14:16:09Z",
+  "formulaSince": "2026-11-25T14:16:09Z",
+  "formula": 4,
+  "show": {
+   "delta": null,
+   "period": "",
+   "line": [
+    {
+     "t": "2026-11-25T14:16:09Z",
+     "s": 50
+    }
+   ],
+   "drivers": [
+    {
+     "d": 11,
+     "id": "huang-spy-brief",
+     "text": "NYT: Jensen lover's husband the 'more significant' China asset"
+    },
+    {
+     "d": 8,
+     "id": "ant-premarket",
+     "text": "Anthropic sinks to $77.86 pre-market, far under its $83 IPO"
+    },
+    {
+     "d": 5,
+     "id": "anthropic-agency",
+     "text": "AI bosses balk at Anthropic idea: surrender decisions to AI"
+    }
+   ]
+  }
  },
  "state": {
   "models": {
-   "asOf": "Nov 23",
+   "asOf": "Nov 25",
    "src": "Artificial Analysis Intelligence Index",
    "url": "https://artificialanalysis.ai/leaderboards/models",
    "items": [
@@ -845,19 +860,19 @@
      "score": 62
     },
     {
-     "name": "Gemini 4 Carbon",
+     "name": "Gemini 4 Neon",
      "lab": "Google",
-     "score": 60
+     "score": 62
     },
     {
      "name": "Kimi K3.1 Pro",
      "lab": "Moonshot \u00b7 best open model",
-     "score": 46
+     "score": 47
     },
     {
      "name": "DeepSeek V4.1 Flash",
      "lab": "DeepSeek",
-     "score": 33
+     "score": 32
     }
    ]
   },
@@ -883,12 +898,6 @@
      "name": "Cerebras",
      "price": 88.78,
      "chg": -9.88
-    },
-    {
-     "sym": "CRWV",
-     "name": "CoreWeave",
-     "price": 42.6,
-     "chg": -11.85
     },
     {
      "sym": "NBIS",
@@ -976,24 +985,24 @@
    ]
   },
   "crypto": {
-   "asOf": "8:18 am ET",
+   "asOf": "9:15 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 58700.0,
-     "chg": -2.0
+     "price": 58265.0,
+     "chg": -3.34
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1646.3,
-     "chg": -2.32
+     "price": 1635.06,
+     "chg": -3.49
     }
    ]
   }
  },
- "next": "2026-11-25T14:18:00Z"
+ "next": "2026-11-25T15:18:00Z"
 }

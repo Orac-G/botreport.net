@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Wednesday, November 25, 2026, 8:18 AM ET. Every headline links to the original reporting or primary source.
+Updated Wednesday, November 25, 2026, 9:16 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -10,14 +10,14 @@ Updated Wednesday, November 25, 2026, 8:18 AM ET. Every headline links to the or
 
 ## Top stories
 
+- [Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...](https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content) (South China Morning Post)
 - [Rival AI bosses push back on Anthropic view that humans should SURRENDER some decisions to superintelligent AI, sources tell Axios...](https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will) (Axios)
 - [SoftBank PLUNGES 14% as AI sell-off rips through Asia's chip giants...](https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html) (CNBC)
 - [Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor](https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html) (CNBC)
-- [OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) (OpenAI · Company claim)
 
 ## All stories (newest first)
 
-- [Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...](https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content) (South China Morning Post)
+- [Anthropic drops ANOTHER 5% before the bell to $77.86... far below its $83 IPO price](https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/) (CBS News)
 - [AI SELL-OFF RETURNS: Nasdaq futures sink as Jensen's comeback revives 'key-man risk' fears...](https://www.cnbc.com/2026/11/25/futures-sink-further-into-the-red-as-tech-worries-resurge.html) (CNBC)
 - [Amazon and Meta talk TRUCE in AI shopping-bot war... Zuck and Jassy must sign off, sources say](https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/) (Fortune)
 - [Australian state SUSPENDS Deloitte over AI-riddled report... and wants its fee BACK](https://www.abc.net.au/news/2026-11-25/deloitte-suspended-from-wa-govt-contracts-after-ai-uni-merger-/107427546) (ABC (Australia))
@@ -33,6 +33,7 @@ Updated Wednesday, November 25, 2026, 8:18 AM ET. Every headline links to the or
 - [Trump mulls a US STAKE in Nvidia, Intel-style, after Jensen's return...](https://www.businessinsider.com/trump-us-equity-stake-nvidia-not-too-late-2026-11) (Business Insider)
 - [NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...](https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html) (New York Times · Corrected: An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries.)
 - [Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness](https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html) (CNBC)
+- [OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) (OpenAI · Company claim)
 - [New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping](https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot) (Office of the Governor of New York)
 - [Anthropic and OpenAI staff fear their new models are TOO DANGEROUS to release...](https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks) (Axios)
 - [MIT's Tegmark claims Anthropic staff talk of 'TAKING OVER THE WORLD' after a few drinks...](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/) (Novara Media)
@@ -66,6 +67,6 @@ Updated Wednesday, November 25, 2026, 8:18 AM ET. Every headline links to the or
 > “When I talk to people who work for Anthropic, after they've had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world.”
 > — Max Tegmark, MIT physicist, in an interview with Novara Media ([source](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/))
 
-Skynet-o-Meter: 54 out of 100.
+Skynet-o-Meter: 50 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

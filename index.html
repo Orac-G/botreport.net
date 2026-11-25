@@ -219,8 +219,10 @@ a.red, a.red:visited { color: var(--siren); }
 .meter-delta.down { color: var(--l1); }
 .trend { margin: 0; display: flex; flex-direction: column; gap: 3px; }
 .trend svg { display: block; width: 100%; height: 110px; }
-.trend-axis { display: flex; justify-content: space-between; font-size: 10px; color: var(--muted); letter-spacing: .04em; text-transform: uppercase; }
-.moves { margin: 0; font-size: 12px; line-height: 1.45; color: var(--muted); }
+.trend-axis { padding-left: 86px; display: flex; justify-content: space-between; font-size: 10px; color: var(--muted); letter-spacing: .04em; text-transform: uppercase; }
+.moves-h { margin: 0; font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.moves { list-style: none; margin: 0; padding: 0; font-size: 13px; line-height: 1.45; display: flex; flex-direction: column; gap: 2px; }
+.moves li { display: grid; grid-template-columns: 30px minmax(0, 1fr); }
 .moves b { font-variant-numeric: tabular-nums; }
 .moves b.up { color: var(--l5); }
 .moves b.down { color: var(--l1); }
@@ -341,7 +343,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
 <div class="page">
   <div class="dateline">
     <span><span id="today">Wednesday, Nov. 25, 2026</span> · <a href="/archive/" style="color:inherit">Archive</a> · <a href="/about/" style="color:inherit">About</a></span>
-    <span>Wire checked <b id="checked">8:18 am ET</b> · <span class="count" id="next">Updates hourly</span></span>
+    <span>Wire checked <b id="checked">9:16 am ET</b> · <span class="count" id="next">Updates hourly</span></span>
   </div>
 
   <div class="alert" id="alert" hidden>
@@ -391,11 +393,12 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
         <svg id="trend" role="img" aria-label="Skynet-o-Meter score over time"></svg>
         <figcaption class="trend-axis"><span>24 hrs ago</span><span>12 hrs</span><span>Now</span></figcaption>
       </figure>
-      <p class="moves" id="moves"></p>
+      <h3 class="moves-h">What's driving it</h3>
+      <ul class="moves" id="moves"></ul>
       <details class="levels">
         <summary>What the levels mean · how it's scored</summary>
         <ol id="levels"></ol>
-        <p class="formula">The score is worked out fresh at every update from the stories on the page. Each story from the last 24 hours earns points: 1 for being news, +5 if it's a big red story, +3 for military, +2 for a can't-look-away story, +3 for the lead and +1 per 1,000 Hacker News comments (up to 3). Stories count in full for 3 hours, then fade steadily to nothing after a day. When several stories belong to one saga, the biggest counts in full, the second at half and the rest at a quarter. The total goes on a curve that starts at 10 and flattens out below 80. The siren adds 20, and the editor can move it up or down by as much as 10. Only the siren can take it to Judgment Day; otherwise it stops at 79. Recalibrated on Nov. 24, 2026, so earlier scores ran higher and aren't comparable.</p>
+        <p class="formula">The score is worked out fresh at every update from the stories on the page. Each story from the last 12 hours earns points: 1 for being news, +5 if it's a big red story, +3 for military, +2 for a can't-look-away story, +3 for the lead and +1 per 1,000 Hacker News comments (up to 3). Stories count in full for 1 hour, then fade steadily to nothing at 12 hours. When several stories belong to one saga, the biggest counts in full, the second at half and the rest at a quarter. The total goes on a curve that starts at 10 and flattens out below 80. The siren adds 20, and the editor can move it up or down by as much as 10. Only the siren can take it to Judgment Day; otherwise it stops at 79. Recalibrated on Nov. 24 and 25, 2026, so earlier scores aren't comparable.</p>
       </details>
     </section>
     <section class="box quote" aria-labelledby="quote-h">
@@ -422,11 +425,11 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
 <h2>Today's AI headlines</h2>
 <ul>
 <li><a href="https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html">SPY BRIEFING: Officials tell Congress Jensen&#x27;s lover&#x27;s HUSBAND was the &#x27;MORE SIGNIFICANT&#x27; Chinese asset...: FBI, CIA and ODNI briefers found no evidence China ordered the affair... but didn&#x27;t dispute she passed intel to its spy agency once it began, NYT says</a> <small>(New York Times)</small></li>
+<li><a href="https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content">Chinese AI companion app Talkie PULLED from Apple&#x27;s App Store WORLDWIDE over sexual content...</a> <small>(South China Morning Post)</small></li>
 <li><a href="https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will">Rival AI bosses push back on Anthropic view that humans should SURRENDER some decisions to superintelligent AI, sources tell Axios...</a> <small>(Axios)</small></li>
 <li><a href="https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html">SoftBank PLUNGES 14% as AI sell-off rips through Asia&#x27;s chip giants...</a> <small>(CNBC)</small></li>
 <li><a href="https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html">Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor</a> <small>(CNBC)</small></li>
-<li><a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/">OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab</a> <small>(OpenAI · Company claim)</small></li>
-<li><a href="https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content">Chinese AI companion app Talkie PULLED from Apple&#x27;s App Store WORLDWIDE over sexual content...</a> <small>(South China Morning Post)</small></li>
+<li><a href="https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/">Anthropic drops ANOTHER 5% before the bell to $77.86... far below its $83 IPO price</a> <small>(CBS News)</small></li>
 <li><a href="https://www.cnbc.com/2026/11/25/futures-sink-further-into-the-red-as-tech-worries-resurge.html">AI SELL-OFF RETURNS: Nasdaq futures sink as Jensen&#x27;s comeback revives &#x27;key-man risk&#x27; fears...</a> <small>(CNBC)</small></li>
 <li><a href="https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/">Amazon and Meta talk TRUCE in AI shopping-bot war... Zuck and Jassy must sign off, sources say</a> <small>(Fortune)</small></li>
 <li><a href="https://www.abc.net.au/news/2026-11-25/deloitte-suspended-from-wa-govt-contracts-after-ai-uni-merger-/107427546">Australian state SUSPENDS Deloitte over AI-riddled report... and wants its fee BACK</a> <small>(ABC (Australia))</small></li>
@@ -442,6 +445,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
 <li><a href="https://www.businessinsider.com/trump-us-equity-stake-nvidia-not-too-late-2026-11">Trump mulls a US STAKE in Nvidia, Intel-style, after Jensen&#x27;s return...</a> <small>(Business Insider)</small></li>
 <li><a href="https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html">NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...</a> <small>(New York Times · Corrected: An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries.)</small></li>
 <li><a href="https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html">Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness</a> <small>(CNBC)</small></li>
+<li><a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/">OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab</a> <small>(OpenAI · Company claim)</small></li>
 <li><a href="https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot">New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping</a> <small>(Office of the Governor of New York)</small></li>
 <li><a href="https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks">Anthropic and OpenAI staff fear their new models are TOO DANGEROUS to release...</a> <small>(Axios)</small></li>
 <li><a href="https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/">MIT&#x27;s Tegmark claims Anthropic staff talk of &#x27;TAKING OVER THE WORLD&#x27; after a few drinks...</a> <small>(Novara Media)</small></li>
@@ -757,6 +761,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   // over time and the dot is where we are now; the header gives the number and one line says what moved it.
   const zoneOf = (score) => Math.min(5, Math.floor(score / 20) + 1);
   let meterHist = [];
+  const TREND_LEFT = 86;
   const WINDOW_HOURS = 24;
   function renderMeter(m) {
     const score = Math.min(100, Math.max(0, Number(m.score) || 0));
@@ -766,21 +771,19 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
     label.textContent = lvl ? LEVELS[lvl].name.toUpperCase() : "";
     label.title = lvl ? LEVELS[lvl].def : "";
     [$("meter-score"), label].forEach((n) => lvl && n.style.setProperty("--lc", lc(lvl)));
-    const dEl = $("meter-delta"), dv = Number(m.delta);
+    // "show" comes from meter.py and is the same block the X card uses: the change, the line and the drivers.
+    const sh = m.show || {}, dEl = $("meter-delta"), dv = Number(sh.delta);
     dEl.className = "meter-delta" + (dv > 0 ? " up" : dv < 0 ? " down" : "");
-    dEl.textContent = m.delta == null ? "" : dv > 0 ? "▲ " + dv : dv < 0 ? "▼ " + Math.abs(dv) : "No change";
+    dEl.textContent = sh.delta == null ? "" : dv > 0 ? "▲ " + dv : dv < 0 ? "▼ " + Math.abs(dv) : "No change";
+    dEl.title = sh.delta == null ? "" : "Change " + String(sh.period || "");
 
-    const moves = (Array.isArray(m.moves) ? m.moves : []).slice(0, 3);
     const out = $("moves"); out.replaceChildren();
-    if (moves.length) {
-      out.append("Moved by ");
-      moves.forEach((x, i) => {
-        const n = Number(x.d) || 0;
-        if (i) out.append(" · ");
-        out.append(el("b", n > 0 ? "up" : "down", (n > 0 ? "+" : "−") + Math.abs(n)), " " + String(x.why || "").replace(/\.\.\.$/, ""));
-      });
-    }
-    meterHist = Array.isArray(m.history) ? m.history : [];
+    (Array.isArray(sh.drivers) ? sh.drivers : []).slice(0, 3).forEach((x) => {
+      const n = Number(x.d) || 0, li = el("li");
+      li.append(el("b", n > 0 ? "up" : "down", (n > 0 ? "+" : "−") + Math.abs(n)), el("span", null, String(x.text || "")));
+      out.append(li);
+    });
+    meterHist = Array.isArray(sh.line) ? sh.line : [];
     drawTrend();
   }
   function drawTrend() {
@@ -803,12 +806,13 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
     const all = meterHist.map((p) => ({ t: new Date(p.t).getTime(), s: Number(p.s) })).filter((p) => p.t && !isNaN(p.s));
     const tEnd = all.length ? all[all.length - 1].t : Date.now(), t0 = tEnd - WINDOW_HOURS * 36e5;
     const pts = all.filter((p) => p.t >= t0);
-    if (pts.length < 2) return;
-    const span = Math.max(1, tEnd - t0), pad = 8;
-    const xy = pts.map((p) => [((p.t - t0) / span) * (W - pad * 2) + pad, y(p.s)]);
-    const path = xy.map((c) => c[0].toFixed(1) + "," + c[1].toFixed(1));
-    add("path", { d: "M" + xy[0][0].toFixed(1) + "," + H + " L" + path.join(" L") + " L" + xy[xy.length - 1][0].toFixed(1) + "," + H + " Z", style: "fill: var(--ink); opacity: .07" });
-    add("polyline", { points: path.join(" "), style: "fill: none; stroke: var(--ink); stroke-width: 2.5; stroke-linejoin: round; stroke-linecap: round" });
+    if (!pts.length) return;
+    const span = Math.max(1, tEnd - t0), pad = 8;  // the line starts to the right of the level names
+    const xy = pts.map((p) => [((p.t - t0) / span) * (W - TREND_LEFT - pad) + TREND_LEFT, y(p.s)]);
+    // No line is drawn across a gap of more than 4 hours: we don't invent readings.
+    const segs = [];
+    xy.forEach((c, i) => { if (!i || pts[i].t - pts[i - 1].t > 4 * 36e5) segs.push([]); segs[segs.length - 1].push(c[0].toFixed(1) + "," + c[1].toFixed(1)); });
+    segs.forEach((g) => add("polyline", { points: g.join(" "), style: "fill: none; stroke: var(--ink); stroke-width: 2.5; stroke-linejoin: round; stroke-linecap: round" }));
     const last = xy[xy.length - 1], zone = zoneOf(pts[pts.length - 1].s);
     add("circle", { cx: last[0], cy: last[1], r: 6, style: "fill: var(--l" + zone + "); stroke: var(--bg); stroke-width: 2.5" });
   }

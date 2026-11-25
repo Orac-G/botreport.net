@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T13:18:34Z",
- "nextUpdate": "2026-11-25T14:18:00Z",
+ "updated": "2026-11-25T14:16:13Z",
+ "nextUpdate": "2026-11-25T15:18:00Z",
  "lead": [
   {
    "headline": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...: FBI, CIA and ODNI briefers found no evidence China ordered the affair... but didn't dispute she passed intel to its spy agency once it began, NYT says",
@@ -15,6 +15,13 @@
   }
  ],
  "topLinks": [
+  {
+   "headline": "Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...",
+   "source": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
+   "found": "2026-11-25T13:16:00Z",
+   "section": "quirky"
+  },
   {
    "headline": "Rival AI bosses push back on Anthropic view that humans should SURRENDER some decisions to superintelligent AI, sources tell Axios...",
    "source": "Axios",
@@ -35,27 +42,15 @@
    "url": "https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
    "found": "2026-11-25T02:17:13Z",
    "section": "politics"
-  },
-  {
-   "headline": "OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab",
-   "source": "OpenAI",
-   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-   "found": "2026-11-24T23:11:30Z",
-   "section": "tech",
-   "label": "Company claim",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50634658",
-    "comments": 86
-   }
   }
  ],
  "stories": [
   {
-   "headline": "Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...",
-   "source": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
-   "found": "2026-11-25T13:16:00Z",
-   "section": "quirky"
+   "headline": "Anthropic drops ANOTHER 5% before the bell to $77.86... far below its $83 IPO price",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/stocks-jensen-huang-bounce-ai-tariffs/",
+   "found": "2026-11-25T14:14:01Z",
+   "section": "business"
   },
   {
    "headline": "AI SELL-OFF RETURNS: Nasdaq futures sink as Jensen's comeback revives 'key-man risk' fears...",
@@ -166,6 +161,18 @@
    "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
    "found": "2026-11-25T01:11:00Z",
    "section": "politics"
+  },
+  {
+   "headline": "OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+   "found": "2026-11-24T23:11:30Z",
+   "section": "tech",
+   "label": "Company claim",
+   "hackerNews": {
+    "url": "https://news.ycombinator.com/item?id=50634658",
+    "comments": 86
+   }
   },
   {
    "headline": "New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping",
@@ -399,7 +406,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
  },
  "skynetOMeter": {
-  "score": 54,
+  "score": 50,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
