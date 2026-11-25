@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-25T01:14:17Z",
+ "updated": "2026-11-25T02:17:40Z",
  "stories": [
+  {
+   "id": "trump-pardon",
+   "cat": "politics",
+   "lead": true,
+   "red": true,
+   "h": "TRUMP: A PARDON FOR JENSEN IS 'ALWAYS AN OPTION'",
+   "sub": "President tells the Post he doesn't think it'll be necessary... and urges Huang not to take the Fifth before Congress...",
+   "src": "New York Post",
+   "url": "https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/",
+   "t": "2026-11-25T02:17:13Z",
+   "stack": [
+    "huang-therapy",
+    "trump-stake",
+    "doj-diversion"
+   ],
+   "img": {
+    "src": "img/huang.jpg",
+    "alt": "Nvidia CEO Jensen Huang at Stanford University",
+    "credit": "Anders Eidesvik / CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg"
+   }
+  },
+  {
+   "id": "huang-therapy",
+   "cat": "business",
+   "h": "Jensen tells Nvidia staff 'I HURT ALL OF YOU'... says he's in therapy, people present say",
+   "shout": "JENSEN: 'I HURT ALL OF YOU'",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+   "t": "2026-11-25T02:17:13Z"
+  },
+  {
+   "id": "trump-stake",
+   "cat": "politics",
+   "h": "Trump mulls a US STAKE in Nvidia, Intel-style, after Jensen's return...",
+   "shout": "TRUMP EYES A STAKE IN NVIDIA",
+   "src": "Business Insider",
+   "url": "https://www.businessinsider.com/trump-us-equity-stake-nvidia-not-too-late-2026-11",
+   "t": "2026-11-25T02:17:13Z"
+  },
+  {
+   "id": "doj-diversion",
+   "cat": "politics",
+   "red": true,
+   "h": "NYT: Justice Dept. investigators gather evidence Nvidia chips were ILLEGALLY DIVERTED to China...",
+   "shout": "DOJ PROBES CHIP DIVERSION",
+   "src": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+   "t": "2026-11-25T02:17:13Z"
+  },
+  {
+   "id": "alfozan-bail",
+   "cat": "politics",
+   "top": true,
+   "red": true,
+   "h": "Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor",
+   "src": "CNBC",
+   "url": "https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+   "t": "2026-11-25T02:17:13Z"
+  },
   {
    "id": "huang-senate",
    "cat": "politics",
@@ -23,7 +83,7 @@
    "t": "2026-11-24T23:11:30Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50634658",
-    "comments": 35
+    "comments": 44
    },
    "col": 2
   },
@@ -50,32 +110,21 @@
   {
    "id": "too-dangerous",
    "cat": "tech",
-   "lead": true,
    "red": true,
-   "h": "TOO DANGEROUS TO RELEASE",
+   "h": "Anthropic and OpenAI staff fear their new models are TOO DANGEROUS to release...",
    "src": "Axios",
    "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
    "t": "2026-11-24T18:14:00Z",
-   "stack": [
-    "tegmark-takeover",
-    "openai-limits"
-   ],
-   "sub": "Anthropic and OpenAI staff fear their unreleased new models are too unsafe to let out...",
-   "img": {
-    "src": "img/amodei.jpg",
-    "alt": "Anthropic CEO Dario Amodei",
-    "credit": "UK Prime Minister / CC BY 2.0",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_in_2023.jpg"
-   },
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50631691",
     "comments": 12
-   }
+   },
+   "group": "doom",
+   "col": 1
   },
   {
    "id": "tegmark-takeover",
    "cat": "quirky",
-   "shout": "MIT prof: staff talk 'TAKING OVER THE WORLD'",
    "h": "MIT's Tegmark claims Anthropic staff talk of 'TAKING OVER THE WORLD' after a few drinks...",
    "src": "Novara Media",
    "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
@@ -83,7 +132,9 @@
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50631210",
     "comments": 97
-   }
+   },
+   "group": "doom",
+   "col": 1
   },
   {
    "id": "uk-ai-hacks",
@@ -122,7 +173,7 @@
    "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
    "t": "2026-11-24T14:22:05Z",
    "group": "hacks",
-   "top": true
+   "col": 0
   },
   {
    "id": "nk-chatbot",
@@ -165,7 +216,7 @@
     "url": "https://news.ycombinator.com/item?id=50626861",
     "comments": 159
    },
-   "top": true
+   "col": 0
   },
   {
    "id": "ant-below-ipo",
@@ -178,9 +229,9 @@
    "t": "2026-11-24T12:17:17Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 674
+    "comments": 694
    },
-   "col": 1
+   "top": true
   },
   {
    "id": "megaspeed-blacklist",
@@ -310,7 +361,7 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Paris_Hilton_at_the_US_Capitol_(cropped).jpg"
    },
    "group": "deepfakes",
-   "col": 1
+   "col": 2
   },
   {
    "id": "openai-limits",
@@ -319,7 +370,8 @@
    "src": "The Next Web",
    "url": "https://thenextweb.com/news/openai-chief-scientist-shared-ai-limits",
    "t": "2026-11-24T02:09:00Z",
-   "shout": "OpenAI's top scientist: SLOW DOWN"
+   "group": "doom",
+   "col": 1
   },
   {
    "id": "huang-back",
@@ -331,7 +383,7 @@
    "t": "2026-11-24T01:15:00Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3698
+    "comments": 3702
    },
    "group": "huang",
    "col": 0
@@ -366,7 +418,7 @@
    "url": "https://www.vice.com/en/article/men-are-spending-thousands-on-ai-girlfriends-inspired-by-gta-6s-lucia-yes-seriously/",
    "t": "2026-11-24T00:50:00Z",
    "group": "companions",
-   "col": 2
+   "col": 1
   },
   {
    "id": "grok-ags",
@@ -385,7 +437,7 @@
    "url": "https://cybernews.com/ai-news/apple-app-store-ai-companions/",
    "t": "2026-11-24T00:40:00Z",
    "group": "companions",
-   "col": 2
+   "col": 1
   },
   {
    "id": "minecraft-gf",
@@ -395,7 +447,7 @@
    "url": "https://ibtimes.co.uk/ai-companionship-gaming-loneliness-concerns-1833812",
    "t": "2026-11-24T00:35:00Z",
    "group": "companions",
-   "col": 2
+   "col": 1
   },
   {
    "id": "amzn-decart",
@@ -405,36 +457,6 @@
    "src": "CNBC",
    "url": "https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
    "t": "2026-11-23T23:30:00Z",
-   "col": 2
-  },
-  {
-   "id": "army-swarm",
-   "cat": "military",
-   "h": "Robot truck unleashes DRONE SWARM in Germany",
-   "src": "Zona Militar",
-   "url": "https://zona-militar.com/en/2026/11/22/us-army-demonstrates-autonomous-drone-swarm-launched-from-unmanned-ground-vehicle-in-germany",
-   "t": "2026-11-22T20:00:00Z",
-   "group": "military",
-   "col": 0
-  },
-  {
-   "id": "attack-plans",
-   "red": true,
-   "cat": "politics",
-   "h": "Feds tricked ALL FOUR top chatbots into writing attack plans...",
-   "src": "GAO",
-   "url": "https://gao.gov/products/gao-27-108814",
-   "t": "2026-11-19T18:00:00Z",
-   "col": 2
-  },
-  {
-   "id": "dec2-ban",
-   "cat": "politics",
-   "h": "EU outlaws AI SEX FAKES... starting Dec. 2",
-   "src": "Brussels Times",
-   "url": "https://www.brusselstimes.com/2208963/eu-bans-ai-generated-sexual-deepfakes-as-high-risk-rules-face-delays",
-   "t": "2026-11-10T18:00:00Z",
-   "group": "deepfakes",
    "col": 1
   }
  ],
@@ -445,39 +467,49 @@
   "day": "2026-11-24"
  },
  "meter": {
-  "level": 3,
+  "level": 4,
   "label": "FEVERISH",
-  "why": "AI lab staff say their own new models are too dangerous to release, and the Senate wants Jensen under oath in public.",
-  "score": 51,
-  "delta": 3,
+  "why": "Trump floats a pardon for Jensen as the DOJ digs into Nvidia chips diverted to China, and lab staff say their own models are too dangerous to release.",
+  "score": 69,
+  "delta": 18,
   "moves": [
    {
+    "d": 9,
+    "why": "TRUMP: A PARDON FOR JENSEN IS 'ALWAYS AN OPTION'",
+    "id": "trump-pardon"
+   },
+   {
     "d": 6,
-    "why": "Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY...",
-    "id": "huang-senate"
+    "why": "Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLI...",
+    "id": "alfozan-bail"
+   },
+   {
+    "d": 6,
+    "why": "DOJ PROBES CHIP DIVERSION",
+    "id": "doj-diversion"
    }
   ],
   "contrib": {
+   "trump-pardon": 9.0,
+   "huang-therapy": 1.0,
+   "trump-stake": 1.0,
+   "doj-diversion": 6.0,
+   "alfozan-bail": 6.0,
    "huang-senate": 6.0,
    "gpt6-proteins": 1.0,
-   "ny-ai-toys": 6.0,
-   "too-dangerous": 7.3,
-   "tegmark-takeover": 2.4,
+   "ny-ai-toys": 5.7,
+   "too-dangerous": 4.6,
+   "tegmark-takeover": 2.3,
    "uk-ai-hacks": 0.8,
-   "nvda-hangover": 0.7,
-   "bubble-popped": 0.7,
+   "nvda-hangover": 0.6,
+   "bubble-popped": 0.6,
    "ec-ai-hack": 0.6,
-   "nk-chatbot": 1.9,
+   "nk-chatbot": 1.7,
    "nvda-board-doubts": 0.7,
-   "trump-nvda-trades": 0.6,
-   "ant-below-ipo": 3.2,
-   "megaspeed-blacklist": 0.8,
-   "congress-fury": 0.1,
-   "riemann": 2.3,
-   "navier-stokes": 0.1,
-   "short-nvda-wipeout": 0.1,
-   "glm-54": 0.1,
-   "nasdaq-rally": 0.3
+   "trump-nvda-trades": 0.5,
+   "ant-below-ipo": 2.9,
+   "megaspeed-blacklist": 0.5,
+   "riemann": 2.1
   },
   "lastAdjust": 0,
   "history": [
@@ -624,9 +656,13 @@
    {
     "t": "2026-11-25T01:14:17Z",
     "s": 51
+   },
+   {
+    "t": "2026-11-25T02:17:40Z",
+    "s": 69
    }
   ],
-  "at": "2026-11-25T01:14:17Z"
+  "at": "2026-11-25T02:17:40Z"
  },
  "state": {
   "models": {
@@ -776,24 +812,24 @@
    ]
   },
   "crypto": {
-   "asOf": "8:14 pm ET",
+   "asOf": "9:17 pm ET",
    "src": "CoinGecko · 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59516.0,
-     "chg": -3.2
+     "price": 59096.0,
+     "chg": -2.77
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1668.01,
-     "chg": -2.83
+     "price": 1654.57,
+     "chg": -2.79
     }
    ]
   }
  },
- "next": "2026-11-25T02:11:00Z"
+ "next": "2026-11-25T03:11:00Z"
 }

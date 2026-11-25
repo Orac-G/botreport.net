@@ -3,22 +3,25 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T01:14:17Z",
- "nextUpdate": "2026-11-25T02:11:00Z",
+ "updated": "2026-11-25T02:17:40Z",
+ "nextUpdate": "2026-11-25T03:11:00Z",
  "lead": [
   {
-   "headline": "TOO DANGEROUS TO RELEASE: Anthropic and OpenAI staff fear their unreleased new models are too unsafe to let out...",
-   "source": "Axios",
-   "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
-   "found": "2026-11-24T18:14:00Z",
-   "section": "tech",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50631691",
-    "comments": 12
-   }
+   "headline": "TRUMP: A PARDON FOR JENSEN IS 'ALWAYS AN OPTION': President tells the Post he doesn't think it'll be necessary... and urges Huang not to take the Fifth before Congress...",
+   "source": "New York Post",
+   "url": "https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/",
+   "found": "2026-11-25T02:17:13Z",
+   "section": "politics"
   }
  ],
  "topLinks": [
+  {
+   "headline": "Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor",
+   "source": "CNBC",
+   "url": "https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+   "found": "2026-11-25T02:17:13Z",
+   "section": "politics"
+  },
   {
    "headline": "New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping",
    "source": "Office of the Governor of New York",
@@ -31,13 +34,6 @@
    }
   },
   {
-   "headline": "Hackers used AI to raid the European Commission... and got away with personal data",
-   "source": "The Register",
-   "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
-   "found": "2026-11-24T14:22:05Z",
-   "section": "tech"
-  },
-  {
    "headline": "North Korea unveils its first AI chatbot... but it won't answer 'uncultured questions'",
    "source": "South China Morning Post",
    "url": "https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions",
@@ -45,18 +41,39 @@
    "section": "quirky"
   },
   {
-   "headline": "Trump bought Nvidia 28 TIMES this year... up to $16.7 MILLION, disclosures show",
-   "source": "Kadoa",
-   "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-   "found": "2026-11-24T13:17:22Z",
-   "section": "politics",
+   "headline": "Anthropic SINKS BELOW its $83 IPO price... debut rally unravels",
+   "source": "Bloomberg",
+   "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/",
+   "found": "2026-11-24T12:17:17Z",
+   "section": "business",
    "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50626861",
-    "comments": 159
+    "url": "https://news.ycombinator.com/item?id=50627836",
+    "comments": 694
    }
   }
  ],
  "stories": [
+  {
+   "headline": "Jensen tells Nvidia staff 'I HURT ALL OF YOU'... says he's in therapy, people present say",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+   "found": "2026-11-25T02:17:13Z",
+   "section": "business"
+  },
+  {
+   "headline": "Trump mulls a US STAKE in Nvidia, Intel-style, after Jensen's return...",
+   "source": "Business Insider",
+   "url": "https://www.businessinsider.com/trump-us-equity-stake-nvidia-not-too-late-2026-11",
+   "found": "2026-11-25T02:17:13Z",
+   "section": "politics"
+  },
+  {
+   "headline": "NYT: Justice Dept. investigators gather evidence Nvidia chips were ILLEGALLY DIVERTED to China...",
+   "source": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+   "found": "2026-11-25T02:17:13Z",
+   "section": "politics"
+  },
   {
    "headline": "Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness",
    "source": "CNBC",
@@ -73,7 +90,18 @@
    "label": "Company claim",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50634658",
-    "comments": 35
+    "comments": 44
+   }
+  },
+  {
+   "headline": "Anthropic and OpenAI staff fear their new models are TOO DANGEROUS to release...",
+   "source": "Axios",
+   "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+   "found": "2026-11-24T18:14:00Z",
+   "section": "tech",
+   "hackerNews": {
+    "url": "https://news.ycombinator.com/item?id=50631691",
+    "comments": 12
    }
   },
   {
@@ -127,14 +155,21 @@
    "section": "business"
   },
   {
-   "headline": "Anthropic SINKS BELOW its $83 IPO price... debut rally unravels",
-   "source": "Bloomberg",
-   "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/",
-   "found": "2026-11-24T12:17:17Z",
-   "section": "business",
+   "headline": "Hackers used AI to raid the European Commission... and got away with personal data",
+   "source": "The Register",
+   "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
+   "found": "2026-11-24T14:22:05Z",
+   "section": "tech"
+  },
+  {
+   "headline": "Trump bought Nvidia 28 TIMES this year... up to $16.7 MILLION, disclosures show",
+   "source": "Kadoa",
+   "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+   "found": "2026-11-24T13:17:22Z",
+   "section": "politics",
    "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 674
+    "url": "https://news.ycombinator.com/item?id=50626861",
+    "comments": 159
    }
   },
   {
@@ -227,7 +262,7 @@
    "section": "business",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3698
+    "comments": 3702
    }
   },
   {
@@ -278,27 +313,6 @@
    "url": "https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
    "found": "2026-11-23T23:30:00Z",
    "section": "business"
-  },
-  {
-   "headline": "Robot truck unleashes DRONE SWARM in Germany",
-   "source": "Zona Militar",
-   "url": "https://zona-militar.com/en/2026/11/22/us-army-demonstrates-autonomous-drone-swarm-launched-from-unmanned-ground-vehicle-in-germany",
-   "found": "2026-11-22T20:00:00Z",
-   "section": "military"
-  },
-  {
-   "headline": "Feds tricked ALL FOUR top chatbots into writing attack plans...",
-   "source": "GAO",
-   "url": "https://gao.gov/products/gao-27-108814",
-   "found": "2026-11-19T18:00:00Z",
-   "section": "politics"
-  },
-  {
-   "headline": "EU outlaws AI SEX FAKES... starting Dec. 2",
-   "source": "Brussels Times",
-   "url": "https://www.brusselstimes.com/2208963/eu-bans-ai-generated-sexual-deepfakes-as-high-risk-rules-face-delays",
-   "found": "2026-11-10T18:00:00Z",
-   "section": "politics"
   }
  ],
  "quoteOfTheDay": {
@@ -307,7 +321,7 @@
   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/"
  },
  "skynetOMeter": {
-  "score": 51,
+  "score": 69,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

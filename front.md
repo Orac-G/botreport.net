@@ -2,30 +2,35 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Tuesday, November 24, 2026, 8:14 PM ET. Every headline links to the original reporting or primary source.
+Updated Tuesday, November 24, 2026, 9:17 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
-- [TOO DANGEROUS TO RELEASE: Anthropic and OpenAI staff fear their unreleased new models are too unsafe to let out...](https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks) (Axios)
+- [TRUMP: A PARDON FOR JENSEN IS 'ALWAYS AN OPTION': President tells the Post he doesn't think it'll be necessary... and urges Huang not to take the Fifth before Congress...](https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/) (New York Post)
 
 ## Top stories
 
+- [Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor](https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html) (CNBC)
 - [New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping](https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot) (Office of the Governor of New York)
-- [Hackers used AI to raid the European Commission... and got away with personal data](https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834) (The Register)
 - [North Korea unveils its first AI chatbot... but it won't answer 'uncultured questions'](https://www.scmp.com/tech/tech-trends/article/3375563/north-korea-unveils-first-ai-chatbot-it-wont-answer-uncultured-questions) (South China Morning Post)
-- [Trump bought Nvidia 28 TIMES this year... up to $16.7 MILLION, disclosures show](https://www.kadoa.com/congress/insights/trump-nvidia) (Kadoa)
+- [Anthropic SINKS BELOW its $83 IPO price... debut rally unravels](https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/) (Bloomberg)
 
 ## All stories (newest first)
 
+- [Jensen tells Nvidia staff 'I HURT ALL OF YOU'... says he's in therapy, people present say](https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html) (CNBC)
+- [Trump mulls a US STAKE in Nvidia, Intel-style, after Jensen's return...](https://www.businessinsider.com/trump-us-equity-stake-nvidia-not-too-late-2026-11) (Business Insider)
+- [NYT: Justice Dept. investigators gather evidence Nvidia chips were ILLEGALLY DIVERTED to China...](https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html) (New York Times)
 - [Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness](https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html) (CNBC)
 - [OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) (OpenAI · Company claim)
+- [Anthropic and OpenAI staff fear their new models are TOO DANGEROUS to release...](https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks) (Axios)
 - [MIT's Tegmark claims Anthropic staff talk of 'TAKING OVER THE WORLD' after a few drinks...](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/) (Novara Media)
 - [UK cyber agency warns of 'MARKED RISE' in AI-driven attacks...](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security) (TechCrunch)
 - [Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE](https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/) (Scientific American)
 - [Critics: Nvidia board's Huang U-TURN raises doubts it's really independent...](https://www.reuters.com/legal/transactional/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-2026-11-24/) (Reuters)
 - [HANGOVER: Nvidia slides the morning after its $1 TRILLION day...](https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html) (CNBC)
 - [Krugman and co. declare the AI bubble POPPED... Wall Street isn't listening](https://fortune.com/2026/11/23/ai-bubble-krugman-stoller-dean-baker-wall-street-recession-wealth-effect/) (Fortune)
-- [Anthropic SINKS BELOW its $83 IPO price... debut rally unravels](https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/) (Bloomberg)
+- [Hackers used AI to raid the European Commission... and got away with personal data](https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834) (The Register)
+- [Trump bought Nvidia 28 TIMES this year... up to $16.7 MILLION, disclosures show](https://www.kadoa.com/congress/insights/trump-nvidia) (Kadoa)
 - [Feds BLACKLIST Megaspeed, the Nvidia chip buyer at the center of the Huang scandal...](https://www.yahoo.com/news/politics/articles/us-blacklists-megaspeed-over-suspected-010342870.html) (Yahoo News)
 - [Congress BLASTS Nvidia for bringing Jensen back... probes roll on](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html) (CNBC)
 - [Anthropic mathematician and NYU prof claim AI-aided proof cracks $1M Navier-Stokes riddle...](https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/) (Scientific American)
@@ -44,15 +49,12 @@ Updated Tuesday, November 24, 2026, 8:14 PM ET. Every headline links to the orig
 - [Apple slaps ADULTS ONLY label on AI girlfriends...](https://cybernews.com/ai-news/apple-app-store-ai-companions/) (Cybernews)
 - [AI girlfriends sneak into Minecraft and Discord...](https://ibtimes.co.uk/ai-companionship-gaming-loneliness-concerns-1833812) (IBTimes)
 - [Amazon drops $7.5 BILLION on Decart](https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html) (CNBC)
-- [Robot truck unleashes DRONE SWARM in Germany](https://zona-militar.com/en/2026/11/22/us-army-demonstrates-autonomous-drone-swarm-launched-from-unmanned-ground-vehicle-in-germany) (Zona Militar)
-- [Feds tricked ALL FOUR top chatbots into writing attack plans...](https://gao.gov/products/gao-27-108814) (GAO)
-- [EU outlaws AI SEX FAKES... starting Dec. 2](https://www.brusselstimes.com/2208963/eu-bans-ai-generated-sexual-deepfakes-as-high-risk-rules-face-delays) (Brussels Times)
 
 ## Quote of the Day
 
 > “When I talk to people who work for Anthropic, after they've had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world.”
 > — Max Tegmark, MIT physicist, in an interview with Novara Media ([source](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/))
 
-Skynet-o-Meter: 51 out of 100.
+Skynet-o-Meter: 69 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml
