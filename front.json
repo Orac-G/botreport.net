@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-26T00:14:22Z",
- "nextUpdate": "2026-11-26T01:18:00Z",
+ "updated": "2026-11-26T01:13:43Z",
+ "nextUpdate": "2026-11-26T02:18:00Z",
  "lead": [
   {
    "headline": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...: Nasdaq, down 4.6% at its low, ends off just 0.6%... traders cite thin pre-Thanksgiving trading and a Michael Burry post saying he's almost entirely long",
@@ -45,6 +45,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...",
+   "source": "ABC (Australia)",
+   "url": "https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970",
+   "found": "2026-11-26T01:11:56Z",
+   "section": "business"
+  },
   {
    "headline": "CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 MILLION in servers to a WHISKY seller",
    "source": "CBS News",
@@ -416,13 +423,6 @@
     "url": "https://news.ycombinator.com/item?id=50611576",
     "comments": 3759
    }
-  },
-  {
-   "headline": "Men blow THOUSANDS on AI girlfriends modeled on GTA 6 heroine...",
-   "source": "Vice",
-   "url": "https://www.vice.com/en/article/men-are-spending-thousands-on-ai-girlfriends-inspired-by-gta-6s-lucia-yes-seriously/",
-   "found": "2026-11-24T00:50:00Z",
-   "section": "quirky"
   }
  ],
  "quoteOfTheDay": {
@@ -431,7 +431,7 @@
   "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
  },
  "skynetOMeter": {
-  "score": 57,
+  "score": 54,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

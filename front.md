@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Wednesday, November 25, 2026, 7:14 PM ET. Every headline links to the original reporting or primary source.
+Updated Wednesday, November 25, 2026, 8:13 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,7 @@ Updated Wednesday, November 25, 2026, 7:14 PM ET. Every headline links to the or
 
 ## All stories (newest first)
 
+- [Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...](https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970) (ABC (Australia))
 - [CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 MILLION in servers to a WHISKY seller](https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/) (CBS News)
 - [Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool) (The Record)
 - [JPMorgan sees a $450 BILLION AI debt blitz in 2027... before a plateau](https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau) (Bloomberg)
@@ -64,13 +65,12 @@ Updated Wednesday, November 25, 2026, 7:14 PM ET. Every headline links to the or
 - [Paris Hilton takes her fight against AI porn fakes to Congress...](https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html) (CNBC)
 - [OpenAI's top scientist begs rivals: Let's all SLOW DOWN... Altman signs on](https://thenextweb.com/news/openai-chief-scientist-shared-ai-limits) (The Next Web)
 - [Nvidia brings Jensen BACK as CEO two weeks after he quit... Trump says he made the call](https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia) (CNN)
-- [Men blow THOUSANDS on AI girlfriends modeled on GTA 6 heroine...](https://www.vice.com/en/article/men-are-spending-thousands-on-ai-girlfriends-inspired-by-gta-6s-lucia-yes-seriously/) (Vice)
 
 ## Quote of the Day
 
 > “What the market is telling you is that the AI growth narrative has hit a wall and given the centrality of that theme at the economic level, the market is expecting some sort of a macro shock.”
 > — Venu Krishna, head of U.S. equity strategy at Barclays, on the AI sell-off that hit Nvidia ([source](https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html))
 
-Skynet-o-Meter: 57 out of 100.
+Skynet-o-Meter: 54 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml
