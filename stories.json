@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-26T20:13:37Z",
+ "updated": "2026-11-26T21:13:15Z",
  "stories": [
+  {
+   "id": "gpt62-limits",
+   "cat": "tech",
+   "h": "OpenAI says GPT-6.2 Astra users will hit usage limits 40% FASTER... because it fixed a 'bug'",
+   "src": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+   "t": "2026-11-26T21:11:43Z",
+   "hn": {
+    "url": "https://news.ycombinator.com/item?id=50651117",
+    "comments": 253
+   },
+   "col": 1,
+   "card": "OpenAI 'bug' fix: GPT-6.2 Astra limits hit 40% FASTER"
+  },
   {
    "id": "pentagon-dpa-denial",
    "cat": "politics",
@@ -589,17 +603,6 @@
    "shout": "DOJ: OTHERS DIVERTED CHIPS"
   },
   {
-   "id": "alfozan-bail",
-   "cat": "politics",
-   "red": true,
-   "h": "Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor",
-   "src": "CNBC",
-   "url": "https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
-   "t": "2026-11-25T02:17:13Z",
-   "card": "Judge FREES ex-OpenAI engineer accused of BUGGING execs",
-   "col": 1
-  },
-  {
    "id": "huang-senate",
    "cat": "politics",
    "red": true,
@@ -622,7 +625,7 @@
    "label": "Not yet verified",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 336
+    "comments": 341
    },
    "col": 2,
    "card": "Claude's Riemann proof cut to 76,000 lines, not yet human-read"
@@ -646,28 +649,29 @@
  },
  "meter": {
   "level": 2,
-  "score": 30,
+  "score": 29,
   "delta": -1,
   "moves": [
    {
-    "d": 1,
-    "why": "Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia:...",
-    "id": "pentagon-dpa-denial"
+    "d": 2,
+    "why": "OpenAI says GPT-6.2 Astra users will hit usage limits 40% FASTER......",
+    "id": "gpt62-limits"
    }
   ],
   "contrib": {
-   "dennys-plaque": 3.8,
+   "gpt62-limits": 1.6,
+   "dennys-plaque": 3.4,
    "pentagon-dpa-denial": 0.8,
-   "aaronson-crypto": 1.6,
-   "ai-shop-fakes": 4.7,
-   "boe-fsr": 1.4,
-   "boe-bailey-crypto": 1.4,
-   "sap-cuts": 1.3,
-   "spain-pp-morocco": 1.0,
-   "banks-ai-debt": 0.9,
-   "korea-exam-cam": 1.7,
-   "meta-muse-fca": 0.4,
-   "uk-court-fakes": 0.9
+   "aaronson-crypto": 1.4,
+   "ai-shop-fakes": 4.3,
+   "boe-fsr": 1.3,
+   "boe-bailey-crypto": 1.3,
+   "sap-cuts": 1.1,
+   "spain-pp-morocco": 0.9,
+   "banks-ai-debt": 0.7,
+   "korea-exam-cam": 1.3,
+   "meta-muse-fca": 0.3,
+   "uk-court-fakes": 0.4
   },
   "lastAdjust": 0,
   "history": [
@@ -966,9 +970,13 @@
    {
     "t": "2026-11-26T20:13:34Z",
     "s": 30
+   },
+   {
+    "t": "2026-11-26T21:13:10Z",
+    "s": 29
    }
   ],
-  "at": "2026-11-26T20:13:34Z",
+  "at": "2026-11-26T21:13:10Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
@@ -1098,39 +1106,42 @@
     {
      "t": "2026-11-26T20:13:34Z",
      "s": 30
+    },
+    {
+     "t": "2026-11-26T21:13:10Z",
+     "s": 29
     }
    ],
    "drivers": [
     {
-     "d": 5,
+     "d": 4,
      "id": "ai-shop-fakes",
      "text": "AI shopping bots fooled by scammers' fake Black Friday stores"
     },
     {
-     "d": 4,
+     "d": 3,
      "id": "dennys-plaque",
      "text": "Denny's puts Jensen's plaque back after his return"
     },
     {
-     "d": -37,
+     "d": -35,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "aaronson-crypto": 0.1,
-   "ai-shop-fakes": 0.1,
-   "banks-ai-debt": -0.1,
+   "aaronson-crypto": -0.2,
+   "ai-shop-fakes": -0.4,
+   "banks-ai-debt": -0.2,
    "boe-bailey-crypto": -0.1,
    "boe-fsr": -0.1,
    "dennys-plaque": -0.4,
-   "gpu-glut": -0.1,
+   "gpt62-limits": 1.6,
    "korea-exam-cam": -0.4,
-   "meta-muse-fca": -0.2,
-   "pentagon-dpa-denial": 0.8,
-   "sap-cuts": -0.1,
+   "meta-muse-fca": -0.1,
+   "sap-cuts": -0.2,
    "spain-pp-morocco": -0.1,
-   "uk-court-fakes": -0.4
+   "uk-court-fakes": -0.5
   }
  },
  "state": {
@@ -1281,24 +1292,24 @@
    ]
   },
   "crypto": {
-   "asOf": "3:13 pm ET",
+   "asOf": "4:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60675.0,
-     "chg": 1.28
+     "price": 60752.0,
+     "chg": 0.99
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1702.4,
-     "chg": 1.26
+     "price": 1703.67,
+     "chg": 1.07
     }
    ]
   }
  },
- "next": "2026-11-26T21:18:00Z"
+ "next": "2026-11-26T22:18:00Z"
 }

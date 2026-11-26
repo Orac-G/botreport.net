@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-26T20:13:37Z",
- "nextUpdate": "2026-11-26T21:18:00Z",
+ "updated": "2026-11-26T21:13:15Z",
+ "nextUpdate": "2026-11-26T22:18:00Z",
  "lead": [
   {
    "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...: FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
@@ -50,6 +50,17 @@
   }
  ],
  "stories": [
+  {
+   "headline": "OpenAI says GPT-6.2 Astra users will hit usage limits 40% FASTER... because it fixed a 'bug'",
+   "source": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+   "found": "2026-11-26T21:11:43Z",
+   "section": "tech",
+   "hackerNews": {
+    "url": "https://news.ycombinator.com/item?id=50651117",
+    "comments": 253
+   }
+  },
   {
    "headline": "Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia: it 'NEVER HAPPENED'...",
    "source": "Newsweek",
@@ -152,7 +163,7 @@
    "label": "Not yet verified",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 336
+    "comments": 341
    }
   },
   {
@@ -377,13 +388,6 @@
    "correction": "An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries."
   },
   {
-   "headline": "Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor",
-   "source": "CNBC",
-   "url": "https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
-   "found": "2026-11-25T02:17:13Z",
-   "section": "politics"
-  },
-  {
    "headline": "Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness",
    "source": "CNBC",
    "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
@@ -404,7 +408,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 30,
+  "score": 29,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
