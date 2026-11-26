@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Thursday, November 26, 2026, 12:13 PM ET. Every headline links to the original reporting or primary source.
+Updated Thursday, November 26, 2026, 1:15 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -10,15 +10,15 @@ Updated Thursday, November 26, 2026, 12:13 PM ET. Every headline links to the or
 
 ## Top stories
 
+- [Bank of England: AI money is 'COMPLEX, CIRCULAR AND OPAQUE'... $305 BILLION in hyperscaler bonds this year](https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026) (Bank of England)
 - [SAP weighs axing at least 10,000 JOBS to remake itself for the AI era, sources say...](https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring) (Bloomberg)
+- [Spain's opposition uses AI to swap PM Sánchez's Spain jersey for a MOROCCO shirt... and comes under fire](https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt) (The Guardian)
 - [Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/) (Wired)
-- [Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...](https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970) (ABC (Australia))
-- [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
 
 ## All stories (newest first)
 
+- [BoE's Bailey: UNRELEASED AI models raise ENCRYPTION concerns for bank data...](https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae) (Financial Times)
 - [Jensen's BACK... and so is his PLAQUE at Denny's](https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html) (New York Times)
-- [Spain's opposition uses AI to swap PM Sánchez's Spain jersey for a MOROCCO shirt... and comes under fire](https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt) (The Guardian)
 - [Banks look to DUMP AI DEBT: Citi and JPMorgan shopping AI loan portfolios to investors, sources say...](https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt) (Semafor)
 - [Police seek ARREST of Korean exam ace: CAMERA in correction tape, AI-fed answers...](https://www.koreaherald.com/article/10950986) (Korea Herald)
 - [AI FAKES hit at least 25 court cases in England and Wales... invented case law and statutes that DON'T EXIST](https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026) (The Guardian)
@@ -30,6 +30,7 @@ Updated Thursday, November 26, 2026, 12:13 PM ET. Every headline links to the or
 - [Anthropic team SHRINKS Claude's Riemann proof to 76,000 lines... 'No mathematician has read it through'](https://github.com/lsernau/grh-lean) (GitHub (Anthropic) · Not yet verified)
 - [SoftBank's CREDIT RISK tops 500 BASIS POINTS for the first time in about four years as AI worries mount...](https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount) (Bloomberg)
 - [SoftBank SURGES as much as 11%+ as Asia's chip stocks bounce back from the AI rout...](https://www.cnbc.com/2026/11/26/stock-markets-today-.html) (CNBC)
+- [Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...](https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970) (ABC (Australia))
 - [CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 MILLION in servers to a WHISKY seller](https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/) (CBS News)
 - [Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...](https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/) (Washington Post)
 - [Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool) (The Record)
@@ -43,6 +44,7 @@ Updated Thursday, November 26, 2026, 12:13 PM ET. Every headline links to the or
 - [S&P puts Nvidia on DOWNGRADE WATCH over the Jensen U-turn... cites 'governance risks'](https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries) (Bloomberg)
 - [Amodei HITS BACK at Axios: humans should NOT surrender free will to AI...](https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios) (Axios)
 - [FCC clears Musk's SpaceX to launch up to ONE MILLION satellites... for AI DATA CENTERS IN ORBIT](https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers) (Bloomberg)
+- [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
 - [Nvidia and CoreWeave CREDIT-RISK gauges hit RECORD HIGHS as Wall Street's AI fears mount...](https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount) (Bloomberg)
 - [BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Tencent GRIND TO A HALT after US chip curbs...](https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs) (Bloomberg)
 - [Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds](https://www.militarytimes.com/news/your-military/2026/11/25/ai-models-easily-coaxed-into-identifying-military-targets-study-finds/) (Military Times · Not yet verified)
@@ -56,9 +58,7 @@ Updated Thursday, November 26, 2026, 12:13 PM ET. Every headline links to the or
 - [Hackers hit unclassified CIA system... some sources point to a CHINESE AI TOOL](https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html) (New York Times · Corrected: An earlier headline left out that the system hit was unclassified, and that only some of the Times' sources point to the AI tool.)
 - [Amazon says China-linked hackers' AI agent found and exploited a ZERO-DAY on its own...](https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/) (Amazon (AWS Security Blog) · Company claim)
 - [Asked how DOJ can clear Huang mid-probe, AG Blanche: 'I DON'T KNOW WHAT YOU'RE TALKING ABOUT'... FBI's Patel dodges too](https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html) (CNBC)
-- [Tidal BANS fully AI-made music... and expects to DELETE 29 MILLION+ tracks](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/) (TechCrunch)
 - [Trump: a pardon for Jensen is 'ALWAYS AN OPTION'... urges him not to take the Fifth](https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/) (New York Post)
-- [Jensen tells Nvidia staff 'I HURT ALL OF YOU'... says he's in therapy, says one person in the room](https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html) (CNBC · Corrected: An earlier headline attributed the therapy remark to several people present; CNBC cites one.)
 - [NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...](https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html) (New York Times · Corrected: An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries.)
 - [Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor](https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html) (CNBC)
 - [Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness](https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html) (CNBC)
