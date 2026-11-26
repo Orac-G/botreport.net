@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Wednesday, November 25, 2026, 8:13 PM ET. Every headline links to the original reporting or primary source.
+Updated Wednesday, November 25, 2026, 9:13 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,7 @@ Updated Wednesday, November 25, 2026, 8:13 PM ET. Every headline links to the or
 
 ## All stories (newest first)
 
+- [SoftBank SOARS 11%+ as Asia's chip stocks bounce back from the AI rout...](https://www.cnbc.com/2026/11/26/stock-markets-today-.html) (CNBC)
 - [Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...](https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970) (ABC (Australia))
 - [CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 MILLION in servers to a WHISKY seller](https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/) (CBS News)
 - [Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool) (The Record)
@@ -32,7 +33,7 @@ Updated Wednesday, November 25, 2026, 8:13 PM ET. Every headline links to the or
 - [Nvidia and CoreWeave CREDIT-RISK gauges hit RECORD HIGHS as Wall Street's AI fears mount...](https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount) (Bloomberg)
 - [Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds](https://www.militarytimes.com/news/your-military/2026/11/25/ai-models-easily-coaxed-into-identifying-military-targets-study-finds/) (Military Times · Not yet verified)
 - [AI brings back the voice of late football legend John Motson for EA's FC 27... with his family's blessing](https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27) (The Guardian)
-- [Nasdaq 100 heads for its first BEAR MARKET in more than a year as the AI trade unravels...](https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams) (Bloomberg)
+- [Morning scare: Nasdaq 100 neared its first BEAR MARKET in more than a year as the AI trade wobbled...](https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams) (Bloomberg)
 - [SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...](https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html) (New York Times)
 - [Amazon and Meta talk TRUCE in AI shopping-bot war... Zuck and Jassy must sign off, sources say](https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/) (Fortune)
 - [Australian state SUSPENDS Deloitte over AI-riddled report... and wants its fee BACK](https://www.abc.net.au/news/2026-11-25/deloitte-suspended-from-wa-govt-contracts-after-ai-uni-merger-/107427546) (ABC (Australia))
@@ -43,7 +44,6 @@ Updated Wednesday, November 25, 2026, 8:13 PM ET. Every headline links to the or
 - [Amazon says China-linked hackers' AI agent found and exploited a ZERO-DAY on its own...](https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/) (Amazon (AWS Security Blog) · Company claim)
 - [Asked how DOJ can clear Huang mid-probe, AG Blanche: 'I DON'T KNOW WHAT YOU'RE TALKING ABOUT'... FBI's Patel dodges too](https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html) (CNBC)
 - [BBC Verify: China-linked network using AI FAKES to smear Taiwan election candidates... even President Lai](https://www.bbc.co.uk/news/articles/cv702rw7dzx5o) (BBC)
-- [SoftBank PLUNGES 14% as AI sell-off rips through Asia's chip giants...](https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html) (CNBC)
 - [Tidal BANS fully AI-made music... and expects to DELETE 29 MILLION+ tracks](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/) (TechCrunch)
 - [Trump: a pardon for Jensen is 'ALWAYS AN OPTION'... urges him not to take the Fifth](https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/) (New York Post)
 - [Jensen tells Nvidia staff 'I HURT ALL OF YOU'... says he's in therapy, says one person in the room](https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html) (CNBC · Corrected: An earlier headline attributed the therapy remark to several people present; CNBC cites one.)
@@ -63,7 +63,6 @@ Updated Wednesday, November 25, 2026, 8:13 PM ET. Every headline links to the or
 - [Feds BLACKLIST Megaspeed, the Nvidia chip buyer at the center of the Huang scandal...](https://www.yahoo.com/news/politics/articles/us-blacklists-megaspeed-over-suspected-010342870.html) (Yahoo News)
 - [Anthropic mathematician and NYU prof claim AI-aided proof cracks $1M Navier-Stokes riddle...](https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/) (Scientific American)
 - [Paris Hilton takes her fight against AI porn fakes to Congress...](https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html) (CNBC)
-- [OpenAI's top scientist begs rivals: Let's all SLOW DOWN... Altman signs on](https://thenextweb.com/news/openai-chief-scientist-shared-ai-limits) (The Next Web)
 - [Nvidia brings Jensen BACK as CEO two weeks after he quit... Trump says he made the call](https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia) (CNN)
 
 ## Quote of the Day
@@ -71,6 +70,6 @@ Updated Wednesday, November 25, 2026, 8:13 PM ET. Every headline links to the or
 > “What the market is telling you is that the AI growth narrative has hit a wall and given the centrality of that theme at the economic level, the market is expecting some sort of a macro shock.”
 > — Venu Krishna, head of U.S. equity strategy at Barclays, on the AI sell-off that hit Nvidia ([source](https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html))
 
-Skynet-o-Meter: 54 out of 100.
+Skynet-o-Meter: 52 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

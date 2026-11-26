@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:13:43Z",
+ "updated": "2026-11-26T02:13:54Z",
  "stories": [
   {
    "id": "dow-rebound",
@@ -14,7 +14,7 @@
    "stack": [
     "nasdaq-bear",
     "nvda-sp-watch",
-    "asia-rout"
+    "softbank-rebound"
    ],
    "sub": "Nasdaq, down 4.6% at its low, ends off just 0.6%... traders cite thin pre-Thanksgiving trading and a Michael Burry post saying he's almost entirely long",
    "img": {
@@ -24,6 +24,18 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg"
    },
    "card": "Dow wipes out a 1,100-point AI rout, closes higher"
+  },
+  {
+   "id": "softbank-rebound",
+   "cat": "business",
+   "red": true,
+   "h": "SoftBank SOARS 11%+ as Asia's chip stocks bounce back from the AI rout...",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+   "t": "2026-11-26T02:12:14Z",
+   "saga": "markets",
+   "shout": "SOFTBANK BOUNCES 11%",
+   "card": "SoftBank soars 11% as Asia's chip stocks bounce back"
   },
   {
    "id": "hegseth-dpa",
@@ -162,7 +174,7 @@
    "id": "nasdaq-bear",
    "cat": "business",
    "red": true,
-   "h": "Nasdaq 100 heads for its first BEAR MARKET in more than a year as the AI trade unravels...",
+   "h": "Morning scare: Nasdaq 100 neared its first BEAR MARKET in more than a year as the AI trade wobbled...",
    "src": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams",
    "t": "2026-11-25T15:12:49Z",
@@ -381,17 +393,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o",
    "t": "2026-11-25T04:12:27Z",
    "col": 2
-  },
-  {
-   "id": "asia-rout",
-   "cat": "business",
-   "red": true,
-   "h": "SoftBank PLUNGES 14% as AI sell-off rips through Asia's chip giants...",
-   "src": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
-   "t": "2026-11-25T03:11:46Z",
-   "card": "SoftBank PLUNGES 14% as AI sell-off hits Asia",
-   "shout": "SOFTBANK PLUNGES 14%"
   },
   {
    "id": "tidal-ban",
@@ -634,16 +635,6 @@
    "col": 2
   },
   {
-   "id": "openai-limits",
-   "cat": "tech",
-   "h": "OpenAI's top scientist begs rivals: Let's all SLOW DOWN... Altman signs on",
-   "src": "The Next Web",
-   "url": "https://thenextweb.com/news/openai-chief-scientist-shared-ai-limits",
-   "t": "2026-11-24T02:09:00Z",
-   "group": "doom",
-   "col": 1
-  },
-  {
    "id": "huang-back",
    "red": true,
    "cat": "business",
@@ -667,13 +658,18 @@
  },
  "meter": {
   "level": 3,
-  "score": 54,
-  "delta": -3,
+  "score": 52,
+  "delta": -2,
   "moves": [
    {
-    "d": 1,
-    "why": "Australia WAVES THROUGH a $32 BILLION AI data centre on a cattle fe...",
-    "id": "anthropic-dalby"
+    "d": 7,
+    "why": "SOFTBANK BOUNCES 11%",
+    "id": "softbank-rebound"
+   },
+   {
+    "d": -4,
+    "why": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes H...",
+    "id": "dow-rebound"
    },
    {
     "d": -1,
@@ -682,26 +678,27 @@
    }
   ],
   "contrib": {
-   "dow-rebound": 7.7,
-   "nasdaq-bear": 0.6,
-   "cbs-nvda-partners": 7.0,
-   "hegseth-dpa": 3.2,
-   "nvda-sp-watch": 1.0,
+   "softbank-rebound": 7.2,
+   "dow-rebound": 3.5,
+   "nasdaq-bear": 0.2,
+   "cbs-nvda-partners": 6.6,
+   "hegseth-dpa": 2.9,
+   "nvda-sp-watch": 0.8,
    "nvda-rumor-bust": 0.2,
    "vance-no-probe": 0.2,
    "credit-fear": 0.1,
    "anthropic-dalby": 1.2,
-   "artex-typhoon": 5.7,
-   "agent-attacks": 0.4,
-   "jpm-ai-debt": 1.0,
-   "waymo-eggs": 2.9,
-   "dems-red-lights": 0.9,
-   "amodei-free-will": 0.6,
-   "spacex-starmind": 3.2,
-   "cai-auction": 4.2,
-   "dc-loans": 1.9,
-   "ai-targets": 1.3,
-   "motson-ai": 1.0
+   "artex-typhoon": 5.2,
+   "agent-attacks": 0.3,
+   "jpm-ai-debt": 0.9,
+   "waymo-eggs": 2.6,
+   "dems-red-lights": 0.8,
+   "amodei-free-will": 0.5,
+   "spacex-starmind": 2.6,
+   "cai-auction": 3.5,
+   "dc-loans": 1.3,
+   "ai-targets": 0.9,
+   "motson-ai": 0.7
   },
   "lastAdjust": 0,
   "history": [
@@ -924,13 +921,17 @@
    {
     "t": "2026-11-26T01:13:43Z",
     "s": 54
+   },
+   {
+    "t": "2026-11-26T02:13:54Z",
+    "s": 52
    }
   ],
-  "at": "2026-11-26T01:13:43Z",
+  "at": "2026-11-26T02:13:54Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -3,
+   "delta": -2,
    "period": "since last reading",
    "line": [
     {
@@ -980,32 +981,42 @@
     {
      "t": "2026-11-26T01:13:43Z",
      "s": 54
+    },
+    {
+     "t": "2026-11-26T02:13:54Z",
+     "s": 52
     }
    ],
    "drivers": [
     {
-     "d": -3,
+     "d": 7,
+     "id": "softbank-rebound",
+     "text": "SoftBank soars 11% as Asia's chip stocks bounce back"
+    },
+    {
+     "d": -9,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "ai-targets": -0.3,
+   "agent-attacks": -0.1,
+   "ai-targets": -0.4,
    "amodei-free-will": -0.1,
-   "anthropic-dalby": 1.2,
-   "artex-typhoon": -0.4,
+   "artex-typhoon": -0.5,
    "cai-auction": -0.7,
-   "cbs-nvda-partners": 0.3,
-   "dc-loans": -0.5,
-   "dow-rebound": -0.5,
-   "hegseth-dpa": -0.1,
-   "huang-spy-brief": -0.2,
-   "motson-ai": -0.2,
-   "nasdaq-bear": -0.3,
-   "nvda-sp-watch": -0.1,
-   "spacex-starmind": -0.4,
-   "talkie-pulled": -0.2,
-   "waymo-eggs": -0.1
+   "cbs-nvda-partners": -0.4,
+   "dc-loans": -0.6,
+   "dems-red-lights": -0.1,
+   "dow-rebound": -4.2,
+   "hegseth-dpa": -0.3,
+   "jpm-ai-debt": -0.1,
+   "motson-ai": -0.3,
+   "nasdaq-bear": -0.4,
+   "nvda-sp-watch": -0.2,
+   "softbank-rebound": 7.2,
+   "spacex-starmind": -0.6,
+   "waymo-eggs": -0.3
   }
  },
  "state": {
@@ -1156,24 +1167,24 @@
    ]
   },
   "crypto": {
-   "asOf": "8:13 pm ET",
+   "asOf": "9:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60548.0,
-     "chg": 1.73
+     "price": 60835.0,
+     "chg": 3.0
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1697.69,
-     "chg": 1.78
+     "price": 1700.6,
+     "chg": 2.75
     }
    ]
   }
  },
- "next": "2026-11-26T02:18:00Z"
+ "next": "2026-11-26T03:18:00Z"
 }
