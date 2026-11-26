@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T11:13:12Z",
+ "updated": "2026-11-26T12:13:59Z",
  "stories": [
+  {
+   "id": "korea-exam-cam",
+   "cat": "quirky",
+   "h": "Police seek ARREST of Korean exam ace: CAMERA in correction tape, AI-fed answers...",
+   "src": "Korea Herald",
+   "url": "https://www.koreaherald.com/article/10950986",
+   "t": "2026-11-26T12:13:35Z",
+   "group": "korea-cheat",
+   "card": "Police: exam ace hid a camera in correction tape, AI fed answers",
+   "col": 1
+  },
   {
    "id": "meta-muse-fca",
    "cat": "politics",
@@ -27,16 +38,28 @@
    "cat": "business",
    "red": true,
    "group": "nvda-china",
-   "h": "Nvidia HALTS server shipments to FOUR Southeast Asian countries... FT says",
+   "h": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...",
    "src": "Financial Times",
    "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
    "t": "2026-11-26T07:11:54Z",
-   "label": "Not yet verified",
    "card": "Nvidia freezes server shipments to 4 Southeast Asian nations",
-   "col": 1,
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50652248",
     "comments": 3
+   },
+   "lead": true,
+   "sub": "FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
+   "stack": [
+    "gpu-glut",
+    "cbs-nvda-partners",
+    "doj-diversion"
+   ],
+   "saga": "nvda-china",
+   "img": {
+    "src": "img/jensen-huang.jpg",
+    "alt": "Nvidia CEO Jensen Huang",
+    "credit": "Anders Eidesvik / CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg"
    }
   },
   {
@@ -48,7 +71,7 @@
    "t": "2026-11-26T08:11:42Z",
    "group": "nvda-china",
    "card": "Flood of Nvidia AI chips for sale after US shuts China loophole",
-   "col": 1
+   "shout": "CHIP GLUT AFTER LOOPHOLE SHUT"
   },
   {
    "id": "leet-ai-cheat",
@@ -58,7 +81,8 @@
    "url": "https://www.koreaherald.com/article/10950541",
    "t": "2026-11-26T06:11:48Z",
    "card": "Police raid late perfect scorer's home in AI cheating probe",
-   "col": 1
+   "col": 1,
+   "group": "korea-cheat"
   },
   {
    "id": "india-ai-cradle",
@@ -73,26 +97,14 @@
   {
    "id": "dow-rebound",
    "cat": "business",
-   "lead": true,
    "red": true,
-   "h": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...",
+   "h": "Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...",
    "src": "CNBC",
    "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
    "t": "2026-11-25T21:14:19Z",
    "saga": "markets",
-   "stack": [
-    "nasdaq-bear",
-    "nvda-sp-watch",
-    "softbank-rebound"
-   ],
-   "sub": "Nasdaq, down 4.6% at its low, ends off just 0.6%... traders cite thin pre-Thanksgiving trading and a Michael Burry post saying he's almost entirely long",
-   "img": {
-    "src": "img/new-york-stock-exchange.jpg",
-    "alt": "The New York Stock Exchange on Wall Street",
-    "credit": "Jeffrey Zeldman from Manhattan, USA / CC BY 2.0",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg"
-   },
-   "card": "Dow wipes out a 1,100-point AI rout, closes higher"
+   "card": "Dow wipes out a 1,100-point AI rout, closes higher",
+   "col": 1
   },
   {
    "id": "huawei-hbm",
@@ -142,8 +154,8 @@
    "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
    "t": "2026-11-26T02:12:14Z",
    "saga": "markets",
-   "shout": "SOFTBANK BOUNCES BACK",
-   "card": "SoftBank surges as much as 11% as Asia's chips rebound"
+   "card": "SoftBank surges as much as 11% as Asia's chips rebound",
+   "col": 0
   },
   {
    "id": "hegseth-dpa",
@@ -176,7 +188,7 @@
    "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/",
    "t": "2026-11-26T00:13:58Z",
    "card": "CBS: Nvidia's top-tier partners include Chinese-owned firms",
-   "col": 1
+   "shout": "PARTNERS CHINESE-OWNED"
   },
   {
    "id": "artex-typhoon",
@@ -260,7 +272,7 @@
    "t": "2026-11-25T19:11:51Z",
    "group": "markets",
    "card": "S&P puts Nvidia on downgrade watch over Jensen U-turn",
-   "shout": "S&P EYES NVIDIA DOWNGRADE"
+   "col": 1
   },
   {
    "id": "amodei-free-will",
@@ -288,7 +300,7 @@
    "t": "2026-11-25T15:12:49Z",
    "saga": "markets",
    "card": "Morning scare: Nasdaq 100 neared its first bear market in a year",
-   "shout": "MORNING BEAR-MARKET SCARE"
+   "col": 1
   },
   {
    "id": "spacex-starmind",
@@ -418,17 +430,6 @@
    "group": "agency"
   },
   {
-   "id": "huang-affairs",
-   "cat": "business",
-   "h": "Catching up: Jensen disclosed MORE AFFAIRS to Nvidia's board before it rehired him, WSJ says...",
-   "src": "Wall Street Journal",
-   "url": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961",
-   "t": "2026-11-25T10:11:47Z",
-   "label": "From Nov. 23",
-   "group": "huang",
-   "col": 0
-  },
-  {
    "id": "kospi-half",
    "cat": "business",
    "red": true,
@@ -548,8 +549,8 @@
    "t": "2026-11-25T02:17:13Z",
    "correction": "An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries.",
    "group": "nvda-china",
-   "col": 1,
-   "card": "Sources: DOJ has evidence others diverted Nvidia chips to China"
+   "card": "Sources: DOJ has evidence others diverted Nvidia chips to China",
+   "shout": "DOJ: OTHERS DIVERTED CHIPS"
   },
   {
    "id": "alfozan-bail",
@@ -660,39 +661,39 @@
  },
  "meter": {
   "level": 2,
-  "score": 34,
-  "delta": -2,
+  "score": 36,
+  "delta": 2,
   "moves": [
    {
+    "d": 4,
+    "why": "Police seek ARREST of Korean exam ace: CAMERA in correction tape, A...",
+    "id": "korea-exam-cam"
+   },
+   {
     "d": 2,
-    "why": "Meta REFUSED to let UK finance watchdog test its Muse AI agent befo...",
-    "id": "meta-muse-fca"
-   },
-   {
-    "d": -1,
-    "why": "SOFTBANK BOUNCES BACK",
-    "id": "softbank-rebound"
-   },
-   {
-    "d": -1,
-    "why": "Nvidia HALTS server shipments to FOUR Southeast Asian countries......",
+    "why": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens...",
     "id": "nvda-sea-halt"
+   },
+   {
+    "d": -2,
+    "why": "Police RAID late perfect scorer's home in Korea's AI CHEATING probe...",
+    "id": "leet-ai-cheat"
    }
   ],
   "contrib": {
+   "korea-exam-cam": 4.4,
+   "leet-ai-cheat": 1.2,
    "meta-muse-fca": 1.5,
-   "uk-court-fakes": 4.5,
-   "nvda-sea-halt": 6.5,
-   "gpu-glut": 0.6,
-   "cbs-nvda-partners": 0.2,
-   "leet-ai-cheat": 2.9,
-   "india-ai-cradle": 1.0,
-   "huawei-hbm": 0.8,
-   "xpeng-humanoid": 2.4,
-   "softbank-rebound": 2.4,
-   "softbank-cds": 0.3,
-   "anthropic-dalby": 0.3,
-   "grh-shrink": 0.7
+   "uk-court-fakes": 4.0,
+   "nvda-sea-halt": 8.4,
+   "gpu-glut": 1.1,
+   "india-ai-cradle": 0.8,
+   "huawei-hbm": 0.7,
+   "xpeng-humanoid": 2.0,
+   "softbank-rebound": 1.6,
+   "softbank-cds": 0.2,
+   "anthropic-dalby": 0.1,
+   "grh-shrink": 0.5
   },
   "lastAdjust": 0,
   "history": [
@@ -955,13 +956,17 @@
    {
     "t": "2026-11-26T11:13:12Z",
     "s": 34
+   },
+   {
+    "t": "2026-11-26T12:13:59Z",
+    "s": 36
    }
   ],
-  "at": "2026-11-26T11:13:12Z",
+  "at": "2026-11-26T12:13:59Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -2,
+   "delta": 2,
    "period": "since last reading",
    "line": [
     {
@@ -1051,13 +1056,22 @@
     {
      "t": "2026-11-26T11:13:12Z",
      "s": 34
+    },
+    {
+     "t": "2026-11-26T12:13:59Z",
+     "s": 36
     }
    ],
    "drivers": [
     {
+     "d": 4,
+     "id": "korea-exam-cam",
+     "text": "Police: exam ace hid a camera in correction tape, AI fed answers"
+    },
+    {
      "d": 2,
-     "id": "meta-muse-fca",
-     "text": "UK watchdog: Meta refused to let it test Muse AI agent"
+     "id": "nvda-sea-halt",
+     "text": "Nvidia freezes server shipments to 4 Southeast Asian nations"
     },
     {
      "d": -4,
@@ -1066,18 +1080,18 @@
    ]
   },
   "change": {
-   "anthropic-dalby": -0.1,
-   "cbs-nvda-partners": -0.6,
-   "gpu-glut": 0.3,
-   "grh-shrink": -0.1,
-   "hegseth-dpa": -0.2,
+   "anthropic-dalby": -0.2,
+   "cbs-nvda-partners": -0.2,
+   "gpu-glut": 0.5,
+   "grh-shrink": -0.2,
    "huawei-hbm": -0.1,
-   "india-ai-cradle": -0.1,
-   "leet-ai-cheat": -0.3,
-   "meta-muse-fca": 1.5,
-   "nvda-sea-halt": -0.7,
+   "india-ai-cradle": -0.2,
+   "korea-exam-cam": 4.4,
+   "leet-ai-cheat": -1.7,
+   "nvda-sea-halt": 1.9,
+   "softbank-cds": -0.1,
    "softbank-rebound": -0.8,
-   "uk-court-fakes": 0.1,
+   "uk-court-fakes": -0.5,
    "xpeng-humanoid": -0.4
   }
  },
@@ -1124,6 +1138,12 @@
      "name": "Nvidia",
      "price": 149.3,
      "chg": -3.91
+    },
+    {
+     "sym": "CRWV",
+     "name": "CoreWeave",
+     "price": 42.57,
+     "chg": -0.08
     },
     {
      "sym": "NBIS",
@@ -1211,24 +1231,24 @@
    ]
   },
   "crypto": {
-   "asOf": "6:13 am ET",
+   "asOf": "7:13 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60481.0,
-     "chg": 2.94
+     "price": 60697.0,
+     "chg": 3.82
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1694.33,
-     "chg": 3.01
+     "price": 1703.02,
+     "chg": 3.99
     }
    ]
   }
  },
- "next": "2026-11-26T12:18:00Z"
+ "next": "2026-11-26T13:18:00Z"
 }

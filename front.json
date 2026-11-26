@@ -3,15 +3,19 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-26T11:13:12Z",
- "nextUpdate": "2026-11-26T12:18:00Z",
+ "updated": "2026-11-26T12:13:59Z",
+ "nextUpdate": "2026-11-26T13:18:00Z",
  "lead": [
   {
-   "headline": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...: Nasdaq, down 4.6% at its low, ends off just 0.6%... traders cite thin pre-Thanksgiving trading and a Michael Burry post saying he's almost entirely long",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-   "found": "2026-11-25T21:14:19Z",
-   "section": "business"
+   "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...: FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
+   "source": "Financial Times",
+   "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
+   "found": "2026-11-26T07:11:54Z",
+   "section": "business",
+   "hackerNews": {
+    "url": "https://news.ycombinator.com/item?id=50652248",
+    "comments": 3
+   }
   }
  ],
  "topLinks": [
@@ -46,6 +50,13 @@
  ],
  "stories": [
   {
+   "headline": "Police seek ARREST of Korean exam ace: CAMERA in correction tape, AI-fed answers...",
+   "source": "Korea Herald",
+   "url": "https://www.koreaherald.com/article/10950986",
+   "found": "2026-11-26T12:13:35Z",
+   "section": "quirky"
+  },
+  {
    "headline": "Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...",
    "source": "Wired",
    "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
@@ -65,18 +76,6 @@
    "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
    "found": "2026-11-26T08:11:42Z",
    "section": "business"
-  },
-  {
-   "headline": "Nvidia HALTS server shipments to FOUR Southeast Asian countries... FT says",
-   "source": "Financial Times",
-   "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
-   "found": "2026-11-26T07:11:54Z",
-   "section": "business",
-   "label": "Not yet verified",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50652248",
-    "comments": 3
-   }
   },
   {
    "headline": "Police RAID late perfect scorer's home in Korea's AI CHEATING probe...",
@@ -161,6 +160,13 @@
    "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
    "found": "2026-11-25T22:11:59Z",
    "section": "quirky"
+  },
+  {
+   "headline": "Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+   "found": "2026-11-25T21:14:19Z",
+   "section": "business"
   },
   {
    "headline": "That viral '$300 MILLION' Nvidia insider-trading score? Three data firms find NO trading records to back it...",
@@ -274,14 +280,6 @@
    "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
    "found": "2026-11-25T10:11:47Z",
    "section": "tech"
-  },
-  {
-   "headline": "Catching up: Jensen disclosed MORE AFFAIRS to Nvidia's board before it rehired him, WSJ says...",
-   "source": "Wall Street Journal",
-   "url": "https://www.wsj.com/business/nvidia-jensen-huang-white-house-9ad03961",
-   "found": "2026-11-25T10:11:47Z",
-   "section": "business",
-   "label": "From Nov. 23"
   },
   {
    "headline": "Korea's chip-heavy stock market has lost NEARLY HALF its value in five months... AI doubts blamed",
@@ -419,7 +417,7 @@
   "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
  },
  "skynetOMeter": {
-  "score": 34,
+  "score": 36,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
