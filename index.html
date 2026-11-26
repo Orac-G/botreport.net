@@ -1029,7 +1029,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   }
 
   // The red alert stays until dismissed; the grey "nothing new" line fades out by itself after QUIET_SECONDS.
-  const QUIET_SECONDS = 5;
+  const QUIET_SECONDS = 6;
   let fadeTimer = null;
   function hideAlert() { clearTimeout(fadeTimer); $("alert").getAnimations().forEach((a) => a.cancel()); $("alert").hidden = true; }
   // Fade and fold the bar away together, closing its gap too, so the page glides up instead of jumping.
