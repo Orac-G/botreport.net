@@ -319,7 +319,6 @@ a.red, a.red:visited { color: var(--siren); }
 .col li a { font-size: 15px; font-weight: 700; line-height: 1.28; overflow-wrap: anywhere; }
 
 .src { font-size: 11px; line-height: 1.3; color: var(--muted); }
-.src .you, .lead .meta .you { color: var(--siren); font-weight: 700; }
 .src a.hn, .lead .meta a.hn, .col li .src a.hn { font-size: inherit; font-weight: 400; line-height: inherit; color: var(--muted); text-transform: none; }
 @media (max-width: 760px) {
   .cols, .strip { grid-template-columns: minmax(0, 1fr); }
@@ -696,9 +695,10 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
     }
     return span;
   }
-  // NEW marks the stories added in the latest update (runs are hourly, so: about the last hour).
+  // NEW marks what this reader hasn't seen: stories added since their last visit, or that arrived while the page was open.
+  // A first-time visitor has no last visit, so for them NEW marks the latest update's stories (within NEW_MINUTES of it).
   const NEW_MINUTES = 45;
-  const isNew = (s) => data && (new Date(data.updated) - new Date(s.t)) / 6e4 <= NEW_MINUTES;
+  const isNew = (s) => data && (lastVisit ? forYou.has(s.id) : (new Date(data.updated) - new Date(s.t)) / 6e4 <= NEW_MINUTES);
   function age(s) {
     const mins = Math.max(0, Math.round((Date.now() - new Date(s.t)) / 6e4));
     if (mins < 60) return mins <= 1 ? "Just in" : mins + " min ago";
@@ -728,7 +728,6 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
     if (fig) li.append(fig);
     const src = sourceLine(s, "src");
     if (src.firstChild) src.firstChild.after(" · " + age(s)); else src.prepend(age(s));
-    if (forYou.has(s.id)) { const y = document.createElement("span"); y.className = "you"; y.textContent = "● New for you"; src.append(" · ", y); }
     const a = link(s);
     if (isNew(s)) { const n = document.createElement("span"); n.className = "newtag"; n.textContent = "NEW"; a.prepend(n); }
     li.append(a, src);
