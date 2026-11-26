@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-26T07:13:31Z",
- "nextUpdate": "2026-11-26T08:18:00Z",
+ "updated": "2026-11-26T08:13:23Z",
+ "nextUpdate": "2026-11-26T09:18:00Z",
  "lead": [
   {
    "headline": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...: Nasdaq, down 4.6% at its low, ends off just 0.6%... traders cite thin pre-Thanksgiving trading and a Michael Burry post saying he's almost entirely long",
@@ -46,12 +46,23 @@
  ],
  "stories": [
   {
+   "headline": "FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+   "found": "2026-11-26T08:11:42Z",
+   "section": "business"
+  },
+  {
    "headline": "Nvidia HALTS server shipments to FOUR Southeast Asian countries... FT says",
    "source": "Financial Times",
    "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
    "found": "2026-11-26T07:11:54Z",
    "section": "business",
-   "label": "Not yet verified"
+   "label": "Not yet verified",
+   "hackerNews": {
+    "url": "https://news.ycombinator.com/item?id=50652248",
+    "comments": 3
+   }
   },
   {
    "headline": "Police RAID late perfect scorer's home in Korea's AI CHEATING probe...",
@@ -92,7 +103,7 @@
    "label": "Not yet verified",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 195
+    "comments": 220
    }
   },
   {
@@ -408,17 +419,6 @@
     "url": "https://news.ycombinator.com/item?id=50627836",
     "comments": 770
    }
-  },
-  {
-   "headline": "Nvidia brings Jensen BACK as CEO two weeks after he quit... Trump says he made the call",
-   "source": "CNN",
-   "url": "https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia",
-   "found": "2026-11-24T01:15:00Z",
-   "section": "business",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3759
-   }
   }
  ],
  "quoteOfTheDay": {
@@ -427,7 +427,7 @@
   "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
  },
  "skynetOMeter": {
-  "score": 43,
+  "score": 40,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T07:13:31Z",
+ "updated": "2026-11-26T08:13:23Z",
  "stories": [
   {
    "id": "nvda-sea-halt",
@@ -12,6 +12,21 @@
    "t": "2026-11-26T07:11:54Z",
    "label": "Not yet verified",
    "card": "Nvidia freezes server shipments to 4 Southeast Asian nations",
+   "col": 1,
+   "hn": {
+    "url": "https://news.ycombinator.com/item?id=50652248",
+    "comments": 3
+   }
+  },
+  {
+   "id": "gpu-glut",
+   "cat": "business",
+   "h": "FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+   "t": "2026-11-26T08:11:42Z",
+   "group": "nvda-china",
+   "card": "Flood of Nvidia AI chips for sale after US shuts China loophole",
    "col": 1
   },
   {
@@ -628,7 +643,7 @@
    "label": "Not yet verified",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 195
+    "comments": 220
    },
    "col": 2,
    "card": "Claude's Riemann proof cut to 76,000 lines, not yet human-read"
@@ -642,21 +657,6 @@
    "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
    "t": "2026-11-24T17:02:44Z",
    "col": 2
-  },
-  {
-   "id": "huang-back",
-   "red": true,
-   "cat": "business",
-   "h": "Nvidia brings Jensen BACK as CEO two weeks after he quit... Trump says he made the call",
-   "src": "CNN",
-   "url": "https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia",
-   "t": "2026-11-24T01:15:00Z",
-   "hn": {
-    "url": "https://news.ycombinator.com/item?id=50611576",
-    "comments": 3759
-   },
-   "group": "huang",
-   "col": 0
   }
  ],
  "quote": {
@@ -667,44 +667,38 @@
  },
  "meter": {
   "level": 3,
-  "score": 43,
-  "delta": 0,
+  "score": 40,
+  "delta": -3,
   "moves": [
    {
-    "d": 8,
-    "why": "Nvidia HALTS server shipments to FOUR Southeast Asian countries......",
-    "id": "nvda-sea-halt"
-   },
-   {
-    "d": -3,
-    "why": "CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 M...",
-    "id": "cbs-nvda-partners"
+    "d": -1,
+    "why": "Microsoft: China's SALT TYPHOON hackers now wield AI attack tool th...",
+    "id": "artex-typhoon"
    },
    {
     "d": -1,
-    "why": "Hegseth and Pentagon officials floated a WARTIME LAW to reinstate J...",
-    "id": "hegseth-dpa"
+    "why": "SOFTBANK BOUNCES BACK",
+    "id": "softbank-rebound"
    }
   ],
   "contrib": {
-   "nvda-sea-halt": 8.1,
-   "cbs-nvda-partners": 1.8,
-   "hegseth-dpa": 0.7,
-   "nvda-rumor-bust": 0.1,
-   "leet-ai-cheat": 4.1,
-   "india-ai-cradle": 1.4,
-   "softbank-rebound": 5.2,
-   "dow-rebound": 1.1,
+   "nvda-sea-halt": 8.4,
+   "cbs-nvda-partners": 1.5,
+   "hegseth-dpa": 0.6,
+   "gpu-glut": 0.4,
+   "leet-ai-cheat": 3.8,
+   "india-ai-cradle": 1.3,
+   "softbank-rebound": 4.6,
+   "dow-rebound": 0.6,
    "softbank-cds": 0.2,
-   "huawei-hbm": 1.2,
-   "xpeng-humanoid": 3.7,
-   "anthropic-dalby": 0.7,
-   "artex-typhoon": 2.2,
-   "agent-attacks": 0.1,
-   "jpm-ai-debt": 0.4,
-   "waymo-eggs": 1.1,
-   "dems-red-lights": 0.2,
-   "grh-shrink": 1.1
+   "huawei-hbm": 1.1,
+   "xpeng-humanoid": 3.4,
+   "anthropic-dalby": 0.6,
+   "artex-typhoon": 1.5,
+   "jpm-ai-debt": 0.3,
+   "waymo-eggs": 0.8,
+   "dems-red-lights": 0.1,
+   "grh-shrink": 1.0
   },
   "lastAdjust": 0,
   "history": [
@@ -951,13 +945,17 @@
    {
     "t": "2026-11-26T07:13:31Z",
     "s": 43
+   },
+   {
+    "t": "2026-11-26T08:13:23Z",
+    "s": 40
    }
   ],
-  "at": "2026-11-26T07:13:31Z",
+  "at": "2026-11-26T08:13:23Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 0,
+   "delta": -3,
    "period": "since last reading",
    "line": [
     {
@@ -1031,38 +1029,38 @@
     {
      "t": "2026-11-26T07:13:31Z",
      "s": 43
+    },
+    {
+     "t": "2026-11-26T08:13:23Z",
+     "s": 40
     }
    ],
    "drivers": [
     {
-     "d": 8,
-     "id": "nvda-sea-halt",
-     "text": "Nvidia freezes server shipments to 4 Southeast Asian nations"
-    },
-    {
-     "d": -8,
+     "d": -3,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "amodei-free-will": -0.1,
-   "anthropic-dalby": -0.2,
-   "artex-typhoon": -0.8,
-   "cbs-nvda-partners": -2.7,
-   "dems-red-lights": -0.2,
-   "dow-rebound": -0.6,
+   "agent-attacks": -0.1,
+   "anthropic-dalby": -0.1,
+   "artex-typhoon": -0.7,
+   "cbs-nvda-partners": -0.3,
+   "dems-red-lights": -0.1,
+   "dow-rebound": -0.5,
+   "gpu-glut": 0.4,
    "grh-shrink": -0.1,
-   "hegseth-dpa": -1.1,
-   "huawei-hbm": -0.2,
+   "hegseth-dpa": -0.1,
+   "huawei-hbm": -0.1,
+   "india-ai-cradle": -0.1,
    "jpm-ai-debt": -0.1,
-   "nvda-sea-halt": 8.1,
-   "nvda-sp-watch": -0.2,
-   "softbank-cds": -0.1,
-   "softbank-rebound": -0.7,
-   "vance-no-probe": -0.1,
-   "waymo-eggs": -0.4,
-   "xpeng-humanoid": -0.4
+   "leet-ai-cheat": -0.3,
+   "nvda-rumor-bust": -0.1,
+   "nvda-sea-halt": 0.3,
+   "softbank-rebound": -0.6,
+   "waymo-eggs": -0.3,
+   "xpeng-humanoid": -0.3
   }
  },
  "state": {
@@ -1116,10 +1114,22 @@
      "chg": 1.08
     },
     {
+     "sym": "CBRS",
+     "name": "Cerebras",
+     "price": 89.68,
+     "chg": 1.01
+    },
+    {
      "sym": "CRWV",
      "name": "CoreWeave",
      "price": 42.57,
      "chg": -0.08
+    },
+    {
+     "sym": "NBIS",
+     "name": "Nebius",
+     "price": 84.99,
+     "chg": -2.64
     },
     {
      "sym": "PLTR",
@@ -1201,24 +1211,24 @@
    ]
   },
   "crypto": {
-   "asOf": "2:13 am ET",
+   "asOf": "3:13 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60395.0,
-     "chg": 1.85
+     "price": 60599.0,
+     "chg": 3.06
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1685.03,
-     "chg": 1.41
+     "price": 1689.14,
+     "chg": 3.1
     }
    ]
   }
  },
- "next": "2026-11-26T08:18:00Z"
+ "next": "2026-11-26T09:18:00Z"
 }
