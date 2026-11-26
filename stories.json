@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:14:36Z",
+ "updated": "2026-11-26T05:14:51Z",
  "stories": [
   {
    "id": "dow-rebound",
@@ -24,6 +24,28 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg"
    },
    "card": "Dow wipes out a 1,100-point AI rout, closes higher"
+  },
+  {
+   "id": "huawei-hbm",
+   "cat": "tech",
+   "h": "Huawei TEASES a next-gen AI MEMORY CHIP that could top Samsung and SK Hynix...",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix",
+   "t": "2026-11-26T05:11:49Z",
+   "label": "Company claim",
+   "col": 2,
+   "card": "Huawei teases AI memory chip to take on Samsung, Hynix"
+  },
+  {
+   "id": "xpeng-humanoid",
+   "cat": "quirky",
+   "h": "Xpeng says its HUMANOID ROBOT will cost about the same as an ELECTRIC CAR...",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev",
+   "t": "2026-11-26T05:11:49Z",
+   "label": "Company claim",
+   "col": 0,
+   "card": "Xpeng: our humanoid robot will cost the same as an EV"
   },
   {
    "id": "softbank-cds",
@@ -73,7 +95,7 @@
    "src": "ABC (Australia)",
    "url": "https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970",
    "t": "2026-11-26T01:11:56Z",
-   "col": 2
+   "top": true
   },
   {
    "id": "cbs-nvda-partners",
@@ -226,12 +248,12 @@
    "id": "dc-loans",
    "cat": "business",
    "red": true,
-   "top": true,
    "h": "BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Tencent GRIND TO A HALT after US chip curbs...",
    "src": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
    "t": "2026-11-25T16:12:50Z",
-   "card": "Chip curbs FREEZE billions in China-linked AI loans"
+   "card": "Chip curbs FREEZE billions in China-linked AI loans",
+   "col": 2
   },
   {
    "id": "credit-fear",
@@ -558,20 +580,6 @@
    "col": 0
   },
   {
-   "id": "nvda-board-doubts",
-   "cat": "politics",
-   "group": "huang",
-   "h": "Critics: Nvidia board's Huang U-TURN raises doubts it's really independent...",
-   "src": "Reuters",
-   "url": "https://www.reuters.com/legal/transactional/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-2026-11-24/",
-   "t": "2026-11-24T16:10:00Z",
-   "hn": {
-    "url": "https://news.ycombinator.com/item?id=50629620",
-    "comments": 8
-   },
-   "col": 0
-  },
-  {
    "id": "trump-nvda-trades",
    "cat": "politics",
    "group": "nvda-china",
@@ -597,21 +605,6 @@
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50627836",
     "comments": 770
-   },
-   "col": 1
-  },
-  {
-   "id": "megaspeed-blacklist",
-   "red": true,
-   "cat": "politics",
-   "group": "nvda-china",
-   "h": "Feds BLACKLIST Megaspeed, the Nvidia chip buyer at the center of the Huang scandal...",
-   "src": "Yahoo News",
-   "t": "2026-11-24T04:08:28Z",
-   "url": "https://www.yahoo.com/news/politics/articles/us-blacklists-megaspeed-over-suspected-010342870.html",
-   "hn": {
-    "url": "https://news.ycombinator.com/item?id=50630245",
-    "comments": 65
    },
    "col": 1
   },
@@ -666,43 +659,45 @@
  "meter": {
   "level": 3,
   "score": 44,
-  "delta": -4,
+  "delta": 0,
   "moves": [
    {
+    "d": 4,
+    "why": "Xpeng says its HUMANOID ROBOT will cost about the same as an ELECTR...",
+    "id": "xpeng-humanoid"
+   },
+   {
     "d": 1,
-    "why": "Anthropic team SHRINKS Claude's Riemann proof to 76,000 lines... 'N...",
-    "id": "grh-shrink"
+    "why": "Huawei TEASES a homegrown AI MEMORY CHIP that could top Samsung and...",
+    "id": "huawei-hbm"
    },
    {
     "d": -1,
     "why": "42 state AGs fight Character.ai plan to AUCTION private chats from...",
     "id": "cai-auction"
-   },
-   {
-    "d": -1,
-    "why": "BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Ten...",
-    "id": "dc-loans"
    }
   ],
   "contrib": {
-   "softbank-rebound": 7.3,
-   "dow-rebound": 2.8,
+   "softbank-rebound": 6.6,
+   "dow-rebound": 2.2,
    "softbank-cds": 0.3,
-   "cbs-nvda-partners": 5.9,
-   "hegseth-dpa": 2.6,
-   "nvda-sp-watch": 0.5,
-   "nvda-rumor-bust": 0.2,
+   "huawei-hbm": 1.4,
+   "xpeng-humanoid": 4.1,
+   "cbs-nvda-partners": 5.2,
+   "hegseth-dpa": 2.2,
+   "nvda-sp-watch": 0.4,
+   "nvda-rumor-bust": 0.1,
    "vance-no-probe": 0.1,
-   "anthropic-dalby": 1.1,
-   "artex-typhoon": 4.4,
+   "anthropic-dalby": 1.0,
+   "artex-typhoon": 3.7,
    "agent-attacks": 0.2,
-   "jpm-ai-debt": 0.7,
-   "waymo-eggs": 2.2,
-   "dems-red-lights": 0.6,
-   "amodei-free-will": 0.4,
-   "spacex-starmind": 1.5,
-   "cai-auction": 1.9,
-   "grh-shrink": 1.3
+   "jpm-ai-debt": 0.6,
+   "waymo-eggs": 1.8,
+   "dems-red-lights": 0.5,
+   "amodei-free-will": 0.2,
+   "spacex-starmind": 0.7,
+   "cai-auction": 1.0,
+   "grh-shrink": 1.4
   },
   "lastAdjust": 0,
   "history": [
@@ -937,13 +932,17 @@
    {
     "t": "2026-11-26T04:14:31Z",
     "s": 44
+   },
+   {
+    "t": "2026-11-26T05:14:45Z",
+    "s": 44
    }
   ],
-  "at": "2026-11-26T04:14:31Z",
+  "at": "2026-11-26T05:14:45Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -4,
+   "delta": 0,
    "period": "since last reading",
    "line": [
     {
@@ -1005,13 +1004,22 @@
     {
      "t": "2026-11-26T04:14:31Z",
      "s": 44
+    },
+    {
+     "t": "2026-11-26T05:14:45Z",
+     "s": 44
     }
    ],
    "drivers": [
     {
+     "d": 4,
+     "id": "xpeng-humanoid",
+     "text": "Xpeng: our humanoid robot will cost the same as an EV"
+    },
+    {
      "d": 1,
-     "id": "grh-shrink",
-     "text": "Claude's Riemann proof cut to 76,000 lines, not yet human-read"
+     "id": "huawei-hbm",
+     "text": "Huawei teases AI memory chip to take on Samsung, Hynix"
     },
     {
      "d": -5,
@@ -1020,25 +1028,23 @@
    ]
   },
   "change": {
-   "agent-attacks": -0.1,
-   "ai-targets": -0.5,
-   "amodei-free-will": -0.1,
+   "amodei-free-will": -0.2,
    "anthropic-dalby": -0.1,
-   "artex-typhoon": -0.4,
+   "artex-typhoon": -0.7,
    "cai-auction": -0.9,
-   "cbs-nvda-partners": -0.4,
-   "credit-fear": -0.1,
-   "dc-loans": -0.7,
+   "cbs-nvda-partners": -0.7,
    "dems-red-lights": -0.1,
-   "dow-rebound": -0.3,
-   "grh-shrink": 1.3,
-   "hegseth-dpa": -0.2,
+   "dow-rebound": -0.6,
+   "grh-shrink": 0.1,
+   "hegseth-dpa": -0.4,
+   "huawei-hbm": 1.4,
    "jpm-ai-debt": -0.1,
-   "motson-ai": -0.3,
-   "nvda-sp-watch": -0.2,
-   "softbank-rebound": -0.3,
-   "spacex-starmind": -0.6,
-   "waymo-eggs": -0.2
+   "nvda-rumor-bust": -0.1,
+   "nvda-sp-watch": -0.1,
+   "softbank-rebound": -0.7,
+   "spacex-starmind": -0.8,
+   "waymo-eggs": -0.4,
+   "xpeng-humanoid": 4.1
   }
  },
  "state": {
@@ -1128,10 +1134,22 @@
    "src": "Reported amounts",
    "items": [
     {
+     "who": "Marvell \u2192 Lumentum",
+     "amt": "$115B",
+     "note": "all-stock, enterprise value; AI data-centre optics bet",
+     "url": "https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html"
+    },
+    {
      "who": "Anthropic",
      "amt": "$81.3B",
      "note": "record IPO, the largest offering ever",
      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+    },
+    {
+     "who": "CrowdStrike \u2192 Zscaler",
+     "amt": "$43.9B",
+     "note": "all-stock, pitched as security for AI agents",
+     "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
     },
     {
      "who": "OpenAI",
@@ -1144,18 +1162,6 @@
      "amt": "$7.5B",
      "note": "tech and team deal, pending approval",
      "url": "https://cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html"
-    },
-    {
-     "who": "Shield AI \u2192 Echodyne",
-     "amt": "$5.3B",
-     "note": "counter-drone radar deal, plus a $2.5B raise at $28.8B",
-     "url": "https://www.washingtontechnology.com/companies/2026/11/shield-ai-acquires-radar-maker-echodyne-53-billion-deal/417086/"
-    },
-    {
-     "who": "Isomorphic Labs",
-     "amt": "$5B",
-     "note": "Series C for AI drug discovery, led by Greenoaks and Sequoia",
-     "url": "https://www.fiercebiotech.com/biotech/isomorphic-labs-raises-5b-series-c-months-after-21b-round"
     }
    ]
   },
@@ -1189,24 +1195,24 @@
    ]
   },
   "crypto": {
-   "asOf": "11:14 pm ET",
+   "asOf": "12:14 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60882.0,
-     "chg": 2.76
+     "price": 60863.0,
+     "chg": 3.06
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1700.42,
-     "chg": 2.37
+     "price": 1698.47,
+     "chg": 2.56
     }
    ]
   }
  },
- "next": "2026-11-26T07:18:00Z"
+ "next": "2026-11-26T06:18:00Z"
 }

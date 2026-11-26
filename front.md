@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Wednesday, November 25, 2026, 11:14 PM ET. Every headline links to the original reporting or primary source.
+Updated Thursday, November 26, 2026, 12:14 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -10,17 +10,18 @@ Updated Wednesday, November 25, 2026, 11:14 PM ET. Every headline links to the o
 
 ## Top stories
 
+- [Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...](https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970) (ABC (Australia))
 - [Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...](https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/) (Washington Post)
 - [FCC clears Musk's SpaceX to launch up to ONE MILLION satellites... for AI DATA CENTERS IN ORBIT](https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers) (Bloomberg)
 - [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
-- [BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Tencent GRIND TO A HALT after US chip curbs...](https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs) (Bloomberg)
 
 ## All stories (newest first)
 
+- [Huawei TEASES a next-gen AI MEMORY CHIP that could top Samsung and SK Hynix...](https://www.bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix) (Bloomberg · Company claim)
+- [Xpeng says its HUMANOID ROBOT will cost about the same as an ELECTRIC CAR...](https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev) (Bloomberg · Company claim)
 - [Anthropic team SHRINKS Claude's Riemann proof to 76,000 lines... 'No mathematician has read it through'](https://github.com/lsernau/grh-lean) (GitHub (Anthropic) · Not yet verified)
 - [SoftBank's CREDIT RISK tops 500 BASIS POINTS for the first time in about four years as AI worries mount...](https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount) (Bloomberg)
 - [SoftBank SURGES as much as 11%+ as Asia's chip stocks bounce back from the AI rout...](https://www.cnbc.com/2026/11/26/stock-markets-today-.html) (CNBC)
-- [Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...](https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970) (ABC (Australia))
 - [CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 MILLION in servers to a WHISKY seller](https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/) (CBS News)
 - [Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool) (The Record)
 - [JPMorgan sees a $450 BILLION AI debt blitz in 2027... before a plateau](https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau) (Bloomberg)
@@ -32,6 +33,7 @@ Updated Wednesday, November 25, 2026, 11:14 PM ET. Every headline links to the o
 - [S&P puts Nvidia on DOWNGRADE WATCH over the Jensen U-turn... cites 'governance risks'](https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries) (Bloomberg)
 - [Amodei HITS BACK at Axios: humans should NOT surrender free will to AI...](https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios) (Axios)
 - [Nvidia and CoreWeave CREDIT-RISK gauges hit RECORD HIGHS as Wall Street's AI fears mount...](https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount) (Bloomberg)
+- [BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Tencent GRIND TO A HALT after US chip curbs...](https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs) (Bloomberg)
 - [Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds](https://www.militarytimes.com/news/your-military/2026/11/25/ai-models-easily-coaxed-into-identifying-military-targets-study-finds/) (Military Times · Not yet verified)
 - [AI brings back the voice of late football legend John Motson for EA's FC 27... with his family's blessing](https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27) (The Guardian)
 - [Morning scare: Nasdaq 100 neared its first BEAR MARKET in more than a year as the AI trade wobbled...](https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams) (Bloomberg)
@@ -58,11 +60,9 @@ Updated Wednesday, November 25, 2026, 11:14 PM ET. Every headline links to the o
 - [Anthropic and OpenAI staff fear their new models are TOO DANGEROUS to release...](https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks) (Axios)
 - [MIT's Tegmark claims Anthropic staff talk of 'TAKING OVER THE WORLD' after a few drinks...](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/) (Novara Media)
 - [Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE](https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/) (Scientific American)
-- [Critics: Nvidia board's Huang U-TURN raises doubts it's really independent...](https://www.reuters.com/legal/transactional/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-2026-11-24/) (Reuters)
 - [Hackers used AI to raid the European Commission... and got away with personal data](https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834) (The Register)
 - [Trump bought Nvidia 28 TIMES this year... up to $16.7 MILLION, disclosures show](https://www.kadoa.com/congress/insights/trump-nvidia) (Kadoa)
 - [Anthropic SINKS BELOW its $83 IPO price... debut rally unravels](https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/) (Bloomberg)
-- [Feds BLACKLIST Megaspeed, the Nvidia chip buyer at the center of the Huang scandal...](https://www.yahoo.com/news/politics/articles/us-blacklists-megaspeed-over-suspected-010342870.html) (Yahoo News)
 - [Nvidia brings Jensen BACK as CEO two weeks after he quit... Trump says he made the call](https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia) (CNN)
 
 ## Quote of the Day
