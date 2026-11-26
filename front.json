@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-26T09:13:20Z",
- "nextUpdate": "2026-11-26T10:18:00Z",
+ "updated": "2026-11-26T10:13:25Z",
+ "nextUpdate": "2026-11-26T11:18:00Z",
  "lead": [
   {
    "headline": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...: Nasdaq, down 4.6% at its low, ends off just 0.6%... traders cite thin pre-Thanksgiving trading and a Michael Burry post saying he's almost entirely long",
@@ -45,6 +45,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "AI FAKES hit at least 25 court cases in England and Wales... invented case law and statutes that DON'T EXIST",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+   "found": "2026-11-26T10:13:18Z",
+   "section": "quirky"
+  },
   {
    "headline": "FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...",
    "source": "CNBC",
@@ -103,7 +110,7 @@
    "label": "Not yet verified",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 220
+    "comments": 235
    }
   },
   {
@@ -408,17 +415,6 @@
    "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
    "found": "2026-11-24T17:02:44Z",
    "section": "quirky"
-  },
-  {
-   "headline": "Anthropic SINKS BELOW its $83 IPO price... debut rally unravels",
-   "source": "Bloomberg",
-   "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/",
-   "found": "2026-11-24T12:17:17Z",
-   "section": "business",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 770
-   }
   }
  ],
  "quoteOfTheDay": {

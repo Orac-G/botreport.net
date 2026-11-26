@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-26T09:13:20Z",
+ "updated": "2026-11-26T10:13:25Z",
  "stories": [
+  {
+   "id": "uk-court-fakes",
+   "cat": "quirky",
+   "h": "AI FAKES hit at least 25 court cases in England and Wales... invented case law and statutes that DON'T EXIST",
+   "src": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+   "t": "2026-11-26T10:13:18Z",
+   "col": 0,
+   "card": "AI fakes hit 25+ court cases in England and Wales"
+  },
   {
    "id": "nvda-sea-halt",
    "cat": "business",
@@ -618,21 +628,6 @@
    "col": 1
   },
   {
-   "id": "ant-below-ipo",
-   "cat": "business",
-   "red": true,
-   "group": "markets",
-   "h": "Anthropic SINKS BELOW its $83 IPO price... debut rally unravels",
-   "src": "Bloomberg",
-   "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/",
-   "t": "2026-11-24T12:17:17Z",
-   "hn": {
-    "url": "https://news.ycombinator.com/item?id=50627836",
-    "comments": 770
-   },
-   "col": 1
-  },
-  {
    "id": "grh-shrink",
    "cat": "tech",
    "group": "science",
@@ -643,7 +638,7 @@
    "label": "Not yet verified",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 220
+    "comments": 235
    },
    "col": 2,
    "card": "Claude's Riemann proof cut to 76,000 lines, not yet human-read"
@@ -668,8 +663,13 @@
  "meter": {
   "level": 2,
   "score": 36,
-  "delta": -4,
+  "delta": 0,
   "moves": [
+   {
+    "d": 4,
+    "why": "AI FAKES hit at least 25 court cases in England and Wales... invent...",
+    "id": "uk-court-fakes"
+   },
    {
     "d": -1,
     "why": "Microsoft: China's SALT TYPHOON hackers now wield AI attack tool th...",
@@ -677,31 +677,24 @@
    },
    {
     "d": -1,
-    "why": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes H...",
-    "id": "dow-rebound"
-   },
-   {
-    "d": -1,
-    "why": "SOFTBANK BOUNCES BACK",
-    "id": "softbank-rebound"
+    "why": "Nvidia HALTS server shipments to FOUR Southeast Asian countries......",
+    "id": "nvda-sea-halt"
    }
   ],
   "contrib": {
-   "nvda-sea-halt": 8.0,
-   "cbs-nvda-partners": 1.2,
-   "hegseth-dpa": 0.4,
-   "gpu-glut": 0.4,
-   "leet-ai-cheat": 3.6,
-   "india-ai-cradle": 1.2,
-   "softbank-rebound": 4.0,
-   "softbank-cds": 0.4,
-   "huawei-hbm": 1.1,
-   "xpeng-humanoid": 3.2,
-   "anthropic-dalby": 0.5,
-   "artex-typhoon": 0.8,
-   "jpm-ai-debt": 0.1,
-   "waymo-eggs": 0.4,
-   "grh-shrink": 0.9
+   "uk-court-fakes": 4.4,
+   "nvda-sea-halt": 7.2,
+   "cbs-nvda-partners": 0.8,
+   "gpu-glut": 0.3,
+   "hegseth-dpa": 0.2,
+   "leet-ai-cheat": 3.2,
+   "india-ai-cradle": 1.1,
+   "huawei-hbm": 0.9,
+   "xpeng-humanoid": 2.8,
+   "softbank-rebound": 3.2,
+   "softbank-cds": 0.3,
+   "anthropic-dalby": 0.4,
+   "grh-shrink": 0.8
   },
   "lastAdjust": 0,
   "history": [
@@ -956,13 +949,17 @@
    {
     "t": "2026-11-26T09:13:20Z",
     "s": 36
+   },
+   {
+    "t": "2026-11-26T10:13:22Z",
+    "s": 36
    }
   ],
-  "at": "2026-11-26T09:13:20Z",
+  "at": "2026-11-26T10:13:22Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -4,
+   "delta": 0,
    "period": "since last reading",
    "line": [
     {
@@ -1044,9 +1041,18 @@
     {
      "t": "2026-11-26T09:13:20Z",
      "s": 36
+    },
+    {
+     "t": "2026-11-26T10:13:22Z",
+     "s": 36
     }
    ],
    "drivers": [
+    {
+     "d": 4,
+     "id": "uk-court-fakes",
+     "text": "AI fakes hit 25+ court cases in England and Wales"
+    },
     {
      "d": -4,
      "text": "Older stories cooling off"
@@ -1055,20 +1061,21 @@
   },
   "change": {
    "anthropic-dalby": -0.1,
-   "artex-typhoon": -0.7,
-   "cbs-nvda-partners": -0.3,
-   "dems-red-lights": -0.1,
-   "dow-rebound": -0.6,
+   "artex-typhoon": -0.8,
+   "cbs-nvda-partners": -0.4,
+   "gpu-glut": -0.1,
    "grh-shrink": -0.1,
    "hegseth-dpa": -0.2,
+   "huawei-hbm": -0.2,
    "india-ai-cradle": -0.1,
-   "jpm-ai-debt": -0.2,
-   "leet-ai-cheat": -0.2,
-   "nvda-sea-halt": -0.4,
-   "softbank-cds": 0.2,
-   "softbank-rebound": -0.6,
+   "jpm-ai-debt": -0.1,
+   "leet-ai-cheat": -0.4,
+   "nvda-sea-halt": -0.8,
+   "softbank-cds": -0.1,
+   "softbank-rebound": -0.8,
+   "uk-court-fakes": 4.4,
    "waymo-eggs": -0.4,
-   "xpeng-humanoid": -0.2
+   "xpeng-humanoid": -0.4
   }
  },
  "state": {
@@ -1114,12 +1121,6 @@
      "name": "Nvidia",
      "price": 149.3,
      "chg": -3.91
-    },
-    {
-     "sym": "ANT",
-     "name": "Anthropic",
-     "price": 82.79,
-     "chg": 1.08
     },
     {
      "sym": "CBRS",
@@ -1219,24 +1220,24 @@
    ]
   },
   "crypto": {
-   "asOf": "4:13 am ET",
+   "asOf": "5:13 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60774.0,
-     "chg": 2.84
+     "price": 60908.0,
+     "chg": 3.41
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1698.48,
-     "chg": 3.25
+     "price": 1702.37,
+     "chg": 3.74
     }
    ]
   }
  },
- "next": "2026-11-26T10:18:00Z"
+ "next": "2026-11-26T11:18:00Z"
 }
