@@ -91,8 +91,6 @@ a.red, a.red:visited { color: var(--siren); }
 /* The quiet version: nothing new since the last visit. Grey, no blinking dot. */
 .alert.quiet { background: transparent; border-color: var(--rule); color: var(--muted); font-weight: 400; }
 .alert.quiet .dot, .alert.quiet .x { display: none; }
-.alert { transition: opacity .6s; }
-.alert.fading { opacity: 0; }
 .alert .x { background: none; color: var(--ink); font-size: 16px; padding: 4px 6px; }
 @keyframes blink { to { visibility: hidden; } }
 /* Anything marked hidden stays hidden, even when its class sets a display (e.g. the flex alert bar). */
@@ -634,7 +632,8 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   const lc = (n) => "var(--l" + n + ")";
   // A headline turns red only while it is big (red: true in the data), under 3 hours old, and among the 5 newest such stories.
   const RED_HOURS = 3, RED_MAX = 5, SIREN_HOURS = 3, STACK_MAX = 3;
-  const KEY_BEAT = "air-beat", KEY_SEEN = "air-last-visit";
+  // KEY_SEEN holds the last update the reader saw (for counting new stories); KEY_AT holds when they were actually here.
+  const KEY_BEAT = "air-beat", KEY_SEEN = "air-last-visit", KEY_AT = "air-last-visit-at";
 
   let data = null, beat = "all", redIds = new Set(), forYou = new Set(), fresh = new Set(), stackIds = new Set();
   const store = {
@@ -643,7 +642,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   };
   beat = store.get(KEY_BEAT) || "all";
   if (!LABEL[beat]) beat = "all";
-  const lastVisit = store.get(KEY_SEEN);
+  const lastVisit = store.get(KEY_SEEN), lastAt = store.get(KEY_AT);
 
   const $ = (id) => document.getElementById(id);
   const safe = (u) => typeof u === "string" && u.startsWith("https://") ? u : null;
@@ -1032,16 +1031,25 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   // The red alert stays until dismissed; the grey "nothing new" line fades out by itself after QUIET_SECONDS.
   const QUIET_SECONDS = 8;
   let fadeTimer = null;
-  function hideAlert() { clearTimeout(fadeTimer); $("alert").hidden = true; $("alert").classList.remove("fading"); }
+  function hideAlert() { clearTimeout(fadeTimer); $("alert").getAnimations().forEach((a) => a.cancel()); $("alert").hidden = true; }
+  // Fade and fold the bar away together, closing its gap too, so the page glides up instead of jumping.
+  function foldAlert() {
+    const a = $("alert");
+    if (!a.animate || matchMedia("(prefers-reduced-motion: reduce)").matches) return hideAlert();
+    const gap = parseFloat(getComputedStyle(a.parentElement).rowGap) || 0;
+    a.style.overflow = "hidden"; a.style.boxSizing = "border-box";
+    a.animate([
+      { opacity: 1, height: a.offsetHeight + "px", marginBottom: "0px" },
+      { opacity: 0, offset: 0.4 },
+      { opacity: 0, height: "0px", paddingTop: "0px", paddingBottom: "0px", borderTopWidth: "0px", borderBottomWidth: "0px", marginBottom: -gap + "px" },
+    ], { duration: 900, easing: "ease-in-out" }).onfinish = () => { a.style.overflow = a.style.boxSizing = ""; hideAlert(); };
+  }
   function showAlert(text, withButton, quiet) {
     clearTimeout(fadeTimer);
     $("alert").hidden = false;
-    $("alert").classList.remove("fading");
+    $("alert").getAnimations().forEach((a) => a.cancel());
     $("alert").classList.toggle("quiet", !!quiet);
-    if (quiet) fadeTimer = setTimeout(() => {
-      $("alert").classList.add("fading");
-      fadeTimer = setTimeout(hideAlert, 700);
-    }, QUIET_SECONDS * 1000);
+    if (quiet) fadeTimer = setTimeout(foldAlert, QUIET_SECONDS * 1000);
     $("alert-text").textContent = text;
     $("alert-btn").hidden = !withButton;
   }
@@ -1070,7 +1078,9 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
           else {
             const due = new Date(data.next || new Date(data.updated).getTime() + 60 * 6e4);
             const clock = (d) => et(d, { hour: "numeric", minute: "2-digit" }).toLowerCase();
-            showAlert("Nothing new since your last visit (" + clock(since) + " ET). Next check about " + clock(due) + ".", false, true);
+            const now = new Date(), yest = new Date(now - 864e5), at = lastAt && new Date(lastAt);
+            const when = !at || isNaN(at) ? "" : " (" + (sameDay(at, now) ? "" : sameDay(at, yest) ? "yesterday, " : et(at, { month: "short", day: "numeric" }) + ", ") + clock(at) + " ET)";
+            showAlert("Nothing new since your last visit" + when + ". Next check about " + clock(due) + " ET.", false, true);
           }
         } else {
           showAlert("New here? The wire is checked every hour, every day, around the clock. Come back and we'll flag what you missed.", false);
@@ -1099,7 +1109,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   const SEEN_SECONDS = 30;
   let shownAt = document.visibilityState === "visible" ? Date.now() : null;
   const remember = () => {
-    if (data && shownAt && Date.now() - shownAt >= SEEN_SECONDS * 1000) store.set(KEY_SEEN, data.updated);
+    if (data && shownAt && Date.now() - shownAt >= SEEN_SECONDS * 1000) { store.set(KEY_SEEN, data.updated); store.set(KEY_AT, new Date().toISOString()); }
   };
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "hidden") { remember(); shownAt = null; } else shownAt = Date.now();
