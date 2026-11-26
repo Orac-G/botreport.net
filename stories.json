@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:14:20Z",
+ "updated": "2026-11-26T23:13:59Z",
  "stories": [
   {
    "id": "omega-94",
@@ -22,7 +22,7 @@
    "t": "2026-11-26T21:11:43Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50651117",
-    "comments": 253
+    "comments": 259
    },
    "col": 1,
    "card": "OpenAI 'bug' fix: GPT-6.2 Astra limits hit 40% FASTER"
@@ -419,18 +419,6 @@
    }
   },
   {
-   "id": "nasdaq-bear",
-   "cat": "business",
-   "red": true,
-   "h": "Morning scare: Nasdaq 100 neared its first BEAR MARKET in more than a year as the AI trade wobbled...",
-   "src": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams",
-   "t": "2026-11-25T15:12:49Z",
-   "saga": "markets",
-   "card": "Morning scare: Nasdaq 100 neared its first bear market in a year",
-   "col": 1
-  },
-  {
    "id": "spacex-starmind",
    "cat": "tech",
    "red": true,
@@ -462,7 +450,7 @@
    "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
    "t": "2026-11-25T16:12:50Z",
    "card": "Chip curbs FREEZE billions in China-linked AI loans",
-   "col": 2
+   "col": 1
   },
   {
    "id": "credit-fear",
@@ -593,18 +581,6 @@
    "shout": "DOJ: OTHERS DIVERTED CHIPS"
   },
   {
-   "id": "huang-senate",
-   "cat": "politics",
-   "red": true,
-   "h": "Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness",
-   "src": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
-   "t": "2026-11-25T01:11:00Z",
-   "group": "huang",
-   "card": "Senate hauls Jensen in for a public grilling Dec. 3",
-   "col": 0
-  },
-  {
    "id": "grh-shrink",
    "cat": "tech",
    "group": "science",
@@ -615,7 +591,7 @@
    "label": "Not yet verified",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 341
+    "comments": 345
    },
    "col": 2,
    "card": "Claude's Riemann proof cut to 76,000 lines, not yet human-read"
@@ -639,34 +615,22 @@
  },
  "meter": {
   "level": 2,
-  "score": 27,
+  "score": 25,
   "delta": -2,
-  "moves": [
-   {
-    "d": 2,
-    "why": "Catching up: OpenAI preprint claims matrix math's speed limit is EX...",
-    "id": "omega-94"
-   },
-   {
-    "d": -1,
-    "why": "BoE's Bailey: UNRELEASED AI models raise ENCRYPTION concerns for ba...",
-    "id": "boe-bailey-crypto"
-   }
-  ],
+  "moves": [],
   "contrib": {
    "omega-94": 1.6,
-   "boe-bailey-crypto": 0.6,
-   "gpt62-limits": 1.6,
-   "dennys-plaque": 3.0,
+   "boe-bailey-crypto": 0.5,
+   "gpt62-limits": 1.5,
+   "dennys-plaque": 2.7,
    "pentagon-dpa-denial": 0.7,
-   "aaronson-crypto": 1.3,
-   "ai-shop-fakes": 3.9,
-   "boe-fsr": 1.2,
-   "sap-cuts": 1.0,
-   "spain-pp-morocco": 0.7,
-   "banks-ai-debt": 0.6,
-   "korea-exam-cam": 0.9,
-   "meta-muse-fca": 0.1
+   "aaronson-crypto": 1.2,
+   "ai-shop-fakes": 3.6,
+   "boe-fsr": 1.0,
+   "sap-cuts": 0.9,
+   "spain-pp-morocco": 0.6,
+   "banks-ai-debt": 0.4,
+   "korea-exam-cam": 0.4
   },
   "lastAdjust": 0,
   "history": [
@@ -973,13 +937,17 @@
    {
     "t": "2026-11-26T22:14:16Z",
     "s": 27
+   },
+   {
+    "t": "2026-11-26T23:13:59Z",
+    "s": 25
    }
   ],
-  "at": "2026-11-26T22:14:16Z",
+  "at": "2026-11-26T23:13:59Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -33,
+   "delta": -34,
    "period": "in 24 hours",
    "line": [
     {
@@ -1113,6 +1081,10 @@
     {
      "t": "2026-11-26T22:14:16Z",
      "s": 27
+    },
+    {
+     "t": "2026-11-26T23:13:59Z",
+     "s": 25
     }
    ],
    "drivers": [
@@ -1127,25 +1099,23 @@
      "text": "Denny's puts Jensen's plaque back after his return"
     },
     {
-     "d": -40,
+     "d": -41,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
    "aaronson-crypto": -0.1,
-   "ai-shop-fakes": -0.4,
-   "banks-ai-debt": -0.1,
-   "boe-bailey-crypto": -0.7,
-   "boe-fsr": -0.1,
-   "dennys-plaque": -0.4,
-   "korea-exam-cam": -0.4,
-   "meta-muse-fca": -0.2,
-   "omega-94": 1.6,
-   "pentagon-dpa-denial": -0.1,
+   "ai-shop-fakes": -0.3,
+   "banks-ai-debt": -0.2,
+   "boe-bailey-crypto": -0.1,
+   "boe-fsr": -0.2,
+   "dennys-plaque": -0.3,
+   "gpt62-limits": -0.1,
+   "korea-exam-cam": -0.5,
+   "meta-muse-fca": -0.1,
    "sap-cuts": -0.1,
-   "spain-pp-morocco": -0.2,
-   "uk-court-fakes": -0.4
+   "spain-pp-morocco": -0.1
   }
  },
  "state": {
@@ -1191,6 +1161,12 @@
      "name": "Nvidia",
      "price": 149.3,
      "chg": -3.91
+    },
+    {
+     "sym": "ANT",
+     "name": "Anthropic",
+     "price": 82.79,
+     "chg": 1.08
     },
     {
      "sym": "CBRS",
@@ -1290,24 +1266,24 @@
    ]
   },
   "crypto": {
-   "asOf": "5:14 pm ET",
+   "asOf": "6:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60501.0,
-     "chg": 0.76
+     "price": 60434.0,
+     "chg": 0.51
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1696.46,
-     "chg": 0.86
+     "price": 1687.88,
+     "chg": 0.13
     }
    ]
   }
  },
- "next": "2026-11-26T23:18:00Z"
+ "next": "2026-11-27T00:18:00Z"
 }

@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-26T22:14:20Z",
- "nextUpdate": "2026-11-26T23:18:00Z",
+ "updated": "2026-11-26T23:13:59Z",
+ "nextUpdate": "2026-11-27T00:18:00Z",
  "lead": [
   {
    "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...: FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
@@ -66,7 +66,7 @@
    "section": "tech",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50651117",
-    "comments": 253
+    "comments": 259
    }
   },
   {
@@ -171,7 +171,7 @@
    "label": "Not yet verified",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 341
+    "comments": 345
    }
   },
   {
@@ -323,13 +323,6 @@
    "section": "quirky"
   },
   {
-   "headline": "Morning scare: Nasdaq 100 neared its first BEAR MARKET in more than a year as the AI trade wobbled...",
-   "source": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-25/nasdaq-100-set-for-bear-market-as-ai-trade-unravels-at-the-seams",
-   "found": "2026-11-25T15:12:49Z",
-   "section": "business"
-  },
-  {
    "headline": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...",
    "source": "New York Times",
    "url": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
@@ -381,13 +374,6 @@
    "correction": "An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries."
   },
   {
-   "headline": "Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
-   "found": "2026-11-25T01:11:00Z",
-   "section": "politics"
-  },
-  {
    "headline": "Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE",
    "source": "Scientific American",
    "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
@@ -401,7 +387,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 27,
+  "score": 25,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
