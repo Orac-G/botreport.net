@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Thursday, November 26, 2026, 5:13 AM ET. Every headline links to the original reporting or primary source.
+Updated Thursday, November 26, 2026, 6:13 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,7 @@ Updated Thursday, November 26, 2026, 5:13 AM ET. Every headline links to the ori
 
 ## All stories (newest first)
 
+- [Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/) (Wired)
 - [AI FAKES hit at least 25 court cases in England and Wales... invented case law and statutes that DON'T EXIST](https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026) (The Guardian)
 - [FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...](https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html) (CNBC)
 - [Nvidia HALTS server shipments to FOUR Southeast Asian countries... FT says](https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370) (Financial Times · Not yet verified)
@@ -63,7 +64,6 @@ Updated Thursday, November 26, 2026, 5:13 AM ET. Every headline links to the ori
 - [OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) (OpenAI · Company claim)
 - [New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping](https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot) (Office of the Governor of New York)
 - [Anthropic and OpenAI staff fear their new models are TOO DANGEROUS to release...](https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks) (Axios)
-- [MIT's Tegmark claims Anthropic staff talk of 'TAKING OVER THE WORLD' after a few drinks...](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/) (Novara Media)
 - [Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE](https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/) (Scientific American)
 
 ## Quote of the Day
@@ -71,6 +71,6 @@ Updated Thursday, November 26, 2026, 5:13 AM ET. Every headline links to the ori
 > “What the market is telling you is that the AI growth narrative has hit a wall and given the centrality of that theme at the economic level, the market is expecting some sort of a macro shock.”
 > — Venu Krishna, head of U.S. equity strategy at Barclays, on the AI sell-off that hit Nvidia ([source](https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html))
 
-Skynet-o-Meter: 36 out of 100.
+Skynet-o-Meter: 34 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T10:13:25Z",
+ "updated": "2026-11-26T11:13:12Z",
  "stories": [
+  {
+   "id": "meta-muse-fca",
+   "cat": "politics",
+   "group": "muse",
+   "h": "Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...",
+   "src": "Wired",
+   "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+   "t": "2026-11-26T11:11:44Z",
+   "card": "UK watchdog: Meta refused to let it test Muse AI agent",
+   "col": 2
+  },
   {
    "id": "uk-court-fakes",
    "cat": "quirky",
@@ -381,7 +392,8 @@
    "src": "Fortune",
    "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/",
    "t": "2026-11-25T12:13:00Z",
-   "col": 2
+   "col": 2,
+   "group": "muse"
   },
   {
    "id": "deloitte-wa",
@@ -614,20 +626,6 @@
    "col": 1
   },
   {
-   "id": "tegmark-takeover",
-   "cat": "quirky",
-   "h": "MIT's Tegmark claims Anthropic staff talk of 'TAKING OVER THE WORLD' after a few drinks...",
-   "src": "Novara Media",
-   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
-   "t": "2026-11-24T18:14:00Z",
-   "hn": {
-    "url": "https://news.ycombinator.com/item?id=50631210",
-    "comments": 97
-   },
-   "group": "doom",
-   "col": 1
-  },
-  {
    "id": "grh-shrink",
    "cat": "tech",
    "group": "science",
@@ -638,7 +636,7 @@
    "label": "Not yet verified",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 235
+    "comments": 253
    },
    "col": 2,
    "card": "Claude's Riemann proof cut to 76,000 lines, not yet human-read"
@@ -662,18 +660,18 @@
  },
  "meter": {
   "level": 2,
-  "score": 36,
-  "delta": 0,
+  "score": 34,
+  "delta": -2,
   "moves": [
    {
-    "d": 4,
-    "why": "AI FAKES hit at least 25 court cases in England and Wales... invent...",
-    "id": "uk-court-fakes"
+    "d": 2,
+    "why": "Meta REFUSED to let UK finance watchdog test its Muse AI agent befo...",
+    "id": "meta-muse-fca"
    },
    {
     "d": -1,
-    "why": "Microsoft: China's SALT TYPHOON hackers now wield AI attack tool th...",
-    "id": "artex-typhoon"
+    "why": "SOFTBANK BOUNCES BACK",
+    "id": "softbank-rebound"
    },
    {
     "d": -1,
@@ -682,19 +680,19 @@
    }
   ],
   "contrib": {
-   "uk-court-fakes": 4.4,
-   "nvda-sea-halt": 7.2,
-   "cbs-nvda-partners": 0.8,
-   "gpu-glut": 0.3,
-   "hegseth-dpa": 0.2,
-   "leet-ai-cheat": 3.2,
-   "india-ai-cradle": 1.1,
-   "huawei-hbm": 0.9,
-   "xpeng-humanoid": 2.8,
-   "softbank-rebound": 3.2,
+   "meta-muse-fca": 1.5,
+   "uk-court-fakes": 4.5,
+   "nvda-sea-halt": 6.5,
+   "gpu-glut": 0.6,
+   "cbs-nvda-partners": 0.2,
+   "leet-ai-cheat": 2.9,
+   "india-ai-cradle": 1.0,
+   "huawei-hbm": 0.8,
+   "xpeng-humanoid": 2.4,
+   "softbank-rebound": 2.4,
    "softbank-cds": 0.3,
-   "anthropic-dalby": 0.4,
-   "grh-shrink": 0.8
+   "anthropic-dalby": 0.3,
+   "grh-shrink": 0.7
   },
   "lastAdjust": 0,
   "history": [
@@ -953,13 +951,17 @@
    {
     "t": "2026-11-26T10:13:22Z",
     "s": 36
+   },
+   {
+    "t": "2026-11-26T11:13:12Z",
+    "s": 34
    }
   ],
-  "at": "2026-11-26T10:13:22Z",
+  "at": "2026-11-26T11:13:12Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 0,
+   "delta": -2,
    "period": "since last reading",
    "line": [
     {
@@ -1045,13 +1047,17 @@
     {
      "t": "2026-11-26T10:13:22Z",
      "s": 36
+    },
+    {
+     "t": "2026-11-26T11:13:12Z",
+     "s": 34
     }
    ],
    "drivers": [
     {
-     "d": 4,
-     "id": "uk-court-fakes",
-     "text": "AI fakes hit 25+ court cases in England and Wales"
+     "d": 2,
+     "id": "meta-muse-fca",
+     "text": "UK watchdog: Meta refused to let it test Muse AI agent"
     },
     {
      "d": -4,
@@ -1061,20 +1067,17 @@
   },
   "change": {
    "anthropic-dalby": -0.1,
-   "artex-typhoon": -0.8,
-   "cbs-nvda-partners": -0.4,
-   "gpu-glut": -0.1,
+   "cbs-nvda-partners": -0.6,
+   "gpu-glut": 0.3,
    "grh-shrink": -0.1,
    "hegseth-dpa": -0.2,
-   "huawei-hbm": -0.2,
+   "huawei-hbm": -0.1,
    "india-ai-cradle": -0.1,
-   "jpm-ai-debt": -0.1,
-   "leet-ai-cheat": -0.4,
-   "nvda-sea-halt": -0.8,
-   "softbank-cds": -0.1,
+   "leet-ai-cheat": -0.3,
+   "meta-muse-fca": 1.5,
+   "nvda-sea-halt": -0.7,
    "softbank-rebound": -0.8,
-   "uk-court-fakes": 4.4,
-   "waymo-eggs": -0.4,
+   "uk-court-fakes": 0.1,
    "xpeng-humanoid": -0.4
   }
  },
@@ -1121,18 +1124,6 @@
      "name": "Nvidia",
      "price": 149.3,
      "chg": -3.91
-    },
-    {
-     "sym": "CBRS",
-     "name": "Cerebras",
-     "price": 89.68,
-     "chg": 1.01
-    },
-    {
-     "sym": "CRWV",
-     "name": "CoreWeave",
-     "price": 42.57,
-     "chg": -0.08
     },
     {
      "sym": "NBIS",
@@ -1220,24 +1211,24 @@
    ]
   },
   "crypto": {
-   "asOf": "5:13 am ET",
+   "asOf": "6:13 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60908.0,
-     "chg": 3.41
+     "price": 60481.0,
+     "chg": 2.94
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1702.37,
-     "chg": 3.74
+     "price": 1694.33,
+     "chg": 3.01
     }
    ]
   }
  },
- "next": "2026-11-26T11:18:00Z"
+ "next": "2026-11-26T12:18:00Z"
 }

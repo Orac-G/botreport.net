@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-26T10:13:25Z",
- "nextUpdate": "2026-11-26T11:18:00Z",
+ "updated": "2026-11-26T11:13:12Z",
+ "nextUpdate": "2026-11-26T12:18:00Z",
  "lead": [
   {
    "headline": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...: Nasdaq, down 4.6% at its low, ends off just 0.6%... traders cite thin pre-Thanksgiving trading and a Michael Burry post saying he's almost entirely long",
@@ -45,6 +45,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...",
+   "source": "Wired",
+   "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+   "found": "2026-11-26T11:11:44Z",
+   "section": "politics"
+  },
   {
    "headline": "AI FAKES hit at least 25 court cases in England and Wales... invented case law and statutes that DON'T EXIST",
    "source": "The Guardian",
@@ -110,7 +117,7 @@
    "label": "Not yet verified",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 235
+    "comments": 253
    }
   },
   {
@@ -399,17 +406,6 @@
    }
   },
   {
-   "headline": "MIT's Tegmark claims Anthropic staff talk of 'TAKING OVER THE WORLD' after a few drinks...",
-   "source": "Novara Media",
-   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
-   "found": "2026-11-24T18:14:00Z",
-   "section": "quirky",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50631210",
-    "comments": 97
-   }
-  },
-  {
    "headline": "Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE",
    "source": "Scientific American",
    "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
@@ -423,7 +419,7 @@
   "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
  },
  "skynetOMeter": {
-  "score": 36,
+  "score": 34,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
