@@ -850,7 +850,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
     };
     const y = (s) => H - (s / 100) * H;
     for (let i = 0; i < 5; i++) {  // the five zones, labeled, as the chart's scale
-      add("rect", { x: 0, y: y((i + 1) * 20), width: W, height: H / 5, style: "fill: var(--l" + (i + 1) + "); opacity: .16" });
+      add("rect", { x: 0, y: y((i + 1) * 20), width: W, height: H / 5, style: "fill: var(--l" + (i + 1) + "); opacity: .26" });
       add("text", { x: 6, y: y((i + 1) * 20) + 11, style: "fill: var(--muted); font: 700 8px var(--f-wire); letter-spacing: .08em" }, LEVELS[i + 1].name.toUpperCase());
     }
     // A rolling 24-hour window ending at the latest reading.
@@ -882,7 +882,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
     for (let i = 0; i < 5; i++) {
       const [x1, y1] = pt(i * 20 + 0.9, R), [x2, y2] = pt((i + 1) * 20 - 0.9, R);
       add("path", { d: "M" + x1.toFixed(2) + " " + y1.toFixed(2) + " A" + R + " " + R + " 0 0 1 " + x2.toFixed(2) + " " + y2.toFixed(2),
-        style: "fill: none; stroke: var(--l" + (i + 1) + "); stroke-width: 16; opacity: " + (lvl && lvl !== i + 1 ? .45 : 1) });
+        style: "fill: none; stroke: var(--l" + (i + 1) + "); stroke-width: 16; opacity: " + (lvl && lvl !== i + 1 ? .7 : 1) });
     }
     [[0, "0"], [100, "100"]].forEach(([s, t]) => { const [x, y] = pt(s, R); add("text", { x: x, y: y + 16, "text-anchor": "middle", style: "fill: var(--muted); font: 9px var(--f-wire)" }, t); });
     if (score == null) { add("text", { x: CX, y: 124, "text-anchor": "middle", style: "fill: var(--muted); font: 700 30px var(--f-wire)" }, "—"); return; }
