@@ -88,6 +88,12 @@ a.red, a.red:visited { color: var(--siren); }
   font: 700 12px/1 var(--f-wire); letter-spacing: .08em; text-transform: uppercase;
   background: var(--siren); color: var(--bg); border: 0; padding: 7px 10px; cursor: pointer;
 }
+/* The quiet version: nothing new since the last visit. Grey, no blinking dot. */
+.alert.quiet { background: transparent; border-color: var(--rule); color: var(--muted); font-weight: 400; }
+.alert.quiet .dot, .alert.quiet .x { display: none; }
+.alert { transition: opacity .6s; }
+.alert.fading { opacity: 0; }
+.alert .x { background: none; color: var(--ink); font-size: 16px; padding: 4px 6px; }
 @keyframes blink { to { visibility: hidden; } }
 /* Anything marked hidden stays hidden, even when its class sets a display (e.g. the flex alert bar). */
 [hidden] { display: none !important; }
@@ -368,6 +374,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
     <span class="dot" aria-hidden="true"></span>
     <span id="alert-text"></span>
     <button type="button" id="alert-btn" hidden>Show them</button>
+    <button type="button" class="x" id="alert-x" aria-label="Dismiss">×</button>
   </div>
 
   <ul class="top" id="top"></ul>
@@ -1022,8 +1029,19 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
     renderCols();
   }
 
-  function showAlert(text, withButton) {
+  // The red alert stays until dismissed; the grey "nothing new" line fades out by itself after QUIET_SECONDS.
+  const QUIET_SECONDS = 8;
+  let fadeTimer = null;
+  function hideAlert() { clearTimeout(fadeTimer); $("alert").hidden = true; $("alert").classList.remove("fading"); }
+  function showAlert(text, withButton, quiet) {
+    clearTimeout(fadeTimer);
     $("alert").hidden = false;
+    $("alert").classList.remove("fading");
+    $("alert").classList.toggle("quiet", !!quiet);
+    if (quiet) fadeTimer = setTimeout(() => {
+      $("alert").classList.add("fading");
+      fadeTimer = setTimeout(hideAlert, 700);
+    }, QUIET_SECONDS * 1000);
     $("alert-text").textContent = text;
     $("alert-btn").hidden = !withButton;
   }
@@ -1049,6 +1067,11 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
           const since = new Date(lastVisit);
           data.stories.forEach((s) => { if (new Date(s.t) > since) forYou.add(s.id); });
           if (forYou.size) showAlert(forYou.size + (forYou.size === 1 ? " new story" : " new stories") + " since your last visit", true);
+          else {
+            const due = new Date(data.next || new Date(data.updated).getTime() + 60 * 6e4);
+            const clock = (d) => et(d, { hour: "numeric", minute: "2-digit" }).toLowerCase();
+            showAlert("Nothing new since your last visit (" + clock(since) + " ET). Next check about " + clock(due) + ".", false, true);
+          }
         } else {
           showAlert("New here? The wire is checked every hour, every day, around the clock. Come back and we'll flag what you missed.", false);
         }
@@ -1065,13 +1088,22 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
     }
   }
 
+  $("alert-x").addEventListener("click", hideAlert);
   $("alert-btn").addEventListener("click", () => {
+    hideAlert();
     beat = "new"; renderFilters(); renderCols();
     $("filters").scrollIntoView({ behavior: "smooth", block: "start" });
   });
   // Remember this visit when the reader leaves, so next time we can flag what's new.
-  const remember = () => { if (data) store.set(KEY_SEEN, data.updated); };
-  document.addEventListener("visibilitychange", () => { if (document.visibilityState === "hidden") remember(); });
+  // A glance doesn't count: the page must have been on screen for SEEN_SECONDS in a row.
+  const SEEN_SECONDS = 30;
+  let shownAt = document.visibilityState === "visible" ? Date.now() : null;
+  const remember = () => {
+    if (data && shownAt && Date.now() - shownAt >= SEEN_SECONDS * 1000) store.set(KEY_SEEN, data.updated);
+  };
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "hidden") { remember(); shownAt = null; } else shownAt = Date.now();
+  });
   window.addEventListener("pagehide", remember);
 
   // The legend of all five levels.
