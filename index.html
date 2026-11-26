@@ -303,6 +303,8 @@ a.red, a.red:visited { color: var(--siren); }
 .filters button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
 .filters button .n { color: var(--siren); }
 
+.latest { margin: 0 0 -4px; text-align: center; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+.newtag { display: inline-block; margin-right: 6px; padding: 1px 4px 0; border-radius: 2px; background: var(--siren); color: var(--bg); font-size: 10px; font-weight: 700; letter-spacing: .08em; line-height: 1.4; vertical-align: 2px; }
 .cols { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0 28px; }
 .col { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 16px; min-width: 0; }
 .col + .col { border-left: 1px solid var(--rule); padding-left: 28px; }
@@ -450,6 +452,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   <nav class="filters" id="filters" aria-label="Filter stories"></nav>
 
   <p class="status" id="status" hidden></p>
+  <p class="latest" id="latest">Latest first <span aria-hidden="true">↓</span></p>
   <section id="wire-static" aria-label="Today's headlines">
 <h2>Today's AI headlines</h2>
 <ul>
@@ -686,6 +689,9 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
     }
     return span;
   }
+  // NEW marks the stories added in the latest update (runs are hourly, so: about the last hour).
+  const NEW_MINUTES = 45;
+  const isNew = (s) => data && (new Date(data.updated) - new Date(s.t)) / 6e4 <= NEW_MINUTES;
   function age(s) {
     const mins = Math.max(0, Math.round((Date.now() - new Date(s.t)) / 6e4));
     if (mins < 60) return mins <= 1 ? "Just in" : mins + " min ago";
@@ -716,7 +722,9 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
     const src = sourceLine(s, "src");
     if (src.firstChild) src.firstChild.after(" · " + age(s)); else src.prepend(age(s));
     if (forYou.has(s.id)) { const y = document.createElement("span"); y.className = "you"; y.textContent = "● New for you"; src.append(" · ", y); }
-    li.append(link(s), src);
+    const a = link(s);
+    if (isNew(s)) { const n = document.createElement("span"); n.className = "newtag"; n.textContent = "NEW"; a.prepend(n); }
+    li.append(a, src);
     return li;
   }
 
