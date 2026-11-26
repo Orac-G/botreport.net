@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Thursday, November 26, 2026, 10:13 AM ET. Every headline links to the original reporting or primary source.
+Updated Thursday, November 26, 2026, 11:13 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -10,8 +10,8 @@ Updated Thursday, November 26, 2026, 10:13 AM ET. Every headline links to the or
 
 ## Top stories
 
+- [Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/) (Wired)
 - [Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...](https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970) (ABC (Australia))
-- [Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...](https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/) (Washington Post)
 - [FCC clears Musk's SpaceX to launch up to ONE MILLION satellites... for AI DATA CENTERS IN ORBIT](https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers) (Bloomberg)
 - [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
 
@@ -20,7 +20,6 @@ Updated Thursday, November 26, 2026, 10:13 AM ET. Every headline links to the or
 - [Spain's opposition uses AI to swap PM Sánchez's Spain jersey for a MOROCCO shirt... and comes under fire](https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt) (The Guardian)
 - [Banks look to DUMP AI DEBT: Citi and JPMorgan shopping AI loan portfolios to investors, sources say...](https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt) (Semafor)
 - [Police seek ARREST of Korean exam ace: CAMERA in correction tape, AI-fed answers...](https://www.koreaherald.com/article/10950986) (Korea Herald)
-- [Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/) (Wired)
 - [AI FAKES hit at least 25 court cases in England and Wales... invented case law and statutes that DON'T EXIST](https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026) (The Guardian)
 - [FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...](https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html) (CNBC)
 - [Police RAID late perfect scorer's home in Korea's AI CHEATING probe...](https://www.koreaherald.com/article/10950541) (Korea Herald)
@@ -31,6 +30,7 @@ Updated Thursday, November 26, 2026, 10:13 AM ET. Every headline links to the or
 - [SoftBank's CREDIT RISK tops 500 BASIS POINTS for the first time in about four years as AI worries mount...](https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount) (Bloomberg)
 - [SoftBank SURGES as much as 11%+ as Asia's chip stocks bounce back from the AI rout...](https://www.cnbc.com/2026/11/26/stock-markets-today-.html) (CNBC)
 - [CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 MILLION in servers to a WHISKY seller](https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/) (CBS News)
+- [Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...](https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/) (Washington Post)
 - [Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool) (The Record)
 - [JPMorgan sees a $450 BILLION AI debt blitz in 2027... before a plateau](https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau) (Bloomberg)
 - [Man TRAPPED Waymo robotaxis with orange cones in Denver... then PELTED them with eggs, police say](https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html) (New York Times)
@@ -49,7 +49,6 @@ Updated Thursday, November 26, 2026, 10:13 AM ET. Every headline links to the or
 - [SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...](https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html) (New York Times)
 - [Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...](https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content) (South China Morning Post)
 - [Amazon and Meta talk TRUCE in AI shopping-bot war... Zuck and Jassy must sign off, sources say](https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/) (Fortune)
-- [Australian state SUSPENDS Deloitte over AI-riddled report... and wants its fee BACK](https://www.abc.net.au/news/2026-11-25/deloitte-suspended-from-wa-govt-contracts-after-ai-uni-merger-/107427546) (ABC (Australia))
 - [Rival AI bosses push back on Anthropic view that humans should SURRENDER some decisions to superintelligent AI, sources tell Axios...](https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will) (Axios)
 - [Korea's chip-heavy stock market has lost NEARLY HALF its value in five months... AI doubts blamed](https://www.koreaherald.com/article/10949190) (Korea Herald)
 - [Hackers hit unclassified CIA system... some sources point to a CHINESE AI TOOL](https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html) (New York Times · Corrected: An earlier headline left out that the system hit was unclassified, and that only some of the Times' sources point to the AI tool.)
@@ -72,6 +71,6 @@ Updated Thursday, November 26, 2026, 10:13 AM ET. Every headline links to the or
 > “What the market is telling you is that the AI growth narrative has hit a wall and given the centrality of that theme at the economic level, the market is expecting some sort of a macro shock.”
 > — Venu Krishna, head of U.S. equity strategy at Barclays, on the AI sell-off that hit Nvidia ([source](https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html))
 
-Skynet-o-Meter: 29 out of 100.
+Skynet-o-Meter: 26 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-26T15:13:59Z",
- "nextUpdate": "2026-11-26T16:18:00Z",
+ "updated": "2026-11-26T16:13:24Z",
+ "nextUpdate": "2026-11-26T17:18:00Z",
  "lead": [
   {
    "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...: FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
@@ -20,18 +20,18 @@
  ],
  "topLinks": [
   {
+   "headline": "Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...",
+   "source": "Wired",
+   "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+   "found": "2026-11-26T11:11:44Z",
+   "section": "politics"
+  },
+  {
    "headline": "Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...",
    "source": "ABC (Australia)",
    "url": "https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970",
    "found": "2026-11-26T01:11:56Z",
    "section": "business"
-  },
-  {
-   "headline": "Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...",
-   "source": "Washington Post",
-   "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/",
-   "found": "2026-11-25T23:11:56Z",
-   "section": "politics"
   },
   {
    "headline": "FCC clears Musk's SpaceX to launch up to ONE MILLION satellites... for AI DATA CENTERS IN ORBIT",
@@ -69,13 +69,6 @@
    "url": "https://www.koreaherald.com/article/10950986",
    "found": "2026-11-26T12:13:35Z",
    "section": "quirky"
-  },
-  {
-   "headline": "Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...",
-   "source": "Wired",
-   "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
-   "found": "2026-11-26T11:11:44Z",
-   "section": "politics"
   },
   {
    "headline": "AI FAKES hit at least 25 court cases in England and Wales... invented case law and statutes that DON'T EXIST",
@@ -130,7 +123,7 @@
    "label": "Not yet verified",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 274
+    "comments": 318
    }
   },
   {
@@ -152,6 +145,13 @@
    "source": "CBS News",
    "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/",
    "found": "2026-11-26T00:13:58Z",
+   "section": "politics"
+  },
+  {
+   "headline": "Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...",
+   "source": "Washington Post",
+   "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/",
+   "found": "2026-11-25T23:11:56Z",
    "section": "politics"
   },
   {
@@ -280,13 +280,6 @@
    "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/",
    "found": "2026-11-25T12:13:00Z",
    "section": "business"
-  },
-  {
-   "headline": "Australian state SUSPENDS Deloitte over AI-riddled report... and wants its fee BACK",
-   "source": "ABC (Australia)",
-   "url": "https://www.abc.net.au/news/2026-11-25/deloitte-suspended-from-wa-govt-contracts-after-ai-uni-merger-/107427546",
-   "found": "2026-11-25T12:13:00Z",
-   "section": "quirky"
   },
   {
    "headline": "Rival AI bosses push back on Anthropic view that humans should SURRENDER some decisions to superintelligent AI, sources tell Axios...",
@@ -419,7 +412,7 @@
   "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
  },
  "skynetOMeter": {
-  "score": 29,
+  "score": 26,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

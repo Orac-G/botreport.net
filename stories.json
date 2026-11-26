@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:13:59Z",
+ "updated": "2026-11-26T16:13:24Z",
  "stories": [
   {
    "id": "spain-pp-morocco",
@@ -43,7 +43,7 @@
    "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
    "t": "2026-11-26T11:11:44Z",
    "card": "UK watchdog: Meta refused to let it test Muse AI agent",
-   "col": 2
+   "top": true
   },
   {
    "id": "uk-court-fakes",
@@ -183,13 +183,13 @@
    "id": "hegseth-dpa",
    "cat": "politics",
    "red": true,
-   "top": true,
    "h": "Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...",
    "src": "Washington Post",
    "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/",
    "t": "2026-11-25T23:11:56Z",
    "group": "huang-probe",
-   "card": "WaPo: Pentagon floated WARTIME LAW to reinstate Jensen"
+   "card": "WaPo: Pentagon floated WARTIME LAW to reinstate Jensen",
+   "col": 0
   },
   {
    "id": "anthropic-dalby",
@@ -430,16 +430,6 @@
    "group": "muse"
   },
   {
-   "id": "deloitte-wa",
-   "cat": "quirky",
-   "h": "Australian state SUSPENDS Deloitte over AI-riddled report... and wants its fee BACK",
-   "src": "ABC (Australia)",
-   "url": "https://www.abc.net.au/news/2026-11-25/deloitte-suspended-from-wa-govt-contracts-after-ai-uni-merger-/107427546",
-   "t": "2026-11-25T12:13:00Z",
-   "col": 2,
-   "card": "Australian state suspends Deloitte over AI-riddled report"
-  },
-  {
    "id": "anthropic-agency",
    "cat": "tech",
    "red": true,
@@ -645,7 +635,7 @@
    "label": "Not yet verified",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 274
+    "comments": 318
    },
    "col": 2,
    "card": "Claude's Riemann proof cut to 76,000 lines, not yet human-read"
@@ -669,14 +659,9 @@
  },
  "meter": {
   "level": 2,
-  "score": 29,
-  "delta": -2,
+  "score": 26,
+  "delta": -3,
   "moves": [
-   {
-    "d": 2,
-    "why": "Spain's opposition uses AI to swap PM S\u00e1nchez's Spain jersey for a...",
-    "id": "spain-pp-morocco"
-   },
    {
     "d": -1,
     "why": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens...",
@@ -685,17 +670,16 @@
   ],
   "contrib": {
    "spain-pp-morocco": 1.6,
-   "banks-ai-debt": 1.6,
-   "korea-exam-cam": 3.9,
-   "leet-ai-cheat": 0.6,
-   "meta-muse-fca": 1.1,
-   "uk-court-fakes": 3.0,
-   "nvda-sea-halt": 5.1,
-   "gpu-glut": 0.7,
-   "india-ai-cradle": 0.4,
-   "huawei-hbm": 0.3,
-   "xpeng-humanoid": 0.8,
-   "grh-shrink": 0.1
+   "banks-ai-debt": 1.5,
+   "korea-exam-cam": 3.5,
+   "leet-ai-cheat": 0.4,
+   "meta-muse-fca": 1.0,
+   "uk-court-fakes": 2.7,
+   "nvda-sea-halt": 4.0,
+   "gpu-glut": 0.6,
+   "india-ai-cradle": 0.3,
+   "huawei-hbm": 0.1,
+   "xpeng-humanoid": 0.4
   },
   "lastAdjust": 0,
   "history": [
@@ -974,13 +958,17 @@
    {
     "t": "2026-11-26T15:13:56Z",
     "s": 29
+   },
+   {
+    "t": "2026-11-26T16:13:03Z",
+    "s": 26
    }
   ],
-  "at": "2026-11-26T15:13:56Z",
+  "at": "2026-11-26T16:13:03Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -22,
+   "delta": -32,
    "period": "in 24 hours",
    "line": [
     {
@@ -1086,11 +1074,15 @@
     {
      "t": "2026-11-26T15:13:56Z",
      "s": 29
+    },
+    {
+     "t": "2026-11-26T16:13:03Z",
+     "s": 26
     }
    ],
    "drivers": [
     {
-     "d": 5,
+     "d": 4,
      "id": "nvda-sea-halt",
      "text": "Nvidia freezes server shipments to 4 Southeast Asian nations"
     },
@@ -1100,24 +1092,23 @@
      "text": "Police: exam ace hid a camera in correction tape, AI fed answers"
     },
     {
-     "d": -31,
+     "d": -40,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
+   "banks-ai-debt": -0.1,
    "gpu-glut": -0.1,
-   "grh-shrink": -0.2,
-   "huawei-hbm": -0.1,
-   "india-ai-cradle": -0.2,
-   "korea-exam-cam": -0.3,
+   "grh-shrink": -0.1,
+   "huawei-hbm": -0.2,
+   "india-ai-cradle": -0.1,
+   "korea-exam-cam": -0.4,
    "leet-ai-cheat": -0.2,
-   "meta-muse-fca": -0.2,
-   "nvda-sea-halt": -1.2,
-   "softbank-cds": -0.1,
-   "spain-pp-morocco": 1.6,
-   "uk-court-fakes": -0.4,
-   "xpeng-humanoid": -0.5
+   "meta-muse-fca": -0.1,
+   "nvda-sea-halt": -1.1,
+   "uk-court-fakes": -0.3,
+   "xpeng-humanoid": -0.4
   }
  },
  "state": {
@@ -1268,24 +1259,24 @@
    ]
   },
   "crypto": {
-   "asOf": "10:13 am ET",
+   "asOf": "11:13 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60179.0,
-     "chg": 3.99
+     "price": 60617.0,
+     "chg": 3.82
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1676.51,
-     "chg": 2.68
+     "price": 1690.09,
+     "chg": 2.72
     }
    ]
   }
  },
- "next": "2026-11-26T16:18:00Z"
+ "next": "2026-11-26T17:18:00Z"
 }
