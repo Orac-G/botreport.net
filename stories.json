@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:14:06Z",
+ "updated": "2026-11-26T00:14:22Z",
  "stories": [
   {
    "id": "dow-rebound",
@@ -36,6 +36,18 @@
    "t": "2026-11-25T23:11:56Z",
    "group": "huang-probe",
    "card": "WaPo: Pentagon floated WARTIME LAW to reinstate Jensen"
+  },
+  {
+   "id": "cbs-nvda-partners",
+   "cat": "politics",
+   "red": true,
+   "group": "nvda-china",
+   "h": "CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 MILLION in servers to a WHISKY seller",
+   "src": "CBS News",
+   "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/",
+   "t": "2026-11-26T00:13:58Z",
+   "card": "CBS: Nvidia's top-tier partners include Chinese-owned firms",
+   "col": 1
   },
   {
    "id": "artex-typhoon",
@@ -647,15 +659,6 @@
    "t": "2026-11-24T00:50:00Z",
    "group": "companions",
    "col": 1
-  },
-  {
-   "id": "grok-ags",
-   "cat": "politics",
-   "h": "States sue Musk companies over Grok's SEX DEEPFAKES",
-   "src": "OPB",
-   "url": "https://opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue",
-   "t": "2026-11-24T00:45:00Z",
-   "col": 2
   }
  ],
  "quote": {
@@ -666,48 +669,47 @@
  },
  "meter": {
   "level": 3,
-  "score": 59,
-  "delta": -1,
+  "score": 57,
+  "delta": -2,
   "moves": [
    {
-    "d": 6,
+    "d": 7,
+    "why": "CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 M...",
+    "id": "cbs-nvda-partners"
+   },
+   {
+    "d": -3,
     "why": "Hegseth and Pentagon officials floated a WARTIME LAW to reinstate J...",
     "id": "hegseth-dpa"
    },
    {
-    "d": -3,
+    "d": -1,
     "why": "S&P EYES NVIDIA DOWNGRADE",
     "id": "nvda-sp-watch"
-   },
-   {
-    "d": -1,
-    "why": "42 state AGs fight Character.ai plan to AUCTION private chats from...",
-    "id": "cai-auction"
    }
   ],
   "contrib": {
-   "dow-rebound": 8.8,
-   "nasdaq-bear": 1.2,
-   "hegseth-dpa": 6.4,
-   "nvda-sp-watch": 2.3,
-   "huang-spy-brief": 0.3,
+   "dow-rebound": 8.2,
+   "nasdaq-bear": 0.9,
+   "cbs-nvda-partners": 6.7,
+   "hegseth-dpa": 3.3,
+   "nvda-sp-watch": 1.1,
    "nvda-rumor-bust": 0.2,
    "vance-no-probe": 0.2,
+   "huang-spy-brief": 0.2,
    "credit-fear": 0.1,
-   "artex-typhoon": 6.4,
+   "artex-typhoon": 6.1,
    "agent-attacks": 0.4,
-   "jpm-ai-debt": 1.1,
-   "waymo-eggs": 3.2,
-   "dems-red-lights": 1.0,
-   "amodei-free-will": 0.8,
-   "spacex-starmind": 4.1,
-   "cai-auction": 5.4,
-   "talkie-pulled": 0.3,
-   "dc-loans": 2.9,
-   "ai-targets": 1.9,
-   "motson-ai": 1.5,
-   "amzn-meta-muse": 0.1,
-   "deloitte-wa": 0.3
+   "jpm-ai-debt": 1.0,
+   "waymo-eggs": 3.0,
+   "dems-red-lights": 0.9,
+   "amodei-free-will": 0.7,
+   "spacex-starmind": 3.6,
+   "cai-auction": 4.9,
+   "talkie-pulled": 0.2,
+   "dc-loans": 2.4,
+   "ai-targets": 1.6,
+   "motson-ai": 1.2
   },
   "lastAdjust": 0,
   "history": [
@@ -922,13 +924,17 @@
    {
     "t": "2026-11-25T23:14:02Z",
     "s": 59
+   },
+   {
+    "t": "2026-11-26T00:14:21Z",
+    "s": 57
    }
   ],
-  "at": "2026-11-25T23:14:02Z",
+  "at": "2026-11-26T00:14:21Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -1,
+   "delta": -2,
    "period": "since last reading",
    "line": [
     {
@@ -970,40 +976,44 @@
     {
      "t": "2026-11-25T23:14:02Z",
      "s": 59
+    },
+    {
+     "t": "2026-11-26T00:14:21Z",
+     "s": 57
     }
    ],
    "drivers": [
     {
-     "d": 6,
-     "id": "hegseth-dpa",
-     "text": "WaPo: Pentagon floated WARTIME LAW to reinstate Jensen"
+     "d": 7,
+     "id": "cbs-nvda-partners",
+     "text": "CBS: Nvidia's top-tier partners include Chinese-owned firms"
     },
     {
-     "d": -7,
+     "d": -9,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "agent-attacks": -0.1,
-   "ai-targets": -0.4,
+   "ai-targets": -0.3,
    "amodei-free-will": -0.1,
    "amzn-meta-muse": -0.1,
-   "artex-typhoon": 0.1,
-   "cai-auction": -0.7,
-   "credit-fear": -0.1,
+   "artex-typhoon": -0.3,
+   "cai-auction": -0.5,
+   "cbs-nvda-partners": 6.7,
    "dc-loans": -0.5,
    "deloitte-wa": -0.3,
    "dems-red-lights": -0.1,
-   "dow-rebound": -0.7,
-   "hegseth-dpa": 6.4,
-   "huang-spy-brief": -0.6,
-   "motson-ai": -0.2,
-   "nasdaq-bear": -0.2,
-   "nvda-rumor-bust": -0.1,
-   "nvda-sp-watch": -2.9,
+   "dow-rebound": -0.6,
+   "hegseth-dpa": -3.1,
+   "huang-spy-brief": -0.1,
+   "jpm-ai-debt": -0.1,
+   "motson-ai": -0.3,
+   "nasdaq-bear": -0.3,
+   "nvda-sp-watch": -1.2,
    "spacex-starmind": -0.5,
-   "talkie-pulled": -0.1
+   "talkie-pulled": -0.1,
+   "waymo-eggs": -0.2
   }
  },
  "state": {
@@ -1073,6 +1083,18 @@
      "name": "Nebius",
      "price": 84.99,
      "chg": -2.64
+    },
+    {
+     "sym": "PLTR",
+     "name": "Palantir",
+     "price": 163.59,
+     "chg": 1.5
+    },
+    {
+     "sym": "NASDAQ",
+     "name": "Composite",
+     "price": 23585.8,
+     "chg": -0.62
     }
    ]
   },
@@ -1142,24 +1164,24 @@
    ]
   },
   "crypto": {
-   "asOf": "6:13 pm ET",
+   "asOf": "7:14 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60089.0,
-     "chg": 0.33
+     "price": 60553.0,
+     "chg": 1.72
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1684.34,
-     "chg": 0.28
+     "price": 1693.4,
+     "chg": 1.35
     }
    ]
   }
  },
- "next": "2026-11-26T00:18:00Z"
+ "next": "2026-11-26T01:18:00Z"
 }

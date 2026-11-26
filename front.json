@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-25T23:14:06Z",
- "nextUpdate": "2026-11-26T00:18:00Z",
+ "updated": "2026-11-26T00:14:22Z",
+ "nextUpdate": "2026-11-26T01:18:00Z",
  "lead": [
   {
    "headline": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...: Nasdaq, down 4.6% at its low, ends off just 0.6%... traders cite thin pre-Thanksgiving trading and a Michael Burry post saying he's almost entirely long",
@@ -45,6 +45,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 MILLION in servers to a WHISKY seller",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/",
+   "found": "2026-11-26T00:13:58Z",
+   "section": "politics"
+  },
   {
    "headline": "Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...",
    "source": "The Record",
@@ -416,13 +423,6 @@
    "url": "https://www.vice.com/en/article/men-are-spending-thousands-on-ai-girlfriends-inspired-by-gta-6s-lucia-yes-seriously/",
    "found": "2026-11-24T00:50:00Z",
    "section": "quirky"
-  },
-  {
-   "headline": "States sue Musk companies over Grok's SEX DEEPFAKES",
-   "source": "OPB",
-   "url": "https://opb.org/article/2026/11/23/sexual-images-from-elon-musk-ai-chatbot-harmed-consumers-ags-argue",
-   "found": "2026-11-24T00:45:00Z",
-   "section": "politics"
   }
  ],
  "quoteOfTheDay": {
@@ -431,7 +431,7 @@
   "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
  },
  "skynetOMeter": {
-  "score": 59,
+  "score": 57,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
