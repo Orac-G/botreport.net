@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:13:59Z",
+ "updated": "2026-11-26T13:15:01Z",
  "stories": [
   {
    "id": "korea-exam-cam",
@@ -637,7 +637,7 @@
    "label": "Not yet verified",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 253
+    "comments": 274
    },
    "col": 2,
    "card": "Claude's Riemann proof cut to 76,000 lines, not yet human-read"
@@ -661,39 +661,33 @@
  },
  "meter": {
   "level": 2,
-  "score": 36,
-  "delta": 2,
+  "score": 33,
+  "delta": -3,
   "moves": [
    {
-    "d": 4,
-    "why": "Police seek ARREST of Korean exam ace: CAMERA in correction tape, A...",
-    "id": "korea-exam-cam"
-   },
-   {
-    "d": 2,
+    "d": -1,
     "why": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens...",
     "id": "nvda-sea-halt"
    },
    {
-    "d": -2,
-    "why": "Police RAID late perfect scorer's home in Korea's AI CHEATING probe...",
-    "id": "leet-ai-cheat"
+    "d": -1,
+    "why": "SoftBank SURGES as much as 11%+ as Asia's chip stocks bounce back f...",
+    "id": "softbank-rebound"
    }
   ],
   "contrib": {
-   "korea-exam-cam": 4.4,
-   "leet-ai-cheat": 1.2,
-   "meta-muse-fca": 1.5,
-   "uk-court-fakes": 4.0,
-   "nvda-sea-halt": 8.4,
-   "gpu-glut": 1.1,
-   "india-ai-cradle": 0.8,
-   "huawei-hbm": 0.7,
-   "xpeng-humanoid": 2.0,
-   "softbank-rebound": 1.6,
-   "softbank-cds": 0.2,
-   "anthropic-dalby": 0.1,
-   "grh-shrink": 0.5
+   "korea-exam-cam": 4.5,
+   "leet-ai-cheat": 1.0,
+   "meta-muse-fca": 1.4,
+   "uk-court-fakes": 3.7,
+   "nvda-sea-halt": 7.4,
+   "gpu-glut": 1.0,
+   "india-ai-cradle": 0.7,
+   "huawei-hbm": 0.5,
+   "xpeng-humanoid": 1.6,
+   "softbank-rebound": 0.8,
+   "softbank-cds": 0.1,
+   "grh-shrink": 0.4
   },
   "lastAdjust": 0,
   "history": [
@@ -960,13 +954,17 @@
    {
     "t": "2026-11-26T12:13:59Z",
     "s": 36
+   },
+   {
+    "t": "2026-11-26T13:15:01Z",
+    "s": 33
    }
   ],
-  "at": "2026-11-26T12:13:59Z",
+  "at": "2026-11-26T13:15:01Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 2,
+   "delta": -3,
    "period": "since last reading",
    "line": [
     {
@@ -1060,38 +1058,32 @@
     {
      "t": "2026-11-26T12:13:59Z",
      "s": 36
+    },
+    {
+     "t": "2026-11-26T13:15:01Z",
+     "s": 33
     }
    ],
    "drivers": [
     {
-     "d": 4,
-     "id": "korea-exam-cam",
-     "text": "Police: exam ace hid a camera in correction tape, AI fed answers"
-    },
-    {
-     "d": 2,
-     "id": "nvda-sea-halt",
-     "text": "Nvidia freezes server shipments to 4 Southeast Asian nations"
-    },
-    {
-     "d": -4,
+     "d": -3,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "anthropic-dalby": -0.2,
-   "cbs-nvda-partners": -0.2,
-   "gpu-glut": 0.5,
-   "grh-shrink": -0.2,
-   "huawei-hbm": -0.1,
-   "india-ai-cradle": -0.2,
-   "korea-exam-cam": 4.4,
-   "leet-ai-cheat": -1.7,
-   "nvda-sea-halt": 1.9,
+   "anthropic-dalby": -0.1,
+   "gpu-glut": -0.1,
+   "grh-shrink": -0.1,
+   "huawei-hbm": -0.2,
+   "india-ai-cradle": -0.1,
+   "korea-exam-cam": 0.1,
+   "leet-ai-cheat": -0.2,
+   "meta-muse-fca": -0.1,
+   "nvda-sea-halt": -1.0,
    "softbank-cds": -0.1,
    "softbank-rebound": -0.8,
-   "uk-court-fakes": -0.5,
+   "uk-court-fakes": -0.3,
    "xpeng-humanoid": -0.4
   }
  },
@@ -1138,6 +1130,12 @@
      "name": "Nvidia",
      "price": 149.3,
      "chg": -3.91
+    },
+    {
+     "sym": "CBRS",
+     "name": "Cerebras",
+     "price": 89.68,
+     "chg": 1.01
     },
     {
      "sym": "CRWV",
@@ -1231,24 +1229,24 @@
    ]
   },
   "crypto": {
-   "asOf": "7:13 am ET",
+   "asOf": "8:15 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60697.0,
-     "chg": 3.82
+     "price": 60794.0,
+     "chg": 3.54
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1703.02,
-     "chg": 3.99
+     "price": 1706.17,
+     "chg": 3.59
     }
    ]
   }
  },
- "next": "2026-11-26T13:18:00Z"
+ "next": "2026-11-26T14:18:00Z"
 }

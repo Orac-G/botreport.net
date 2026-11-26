@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Thursday, November 26, 2026, 7:13 AM ET. Every headline links to the original reporting or primary source.
+Updated Thursday, November 26, 2026, 8:15 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -71,6 +71,6 @@ Updated Thursday, November 26, 2026, 7:13 AM ET. Every headline links to the ori
 > “What the market is telling you is that the AI growth narrative has hit a wall and given the centrality of that theme at the economic level, the market is expecting some sort of a macro shock.”
 > — Venu Krishna, head of U.S. equity strategy at Barclays, on the AI sell-off that hit Nvidia ([source](https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html))
 
-Skynet-o-Meter: 36 out of 100.
+Skynet-o-Meter: 33 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

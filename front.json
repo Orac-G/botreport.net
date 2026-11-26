@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-26T12:13:59Z",
- "nextUpdate": "2026-11-26T13:18:00Z",
+ "updated": "2026-11-26T13:15:01Z",
+ "nextUpdate": "2026-11-26T14:18:00Z",
  "lead": [
   {
    "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...: FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
@@ -116,7 +116,7 @@
    "label": "Not yet verified",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 253
+    "comments": 274
    }
   },
   {
@@ -417,7 +417,7 @@
   "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
  },
  "skynetOMeter": {
-  "score": 36,
+  "score": 33,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
