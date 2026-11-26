@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-26T02:13:54Z",
- "nextUpdate": "2026-11-26T03:18:00Z",
+ "updated": "2026-11-26T03:13:39Z",
+ "nextUpdate": "2026-11-26T04:18:00Z",
  "lead": [
   {
    "headline": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...: Nasdaq, down 4.6% at its low, ends off just 0.6%... traders cite thin pre-Thanksgiving trading and a Michael Burry post saying he's almost entirely long",
@@ -30,21 +30,28 @@
    "section": "tech"
   },
   {
+   "headline": "42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "found": "2026-11-25T18:13:39Z",
+   "section": "quirky"
+  },
+  {
    "headline": "BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Tencent GRIND TO A HALT after US chip curbs...",
    "source": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
    "found": "2026-11-25T16:12:50Z",
    "section": "business"
-  },
-  {
-   "headline": "Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...",
-   "source": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
-   "found": "2026-11-25T13:16:00Z",
-   "section": "quirky"
   }
  ],
  "stories": [
+  {
+   "headline": "SoftBank's CREDIT RISK tops 500 BASIS POINTS for the first time in about four years as AI worries mount...",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount",
+   "found": "2026-11-26T03:11:36Z",
+   "section": "business"
+  },
   {
    "headline": "SoftBank SOARS 11%+ as Asia's chip stocks bounce back from the AI rout...",
    "source": "CNBC",
@@ -130,13 +137,6 @@
    "section": "tech"
   },
   {
-   "headline": "42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-   "found": "2026-11-25T18:13:39Z",
-   "section": "quirky"
-  },
-  {
    "headline": "Nvidia and CoreWeave CREDIT-RISK gauges hit RECORD HIGHS as Wall Street's AI fears mount...",
    "source": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
@@ -171,6 +171,13 @@
    "url": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
    "found": "2026-11-25T13:16:00Z",
    "section": "politics"
+  },
+  {
+   "headline": "Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...",
+   "source": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
+   "found": "2026-11-25T13:16:00Z",
+   "section": "quirky"
   },
   {
    "headline": "Amazon and Meta talk TRUCE in AI shopping-bot war... Zuck and Jassy must sign off, sources say",
@@ -424,7 +431,7 @@
   "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
  },
  "skynetOMeter": {
-  "score": 52,
+  "score": 48,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

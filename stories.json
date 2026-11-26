@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:13:54Z",
+ "updated": "2026-11-26T03:13:39Z",
  "stories": [
   {
    "id": "dow-rebound",
@@ -24,6 +24,23 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg"
    },
    "card": "Dow wipes out a 1,100-point AI rout, closes higher"
+  },
+  {
+   "id": "softbank-cds",
+   "cat": "business",
+   "h": "SoftBank's CREDIT RISK tops 500 BASIS POINTS for the first time in about four years as AI worries mount...",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount",
+   "t": "2026-11-26T03:11:36Z",
+   "group": "markets",
+   "card": "SoftBank credit risk tops 500bp, a four-year first",
+   "col": 1,
+   "img": {
+    "src": "img/masayoshi-son.jpg",
+    "alt": "SoftBank founder Masayoshi Son",
+    "credit": "European Communities, 2025 / EC - Audiovisual Service / CC BY 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Masayoshi_Son_(P066533-522034,_cropped).jpg"
+   }
   },
   {
    "id": "softbank-rebound",
@@ -202,14 +219,8 @@
    "src": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
    "t": "2026-11-25T18:13:39Z",
-   "col": 1,
-   "img": {
-    "src": "img/rob-bonta.jpg",
-    "alt": "California Attorney General Rob Bonta",
-    "credit": "Douglas Despres, California Attorney General's Office / Public domain",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Rob_Bonta_official_portrait_(cropped).jpg"
-   },
-   "card": "42 AGs fight Character.ai sale of 21M users' private chats"
+   "card": "42 AGs fight Character.ai sale of 21M users' private chats",
+   "top": true
   },
   {
    "id": "dc-loans",
@@ -280,8 +291,8 @@
    "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
    "t": "2026-11-25T13:16:00Z",
    "group": "companions",
-   "top": true,
-   "card": "Apple pulls AI companion app Talkie worldwide over sex content"
+   "card": "Apple pulls AI companion app Talkie worldwide over sex content",
+   "col": 1
   },
   {
    "id": "amzn-meta-muse",
@@ -658,47 +669,42 @@
  },
  "meter": {
   "level": 3,
-  "score": 52,
-  "delta": -2,
+  "score": 48,
+  "delta": -4,
   "moves": [
-   {
-    "d": 7,
-    "why": "SOFTBANK BOUNCES 11%",
-    "id": "softbank-rebound"
-   },
-   {
-    "d": -4,
-    "why": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes H...",
-    "id": "dow-rebound"
-   },
    {
     "d": -1,
     "why": "42 state AGs fight Character.ai plan to AUCTION private chats from...",
     "id": "cai-auction"
+   },
+   {
+    "d": -1,
+    "why": "BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Ten...",
+    "id": "dc-loans"
    }
   ],
   "contrib": {
-   "softbank-rebound": 7.2,
-   "dow-rebound": 3.5,
-   "nasdaq-bear": 0.2,
-   "cbs-nvda-partners": 6.6,
-   "hegseth-dpa": 2.9,
-   "nvda-sp-watch": 0.8,
+   "softbank-rebound": 7.6,
+   "dow-rebound": 3.1,
+   "softbank-cds": 0.3,
+   "cbs-nvda-partners": 6.3,
+   "hegseth-dpa": 2.8,
+   "nvda-sp-watch": 0.7,
    "nvda-rumor-bust": 0.2,
-   "vance-no-probe": 0.2,
+   "vance-no-probe": 0.1,
    "credit-fear": 0.1,
    "anthropic-dalby": 1.2,
-   "artex-typhoon": 5.2,
+   "artex-typhoon": 4.8,
    "agent-attacks": 0.3,
-   "jpm-ai-debt": 0.9,
-   "waymo-eggs": 2.6,
-   "dems-red-lights": 0.8,
+   "jpm-ai-debt": 0.8,
+   "waymo-eggs": 2.4,
+   "dems-red-lights": 0.7,
    "amodei-free-will": 0.5,
-   "spacex-starmind": 2.6,
-   "cai-auction": 3.5,
-   "dc-loans": 1.3,
-   "ai-targets": 0.9,
-   "motson-ai": 0.7
+   "spacex-starmind": 2.1,
+   "cai-auction": 2.8,
+   "dc-loans": 0.7,
+   "ai-targets": 0.5,
+   "motson-ai": 0.3
   },
   "lastAdjust": 0,
   "history": [
@@ -925,13 +931,17 @@
    {
     "t": "2026-11-26T02:13:54Z",
     "s": 52
+   },
+   {
+    "t": "2026-11-26T03:13:39Z",
+    "s": 48
    }
   ],
-  "at": "2026-11-26T02:13:54Z",
+  "at": "2026-11-26T03:13:39Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -2,
+   "delta": -4,
    "period": "since last reading",
    "line": [
     {
@@ -985,38 +995,37 @@
     {
      "t": "2026-11-26T02:13:54Z",
      "s": 52
+    },
+    {
+     "t": "2026-11-26T03:13:39Z",
+     "s": 48
     }
    ],
    "drivers": [
     {
-     "d": 7,
-     "id": "softbank-rebound",
-     "text": "SoftBank soars 11% as Asia's chip stocks bounce back"
-    },
-    {
-     "d": -9,
+     "d": -4,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "agent-attacks": -0.1,
    "ai-targets": -0.4,
-   "amodei-free-will": -0.1,
-   "artex-typhoon": -0.5,
+   "artex-typhoon": -0.4,
    "cai-auction": -0.7,
-   "cbs-nvda-partners": -0.4,
+   "cbs-nvda-partners": -0.3,
    "dc-loans": -0.6,
    "dems-red-lights": -0.1,
-   "dow-rebound": -4.2,
-   "hegseth-dpa": -0.3,
+   "dow-rebound": -0.4,
+   "hegseth-dpa": -0.1,
    "jpm-ai-debt": -0.1,
-   "motson-ai": -0.3,
-   "nasdaq-bear": -0.4,
-   "nvda-sp-watch": -0.2,
-   "softbank-rebound": 7.2,
-   "spacex-starmind": -0.6,
-   "waymo-eggs": -0.3
+   "motson-ai": -0.4,
+   "nasdaq-bear": -0.2,
+   "nvda-sp-watch": -0.1,
+   "softbank-cds": 0.3,
+   "softbank-rebound": 0.4,
+   "spacex-starmind": -0.5,
+   "vance-no-probe": -0.1,
+   "waymo-eggs": -0.2
   }
  },
  "state": {
@@ -1167,24 +1176,24 @@
    ]
   },
   "crypto": {
-   "asOf": "9:13 pm ET",
+   "asOf": "10:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60835.0,
-     "chg": 3.0
+     "price": 60620.0,
+     "chg": 2.0
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1700.6,
-     "chg": 2.75
+     "price": 1695.19,
+     "chg": 2.01
     }
    ]
   }
  },
- "next": "2026-11-26T03:18:00Z"
+ "next": "2026-11-26T04:18:00Z"
 }
