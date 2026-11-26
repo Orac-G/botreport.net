@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-26T16:13:24Z",
+ "updated": "2026-11-26T17:13:13Z",
  "stories": [
+  {
+   "id": "sap-cuts",
+   "cat": "business",
+   "h": "SAP weighs axing at least 10,000 JOBS to remake itself for the AI era, sources say...",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
+   "t": "2026-11-26T17:11:37Z",
+   "top": true,
+   "card": "SAP mulls cutting 10,000+ jobs for AI, sources say"
+  },
+  {
+   "id": "dennys-plaque",
+   "cat": "quirky",
+   "group": "huang",
+   "h": "Jensen's BACK... and so is his PLAQUE at Denny's",
+   "src": "New York Times",
+   "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+   "t": "2026-11-26T17:11:37Z",
+   "card": "Denny's puts Jensen's plaque back after his return",
+   "col": 0
+  },
   {
    "id": "spain-pp-morocco",
    "cat": "politics",
@@ -328,12 +349,12 @@
    "id": "spacex-starmind",
    "cat": "tech",
    "red": true,
-   "top": true,
    "h": "FCC clears Musk's SpaceX to launch up to ONE MILLION satellites... for AI DATA CENTERS IN ORBIT",
    "src": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers",
    "t": "2026-11-25T18:13:39Z",
-   "card": "FCC clears SpaceX for 1 MILLION data-center satellites"
+   "card": "FCC clears SpaceX for 1 MILLION data-center satellites",
+   "col": 2
   },
   {
    "id": "cai-auction",
@@ -502,16 +523,6 @@
    "card": "AG Blanche on Huang: 'I don't know what you're talking about'"
   },
   {
-   "id": "taiwan-fakes",
-   "cat": "politics",
-   "h": "BBC Verify: China-linked network using AI FAKES to smear Taiwan election candidates... even President Lai",
-   "src": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o",
-   "t": "2026-11-25T04:12:27Z",
-   "col": 2,
-   "group": "election-fakes"
-  },
-  {
    "id": "tidal-ban",
    "cat": "quirky",
    "h": "Tidal BANS fully AI-made music... and expects to DELETE 29 MILLION+ tracks",
@@ -540,16 +551,6 @@
    "t": "2026-11-25T02:17:13Z",
    "correction": "An earlier headline attributed the therapy remark to several people present; CNBC cites one.",
    "group": "huang",
-   "col": 0
-  },
-  {
-   "id": "trump-stake",
-   "cat": "politics",
-   "h": "Trump mulls a US STAKE in Nvidia, Intel-style, after Jensen's return...",
-   "src": "Business Insider",
-   "url": "https://www.businessinsider.com/trump-us-equity-stake-nvidia-not-too-late-2026-11",
-   "t": "2026-11-25T02:17:13Z",
-   "group": "huang-probe",
    "col": 0
   },
   {
@@ -659,9 +660,19 @@
  },
  "meter": {
   "level": 2,
-  "score": 26,
-  "delta": -3,
+  "score": 28,
+  "delta": 2,
   "moves": [
+   {
+    "d": 5,
+    "why": "Jensen's BACK... and so is his PLAQUE at Denny's",
+    "id": "dennys-plaque"
+   },
+   {
+    "d": 2,
+    "why": "SAP weighs axing at least 10,000 JOBS to remake itself for the AI e...",
+    "id": "sap-cuts"
+   },
    {
     "d": -1,
     "why": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens...",
@@ -669,17 +680,17 @@
    }
   ],
   "contrib": {
-   "spain-pp-morocco": 1.6,
-   "banks-ai-debt": 1.5,
-   "korea-exam-cam": 3.5,
-   "leet-ai-cheat": 0.4,
-   "meta-muse-fca": 1.0,
-   "uk-court-fakes": 2.7,
-   "nvda-sea-halt": 4.0,
-   "gpu-glut": 0.6,
-   "india-ai-cradle": 0.3,
-   "huawei-hbm": 0.1,
-   "xpeng-humanoid": 0.4
+   "sap-cuts": 1.6,
+   "dennys-plaque": 4.8,
+   "gpu-glut": 0.2,
+   "spain-pp-morocco": 1.4,
+   "banks-ai-debt": 1.3,
+   "korea-exam-cam": 3.0,
+   "leet-ai-cheat": 0.2,
+   "meta-muse-fca": 0.9,
+   "uk-court-fakes": 2.2,
+   "nvda-sea-halt": 2.6,
+   "india-ai-cradle": 0.1
   },
   "lastAdjust": 0,
   "history": [
@@ -962,13 +973,17 @@
    {
     "t": "2026-11-26T16:13:03Z",
     "s": 26
+   },
+   {
+    "t": "2026-11-26T17:13:13Z",
+    "s": 28
    }
   ],
-  "at": "2026-11-26T16:13:03Z",
+  "at": "2026-11-26T17:13:13Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -32,
+   "delta": -28,
    "period": "in 24 hours",
    "line": [
     {
@@ -1078,36 +1093,42 @@
     {
      "t": "2026-11-26T16:13:03Z",
      "s": 26
+    },
+    {
+     "t": "2026-11-26T17:13:13Z",
+     "s": 28
     }
    ],
    "drivers": [
     {
-     "d": 4,
-     "id": "nvda-sea-halt",
-     "text": "Nvidia freezes server shipments to 4 Southeast Asian nations"
+     "d": 5,
+     "id": "dennys-plaque",
+     "text": "Denny's puts Jensen's plaque back after his return"
     },
     {
-     "d": 4,
+     "d": 3,
      "id": "korea-exam-cam",
      "text": "Police: exam ace hid a camera in correction tape, AI fed answers"
     },
     {
-     "d": -40,
+     "d": -36,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "banks-ai-debt": -0.1,
-   "gpu-glut": -0.1,
-   "grh-shrink": -0.1,
-   "huawei-hbm": -0.2,
-   "india-ai-cradle": -0.1,
-   "korea-exam-cam": -0.4,
+   "banks-ai-debt": -0.2,
+   "dennys-plaque": 4.8,
+   "gpu-glut": -0.4,
+   "huawei-hbm": -0.1,
+   "india-ai-cradle": -0.2,
+   "korea-exam-cam": -0.5,
    "leet-ai-cheat": -0.2,
    "meta-muse-fca": -0.1,
-   "nvda-sea-halt": -1.1,
-   "uk-court-fakes": -0.3,
+   "nvda-sea-halt": -1.4,
+   "sap-cuts": 1.6,
+   "spain-pp-morocco": -0.2,
+   "uk-court-fakes": -0.5,
    "xpeng-humanoid": -0.4
   }
  },
@@ -1259,24 +1280,24 @@
    ]
   },
   "crypto": {
-   "asOf": "11:13 am ET",
+   "asOf": "12:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60617.0,
-     "chg": 3.82
+     "price": 60542.0,
+     "chg": 2.46
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1690.09,
-     "chg": 2.72
+     "price": 1692.91,
+     "chg": 2.23
     }
    ]
   }
  },
- "next": "2026-11-26T17:18:00Z"
+ "next": "2026-11-26T18:18:00Z"
 }
