@@ -214,26 +214,35 @@ a.red, a.red:visited { color: var(--siren); }
 .meter-delta.up { color: var(--l5); }
 .meter-delta.down { color: var(--l1); }
 .trend { margin: 0; display: flex; flex-direction: column; gap: 3px; }
-.trend svg { display: block; width: 100%; height: 80px; }
-.dial { display: flex; align-items: center; gap: 6px 18px; flex-wrap: wrap; }
-.dial svg { width: 190px; max-width: 100%; height: auto; display: block; flex: none; }
-.dial-read { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.trend svg { display: block; width: 100%; height: 96px; }
+.dial { display: flex; align-items: center; gap: 10px 16px; }
+.dial-side { flex: 1 1 0; min-width: 0; display: flex; flex-direction: column; gap: 6px; }
+.moved { border-top: 1px solid var(--rule); padding-top: 10px; margin-top: 4px; display: flex; flex-direction: column; gap: 6px; }
+.dial > svg { flex: 0 0 40%; width: 40%; height: auto; display: block; }
+@media (max-width: 560px) { .dial { flex-direction: column; align-items: stretch; } .dial > svg { flex-basis: auto; width: 200px; align-self: center; } }
+.dial-read { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 4px 10px; min-width: 0; }
 .dial-read .meter-label { font-size: 20px; }
 .dial-read .meter-delta { font-size: 15px; }
-.meter-title { display: flex; flex-direction: column; gap: 3px; }
+.meter-title { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 2px 12px; }
 .meter-q { margin: 0; font-family: var(--f-mast); font-style: italic; font-size: 14px; color: var(--muted); }
 .delta-per { font-size: 10px; font-weight: 400; letter-spacing: .1em; color: var(--muted); }
-.dial-note { font-size: 11px; color: var(--muted); letter-spacing: .04em; }
 .trend-axis { padding-left: 86px; display: flex; justify-content: space-between; font-size: 10px; color: var(--muted); letter-spacing: .04em; text-transform: uppercase; }
 .moves-h { margin: 0; font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
 .moves { list-style: none; margin: 0; padding: 0; font-size: 13px; line-height: 1.45; display: flex; flex-direction: column; gap: 2px; }
-.moves li { display: grid; grid-template-columns: 30px minmax(0, 1fr); }
+.moves li { display: grid; grid-template-columns: 4ch minmax(0, 1fr); column-gap: 8px; }
 .moves b { font-variant-numeric: tabular-nums; }
 .moves b.up { color: var(--l5); }
 .moves b.down { color: var(--l1); }
 .formula { margin: 8px 0 0; font-size: 12px; line-height: 1.45; color: var(--muted); }
-.levels summary { cursor: pointer; font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
-.levels ol { list-style: none; margin: 8px 0 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+.moved-head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 4px 12px; }
+.how { font: inherit; font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px; }
+.how:hover, .how:focus-visible { color: var(--ink); }
+.levels-pop { width: min(560px, calc(100vw - 32px)); max-height: calc(100vh - 48px); overflow: auto; margin: auto; padding: 16px 18px; border: 1px solid var(--ink); background: var(--bg); color: var(--ink); font-family: var(--f-wire); }
+.levels-pop::backdrop { background: rgba(0, 0, 0, .4); }
+.pop-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+.pop-head h3 { margin: 0; font-size: 12px; letter-spacing: .1em; text-transform: uppercase; }
+.pop-x { font: 700 20px/1 var(--f-wire); background: none; border: 0; color: var(--ink); cursor: pointer; padding: 0 2px; }
+.levels ol { list-style: none; margin: 12px 0 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
 .levels li { display: grid; grid-template-columns: 12px minmax(0, 1fr); gap: 8px; font-size: 12px; line-height: 1.35; }
 .levels li i { width: 12px; height: 12px; margin-top: 2px; background: var(--lc); }
 .levels li b { text-transform: uppercase; letter-spacing: .04em; }
@@ -392,23 +401,32 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
       </div>
       <div class="dial">
         <svg id="gauge" viewBox="0 0 200 128" role="img" aria-label="Skynet-o-Meter reading"></svg>
-        <div class="dial-read">
-          <span class="meter-label" id="meter-label"></span>
-          <span class="meter-delta"><span id="meter-delta"></span> <small class="delta-per" id="delta-per"></small></span>
-          <span class="dial-note">Red is for the siren only</span>
+        <div class="dial-side">
+          <div class="dial-read">
+            <span class="meter-label" id="meter-label"></span>
+            <span class="meter-delta"><span id="meter-delta"></span> <small class="delta-per" id="delta-per"></small></span>
+          </div>
+          <figure class="trend">
+            <svg id="trend" role="img" aria-label="Skynet-o-Meter score over time"></svg>
+            <figcaption class="trend-axis"><span>24 hrs ago</span><span>12 hrs</span><span>Now</span></figcaption>
+          </figure>
         </div>
       </div>
-      <figure class="trend">
-        <svg id="trend" role="img" aria-label="Skynet-o-Meter score over time"></svg>
-        <figcaption class="trend-axis"><span>24 hrs ago</span><span>12 hrs</span><span>Now</span></figcaption>
-      </figure>
-      <h3 class="moves-h" id="moves-h"></h3>
-      <ul class="moves" id="moves"></ul>
-      <details class="levels">
-        <summary>What the levels mean · how it's scored</summary>
+      <div class="moved">
+        <div class="moved-head">
+          <h3 class="moves-h" id="moves-h"></h3>
+          <button class="how" type="button" popovertarget="levels-pop">ⓘ How it's scored</button>
+        </div>
+        <ul class="moves" id="moves"></ul>
+      </div>
+      <div class="levels levels-pop" id="levels-pop" popover>
+        <div class="pop-head">
+          <h3>What the levels mean · how it's scored</h3>
+          <button class="pop-x" type="button" popovertarget="levels-pop" popovertargetaction="hide" aria-label="Close">×</button>
+        </div>
         <ol id="levels"></ol>
         <p class="formula">The score is worked out fresh at every update from the stories on the page. Each story from the last 12 hours earns points: 1 for being news, +5 if it's a big red story, +3 for military, +2 for a can't-look-away story, +3 for the lead and +1 per 1,000 Hacker News comments (up to 3). Stories count in full for 1 hour, then fade steadily to nothing at 12 hours. When several stories belong to one saga, the biggest counts in full, the second at half and the rest at a quarter. The total goes on a curve that starts at 10 and flattens out below 80. The siren adds 20, and the editor can move it up or down by as much as 10. Only the siren can take it to Judgment Day; otherwise it stops at 79. Recalibrated on Nov. 24 and 25, 2026, so earlier scores aren't comparable.</p>
-      </details>
+      </div>
     </section>
     <section class="box quote" aria-labelledby="quote-h">
       <h2 id="quote-h">Quote of the Day</h2>
@@ -811,7 +829,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   }
   function drawTrend() {
     const svg = $("trend"), NS = "http://www.w3.org/2000/svg";
-    const W = Math.max(200, Math.round(svg.clientWidth || 300)), H = 80;
+    const W = Math.max(200, Math.round(svg.clientWidth || 300)), H = 96;
     svg.setAttribute("viewBox", "0 0 " + W + " " + H);
     svg.replaceChildren();
     const add = (tag, attrs, text) => {
