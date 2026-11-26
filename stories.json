@@ -1,6 +1,19 @@
 {
- "updated": "2026-11-26T06:13:29Z",
+ "updated": "2026-11-26T07:13:31Z",
  "stories": [
+  {
+   "id": "nvda-sea-halt",
+   "cat": "business",
+   "red": true,
+   "group": "nvda-china",
+   "h": "Nvidia HALTS server shipments to FOUR Southeast Asian countries... FT says",
+   "src": "Financial Times",
+   "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
+   "t": "2026-11-26T07:11:54Z",
+   "label": "Not yet verified",
+   "card": "Nvidia freezes server shipments to 4 Southeast Asian nations",
+   "col": 1
+  },
   {
    "id": "leet-ai-cheat",
    "cat": "quirky",
@@ -655,45 +668,43 @@
  "meter": {
   "level": 3,
   "score": 43,
-  "delta": -1,
+  "delta": 0,
   "moves": [
    {
-    "d": 4,
-    "why": "Police RAID late perfect scorer's home in Korea's AI CHEATING probe...",
-    "id": "leet-ai-cheat"
+    "d": 8,
+    "why": "Nvidia HALTS server shipments to FOUR Southeast Asian countries......",
+    "id": "nvda-sea-halt"
    },
    {
-    "d": 1,
-    "why": "Modi floats an AI app that tracks kids from AGE THREE... and sugges...",
-    "id": "india-ai-cradle"
+    "d": -3,
+    "why": "CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 M...",
+    "id": "cbs-nvda-partners"
    },
    {
     "d": -1,
-    "why": "42 state AGs fight Character.ai plan to AUCTION private chats from...",
-    "id": "cai-auction"
+    "why": "Hegseth and Pentagon officials floated a WARTIME LAW to reinstate J...",
+    "id": "hegseth-dpa"
    }
   ],
   "contrib": {
+   "nvda-sea-halt": 8.1,
+   "cbs-nvda-partners": 1.8,
+   "hegseth-dpa": 0.7,
+   "nvda-rumor-bust": 0.1,
    "leet-ai-cheat": 4.1,
    "india-ai-cradle": 1.4,
-   "softbank-rebound": 5.9,
-   "dow-rebound": 1.7,
-   "softbank-cds": 0.3,
-   "huawei-hbm": 1.4,
-   "xpeng-humanoid": 4.1,
-   "cbs-nvda-partners": 4.5,
-   "hegseth-dpa": 1.8,
-   "nvda-sp-watch": 0.2,
-   "nvda-rumor-bust": 0.1,
-   "vance-no-probe": 0.1,
-   "anthropic-dalby": 0.9,
-   "artex-typhoon": 3.0,
+   "softbank-rebound": 5.2,
+   "dow-rebound": 1.1,
+   "softbank-cds": 0.2,
+   "huawei-hbm": 1.2,
+   "xpeng-humanoid": 3.7,
+   "anthropic-dalby": 0.7,
+   "artex-typhoon": 2.2,
    "agent-attacks": 0.1,
-   "jpm-ai-debt": 0.5,
-   "waymo-eggs": 1.5,
-   "dems-red-lights": 0.4,
-   "amodei-free-will": 0.1,
-   "grh-shrink": 1.2
+   "jpm-ai-debt": 0.4,
+   "waymo-eggs": 1.1,
+   "dems-red-lights": 0.2,
+   "grh-shrink": 1.1
   },
   "lastAdjust": 0,
   "history": [
@@ -936,13 +947,17 @@
    {
     "t": "2026-11-26T06:13:29Z",
     "s": 43
+   },
+   {
+    "t": "2026-11-26T07:13:31Z",
+    "s": 43
    }
   ],
-  "at": "2026-11-26T06:13:29Z",
+  "at": "2026-11-26T07:13:31Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -1,
+   "delta": 0,
    "period": "since last reading",
    "line": [
     {
@@ -1012,43 +1027,42 @@
     {
      "t": "2026-11-26T06:13:29Z",
      "s": 43
+    },
+    {
+     "t": "2026-11-26T07:13:31Z",
+     "s": 43
     }
    ],
    "drivers": [
     {
-     "d": 4,
-     "id": "leet-ai-cheat",
-     "text": "Police raid late perfect scorer's home in AI cheating probe"
+     "d": 8,
+     "id": "nvda-sea-halt",
+     "text": "Nvidia freezes server shipments to 4 Southeast Asian nations"
     },
     {
-     "d": 1,
-     "id": "india-ai-cradle",
-     "text": "Modi floats AI app tracking kids from age three"
-    },
-    {
-     "d": -6,
+     "d": -8,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "agent-attacks": -0.1,
    "amodei-free-will": -0.1,
-   "anthropic-dalby": -0.1,
-   "artex-typhoon": -0.7,
-   "cai-auction": -1.0,
-   "cbs-nvda-partners": -0.7,
-   "dems-red-lights": -0.1,
-   "dow-rebound": -0.5,
-   "grh-shrink": -0.2,
-   "hegseth-dpa": -0.4,
-   "india-ai-cradle": 1.4,
+   "anthropic-dalby": -0.2,
+   "artex-typhoon": -0.8,
+   "cbs-nvda-partners": -2.7,
+   "dems-red-lights": -0.2,
+   "dow-rebound": -0.6,
+   "grh-shrink": -0.1,
+   "hegseth-dpa": -1.1,
+   "huawei-hbm": -0.2,
    "jpm-ai-debt": -0.1,
-   "leet-ai-cheat": 4.1,
+   "nvda-sea-halt": 8.1,
    "nvda-sp-watch": -0.2,
+   "softbank-cds": -0.1,
    "softbank-rebound": -0.7,
-   "spacex-starmind": -0.7,
-   "waymo-eggs": -0.3
+   "vance-no-probe": -0.1,
+   "waymo-eggs": -0.4,
+   "xpeng-humanoid": -0.4
   }
  },
  "state": {
@@ -1100,12 +1114,6 @@
      "name": "Anthropic",
      "price": 82.79,
      "chg": 1.08
-    },
-    {
-     "sym": "CBRS",
-     "name": "Cerebras",
-     "price": 89.68,
-     "chg": 1.01
     },
     {
      "sym": "CRWV",
@@ -1193,24 +1201,24 @@
    ]
   },
   "crypto": {
-   "asOf": "1:13 am ET",
+   "asOf": "2:13 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60476.0,
-     "chg": 2.11
+     "price": 60395.0,
+     "chg": 1.85
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1683.02,
+     "price": 1685.03,
      "chg": 1.41
     }
    ]
   }
  },
- "next": "2026-11-26T07:18:00Z"
+ "next": "2026-11-26T08:18:00Z"
 }

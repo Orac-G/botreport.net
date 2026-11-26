@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Thursday, November 26, 2026, 1:13 AM ET. Every headline links to the original reporting or primary source.
+Updated Thursday, November 26, 2026, 2:13 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,7 @@ Updated Thursday, November 26, 2026, 1:13 AM ET. Every headline links to the ori
 
 ## All stories (newest first)
 
+- [Nvidia HALTS server shipments to FOUR Southeast Asian countries... FT says](https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370) (Financial Times · Not yet verified)
 - [Police RAID late perfect scorer's home in Korea's AI CHEATING probe...](https://www.koreaherald.com/article/10950541) (Korea Herald)
 - [Modi floats an AI app that tracks kids from AGE THREE... and suggests their CAREERS](https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275) (The Register)
 - [Huawei TEASES a next-gen AI MEMORY CHIP that could top Samsung and SK Hynix...](https://www.bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix) (Bloomberg · Company claim)
