@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Wednesday, November 25, 2026, 10:13 PM ET. Every headline links to the original reporting or primary source.
+Updated Wednesday, November 25, 2026, 11:14 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,8 +17,9 @@ Updated Wednesday, November 25, 2026, 10:13 PM ET. Every headline links to the o
 
 ## All stories (newest first)
 
+- [Anthropic team SHRINKS Claude's Riemann proof to 76,000 lines... 'No mathematician has read it through'](https://github.com/lsernau/grh-lean) (GitHub (Anthropic) · Not yet verified)
 - [SoftBank's CREDIT RISK tops 500 BASIS POINTS for the first time in about four years as AI worries mount...](https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount) (Bloomberg)
-- [SoftBank SOARS 11%+ as Asia's chip stocks bounce back from the AI rout...](https://www.cnbc.com/2026/11/26/stock-markets-today-.html) (CNBC)
+- [SoftBank SURGES as much as 11%+ as Asia's chip stocks bounce back from the AI rout...](https://www.cnbc.com/2026/11/26/stock-markets-today-.html) (CNBC)
 - [Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...](https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970) (ABC (Australia))
 - [CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 MILLION in servers to a WHISKY seller](https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/) (CBS News)
 - [Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool) (The Record)
@@ -62,8 +63,6 @@ Updated Wednesday, November 25, 2026, 10:13 PM ET. Every headline links to the o
 - [Trump bought Nvidia 28 TIMES this year... up to $16.7 MILLION, disclosures show](https://www.kadoa.com/congress/insights/trump-nvidia) (Kadoa)
 - [Anthropic SINKS BELOW its $83 IPO price... debut rally unravels](https://www.bnnbloomberg.ca/business/company-news/2026/11/24/anthropic-breaks-below-us83-ipo-price-as-debut-rally-unravels/) (Bloomberg)
 - [Feds BLACKLIST Megaspeed, the Nvidia chip buyer at the center of the Huang scandal...](https://www.yahoo.com/news/politics/articles/us-blacklists-megaspeed-over-suspected-010342870.html) (Yahoo News)
-- [Anthropic mathematician and NYU prof claim AI-aided proof cracks $1M Navier-Stokes riddle...](https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/) (Scientific American)
-- [Paris Hilton takes her fight against AI porn fakes to Congress...](https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html) (CNBC)
 - [Nvidia brings Jensen BACK as CEO two weeks after he quit... Trump says he made the call](https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia) (CNN)
 
 ## Quote of the Day
@@ -71,6 +70,6 @@ Updated Wednesday, November 25, 2026, 10:13 PM ET. Every headline links to the o
 > “What the market is telling you is that the AI growth narrative has hit a wall and given the centrality of that theme at the economic level, the market is expecting some sort of a macro shock.”
 > — Venu Krishna, head of U.S. equity strategy at Barclays, on the AI sell-off that hit Nvidia ([source](https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html))
 
-Skynet-o-Meter: 48 out of 100.
+Skynet-o-Meter: 44 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml
