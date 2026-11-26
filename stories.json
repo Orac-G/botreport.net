@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T13:15:01Z",
+ "updated": "2026-11-26T14:14:12Z",
  "stories": [
+  {
+   "id": "banks-ai-debt",
+   "cat": "business",
+   "h": "Banks look to DUMP AI DEBT: Citi and JPMorgan shopping AI loan portfolios to investors, sources say...",
+   "src": "Semafor",
+   "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
+   "t": "2026-11-26T14:12:38Z",
+   "group": "markets",
+   "card": "Citi and JPMorgan shop AI loans to investors, sources say",
+   "col": 1
+  },
   {
    "id": "korea-exam-cam",
    "cat": "quirky",
@@ -576,21 +587,6 @@
    "col": 0
   },
   {
-   "id": "gpt6-proteins",
-   "cat": "tech",
-   "group": "science",
-   "h": "OpenAI claims GPT-6 can DESIGN PROTEINS... and some actually grabbed their drug targets in the lab",
-   "src": "OpenAI",
-   "label": "Company claim",
-   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-   "t": "2026-11-24T23:11:30Z",
-   "hn": {
-    "url": "https://news.ycombinator.com/item?id=50634658",
-    "comments": 97
-   },
-   "col": 2
-  },
-  {
    "id": "ny-ai-toys",
    "cat": "politics",
    "red": true,
@@ -661,9 +657,14 @@
  },
  "meter": {
   "level": 2,
-  "score": 33,
-  "delta": -3,
+  "score": 31,
+  "delta": -2,
   "moves": [
+   {
+    "d": 2,
+    "why": "Banks look to DUMP AI DEBT: Citi and JPMorgan shopping AI loan port...",
+    "id": "banks-ai-debt"
+   },
    {
     "d": -1,
     "why": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens...",
@@ -676,18 +677,18 @@
    }
   ],
   "contrib": {
-   "korea-exam-cam": 4.5,
-   "leet-ai-cheat": 1.0,
-   "meta-muse-fca": 1.4,
-   "uk-court-fakes": 3.7,
-   "nvda-sea-halt": 7.4,
-   "gpu-glut": 1.0,
-   "india-ai-cradle": 0.7,
-   "huawei-hbm": 0.5,
-   "xpeng-humanoid": 1.6,
-   "softbank-rebound": 0.8,
+   "banks-ai-debt": 1.6,
    "softbank-cds": 0.1,
-   "grh-shrink": 0.4
+   "korea-exam-cam": 4.2,
+   "leet-ai-cheat": 0.8,
+   "meta-muse-fca": 1.3,
+   "uk-court-fakes": 3.4,
+   "nvda-sea-halt": 6.3,
+   "gpu-glut": 0.8,
+   "india-ai-cradle": 0.6,
+   "huawei-hbm": 0.4,
+   "xpeng-humanoid": 1.3,
+   "grh-shrink": 0.3
   },
   "lastAdjust": 0,
   "history": [
@@ -958,14 +959,18 @@
    {
     "t": "2026-11-26T13:15:01Z",
     "s": 33
+   },
+   {
+    "t": "2026-11-26T14:14:12Z",
+    "s": 31
    }
   ],
-  "at": "2026-11-26T13:15:01Z",
+  "at": "2026-11-26T14:14:12Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -3,
-   "period": "since last reading",
+   "delta": -19,
+   "period": "in 24 hours",
    "line": [
     {
      "t": "2026-11-25T14:16:09Z",
@@ -1062,34 +1067,47 @@
     {
      "t": "2026-11-26T13:15:01Z",
      "s": 33
+    },
+    {
+     "t": "2026-11-26T14:14:12Z",
+     "s": 31
     }
    ],
    "drivers": [
     {
-     "d": -3,
+     "d": 6,
+     "id": "nvda-sea-halt",
+     "text": "Nvidia freezes server shipments to 4 Southeast Asian nations"
+    },
+    {
+     "d": 4,
+     "id": "korea-exam-cam",
+     "text": "Police: exam ace hid a camera in correction tape, AI fed answers"
+    },
+    {
+     "d": -29,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "anthropic-dalby": -0.1,
-   "gpu-glut": -0.1,
+   "banks-ai-debt": 1.6,
+   "gpu-glut": -0.2,
    "grh-shrink": -0.1,
-   "huawei-hbm": -0.2,
+   "huawei-hbm": -0.1,
    "india-ai-cradle": -0.1,
-   "korea-exam-cam": 0.1,
+   "korea-exam-cam": -0.3,
    "leet-ai-cheat": -0.2,
    "meta-muse-fca": -0.1,
-   "nvda-sea-halt": -1.0,
-   "softbank-cds": -0.1,
+   "nvda-sea-halt": -1.1,
    "softbank-rebound": -0.8,
    "uk-court-fakes": -0.3,
-   "xpeng-humanoid": -0.4
+   "xpeng-humanoid": -0.3
   }
  },
  "state": {
   "models": {
-   "asOf": "Nov 25",
+   "asOf": "Nov 26",
    "src": "Artificial Analysis Intelligence Index",
    "url": "https://artificialanalysis.ai/leaderboards/models",
    "items": [
@@ -1132,6 +1150,12 @@
      "chg": -3.91
     },
     {
+     "sym": "ANT",
+     "name": "Anthropic",
+     "price": 82.79,
+     "chg": 1.08
+    },
+    {
      "sym": "CBRS",
      "name": "Cerebras",
      "price": 89.68,
@@ -1154,12 +1178,6 @@
      "name": "Palantir",
      "price": 163.59,
      "chg": 1.5
-    },
-    {
-     "sym": "NASDAQ",
-     "name": "Composite",
-     "price": 23585.8,
-     "chg": -0.62
     }
    ]
   },
@@ -1229,24 +1247,24 @@
    ]
   },
   "crypto": {
-   "asOf": "8:15 am ET",
+   "asOf": "9:14 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60794.0,
-     "chg": 3.54
+     "price": 60859.0,
+     "chg": 4.4
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1706.17,
-     "chg": 3.59
+     "price": 1704.09,
+     "chg": 4.14
     }
    ]
   }
  },
- "next": "2026-11-26T14:18:00Z"
+ "next": "2026-11-26T15:18:00Z"
 }
