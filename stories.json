@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:13:23Z",
+ "updated": "2026-11-26T09:13:20Z",
  "stories": [
   {
    "id": "nvda-sea-halt",
@@ -666,9 +666,9 @@
   "day": "2026-11-25"
  },
  "meter": {
-  "level": 3,
-  "score": 40,
-  "delta": -3,
+  "level": 2,
+  "score": 36,
+  "delta": -4,
   "moves": [
    {
     "d": -1,
@@ -677,28 +677,31 @@
    },
    {
     "d": -1,
+    "why": "STUNNING REVERSAL: Dow WIPES OUT a 1,100-POINT AI rout and closes H...",
+    "id": "dow-rebound"
+   },
+   {
+    "d": -1,
     "why": "SOFTBANK BOUNCES BACK",
     "id": "softbank-rebound"
    }
   ],
   "contrib": {
-   "nvda-sea-halt": 8.4,
-   "cbs-nvda-partners": 1.5,
-   "hegseth-dpa": 0.6,
+   "nvda-sea-halt": 8.0,
+   "cbs-nvda-partners": 1.2,
+   "hegseth-dpa": 0.4,
    "gpu-glut": 0.4,
-   "leet-ai-cheat": 3.8,
-   "india-ai-cradle": 1.3,
-   "softbank-rebound": 4.6,
-   "dow-rebound": 0.6,
-   "softbank-cds": 0.2,
+   "leet-ai-cheat": 3.6,
+   "india-ai-cradle": 1.2,
+   "softbank-rebound": 4.0,
+   "softbank-cds": 0.4,
    "huawei-hbm": 1.1,
-   "xpeng-humanoid": 3.4,
-   "anthropic-dalby": 0.6,
-   "artex-typhoon": 1.5,
-   "jpm-ai-debt": 0.3,
-   "waymo-eggs": 0.8,
-   "dems-red-lights": 0.1,
-   "grh-shrink": 1.0
+   "xpeng-humanoid": 3.2,
+   "anthropic-dalby": 0.5,
+   "artex-typhoon": 0.8,
+   "jpm-ai-debt": 0.1,
+   "waymo-eggs": 0.4,
+   "grh-shrink": 0.9
   },
   "lastAdjust": 0,
   "history": [
@@ -949,13 +952,17 @@
    {
     "t": "2026-11-26T08:13:23Z",
     "s": 40
+   },
+   {
+    "t": "2026-11-26T09:13:20Z",
+    "s": 36
    }
   ],
-  "at": "2026-11-26T08:13:23Z",
+  "at": "2026-11-26T09:13:20Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -3,
+   "delta": -4,
    "period": "since last reading",
    "line": [
     {
@@ -1033,34 +1040,35 @@
     {
      "t": "2026-11-26T08:13:23Z",
      "s": 40
+    },
+    {
+     "t": "2026-11-26T09:13:20Z",
+     "s": 36
     }
    ],
    "drivers": [
     {
-     "d": -3,
+     "d": -4,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "agent-attacks": -0.1,
    "anthropic-dalby": -0.1,
    "artex-typhoon": -0.7,
    "cbs-nvda-partners": -0.3,
    "dems-red-lights": -0.1,
-   "dow-rebound": -0.5,
-   "gpu-glut": 0.4,
+   "dow-rebound": -0.6,
    "grh-shrink": -0.1,
-   "hegseth-dpa": -0.1,
-   "huawei-hbm": -0.1,
+   "hegseth-dpa": -0.2,
    "india-ai-cradle": -0.1,
-   "jpm-ai-debt": -0.1,
-   "leet-ai-cheat": -0.3,
-   "nvda-rumor-bust": -0.1,
-   "nvda-sea-halt": 0.3,
+   "jpm-ai-debt": -0.2,
+   "leet-ai-cheat": -0.2,
+   "nvda-sea-halt": -0.4,
+   "softbank-cds": 0.2,
    "softbank-rebound": -0.6,
-   "waymo-eggs": -0.3,
-   "xpeng-humanoid": -0.3
+   "waymo-eggs": -0.4,
+   "xpeng-humanoid": -0.2
   }
  },
  "state": {
@@ -1211,24 +1219,24 @@
    ]
   },
   "crypto": {
-   "asOf": "3:13 am ET",
+   "asOf": "4:13 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60599.0,
-     "chg": 3.06
+     "price": 60774.0,
+     "chg": 2.84
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1689.14,
-     "chg": 3.1
+     "price": 1698.48,
+     "chg": 3.25
     }
    ]
   }
  },
- "next": "2026-11-26T09:18:00Z"
+ "next": "2026-11-26T10:18:00Z"
 }
