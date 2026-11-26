@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-26T19:14:32Z",
- "nextUpdate": "2026-11-26T20:18:00Z",
+ "updated": "2026-11-26T20:13:37Z",
+ "nextUpdate": "2026-11-26T21:18:00Z",
  "lead": [
   {
    "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...: FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
@@ -50,6 +50,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia: it 'NEVER HAPPENED'...",
+   "source": "Newsweek",
+   "url": "https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979",
+   "found": "2026-11-26T20:12:02Z",
+   "section": "politics"
+  },
   {
    "headline": "Black Friday TRAP: AI shopping bots fooled by FAKE STORES built by scammers' AI...",
    "source": "CBS News",
@@ -362,13 +369,6 @@
    "section": "politics"
   },
   {
-   "headline": "Trump: a pardon for Jensen is 'ALWAYS AN OPTION'... urges him not to take the Fifth",
-   "source": "New York Post",
-   "url": "https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/",
-   "found": "2026-11-25T02:17:13Z",
-   "section": "politics"
-  },
-  {
    "headline": "NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...",
    "source": "New York Times",
    "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
@@ -404,7 +404,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 31,
+  "score": 30,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

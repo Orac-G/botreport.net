@@ -19,6 +19,7 @@ Every headline links to the original reporting or primary source. Evidence is la
 ## Archive
 
 - [Archive index](https://botreport.net/archive/): every day since launch (Nov. 23, 2026)
+- [AI news for Thursday, November 26, 2026](https://botreport.net/2026/11/26/)
 - [AI news for Wednesday, November 25, 2026](https://botreport.net/2026/11/25/)
 - [AI news for Tuesday, November 24, 2026](https://botreport.net/2026/11/24/)
 - [AI news for Monday, November 23, 2026](https://botreport.net/2026/11/23/)

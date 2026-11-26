@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Thursday, November 26, 2026, 2:14 PM ET. Every headline links to the original reporting or primary source.
+Updated Thursday, November 26, 2026, 3:13 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,7 @@ Updated Thursday, November 26, 2026, 2:14 PM ET. Every headline links to the ori
 
 ## All stories (newest first)
 
+- [Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia: it 'NEVER HAPPENED'...](https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979) (Newsweek)
 - [Black Friday TRAP: AI shopping bots fooled by FAKE STORES built by scammers' AI...](https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/) (CBS News)
 - [BoE's Bailey: UNRELEASED AI models raise ENCRYPTION concerns for bank data...](https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae) (Financial Times)
 - [Jensen's BACK... and so is his PLAQUE at Denny's](https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html) (New York Times)
@@ -60,7 +61,6 @@ Updated Thursday, November 26, 2026, 2:14 PM ET. Every headline links to the ori
 - [Hackers hit unclassified CIA system... some sources point to a CHINESE AI TOOL](https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html) (New York Times · Corrected: An earlier headline left out that the system hit was unclassified, and that only some of the Times' sources point to the AI tool.)
 - [Amazon says China-linked hackers' AI agent found and exploited a ZERO-DAY on its own...](https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their-own/) (Amazon (AWS Security Blog) · Company claim)
 - [Asked how DOJ can clear Huang mid-probe, AG Blanche: 'I DON'T KNOW WHAT YOU'RE TALKING ABOUT'... FBI's Patel dodges too](https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html) (CNBC)
-- [Trump: a pardon for Jensen is 'ALWAYS AN OPTION'... urges him not to take the Fifth](https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/) (New York Post)
 - [NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...](https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html) (New York Times · Corrected: An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries.)
 - [Judge FREES ex-OpenAI engineer accused of BUGGING execs... $1 MILLION bond, ankle monitor](https://cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html) (CNBC)
 - [Senate hauls Jensen in for a PUBLIC grilling Dec. 3... as the ONLY witness](https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html) (CNBC)
@@ -71,6 +71,6 @@ Updated Thursday, November 26, 2026, 2:14 PM ET. Every headline links to the ori
 > “I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.”
 > — Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption ([source](https://www.nature.com/articles/d41586-026-03875-6))
 
-Skynet-o-Meter: 31 out of 100.
+Skynet-o-Meter: 30 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

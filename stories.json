@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-26T19:14:32Z",
+ "updated": "2026-11-26T20:13:37Z",
  "stories": [
+  {
+   "id": "pentagon-dpa-denial",
+   "cat": "politics",
+   "group": "huang-probe",
+   "h": "Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia: it 'NEVER HAPPENED'...",
+   "src": "Newsweek",
+   "url": "https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979",
+   "t": "2026-11-26T20:12:02Z",
+   "col": 0,
+   "img": {
+    "src": "img/pete-hegseth.jpg",
+    "alt": "Defense Secretary Pete Hegseth",
+    "credit": "U.S. Department of Defense / Public domain",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Pete_Hegseth_Official_Portrait.jpg"
+   },
+   "card": "Pentagon: Hegseth wartime-law plan for Nvidia 'never happened'"
+  },
   {
    "id": "aaronson-crypto",
    "cat": "tech",
@@ -524,12 +541,6 @@
    "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
    "t": "2026-11-25T04:12:27Z",
    "saga": "hacks",
-   "img": {
-    "src": "img/cia-hq.jpg",
-    "alt": "Aerial view of CIA headquarters in Langley, Virginia",
-    "credit": "Carol M. Highsmith / Public domain",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_CIA_headquarters,_Langley,_Virginia_14271v.jpg"
-   },
    "correction": "An earlier headline left out that the system hit was unclassified, and that only some of the Times' sources point to the AI tool.",
    "card": "Unclassified CIA system hit; some sources cite Chinese AI tool",
    "group": "hacks",
@@ -563,17 +574,6 @@
    },
    "col": 0,
    "card": "AG Blanche on Huang: 'I don't know what you're talking about'"
-  },
-  {
-   "id": "trump-pardon",
-   "cat": "politics",
-   "red": true,
-   "h": "Trump: a pardon for Jensen is 'ALWAYS AN OPTION'... urges him not to take the Fifth",
-   "src": "New York Post",
-   "url": "https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week/",
-   "t": "2026-11-25T02:17:13Z",
-   "group": "huang-probe",
-   "col": 0
   },
   {
    "id": "doj-diversion",
@@ -646,38 +646,28 @@
  },
  "meter": {
   "level": 2,
-  "score": 31,
-  "delta": 3,
+  "score": 30,
+  "delta": -1,
   "moves": [
    {
-    "d": 5,
-    "why": "Black Friday TRAP: AI shopping bots fooled by FAKE STORES built by...",
-    "id": "ai-shop-fakes"
-   },
-   {
-    "d": 2,
-    "why": "Scott Aaronson 'virtually certain' AI labs are sitting on ENCRYPTIO...",
-    "id": "aaronson-crypto"
-   },
-   {
-    "d": -1,
-    "why": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens...",
-    "id": "nvda-sea-halt"
+    "d": 1,
+    "why": "Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia:...",
+    "id": "pentagon-dpa-denial"
    }
   ],
   "contrib": {
-   "aaronson-crypto": 1.5,
-   "ai-shop-fakes": 4.6,
-   "boe-fsr": 1.5,
-   "boe-bailey-crypto": 1.5,
-   "sap-cuts": 1.4,
-   "dennys-plaque": 4.2,
-   "gpu-glut": 0.1,
-   "spain-pp-morocco": 1.1,
-   "banks-ai-debt": 1.0,
-   "korea-exam-cam": 2.1,
-   "meta-muse-fca": 0.6,
-   "uk-court-fakes": 1.3
+   "dennys-plaque": 3.8,
+   "pentagon-dpa-denial": 0.8,
+   "aaronson-crypto": 1.6,
+   "ai-shop-fakes": 4.7,
+   "boe-fsr": 1.4,
+   "boe-bailey-crypto": 1.4,
+   "sap-cuts": 1.3,
+   "spain-pp-morocco": 1.0,
+   "banks-ai-debt": 0.9,
+   "korea-exam-cam": 1.7,
+   "meta-muse-fca": 0.4,
+   "uk-court-fakes": 0.9
   },
   "lastAdjust": 0,
   "history": [
@@ -972,13 +962,17 @@
    {
     "t": "2026-11-26T19:14:22Z",
     "s": 31
+   },
+   {
+    "t": "2026-11-26T20:13:34Z",
+    "s": 30
    }
   ],
-  "at": "2026-11-26T19:14:22Z",
+  "at": "2026-11-26T20:13:34Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -29,
+   "delta": -28,
    "period": "in 24 hours",
    "line": [
     {
@@ -1100,6 +1094,10 @@
     {
      "t": "2026-11-26T19:14:22Z",
      "s": 31
+    },
+    {
+     "t": "2026-11-26T20:13:34Z",
+     "s": 30
     }
    ],
    "drivers": [
@@ -1114,23 +1112,24 @@
      "text": "Denny's puts Jensen's plaque back after his return"
     },
     {
-     "d": -38,
+     "d": -37,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "aaronson-crypto": 1.5,
-   "ai-shop-fakes": 4.6,
+   "aaronson-crypto": 0.1,
+   "ai-shop-fakes": 0.1,
    "banks-ai-debt": -0.1,
    "boe-bailey-crypto": -0.1,
    "boe-fsr": -0.1,
-   "dennys-plaque": -0.5,
-   "korea-exam-cam": -0.5,
-   "meta-muse-fca": -0.1,
-   "nvda-sea-halt": -1.2,
-   "sap-cuts": -0.2,
-   "spain-pp-morocco": -0.2,
+   "dennys-plaque": -0.4,
+   "gpu-glut": -0.1,
+   "korea-exam-cam": -0.4,
+   "meta-muse-fca": -0.2,
+   "pentagon-dpa-denial": 0.8,
+   "sap-cuts": -0.1,
+   "spain-pp-morocco": -0.1,
    "uk-court-fakes": -0.4
   }
  },
@@ -1282,24 +1281,24 @@
    ]
   },
   "crypto": {
-   "asOf": "2:14 pm ET",
+   "asOf": "3:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60474.0,
-     "chg": 0.96
+     "price": 60675.0,
+     "chg": 1.28
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1700.01,
-     "chg": 0.95
+     "price": 1702.4,
+     "chg": 1.26
     }
    ]
   }
  },
- "next": "2026-11-26T20:18:00Z"
+ "next": "2026-11-26T21:18:00Z"
 }
