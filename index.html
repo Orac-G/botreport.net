@@ -1029,7 +1029,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   }
 
   // The red alert stays until dismissed; the grey "nothing new" line fades out by itself after QUIET_SECONDS.
-  const QUIET_SECONDS = 8;
+  const QUIET_SECONDS = 5;
   let fadeTimer = null;
   function hideAlert() { clearTimeout(fadeTimer); $("alert").getAnimations().forEach((a) => a.cancel()); $("alert").hidden = true; }
   // Fade and fold the bar away together, closing its gap too, so the page glides up instead of jumping.
@@ -1111,6 +1111,8 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   const remember = () => {
     if (data && shownAt && Date.now() - shownAt >= SEEN_SECONDS * 1000) { store.set(KEY_SEEN, data.updated); store.set(KEY_AT, new Date().toISOString()); }
   };
+  // Also save while the reader is still here: some browsers (notably on phones) skip the leave events.
+  setInterval(() => { if (document.visibilityState === "visible") remember(); }, 15 * 1000);
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "hidden") { remember(); shownAt = null; } else shownAt = Date.now();
   });
