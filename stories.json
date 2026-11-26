@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-26T05:14:51Z",
+ "updated": "2026-11-26T06:13:29Z",
  "stories": [
+  {
+   "id": "leet-ai-cheat",
+   "cat": "quirky",
+   "h": "Police RAID late perfect scorer's home in Korea's AI CHEATING probe...",
+   "src": "Korea Herald",
+   "url": "https://www.koreaherald.com/article/10950541",
+   "t": "2026-11-26T06:11:48Z",
+   "card": "Police raid late perfect scorer's home in AI cheating probe",
+   "col": 1
+  },
+  {
+   "id": "india-ai-cradle",
+   "cat": "politics",
+   "h": "Modi floats an AI app that tracks kids from AGE THREE... and suggests their CAREERS",
+   "src": "The Register",
+   "url": "https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275",
+   "t": "2026-11-26T06:11:48Z",
+   "card": "Modi floats AI app tracking kids from age three",
+   "col": 0
+  },
   {
    "id": "dow-rebound",
    "cat": "business",
@@ -570,30 +590,6 @@
    "col": 1
   },
   {
-   "id": "ec-ai-hack",
-   "cat": "tech",
-   "h": "Hackers used AI to raid the European Commission... and got away with personal data",
-   "src": "The Register",
-   "url": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
-   "t": "2026-11-24T14:22:05Z",
-   "group": "hacks",
-   "col": 0
-  },
-  {
-   "id": "trump-nvda-trades",
-   "cat": "politics",
-   "group": "nvda-china",
-   "h": "Trump bought Nvidia 28 TIMES this year... up to $16.7 MILLION, disclosures show",
-   "src": "Kadoa",
-   "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
-   "t": "2026-11-24T13:17:22Z",
-   "hn": {
-    "url": "https://news.ycombinator.com/item?id=50626861",
-    "comments": 159
-   },
-   "col": 1
-  },
-  {
    "id": "ant-below-ipo",
    "cat": "business",
    "red": true,
@@ -619,7 +615,7 @@
    "label": "Not yet verified",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 168
+    "comments": 195
    },
    "col": 2,
    "card": "Claude's Riemann proof cut to 76,000 lines, not yet human-read"
@@ -658,18 +654,18 @@
  },
  "meter": {
   "level": 3,
-  "score": 44,
-  "delta": 0,
+  "score": 43,
+  "delta": -1,
   "moves": [
    {
     "d": 4,
-    "why": "Xpeng says its HUMANOID ROBOT will cost about the same as an ELECTR...",
-    "id": "xpeng-humanoid"
+    "why": "Police RAID late perfect scorer's home in Korea's AI CHEATING probe...",
+    "id": "leet-ai-cheat"
    },
    {
     "d": 1,
-    "why": "Huawei TEASES a homegrown AI MEMORY CHIP that could top Samsung and...",
-    "id": "huawei-hbm"
+    "why": "Modi floats an AI app that tracks kids from AGE THREE... and sugges...",
+    "id": "india-ai-cradle"
    },
    {
     "d": -1,
@@ -678,26 +674,26 @@
    }
   ],
   "contrib": {
-   "softbank-rebound": 6.6,
-   "dow-rebound": 2.2,
+   "leet-ai-cheat": 4.1,
+   "india-ai-cradle": 1.4,
+   "softbank-rebound": 5.9,
+   "dow-rebound": 1.7,
    "softbank-cds": 0.3,
    "huawei-hbm": 1.4,
    "xpeng-humanoid": 4.1,
-   "cbs-nvda-partners": 5.2,
-   "hegseth-dpa": 2.2,
-   "nvda-sp-watch": 0.4,
+   "cbs-nvda-partners": 4.5,
+   "hegseth-dpa": 1.8,
+   "nvda-sp-watch": 0.2,
    "nvda-rumor-bust": 0.1,
    "vance-no-probe": 0.1,
-   "anthropic-dalby": 1.0,
-   "artex-typhoon": 3.7,
-   "agent-attacks": 0.2,
-   "jpm-ai-debt": 0.6,
-   "waymo-eggs": 1.8,
-   "dems-red-lights": 0.5,
-   "amodei-free-will": 0.2,
-   "spacex-starmind": 0.7,
-   "cai-auction": 1.0,
-   "grh-shrink": 1.4
+   "anthropic-dalby": 0.9,
+   "artex-typhoon": 3.0,
+   "agent-attacks": 0.1,
+   "jpm-ai-debt": 0.5,
+   "waymo-eggs": 1.5,
+   "dems-red-lights": 0.4,
+   "amodei-free-will": 0.1,
+   "grh-shrink": 1.2
   },
   "lastAdjust": 0,
   "history": [
@@ -936,13 +932,17 @@
    {
     "t": "2026-11-26T05:14:45Z",
     "s": 44
+   },
+   {
+    "t": "2026-11-26T06:13:29Z",
+    "s": 43
    }
   ],
-  "at": "2026-11-26T05:14:45Z",
+  "at": "2026-11-26T06:13:29Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 0,
+   "delta": -1,
    "period": "since last reading",
    "line": [
     {
@@ -1008,43 +1008,47 @@
     {
      "t": "2026-11-26T05:14:45Z",
      "s": 44
+    },
+    {
+     "t": "2026-11-26T06:13:29Z",
+     "s": 43
     }
    ],
    "drivers": [
     {
      "d": 4,
-     "id": "xpeng-humanoid",
-     "text": "Xpeng: our humanoid robot will cost the same as an EV"
+     "id": "leet-ai-cheat",
+     "text": "Police raid late perfect scorer's home in AI cheating probe"
     },
     {
      "d": 1,
-     "id": "huawei-hbm",
-     "text": "Huawei teases AI memory chip to take on Samsung, Hynix"
+     "id": "india-ai-cradle",
+     "text": "Modi floats AI app tracking kids from age three"
     },
     {
-     "d": -5,
+     "d": -6,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "amodei-free-will": -0.2,
+   "agent-attacks": -0.1,
+   "amodei-free-will": -0.1,
    "anthropic-dalby": -0.1,
    "artex-typhoon": -0.7,
-   "cai-auction": -0.9,
+   "cai-auction": -1.0,
    "cbs-nvda-partners": -0.7,
    "dems-red-lights": -0.1,
-   "dow-rebound": -0.6,
-   "grh-shrink": 0.1,
+   "dow-rebound": -0.5,
+   "grh-shrink": -0.2,
    "hegseth-dpa": -0.4,
-   "huawei-hbm": 1.4,
+   "india-ai-cradle": 1.4,
    "jpm-ai-debt": -0.1,
-   "nvda-rumor-bust": -0.1,
-   "nvda-sp-watch": -0.1,
+   "leet-ai-cheat": 4.1,
+   "nvda-sp-watch": -0.2,
    "softbank-rebound": -0.7,
-   "spacex-starmind": -0.8,
-   "waymo-eggs": -0.4,
-   "xpeng-humanoid": 4.1
+   "spacex-starmind": -0.7,
+   "waymo-eggs": -0.3
   }
  },
  "state": {
@@ -1108,12 +1112,6 @@
      "name": "CoreWeave",
      "price": 42.57,
      "chg": -0.08
-    },
-    {
-     "sym": "NBIS",
-     "name": "Nebius",
-     "price": 84.99,
-     "chg": -2.64
     },
     {
      "sym": "PLTR",
@@ -1195,24 +1193,24 @@
    ]
   },
   "crypto": {
-   "asOf": "12:14 am ET",
+   "asOf": "1:13 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60863.0,
-     "chg": 3.06
+     "price": 60476.0,
+     "chg": 2.11
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1698.47,
-     "chg": 2.56
+     "price": 1683.02,
+     "chg": 1.41
     }
    ]
   }
  },
- "next": "2026-11-26T06:18:00Z"
+ "next": "2026-11-26T07:18:00Z"
 }
