@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-26T14:14:12Z",
- "nextUpdate": "2026-11-26T15:18:00Z",
+ "updated": "2026-11-26T15:13:59Z",
+ "nextUpdate": "2026-11-26T16:18:00Z",
  "lead": [
   {
    "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...: FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
@@ -49,6 +49,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Spain's opposition uses AI to swap PM Sánchez's Spain jersey for a MOROCCO shirt... and comes under fire",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt",
+   "found": "2026-11-26T15:12:03Z",
+   "section": "politics"
+  },
   {
    "headline": "Banks look to DUMP AI DEBT: Citi and JPMorgan shopping AI loan portfolios to investors, sources say...",
    "source": "Semafor",
@@ -412,7 +419,7 @@
   "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
  },
  "skynetOMeter": {
-  "score": 31,
+  "score": 29,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
