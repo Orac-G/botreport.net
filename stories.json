@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-26T18:15:36Z",
+ "updated": "2026-11-26T19:14:32Z",
  "stories": [
+  {
+   "id": "aaronson-crypto",
+   "cat": "tech",
+   "h": "Scott Aaronson 'virtually certain' AI labs are sitting on ENCRYPTION-BREAKING BOMBSHELLS...",
+   "src": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-03875-6",
+   "t": "2026-11-26T19:11:37Z",
+   "top": true,
+   "label": "Not yet verified",
+   "card": "Aaronson: AI labs likely sitting on crypto-breaking bombshells"
+  },
+  {
+   "id": "ai-shop-fakes",
+   "cat": "quirky",
+   "h": "Black Friday TRAP: AI shopping bots fooled by FAKE STORES built by scammers' AI...",
+   "src": "CBS News",
+   "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/",
+   "t": "2026-11-26T19:11:37Z",
+   "card": "AI shopping bots fooled by scammers' fake Black Friday stores",
+   "col": 1
+  },
   {
    "id": "boe-fsr",
    "cat": "business",
@@ -85,7 +106,7 @@
    "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
    "t": "2026-11-26T11:11:44Z",
    "card": "UK watchdog: Meta refused to let it test Muse AI agent",
-   "top": true
+   "col": 2
   },
   {
    "id": "uk-court-fakes",
@@ -591,42 +612,6 @@
    "col": 0
   },
   {
-   "id": "ny-ai-toys",
-   "cat": "politics",
-   "red": true,
-   "h": "New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping",
-   "src": "Office of the Governor of New York",
-   "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
-   "t": "2026-11-24T22:11:23Z",
-   "hn": {
-    "url": "https://news.ycombinator.com/item?id=50635246",
-    "comments": 3
-   },
-   "img": {
-    "src": "img/hochul.jpg",
-    "alt": "New York Governor Kathy Hochul",
-    "credit": "US Congress (Official Photo) / Public domain",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Kathy_Hochul,_official_portrait,_112th_Congress_(cropped).jpg"
-   },
-   "card": "New York BANS AI chatbot toys for FIVE YEARS",
-   "col": 1
-  },
-  {
-   "id": "too-dangerous",
-   "cat": "tech",
-   "red": true,
-   "h": "Anthropic and OpenAI staff fear their new models are TOO DANGEROUS to release...",
-   "src": "Axios",
-   "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
-   "t": "2026-11-24T18:14:00Z",
-   "hn": {
-    "url": "https://news.ycombinator.com/item?id=50631691",
-    "comments": 12
-   },
-   "group": "doom",
-   "col": 1
-  },
-  {
    "id": "grh-shrink",
    "cat": "tech",
    "group": "science",
@@ -637,7 +622,7 @@
    "label": "Not yet verified",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 335
+    "comments": 336
    },
    "col": 2,
    "card": "Claude's Riemann proof cut to 76,000 lines, not yet human-read"
@@ -654,25 +639,25 @@
   }
  ],
  "quote": {
-  "text": "What the market is telling you is that the AI growth narrative has hit a wall and given the centrality of that theme at the economic level, the market is expecting some sort of a macro shock.",
-  "who": "Venu Krishna, head of U.S. equity strategy at Barclays, on the AI sell-off that hit Nvidia",
-  "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
-  "day": "2026-11-25"
+  "text": "I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.",
+  "who": "Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption",
+  "url": "https://www.nature.com/articles/d41586-026-03875-6",
+  "day": "2026-11-26"
  },
  "meter": {
   "level": 2,
-  "score": 28,
-  "delta": 0,
+  "score": 31,
+  "delta": 3,
   "moves": [
    {
-    "d": 2,
-    "why": "BoE's Bailey: UNRELEASED AI models raise ENCRYPTION concerns for ba...",
-    "id": "boe-bailey-crypto"
+    "d": 5,
+    "why": "Black Friday TRAP: AI shopping bots fooled by FAKE STORES built by...",
+    "id": "ai-shop-fakes"
    },
    {
     "d": 2,
-    "why": "Bank of England: AI money is 'COMPLEX, CIRCULAR AND OPAQUE'... $305...",
-    "id": "boe-fsr"
+    "why": "Scott Aaronson 'virtually certain' AI labs are sitting on ENCRYPTIO...",
+    "id": "aaronson-crypto"
    },
    {
     "d": -1,
@@ -681,17 +666,18 @@
    }
   ],
   "contrib": {
-   "boe-fsr": 1.6,
-   "boe-bailey-crypto": 1.6,
-   "sap-cuts": 1.6,
-   "dennys-plaque": 4.7,
+   "aaronson-crypto": 1.5,
+   "ai-shop-fakes": 4.6,
+   "boe-fsr": 1.5,
+   "boe-bailey-crypto": 1.5,
+   "sap-cuts": 1.4,
+   "dennys-plaque": 4.2,
    "gpu-glut": 0.1,
-   "spain-pp-morocco": 1.3,
-   "banks-ai-debt": 1.1,
-   "korea-exam-cam": 2.6,
-   "meta-muse-fca": 0.7,
-   "uk-court-fakes": 1.7,
-   "nvda-sea-halt": 1.2
+   "spain-pp-morocco": 1.1,
+   "banks-ai-debt": 1.0,
+   "korea-exam-cam": 2.1,
+   "meta-muse-fca": 0.6,
+   "uk-court-fakes": 1.3
   },
   "lastAdjust": 0,
   "history": [
@@ -982,13 +968,17 @@
    {
     "t": "2026-11-26T18:15:36Z",
     "s": 28
+   },
+   {
+    "t": "2026-11-26T19:14:22Z",
+    "s": 31
    }
   ],
-  "at": "2026-11-26T18:15:36Z",
+  "at": "2026-11-26T19:14:22Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -32,
+   "delta": -29,
    "period": "in 24 hours",
    "line": [
     {
@@ -1106,38 +1096,42 @@
     {
      "t": "2026-11-26T18:15:36Z",
      "s": 28
+    },
+    {
+     "t": "2026-11-26T19:14:22Z",
+     "s": 31
     }
    ],
    "drivers": [
     {
      "d": 5,
+     "id": "ai-shop-fakes",
+     "text": "AI shopping bots fooled by scammers' fake Black Friday stores"
+    },
+    {
+     "d": 4,
      "id": "dennys-plaque",
      "text": "Denny's puts Jensen's plaque back after his return"
     },
     {
-     "d": 3,
-     "id": "korea-exam-cam",
-     "text": "Police: exam ace hid a camera in correction tape, AI fed answers"
-    },
-    {
-     "d": -40,
+     "d": -38,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "banks-ai-debt": -0.2,
-   "boe-bailey-crypto": 1.6,
-   "boe-fsr": 1.6,
-   "dennys-plaque": -0.1,
-   "gpu-glut": -0.1,
-   "india-ai-cradle": -0.1,
-   "korea-exam-cam": -0.4,
-   "leet-ai-cheat": -0.2,
-   "meta-muse-fca": -0.2,
-   "nvda-sea-halt": -1.4,
-   "spain-pp-morocco": -0.1,
-   "uk-court-fakes": -0.5
+   "aaronson-crypto": 1.5,
+   "ai-shop-fakes": 4.6,
+   "banks-ai-debt": -0.1,
+   "boe-bailey-crypto": -0.1,
+   "boe-fsr": -0.1,
+   "dennys-plaque": -0.5,
+   "korea-exam-cam": -0.5,
+   "meta-muse-fca": -0.1,
+   "nvda-sea-halt": -1.2,
+   "sap-cuts": -0.2,
+   "spain-pp-morocco": -0.2,
+   "uk-court-fakes": -0.4
   }
  },
  "state": {
@@ -1288,24 +1282,24 @@
    ]
   },
   "crypto": {
-   "asOf": "1:15 pm ET",
+   "asOf": "2:14 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60466.0,
-     "chg": 1.32
+     "price": 60474.0,
+     "chg": 0.96
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1692.22,
-     "chg": 0.74
+     "price": 1700.01,
+     "chg": 0.95
     }
    ]
   }
  },
- "next": "2026-11-26T19:18:00Z"
+ "next": "2026-11-26T20:18:00Z"
 }

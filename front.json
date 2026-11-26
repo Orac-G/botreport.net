@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-26T18:15:36Z",
- "nextUpdate": "2026-11-26T19:18:00Z",
+ "updated": "2026-11-26T19:14:32Z",
+ "nextUpdate": "2026-11-26T20:18:00Z",
  "lead": [
   {
    "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...: FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
@@ -19,6 +19,14 @@
   }
  ],
  "topLinks": [
+  {
+   "headline": "Scott Aaronson 'virtually certain' AI labs are sitting on ENCRYPTION-BREAKING BOMBSHELLS...",
+   "source": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-03875-6",
+   "found": "2026-11-26T19:11:37Z",
+   "section": "tech",
+   "label": "Not yet verified"
+  },
   {
    "headline": "Bank of England: AI money is 'COMPLEX, CIRCULAR AND OPAQUE'... $305 BILLION in hyperscaler bonds this year",
    "source": "Bank of England",
@@ -39,16 +47,16 @@
    "url": "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt",
    "found": "2026-11-26T15:12:03Z",
    "section": "politics"
-  },
-  {
-   "headline": "Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...",
-   "source": "Wired",
-   "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
-   "found": "2026-11-26T11:11:44Z",
-   "section": "politics"
   }
  ],
  "stories": [
+  {
+   "headline": "Black Friday TRAP: AI shopping bots fooled by FAKE STORES built by scammers' AI...",
+   "source": "CBS News",
+   "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/",
+   "found": "2026-11-26T19:11:37Z",
+   "section": "quirky"
+  },
   {
    "headline": "BoE's Bailey: UNRELEASED AI models raise ENCRYPTION concerns for bank data...",
    "source": "Financial Times",
@@ -76,6 +84,13 @@
    "url": "https://www.koreaherald.com/article/10950986",
    "found": "2026-11-26T12:13:35Z",
    "section": "quirky"
+  },
+  {
+   "headline": "Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...",
+   "source": "Wired",
+   "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+   "found": "2026-11-26T11:11:44Z",
+   "section": "politics"
   },
   {
    "headline": "AI FAKES hit at least 25 court cases in England and Wales... invented case law and statutes that DON'T EXIST",
@@ -130,7 +145,7 @@
    "label": "Not yet verified",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 335
+    "comments": 336
    }
   },
   {
@@ -376,28 +391,6 @@
    "section": "politics"
   },
   {
-   "headline": "New York BANS AI chatbot toys for FIVE YEARS... just in time for holiday shopping",
-   "source": "Office of the Governor of New York",
-   "url": "https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot",
-   "found": "2026-11-24T22:11:23Z",
-   "section": "politics",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50635246",
-    "comments": 3
-   }
-  },
-  {
-   "headline": "Anthropic and OpenAI staff fear their new models are TOO DANGEROUS to release...",
-   "source": "Axios",
-   "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
-   "found": "2026-11-24T18:14:00Z",
-   "section": "tech",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50631691",
-    "comments": 12
-   }
-  },
-  {
    "headline": "Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE",
    "source": "Scientific American",
    "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
@@ -406,12 +399,12 @@
   }
  ],
  "quoteOfTheDay": {
-  "text": "What the market is telling you is that the AI growth narrative has hit a wall and given the centrality of that theme at the economic level, the market is expecting some sort of a macro shock.",
-  "who": "Venu Krishna, head of U.S. equity strategy at Barclays, on the AI sell-off that hit Nvidia",
-  "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
+  "text": "I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.",
+  "who": "Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption",
+  "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 28,
+  "score": 31,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
