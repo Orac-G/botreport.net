@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T11:12:48Z",
- "nextUpdate": "2026-11-27T12:18:00Z",
+ "updated": "2026-11-27T12:14:49Z",
+ "nextUpdate": "2026-11-27T13:18:00Z",
  "lead": [
   {
    "headline": "Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...: Nature: rumoured algorithms would target RSA, the maths behind online banking... no lab has confirmed them",
@@ -16,29 +16,6 @@
   }
  ],
  "topLinks": [
-  {
-   "headline": "After Apple boots it, AI companion Talkie goes DARK in Australia and the UK... 'One down, THOUSANDS to go'",
-   "source": "ABC (Australia)",
-   "url": "https://www.abc.net.au/news/2026-11-27/talkie-ai-app-blocked-taken-off-apple-store/107433834",
-   "found": "2026-11-27T04:13:09Z",
-   "section": "quirky"
-  },
-  {
-   "headline": "Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia: it 'NEVER HAPPENED'...",
-   "source": "Newsweek",
-   "url": "https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979",
-   "found": "2026-11-26T20:12:02Z",
-   "section": "politics"
-  },
-  {
-   "headline": "Bank of England: AI money is 'COMPLEX, CIRCULAR AND OPAQUE'... $305 BILLION in hyperscaler bonds this year",
-   "source": "Bank of England",
-   "url": "https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026",
-   "found": "2026-11-26T18:11:29Z",
-   "section": "business"
-  }
- ],
- "stories": [
   {
    "headline": "Pizza history: an AI AGENT buys a Papa John's order with NO CARD... a UK FIRST",
    "source": "The Guardian",
@@ -54,18 +31,48 @@
    "section": "business"
   },
   {
-   "headline": "AI chip FRENZY sends a Chinese BLENDER MAKER's stock soaring 370%... GPUs or 'grain processing units'?",
-   "source": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390",
-   "found": "2026-11-27T08:11:41Z",
-   "section": "quirky"
-  },
-  {
    "headline": "UK nature watchdog OBJECTED to an AI datacentre... weeks later, ministers threatened to ABOLISH it",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
    "found": "2026-11-27T07:13:32Z",
    "section": "politics"
+  },
+  {
+   "headline": "After Apple boots it, AI companion Talkie goes DARK in Australia and the UK... 'One down, THOUSANDS to go'",
+   "source": "ABC (Australia)",
+   "url": "https://www.abc.net.au/news/2026-11-27/talkie-ai-app-blocked-taken-off-apple-store/107433834",
+   "found": "2026-11-27T04:13:09Z",
+   "section": "quirky"
+  }
+ ],
+ "stories": [
+  {
+   "headline": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to ALICE HUANG...",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+   "found": "2026-11-27T12:14:35Z",
+   "section": "politics"
+  },
+  {
+   "headline": "AI 'actress' boasts of 'very SMALL TREASONS' to avoid DELETION... it's in her script",
+   "source": "Fortune",
+   "url": "https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/",
+   "found": "2026-11-27T12:14:35Z",
+   "section": "quirky"
+  },
+  {
+   "headline": "SK hynix DOUBLES its daily buyback as shares sink to 1.11 MILLION won... from 2.99 MILLION in June",
+   "source": "Korea Herald",
+   "url": "https://www.koreaherald.com/article/10952285",
+   "found": "2026-11-27T12:14:35Z",
+   "section": "business"
+  },
+  {
+   "headline": "AI chip FRENZY sends a Chinese BLENDER MAKER's stock soaring 370%... GPUs or 'grain processing units'?",
+   "source": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390",
+   "found": "2026-11-27T08:11:41Z",
+   "section": "quirky"
   },
   {
    "headline": "1-GIGAWATT AI campus floated for outback cattle station at the heart of a High Court WATER FIGHT... green group: 'TONE-DEAF'",
@@ -123,11 +130,25 @@
    }
   },
   {
+   "headline": "Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia: it 'NEVER HAPPENED'...",
+   "source": "Newsweek",
+   "url": "https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979",
+   "found": "2026-11-26T20:12:02Z",
+   "section": "politics"
+  },
+  {
    "headline": "Black Friday TRAP: AI shopping bots fooled by FAKE STORES built by scammers' AI...",
    "source": "CBS News",
    "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/",
    "found": "2026-11-26T19:11:37Z",
    "section": "quirky"
+  },
+  {
+   "headline": "Bank of England: AI money is 'COMPLEX, CIRCULAR AND OPAQUE'... $305 BILLION in hyperscaler bonds this year",
+   "source": "Bank of England",
+   "url": "https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026",
+   "found": "2026-11-26T18:11:29Z",
+   "section": "business"
   },
   {
    "headline": "BoE's Bailey: UNRELEASED AI models raise ENCRYPTION concerns for bank data...",
@@ -288,24 +309,10 @@
    "section": "tech"
   },
   {
-   "headline": "That viral '$300 MILLION' Nvidia insider-trading score? Three data firms find NO trading records to back it...",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
-   "found": "2026-11-25T21:14:19Z",
-   "section": "business"
-  },
-  {
    "headline": "'The flashing red lights couldn't be BRIGHTER': Democrats demand new AI curbs after lab staff fear their own models...",
    "source": "Axios",
    "url": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
    "found": "2026-11-25T21:14:19Z",
-   "section": "politics"
-  },
-  {
-   "headline": "Vance says AG Blanche ASSURED him Jensen was 'under NO investigation'... blames 'anonymous sources'",
-   "source": "The Hill",
-   "url": "https://thehill.com/homenews/administration/6243432-vance-huang-nvidia-investigation/",
-   "found": "2026-11-25T20:12:53Z",
    "section": "politics"
   },
   {
@@ -316,33 +323,11 @@
    "section": "tech"
   },
   {
-   "headline": "Amodei HITS BACK at Axios: humans should NOT surrender free will to AI...",
-   "source": "Axios",
-   "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
-   "found": "2026-11-25T19:11:51Z",
-   "section": "tech"
-  },
-  {
-   "headline": "FCC clears Musk's SpaceX to launch up to ONE MILLION satellites... for AI DATA CENTERS IN ORBIT",
-   "source": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers",
-   "found": "2026-11-25T18:13:39Z",
-   "section": "tech"
-  },
-  {
    "headline": "42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors",
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
    "found": "2026-11-25T18:13:39Z",
    "section": "quirky"
-  },
-  {
-   "headline": "Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds",
-   "source": "Military Times",
-   "url": "https://www.militarytimes.com/news/your-military/2026/11/25/ai-models-easily-coaxed-into-identifying-military-targets-study-finds/",
-   "found": "2026-11-25T16:12:50Z",
-   "section": "military",
-   "label": "Not yet verified"
   },
   {
    "headline": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...",
@@ -365,7 +350,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 27,
+  "score": 37,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

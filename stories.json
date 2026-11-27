@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-27T11:12:48Z",
+ "updated": "2026-11-27T12:14:49Z",
  "stories": [
+  {
+   "id": "blackwell-alice",
+   "cat": "politics",
+   "h": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to ALICE HUANG...",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+   "t": "2026-11-27T12:14:35Z",
+   "red": true,
+   "group": "nvda-china",
+   "card": "Blackwell chips found at Shanghai site tied to Alice Huang",
+   "col": 0
+  },
+  {
+   "id": "tilly-treasons",
+   "cat": "quirky",
+   "h": "AI 'actress' boasts of 'very SMALL TREASONS' to avoid DELETION... it's in her script",
+   "src": "Fortune",
+   "url": "https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/",
+   "t": "2026-11-27T12:14:35Z",
+   "card": "AI actress boasts of 'small treasons' to dodge deletion",
+   "col": 2
+  },
+  {
+   "id": "hynix-buyback",
+   "cat": "business",
+   "h": "SK hynix DOUBLES its daily buyback as shares sink to 1.11 MILLION won... from 2.99 MILLION in June",
+   "src": "Korea Herald",
+   "url": "https://www.koreaherald.com/article/10952285",
+   "t": "2026-11-27T12:14:35Z",
+   "group": "markets",
+   "card": "SK hynix doubles buyback as shares slide from June high",
+   "col": 1
+  },
   {
    "id": "agent-pizza",
    "cat": "quirky",
@@ -8,8 +41,8 @@
    "src": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
    "t": "2026-11-27T10:12:57Z",
-   "col": 1,
-   "card": "AI agent buys a pizza with no card: a UK first"
+   "card": "AI agent buys a pizza with no card: a UK first",
+   "top": true
   },
   {
    "id": "china-chip-surge",
@@ -18,8 +51,8 @@
    "src": "CNBC",
    "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
    "t": "2026-11-27T09:11:54Z",
-   "col": 0,
-   "card": "China's chip stocks log their BIGGEST DAY EVER: up 17%"
+   "card": "China's chip stocks log their BIGGEST DAY EVER: up 17%",
+   "top": true
   },
   {
    "id": "blender-gpu",
@@ -38,8 +71,8 @@
    "src": "The Guardian",
    "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
    "t": "2026-11-27T07:13:32Z",
-   "col": 2,
-   "card": "Watchdog opposes AI datacentre; ministers threaten to scrap it"
+   "card": "Watchdog opposes AI datacentre; ministers threaten to scrap it",
+   "top": true
   },
   {
    "id": "singleton-dc",
@@ -146,7 +179,7 @@
    "url": "https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979",
    "t": "2026-11-26T20:12:02Z",
    "card": "Pentagon: Hegseth wartime-law plan for Nvidia 'never happened'",
-   "top": true
+   "col": 0
   },
   {
    "id": "aaronson-crypto",
@@ -184,8 +217,8 @@
    "src": "Bank of England",
    "url": "https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026",
    "t": "2026-11-26T18:11:29Z",
-   "top": true,
-   "card": "BoE: AI financing is 'complex, circular and opaque'"
+   "card": "BoE: AI financing is 'complex, circular and opaque'",
+   "col": 2
   },
   {
    "id": "boe-bailey-crypto",
@@ -261,7 +294,13 @@
    "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
    "t": "2026-11-26T11:11:44Z",
    "card": "UK watchdog: Meta refused to let it test Muse AI agent",
-   "col": 2
+   "col": 2,
+   "img": {
+    "src": "img/mark-zuckerberg.jpg",
+    "alt": "Meta CEO Mark Zuckerberg",
+    "credit": "The White House / Public domain",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:P20260929DT-1655_(55561811540)_(cropped_2).jpg"
+   }
   },
   {
    "id": "uk-court-fakes",
@@ -421,16 +460,6 @@
    "card": "Microsoft: Chinese hackers' AI tool takes networks in minutes"
   },
   {
-   "id": "nvda-rumor-bust",
-   "cat": "business",
-   "group": "huang",
-   "h": "That viral '$300 MILLION' Nvidia insider-trading score? Three data firms find NO trading records to back it...",
-   "src": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
-   "t": "2026-11-25T21:14:19Z",
-   "col": 0
-  },
-  {
    "id": "dems-red-lights",
    "cat": "politics",
    "group": "doom",
@@ -441,16 +470,6 @@
    "col": 1
   },
   {
-   "id": "vance-no-probe",
-   "cat": "politics",
-   "h": "Vance says AG Blanche ASSURED him Jensen was 'under NO investigation'... blames 'anonymous sources'",
-   "src": "The Hill",
-   "url": "https://thehill.com/homenews/administration/6243432-vance-huang-nvidia-investigation/",
-   "t": "2026-11-25T20:12:53Z",
-   "group": "huang-probe",
-   "col": 0
-  },
-  {
    "id": "agent-attacks",
    "cat": "tech",
    "h": "Italy and Switzerland warn AI AGENTS are breaching critical infrastructure... 'writing malicious code in real time'",
@@ -458,33 +477,6 @@
    "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
    "t": "2026-11-25T20:12:53Z",
    "group": "hacks",
-   "col": 2
-  },
-  {
-   "id": "amodei-free-will",
-   "cat": "tech",
-   "h": "Amodei HITS BACK at Axios: humans should NOT surrender free will to AI...",
-   "src": "Axios",
-   "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
-   "t": "2026-11-25T19:11:51Z",
-   "group": "agency",
-   "col": 2,
-   "img": {
-    "src": "img/dario-amodei.jpg",
-    "alt": "Anthropic CEO Dario Amodei",
-    "credit": "TechCrunch / CC BY 2.0",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_01_(cropped).jpg"
-   }
-  },
-  {
-   "id": "spacex-starmind",
-   "cat": "tech",
-   "red": true,
-   "h": "FCC clears Musk's SpaceX to launch up to ONE MILLION satellites... for AI DATA CENTERS IN ORBIT",
-   "src": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers",
-   "t": "2026-11-25T18:13:39Z",
-   "card": "FCC clears SpaceX for 1 MILLION data-center satellites",
    "col": 2
   },
   {
@@ -498,17 +490,6 @@
    "t": "2026-11-25T18:13:39Z",
    "card": "42 AGs fight Character.ai sale of 21M users' private chats",
    "col": 1
-  },
-  {
-   "id": "ai-targets",
-   "cat": "military",
-   "h": "Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds",
-   "src": "Military Times",
-   "url": "https://www.militarytimes.com/news/your-military/2026/11/25/ai-models-easily-coaxed-into-identifying-military-targets-study-finds/",
-   "t": "2026-11-25T16:12:50Z",
-   "label": "Not yet verified",
-   "col": 1,
-   "card": "Study: AI models pick military targets if told it's a game"
   },
   {
    "id": "huang-spy-brief",
@@ -559,20 +540,38 @@
  },
  "meter": {
   "level": 2,
-  "score": 27,
-  "delta": -1,
-  "moves": [],
+  "score": 37,
+  "delta": 10,
+  "moves": [
+   {
+    "d": 9,
+    "why": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to AL...",
+    "id": "blackwell-alice"
+   },
+   {
+    "d": 4,
+    "why": "AI 'actress' boasts of 'very SMALL TREASONS' to avoid DELETION... i...",
+    "id": "tilly-treasons"
+   },
+   {
+    "d": 2,
+    "why": "SK hynix DOUBLES its daily buyback as shares sink to 1.11 MILLION w...",
+    "id": "hynix-buyback"
+   }
+  ],
   "contrib": {
-   "agent-pizza": 4.8,
-   "china-chip-surge": 1.5,
-   "blender-gpu": 3.9,
-   "ne-datacentre": 1.2,
-   "singleton-dc": 0.9,
-   "sg-chip-talks": 0.9,
-   "talkie-geoblock": 2.2,
-   "taiwan-exodus": 0.7,
-   "trump-huang-term": 0.4,
-   "astra-gravity": 0.1
+   "blackwell-alice": 8.7,
+   "trump-huang-term": 0.1,
+   "tilly-treasons": 4.4,
+   "hynix-buyback": 1.5,
+   "taiwan-exodus": 0.3,
+   "agent-pizza": 4.0,
+   "china-chip-surge": 1.2,
+   "blender-gpu": 3.2,
+   "ne-datacentre": 0.9,
+   "singleton-dc": 0.7,
+   "sg-chip-talks": 0.7,
+   "talkie-geoblock": 1.6
   },
   "lastAdjust": 0,
   "history": [
@@ -931,13 +930,17 @@
    {
     "t": "2026-11-27T11:12:48Z",
     "s": 27
+   },
+   {
+    "t": "2026-11-27T12:14:49Z",
+    "s": 37
    }
   ],
-  "at": "2026-11-27T11:12:48Z",
+  "at": "2026-11-27T12:14:49Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -7,
+   "delta": 1,
    "period": "in 24 hours",
    "line": [
     {
@@ -1123,35 +1126,43 @@
     {
      "t": "2026-11-27T11:12:48Z",
      "s": 27
+    },
+    {
+     "t": "2026-11-27T12:14:49Z",
+     "s": 37
     }
    ],
    "drivers": [
     {
-     "d": 5,
-     "id": "agent-pizza",
-     "text": "AI agent buys a pizza with no card: a UK first"
+     "d": 9,
+     "id": "blackwell-alice",
+     "text": "Blackwell chips found at Shanghai site tied to Alice Huang"
     },
     {
      "d": 4,
-     "id": "blender-gpu",
-     "text": "AI chip frenzy sends a Chinese blender maker up 370%"
+     "id": "tilly-treasons",
+     "text": "AI actress boasts of 'small treasons' to dodge deletion"
     },
     {
-     "d": -16,
+     "d": -12,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "astra-gravity": -0.2,
-   "blender-gpu": -0.4,
-   "china-chip-surge": -0.1,
-   "ne-datacentre": -0.1,
-   "sg-chip-talks": -0.1,
-   "singleton-dc": -0.1,
-   "taiwan-exodus": -0.2,
-   "talkie-geoblock": -0.4,
-   "trump-huang-term": -0.2
+   "agent-pizza": -0.8,
+   "astra-gravity": -0.1,
+   "blackwell-alice": 8.7,
+   "blender-gpu": -0.7,
+   "china-chip-surge": -0.3,
+   "hynix-buyback": 1.5,
+   "ne-datacentre": -0.3,
+   "sg-chip-talks": -0.2,
+   "singleton-dc": -0.2,
+   "taiwan-exodus": -0.4,
+   "talkie-geoblock": -0.6,
+   "tilly-treasons": 4.4,
+   "trump-huang-term": -0.3
   }
  },
  "state": {
@@ -1192,12 +1203,6 @@
    "src": "Yahoo Finance \u00b7 change vs. prior close",
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
-    {
-     "sym": "NVDA",
-     "name": "Nvidia",
-     "price": 149.3,
-     "chg": -3.91
-    },
     {
      "sym": "ANT",
      "name": "Anthropic",
@@ -1296,24 +1301,24 @@
    ]
   },
   "crypto": {
-   "asOf": "6:12 am ET",
+   "asOf": "7:14 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 61547.0,
-     "chg": 1.77
+     "price": 61606.0,
+     "chg": 1.68
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1724.21,
-     "chg": 1.77
+     "price": 1721.81,
+     "chg": 1.33
     }
    ]
   }
  },
- "next": "2026-11-27T12:18:00Z"
+ "next": "2026-11-27T13:18:00Z"
 }

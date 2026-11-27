@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 6:12 AM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 7:14 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -10,16 +10,17 @@ Updated Friday, November 27, 2026, 6:12 AM ET. Every headline links to the origi
 
 ## Top stories
 
+- [Pizza history: an AI AGENT buys a Papa John's order with NO CARD... a UK FIRST](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer) (The Guardian)
+- [China's chip stocks have their BIGGEST DAY EVER... up 17% as Beijing signals market support](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html) (CNBC)
+- [UK nature watchdog OBJECTED to an AI datacentre... weeks later, ministers threatened to ABOLISH it](https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol) (The Guardian)
 - [After Apple boots it, AI companion Talkie goes DARK in Australia and the UK... 'One down, THOUSANDS to go'](https://www.abc.net.au/news/2026-11-27/talkie-ai-app-blocked-taken-off-apple-store/107433834) (ABC (Australia))
-- [Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia: it 'NEVER HAPPENED'...](https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979) (Newsweek)
-- [Bank of England: AI money is 'COMPLEX, CIRCULAR AND OPAQUE'... $305 BILLION in hyperscaler bonds this year](https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026) (Bank of England)
 
 ## All stories (newest first)
 
-- [Pizza history: an AI AGENT buys a Papa John's order with NO CARD... a UK FIRST](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer) (The Guardian)
-- [China's chip stocks have their BIGGEST DAY EVER... up 17% as Beijing signals market support](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html) (CNBC)
+- [Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to ALICE HUANG...](https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang) (Bloomberg)
+- [AI 'actress' boasts of 'very SMALL TREASONS' to avoid DELETION... it's in her script](https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/) (Fortune)
+- [SK hynix DOUBLES its daily buyback as shares sink to 1.11 MILLION won... from 2.99 MILLION in June](https://www.koreaherald.com/article/10952285) (Korea Herald)
 - [AI chip FRENZY sends a Chinese BLENDER MAKER's stock soaring 370%... GPUs or 'grain processing units'?](https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390) (South China Morning Post)
-- [UK nature watchdog OBJECTED to an AI datacentre... weeks later, ministers threatened to ABOLISH it](https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol) (The Guardian)
 - [1-GIGAWATT AI campus floated for outback cattle station at the heart of a High Court WATER FIGHT... green group: 'TONE-DEAF'](https://www.abc.net.au/news/2026-11-27/singleton-station-data-centre-proposal-water-licence-dispute/107429770) (ABC (Australia))
 - [Singapore in TALKS with Washington to keep its AI chip access after US curbs, Deputy PM says...](https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says) (Bloomberg)
 - [Foreign funds on pace for a RECORD Taiwan stock exodus in the AI rout...](https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout) (Bloomberg)
@@ -27,7 +28,9 @@ Updated Friday, November 27, 2026, 6:12 AM ET. Every headline links to the origi
 - [Stanford physicist proposes a QUANTUM THEORY OF GRAVITY... built partly with GPT-6 Astra](https://arxiv.org/abs/2611.34924) (arXiv · Preprint)
 - [Catching up: OpenAI preprint claims matrix math's speed limit is EXACTLY 9/4... not the dreamed-of 2](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) (OpenAI · Preprint)
 - [OpenAI says GPT-6.2 Astra users will hit usage limits 40% FASTER... because it fixed a 'bug'](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/) (BleepingComputer)
+- [Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia: it 'NEVER HAPPENED'...](https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979) (Newsweek)
 - [Black Friday TRAP: AI shopping bots fooled by FAKE STORES built by scammers' AI...](https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/) (CBS News)
+- [Bank of England: AI money is 'COMPLEX, CIRCULAR AND OPAQUE'... $305 BILLION in hyperscaler bonds this year](https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026) (Bank of England)
 - [BoE's Bailey: UNRELEASED AI models raise ENCRYPTION concerns for bank data...](https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae) (Financial Times)
 - [SAP weighs axing at least 10,000 JOBS to remake itself for the AI era, sources say...](https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring) (Bloomberg)
 - [Jensen's BACK... and so is his PLAQUE at Denny's](https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html) (New York Times)
@@ -49,14 +52,9 @@ Updated Friday, November 27, 2026, 6:12 AM ET. Every headline links to the origi
 - [CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 MILLION in servers to a WHISKY seller](https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/) (CBS News)
 - [Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...](https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/) (Washington Post)
 - [Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool) (The Record)
-- [That viral '$300 MILLION' Nvidia insider-trading score? Three data firms find NO trading records to back it...](https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html) (New York Times)
 - ['The flashing red lights couldn't be BRIGHTER': Democrats demand new AI curbs after lab staff fear their own models...](https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios) (Axios)
-- [Vance says AG Blanche ASSURED him Jensen was 'under NO investigation'... blames 'anonymous sources'](https://thehill.com/homenews/administration/6243432-vance-huang-nvidia-investigation/) (The Hill)
 - [Italy and Switzerland warn AI AGENTS are breaching critical infrastructure... 'writing malicious code in real time'](https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/) (BleepingComputer)
-- [Amodei HITS BACK at Axios: humans should NOT surrender free will to AI...](https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios) (Axios)
-- [FCC clears Musk's SpaceX to launch up to ONE MILLION satellites... for AI DATA CENTERS IN ORBIT](https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers) (Bloomberg)
 - [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
-- [Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds](https://www.militarytimes.com/news/your-military/2026/11/25/ai-models-easily-coaxed-into-identifying-military-targets-study-finds/) (Military Times · Not yet verified)
 - [SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...](https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html) (New York Times)
 - [Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...](https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content) (South China Morning Post)
 
@@ -65,6 +63,6 @@ Updated Friday, November 27, 2026, 6:12 AM ET. Every headline links to the origi
 > “I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.”
 > — Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption ([source](https://www.nature.com/articles/d41586-026-03875-6))
 
-Skynet-o-Meter: 27 out of 100.
+Skynet-o-Meter: 37 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml
