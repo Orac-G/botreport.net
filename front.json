@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T03:13:45Z",
- "nextUpdate": "2026-11-27T04:18:00Z",
+ "updated": "2026-11-27T04:13:34Z",
+ "nextUpdate": "2026-11-27T05:18:00Z",
  "lead": [
   {
    "headline": "FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...",
@@ -15,6 +15,13 @@
   }
  ],
  "topLinks": [
+  {
+   "headline": "After Apple boots it, AI companion Talkie goes DARK in Australia and the UK... 'One down, THOUSANDS to go'",
+   "source": "ABC (Australia)",
+   "url": "https://www.abc.net.au/news/2026-11-27/talkie-ai-app-blocked-taken-off-apple-store/107433834",
+   "found": "2026-11-27T04:13:09Z",
+   "section": "quirky"
+  },
   {
    "headline": "Scott Aaronson 'virtually certain' AI labs are sitting on ENCRYPTION-BREAKING BOMBSHELLS...",
    "source": "Nature",
@@ -39,6 +46,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Foreign funds on pace for a RECORD Taiwan stock exodus in the AI rout...",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout",
+   "found": "2026-11-27T04:13:09Z",
+   "section": "business"
+  },
   {
    "headline": "Trump: Jensen is EXCITED about his 'SECOND TERM' at Nvidia...",
    "source": "Bloomberg",
@@ -70,7 +84,7 @@
    "section": "tech",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50651117",
-    "comments": 259
+    "comments": 263
    }
   },
   {
@@ -186,7 +200,7 @@
    "label": "Not yet verified",
    "hackerNews": {
     "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 345
+    "comments": 349
    }
   },
   {
@@ -338,21 +352,6 @@
    "section": "quirky"
   },
   {
-   "headline": "Hackers hit unclassified CIA system... some sources point to a CHINESE AI TOOL",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
-   "found": "2026-11-25T04:12:27Z",
-   "section": "military",
-   "correction": "An earlier headline left out that the system hit was unclassified, and that only some of the Times' sources point to the AI tool."
-  },
-  {
-   "headline": "Asked how DOJ can clear Huang mid-probe, AG Blanche: 'I DON'T KNOW WHAT YOU'RE TALKING ABOUT'... FBI's Patel dodges too",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
-   "found": "2026-11-25T04:12:27Z",
-   "section": "politics"
-  },
-  {
    "headline": "NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...",
    "source": "New York Times",
    "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
@@ -374,7 +373,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 19,
+  "score": 24,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

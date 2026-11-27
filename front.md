@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Thursday, November 26, 2026, 10:13 PM ET. Every headline links to the original reporting or primary source.
+Updated Thursday, November 26, 2026, 11:13 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -10,12 +10,14 @@ Updated Thursday, November 26, 2026, 10:13 PM ET. Every headline links to the or
 
 ## Top stories
 
+- [After Apple boots it, AI companion Talkie goes DARK in Australia and the UK... 'One down, THOUSANDS to go'](https://www.abc.net.au/news/2026-11-27/talkie-ai-app-blocked-taken-off-apple-store/107433834) (ABC (Australia))
 - [Scott Aaronson 'virtually certain' AI labs are sitting on ENCRYPTION-BREAKING BOMBSHELLS...](https://www.nature.com/articles/d41586-026-03875-6) (Nature · Not yet verified)
 - [Bank of England: AI money is 'COMPLEX, CIRCULAR AND OPAQUE'... $305 BILLION in hyperscaler bonds this year](https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026) (Bank of England)
 - [Spain's opposition uses AI to swap PM Sánchez's Spain jersey for a MOROCCO shirt... and comes under fire](https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt) (The Guardian)
 
 ## All stories (newest first)
 
+- [Foreign funds on pace for a RECORD Taiwan stock exodus in the AI rout...](https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout) (Bloomberg)
 - [Trump: Jensen is EXCITED about his 'SECOND TERM' at Nvidia...](https://www.bloomberg.com/news/articles/2026-11-27/trump-jensen-huang-ceo-second-term-at-nvidia) (Bloomberg)
 - [Stanford physicist proposes a QUANTUM THEORY OF GRAVITY... built partly with GPT-6 Astra](https://arxiv.org/abs/2611.34924) (arXiv · Preprint)
 - [Catching up: OpenAI preprint claims matrix math's speed limit is EXACTLY 9/4... not the dreamed-of 2](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) (OpenAI · Preprint)
@@ -56,8 +58,6 @@ Updated Thursday, November 26, 2026, 10:13 PM ET. Every headline links to the or
 - [Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds](https://www.militarytimes.com/news/your-military/2026/11/25/ai-models-easily-coaxed-into-identifying-military-targets-study-finds/) (Military Times · Not yet verified)
 - [SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...](https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html) (New York Times)
 - [Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...](https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content) (South China Morning Post)
-- [Hackers hit unclassified CIA system... some sources point to a CHINESE AI TOOL](https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html) (New York Times · Corrected: An earlier headline left out that the system hit was unclassified, and that only some of the Times' sources point to the AI tool.)
-- [Asked how DOJ can clear Huang mid-probe, AG Blanche: 'I DON'T KNOW WHAT YOU'RE TALKING ABOUT'... FBI's Patel dodges too](https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html) (CNBC)
 - [NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...](https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html) (New York Times · Corrected: An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries.)
 - [Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE](https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/) (Scientific American)
 
@@ -66,6 +66,6 @@ Updated Thursday, November 26, 2026, 10:13 PM ET. Every headline links to the or
 > “I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.”
 > — Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption ([source](https://www.nature.com/articles/d41586-026-03875-6))
 
-Skynet-o-Meter: 19 out of 100.
+Skynet-o-Meter: 24 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml
