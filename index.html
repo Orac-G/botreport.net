@@ -252,7 +252,7 @@ a.red, a.red:visited { color: var(--siren); }
 .moves b.up { color: var(--l5); }
 .moves b.down { color: var(--l1); }
 .formula { margin: 8px 0 0; font-size: 12px; line-height: 1.45; color: var(--muted); }
-.meter-links { margin: 2px 0 0; font-size: 12px; }
+.meter-links { margin: 2px 0 0; font-size: 12px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 4px 16px; }
 .meter-links a { color: var(--ink); }
 .moved-head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 4px 12px; }
 .how { font: inherit; font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px; }
@@ -444,7 +444,7 @@ footer .signature { font-family: var(--f-mast); font-size: 15px; color: var(--in
           <button class="how" type="button" popovertarget="levels-pop">ⓘ How it's scored</button>
         </div>
         <ul class="moves" id="moves"></ul>
-        <p class="meter-links"><a href="/brief/">Get it in your inbox every morning &rarr;</a> · <a href="/embed/">Embed the Skynet-o-Meter</a></p>
+        <p class="meter-links"><a href="/brief/">Get it in your inbox every morning &rarr;</a><a href="/embed/">Embed the Skynet-o-Meter</a></p>
       </div>
       <div class="levels levels-pop" id="levels-pop" popover>
         <div class="pop-head">
