@@ -2,6 +2,13 @@
  "name": "The Bot Report archive",
  "days": [
   {
+   "date": "2026-11-27",
+   "stories": 23,
+   "page": "https://botreport.net/2026/11/27/",
+   "json": "https://botreport.net/2026/11/27.json",
+   "markdown": "https://botreport.net/2026/11/27.md"
+  },
+  {
    "date": "2026-11-26",
    "stories": 30,
    "page": "https://botreport.net/2026/11/26/",

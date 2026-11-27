@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T19:15:51Z",
- "nextUpdate": "2026-11-27T20:18:00Z",
+ "updated": "2026-11-27T20:14:39Z",
+ "nextUpdate": "2026-11-27T21:18:00Z",
  "lead": [
   {
    "headline": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade secrets and BLOCKING its suppliers...: Filed Friday in California federal court... says Apple's employment practices were designed to 'TRAP' staff",
@@ -322,13 +322,6 @@
    "section": "business"
   },
   {
-   "headline": "CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 MILLION in servers to a WHISKY seller",
-   "source": "CBS News",
-   "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/",
-   "found": "2026-11-26T00:13:58Z",
-   "section": "politics"
-  },
-  {
    "headline": "Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...",
    "source": "Washington Post",
    "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/",
@@ -356,58 +349,58 @@
   "url": "https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/"
  },
  "skynetOMeter": {
-  "score": 42,
+  "score": 39,
   "outOf": 100,
-  "level": 3,
-  "levelName": "Uneasy",
-  "change": 11,
+  "level": 2,
+  "levelName": "Restless",
+  "change": 9,
   "changePeriod": "in 24 hours",
   "movers": [
    {
-    "points": 12,
+    "points": 13,
     "story": "OpenAI countersues, accusing Apple of stealing trade secrets"
    },
    {
     "points": 4,
-    "story": "Blackwell chips found at Shanghai site tied to Alice Huang"
+    "story": "Russia's patriarch warns of AI 'Apocalypse'"
    },
    {
-    "points": -5,
+    "points": -8,
     "story": "Older stories cooling off"
    }
   ],
   "readings": [
    {
-    "t": "2026-11-26T22:14:16Z",
+    "t": "2026-11-26T23:13:59Z",
+    "score": 25
+   },
+   {
+    "t": "2026-11-27T02:13:32Z",
+    "score": 21
+   },
+   {
+    "t": "2026-11-27T05:13:23Z",
+    "score": 25
+   },
+   {
+    "t": "2026-11-27T08:14:16Z",
+    "score": 26
+   },
+   {
+    "t": "2026-11-27T11:12:48Z",
     "score": 27
    },
    {
-    "t": "2026-11-27T01:13:36Z",
-    "score": 22
+    "t": "2026-11-27T14:14:44Z",
+    "score": 38
    },
    {
-    "t": "2026-11-27T04:13:34Z",
-    "score": 24
+    "t": "2026-11-27T17:14:56Z",
+    "score": 38
    },
    {
-    "t": "2026-11-27T07:13:51Z",
-    "score": 23
-   },
-   {
-    "t": "2026-11-27T10:13:01Z",
-    "score": 28
-   },
-   {
-    "t": "2026-11-27T13:16:36Z",
-    "score": 36
-   },
-   {
-    "t": "2026-11-27T16:13:56Z",
-    "score": 37
-   },
-   {
-    "t": "2026-11-27T19:15:51Z",
-    "score": 42
+    "t": "2026-11-27T20:14:39Z",
+    "score": 39
    }
   ],
   "question": "How nervous should humanity be about AI today?",

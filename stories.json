@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:15:51Z",
+ "updated": "2026-11-27T20:14:39Z",
  "stories": [
   {
    "id": "openai-apple-suit",
@@ -500,18 +500,6 @@
    "col": 2
   },
   {
-   "id": "cbs-nvda-partners",
-   "cat": "politics",
-   "red": true,
-   "group": "nvda-china",
-   "h": "CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 MILLION in servers to a WHISKY seller",
-   "src": "CBS News",
-   "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/",
-   "t": "2026-11-26T00:13:58Z",
-   "card": "CBS: Nvidia's top-tier partners include Chinese-owned firms",
-   "col": 0
-  },
-  {
    "id": "artex-typhoon",
    "cat": "tech",
    "red": true,
@@ -560,40 +548,29 @@
   "day": "2026-11-27"
  },
  "meter": {
-  "level": 3,
-  "score": 42,
-  "delta": 7,
+  "level": 2,
+  "score": 39,
+  "delta": -3,
   "moves": [
-   {
-    "d": 12,
-    "why": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade s...",
-    "id": "openai-apple-suit"
-   },
    {
     "d": -1,
     "why": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to AL...",
     "id": "blackwell-alice"
-   },
-   {
-    "d": -1,
-    "why": "'WATERSHED MOMENT': Poland signs $300 MILLION Palantir deal for AI...",
-    "id": "poland-palantir"
    }
   ],
   "contrib": {
-   "openai-apple-suit": 12.4,
+   "openai-apple-suit": 12.7,
    "anthropic-reclaims": 1.2,
    "hynix-buyback": 0.3,
    "google-belgium-halt": 1.2,
-   "kirill-apocalypse": 3.7,
-   "anthropic-hunger": 1.7,
-   "shopbot-blocks": 1.1,
-   "poland-palantir": 3.0,
-   "blackwell-alice": 3.7,
-   "tilly-treasons": 1.9,
-   "agent-pizza": 1.1,
-   "china-chip-surge": 0.2,
-   "blender-gpu": 0.3
+   "kirill-apocalypse": 3.5,
+   "anthropic-hunger": 1.5,
+   "shopbot-blocks": 1.0,
+   "poland-palantir": 2.6,
+   "blackwell-alice": 3.1,
+   "tilly-treasons": 1.5,
+   "agent-pizza": 0.8,
+   "china-chip-surge": 0.1
   },
   "lastAdjust": 0,
   "history": [
@@ -984,13 +961,17 @@
    {
     "t": "2026-11-27T19:15:51Z",
     "s": 42
+   },
+   {
+    "t": "2026-11-27T20:14:39Z",
+    "s": 39
    }
   ],
-  "at": "2026-11-27T19:15:51Z",
+  "at": "2026-11-27T20:14:39Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 11,
+   "delta": 9,
    "period": "in 24 hours",
    "line": [
     {
@@ -1208,40 +1189,40 @@
     {
      "t": "2026-11-27T19:15:51Z",
      "s": 42
+    },
+    {
+     "t": "2026-11-27T20:14:39Z",
+     "s": 39
     }
    ],
    "drivers": [
     {
-     "d": 12,
+     "d": 13,
      "id": "openai-apple-suit",
      "text": "OpenAI countersues, accusing Apple of stealing trade secrets"
     },
     {
      "d": 4,
-     "id": "blackwell-alice",
-     "text": "Blackwell chips found at Shanghai site tied to Alice Huang"
+     "id": "kirill-apocalypse",
+     "text": "Russia's patriarch warns of AI 'Apocalypse'"
     },
     {
-     "d": -5,
+     "d": -8,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "agent-pizza": -0.5,
-   "anthropic-hunger": -0.3,
-   "anthropic-reclaims": -0.3,
-   "blackwell-alice": -1.2,
-   "blender-gpu": -0.5,
-   "china-chip-surge": -0.2,
-   "google-belgium-halt": -0.3,
-   "hynix-buyback": -0.1,
-   "kirill-apocalypse": -0.7,
-   "ne-datacentre": -0.1,
-   "openai-apple-suit": 12.4,
-   "poland-palantir": -0.8,
-   "shopbot-blocks": -0.3,
-   "tilly-treasons": -0.5
+   "agent-pizza": -0.3,
+   "anthropic-hunger": -0.2,
+   "blackwell-alice": -0.6,
+   "blender-gpu": -0.3,
+   "china-chip-surge": -0.1,
+   "kirill-apocalypse": -0.2,
+   "openai-apple-suit": 0.3,
+   "poland-palantir": -0.4,
+   "shopbot-blocks": -0.1,
+   "tilly-treasons": -0.4
   }
  },
  "state": {
@@ -1278,7 +1259,7 @@
    ]
   },
   "stocks": {
-   "asOf": "2:15 pm ET",
+   "asOf": "Close Nov 27",
    "src": "Yahoo Finance \u00b7 change vs. prior close",
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
@@ -1392,24 +1373,24 @@
    ]
   },
   "crypto": {
-   "asOf": "2:15 pm ET",
+   "asOf": "3:14 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59794.0,
-     "chg": -1.13
+     "price": 59732.0,
+     "chg": -1.58
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1668.64,
-     "chg": -1.84
+     "price": 1667.32,
+     "chg": -2.07
     }
    ]
   }
  },
- "next": "2026-11-27T20:18:00Z"
+ "next": "2026-11-27T21:18:00Z"
 }

@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 2:15 PM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 3:14 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -54,7 +54,6 @@ Updated Friday, November 27, 2026, 2:15 PM ET. Every headline links to the origi
 - [Anthropic team SHRINKS Claude's Riemann proof to 76,000 lines... 'No mathematician has read it through'](https://github.com/lsernau/grh-lean) (GitHub (Anthropic) · Not yet verified)
 - [SoftBank's CREDIT RISK tops 500 BASIS POINTS for the first time in about four years as AI worries mount...](https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount) (Bloomberg)
 - [Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...](https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970) (ABC (Australia))
-- [CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 MILLION in servers to a WHISKY seller](https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/) (CBS News)
 - [Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...](https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/) (Washington Post)
 - [Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool) (The Record)
 - [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
@@ -66,15 +65,15 @@ Updated Friday, November 27, 2026, 2:15 PM ET. Every headline links to the origi
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **42/100, Uneasy (level 3 of 5), up 11 in 24 hours.**
+How nervous should humanity be about AI today? **39/100, Restless (level 2 of 5), up 9 in 24 hours.**
 
 What moved it:
 
-- OpenAI countersues, accusing Apple of stealing trade secrets (+12)
-- Blackwell chips found at Shanghai site tied to Alice Huang (+4)
-- Older stories cooling off (-5)
+- OpenAI countersues, accusing Apple of stealing trade secrets (+13)
+- Russia's patriarch warns of AI 'Apocalypse' (+4)
+- Older stories cooling off (-8)
 
-Last 24 hours: 27 at 5 pm ET, 22 at 8 pm ET, 24 at 11 pm ET, 23 at 2 am ET, 28 at 5 am ET, 36 at 8 am ET, 37 at 11 am ET, 42 at 2 pm ET.
+Last 24 hours: 25 at 6 pm ET, 21 at 9 pm ET, 25 at 12 am ET, 26 at 3 am ET, 27 at 6 am ET, 38 at 9 am ET, 38 at 12 pm ET, 39 at 3 pm ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 

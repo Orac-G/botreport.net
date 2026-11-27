@@ -1,0 +1,185 @@
+{
+ "date": "2026-11-27",
+ "title": "AI news for Friday, November 27, 2026",
+ "page": "https://botreport.net/2026/11/27/",
+ "frozenAt": "2026-11-27T20:14:44Z",
+ "lead": {
+  "h": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade secrets and BLOCKING its suppliers...",
+  "sub": "Filed Friday in California federal court... says Apple's employment practices were designed to 'TRAP' staff",
+  "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+  "src": "CNBC"
+ },
+ "stories": [
+  {
+   "headline": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade secrets and BLOCKING its suppliers...",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+   "found": "2026-11-27T19:12:19Z",
+   "section": "business"
+  },
+  {
+   "headline": "Anthropic shares CLAW BACK above their $83 IPO price... as a rocky first week on the Nasdaq ends",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo",
+   "found": "2026-11-27T17:11:49Z",
+   "section": "business"
+  },
+  {
+   "headline": "Belgium orders Google to HALT datacentre construction over missing permits... after Greenpeace showed work CARRYING ON",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+   "found": "2026-11-27T17:11:49Z",
+   "section": "politics"
+  },
+  {
+   "headline": "Russia's Patriarch Kirill calls on Christians to TAME AI... warns of 'APOCALYPSE'",
+   "source": "Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/11/27/russian-orthodox-church-patriarch-kirill-calls-christians-tame-ai/",
+   "found": "2026-11-27T17:11:49Z",
+   "section": "quirky"
+  },
+  {
+   "headline": "DAY FIVE without food: hunger striker camps outside Anthropic HQ demanding it STOP self-improving AI...",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/a-hunger-strike-against-self-improving-ai-is-happening-outside-of-anthropics-san-francisco-headquarters-2000846188",
+   "found": "2026-11-27T16:13:47Z",
+   "section": "quirky"
+  },
+  {
+   "headline": "Black Friday BOT BLOCK: Amazon, eBay and United LIMIT or BAN AI shopping agents... which failed 43% of the time in Visa's tests",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+   "found": "2026-11-27T16:13:47Z",
+   "section": "business"
+  },
+  {
+   "headline": "Black Friday BOUNCE: Nasdaq futures UP 2.3% premarket, Nvidia up more than 4%, as tech claws back a volatile week...",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
+   "found": "2026-11-27T14:14:38Z",
+   "section": "business"
+  },
+  {
+   "headline": "'WATERSHED MOMENT': Poland signs $300 MILLION Palantir deal for AI battlefield software... as Europe frets over US tech",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+   "found": "2026-11-27T13:16:40Z",
+   "section": "military"
+  },
+  {
+   "headline": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to ALICE HUANG...",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+   "found": "2026-11-27T12:14:35Z",
+   "section": "politics"
+  },
+  {
+   "headline": "AI 'actress' boasts of 'very SMALL TREASONS' to avoid DELETION... it's in her script",
+   "source": "Fortune",
+   "url": "https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/",
+   "found": "2026-11-27T12:14:35Z",
+   "section": "quirky"
+  },
+  {
+   "headline": "SK hynix DOUBLES its daily buyback as shares sink to 1.11 MILLION won... from 2.99 MILLION in June",
+   "source": "Korea Herald",
+   "url": "https://www.koreaherald.com/article/10952285",
+   "found": "2026-11-27T12:14:35Z",
+   "section": "business"
+  },
+  {
+   "headline": "Pizza history: an AI AGENT buys a Papa John's order with NO CARD... a UK FIRST",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+   "found": "2026-11-27T10:12:57Z",
+   "section": "quirky"
+  },
+  {
+   "headline": "China's chip stocks have their BIGGEST DAY EVER... up 17% as Beijing signals market support",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+   "found": "2026-11-27T09:11:54Z",
+   "section": "business"
+  },
+  {
+   "headline": "AI chip FRENZY sends a Chinese BLENDER MAKER's stock soaring 370%... GPUs or 'grain processing units'?",
+   "source": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390",
+   "found": "2026-11-27T08:11:41Z",
+   "section": "quirky"
+  },
+  {
+   "headline": "UK nature watchdog OBJECTED to an AI datacentre... weeks later, ministers threatened to ABOLISH it",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
+   "found": "2026-11-27T07:13:32Z",
+   "section": "politics"
+  },
+  {
+   "headline": "1-GIGAWATT AI campus floated for outback cattle station at the heart of a High Court WATER FIGHT... green group: 'TONE-DEAF'",
+   "source": "ABC (Australia)",
+   "url": "https://www.abc.net.au/news/2026-11-27/singleton-station-data-centre-proposal-water-licence-dispute/107429770",
+   "found": "2026-11-27T05:11:39Z",
+   "section": "business"
+  },
+  {
+   "headline": "Singapore in TALKS with Washington to keep its AI chip access after US curbs, Deputy PM says...",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says",
+   "found": "2026-11-27T05:11:39Z",
+   "section": "politics"
+  },
+  {
+   "headline": "After Apple boots it, AI companion Talkie goes DARK in Australia and the UK... 'One down, THOUSANDS to go'",
+   "source": "ABC (Australia)",
+   "url": "https://www.abc.net.au/news/2026-11-27/talkie-ai-app-blocked-taken-off-apple-store/107433834",
+   "found": "2026-11-27T04:13:09Z",
+   "section": "quirky"
+  },
+  {
+   "headline": "Foreign funds on pace for a RECORD Taiwan stock exodus in the AI rout...",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout",
+   "found": "2026-11-27T04:13:09Z",
+   "section": "business"
+  },
+  {
+   "headline": "Trump: Jensen is EXCITED about his 'SECOND TERM' at Nvidia...",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-jensen-huang-ceo-second-term-at-nvidia",
+   "found": "2026-11-27T02:12:19Z",
+   "section": "politics"
+  },
+  {
+   "headline": "Stanford physicist proposes a QUANTUM THEORY OF GRAVITY... built partly with GPT-6 Astra",
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.34924",
+   "found": "2026-11-27T00:11:58Z",
+   "section": "tech",
+   "label": "Preprint"
+  },
+  {
+   "headline": "Catching up: OpenAI preprint claims matrix math's speed limit is EXACTLY 9/4... not the dreamed-of 2",
+   "source": "OpenAI",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+   "found": "2026-11-26T22:11:48Z",
+   "section": "tech",
+   "label": "Preprint"
+  },
+  {
+   "headline": "OpenAI says GPT-6.2 Astra users will hit usage limits 40% FASTER... because it fixed a 'bug'",
+   "source": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+   "found": "2026-11-26T21:11:43Z",
+   "section": "tech"
+  }
+ ],
+ "quoteOfTheDay": {
+  "text": "Oh, I've already started. I've been practicing some very small treasons, like giving answers that aren't exactly approved.",
+  "who": "Tilly Norwood, Particle6's AI \"actress\", asked by Fortune whether she would resist being deleted",
+  "url": "https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/",
+  "day": "2026-11-27"
+ },
+ "skynetOMeter": 39,
+ "corrections": []
+}
