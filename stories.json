@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-27T04:13:34Z",
+ "updated": "2026-11-27T05:13:24Z",
  "stories": [
+  {
+   "id": "singleton-dc",
+   "cat": "business",
+   "h": "1-GIGAWATT AI campus floated for outback cattle station at the heart of a High Court WATER FIGHT... green group: 'TONE-DEAF'",
+   "src": "ABC (Australia)",
+   "url": "https://www.abc.net.au/news/2026-11-27/singleton-station-data-centre-proposal-water-licence-dispute/107429770",
+   "t": "2026-11-27T05:11:39Z",
+   "card": "1GW AI campus pitched for outback station in water fight",
+   "col": 2
+  },
+  {
+   "id": "sg-chip-talks",
+   "cat": "politics",
+   "h": "Singapore in TALKS with Washington to keep its AI chip access after US curbs, Deputy PM says...",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says",
+   "t": "2026-11-27T05:11:39Z",
+   "group": "nvda-china",
+   "card": "Singapore pleads with US to keep its AI chip access",
+   "col": 0
+  },
   {
    "id": "talkie-geoblock",
    "cat": "quirky",
@@ -369,25 +390,6 @@
    "card": "Microsoft: Chinese hackers' AI tool takes networks in minutes"
   },
   {
-   "id": "jpm-ai-debt",
-   "cat": "business",
-   "h": "JPMorgan sees a $450 BILLION AI debt blitz in 2027... before a plateau",
-   "src": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau",
-   "t": "2026-11-25T22:11:59Z",
-   "col": 2
-  },
-  {
-   "id": "waymo-eggs",
-   "cat": "quirky",
-   "h": "Man TRAPPED Waymo robotaxis with orange cones in Denver... then PELTED them with eggs, police say",
-   "src": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
-   "t": "2026-11-25T22:11:59Z",
-   "col": 2,
-   "card": "Denver man traps Waymos with cones, pelts them with eggs: police"
-  },
-  {
    "id": "nvda-rumor-bust",
    "cat": "business",
    "group": "huang",
@@ -521,7 +523,7 @@
    "saga": "huang",
    "sub": "FBI, CIA and ODNI briefers found no evidence China ordered the affair... but didn't dispute she passed intel to its spy agency once it began, NYT says",
    "card": "NYT: Jensen lover's husband the 'more significant' China asset",
-   "col": 0
+   "col": 2
   },
   {
    "id": "talkie-pulled",
@@ -582,39 +584,34 @@
  },
  "meter": {
   "level": 2,
-  "score": 24,
-  "delta": 5,
+  "score": 25,
+  "delta": 1,
   "moves": [
    {
-    "d": 5,
-    "why": "After Apple boots it, AI companion Talkie goes DARK in Australia an...",
-    "id": "talkie-geoblock"
+    "d": 2,
+    "why": "Singapore in TALKS with Washington to keep its AI chip access after...",
+    "id": "sg-chip-talks"
    },
    {
     "d": 2,
-    "why": "Foreign funds on pace for a RECORD Taiwan stock exodus in the AI ro...",
-    "id": "taiwan-exodus"
-   },
-   {
-    "d": -1,
-    "why": "Black Friday TRAP: AI shopping bots fooled by FAKE STORES built by...",
-    "id": "ai-shop-fakes"
+    "why": "1-GIGAWATT AI campus floated for outback cattle station at the hear...",
+    "id": "singleton-dc"
    }
   ],
   "contrib": {
-   "talkie-geoblock": 5.0,
-   "taiwan-exodus": 1.7,
-   "trump-huang-term": 1.5,
-   "pentagon-dpa-denial": 0.3,
-   "dennys-plaque": 0.1,
-   "astra-gravity": 1.2,
-   "omega-94": 0.9,
+   "singleton-dc": 1.6,
+   "sg-chip-talks": 1.6,
+   "talkie-geoblock": 4.9,
+   "taiwan-exodus": 1.6,
+   "trump-huang-term": 1.3,
+   "pentagon-dpa-denial": 0.2,
+   "astra-gravity": 1.0,
+   "omega-94": 0.7,
    "boe-bailey-crypto": 0.1,
-   "gpt62-limits": 0.7,
-   "aaronson-crypto": 0.4,
-   "ai-shop-fakes": 1.3,
-   "boe-fsr": 0.3,
-   "sap-cuts": 0.1
+   "gpt62-limits": 0.6,
+   "aaronson-crypto": 0.3,
+   "ai-shop-fakes": 0.9,
+   "boe-fsr": 0.1
   },
   "lastAdjust": 0,
   "history": [
@@ -945,13 +942,17 @@
    {
     "t": "2026-11-27T04:13:34Z",
     "s": 24
+   },
+   {
+    "t": "2026-11-27T05:13:23Z",
+    "s": 25
    }
   ],
-  "at": "2026-11-27T04:13:34Z",
+  "at": "2026-11-27T05:13:23Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -20,
+   "delta": -19,
    "period": "in 24 hours",
    "line": [
     {
@@ -1109,6 +1110,10 @@
     {
      "t": "2026-11-27T04:13:34Z",
      "s": 24
+    },
+    {
+     "t": "2026-11-27T05:13:23Z",
+     "s": 25
     }
    ],
    "drivers": [
@@ -1119,28 +1124,29 @@
     },
     {
      "d": 2,
-     "id": "taiwan-exodus",
-     "text": "Foreign funds head for record Taiwan stock exodus in AI rout"
+     "id": "sg-chip-talks",
+     "text": "Singapore pleads with US to keep its AI chip access"
     },
     {
-     "d": -27,
+     "d": -26,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "aaronson-crypto": -0.2,
-   "ai-shop-fakes": -0.6,
+   "aaronson-crypto": -0.1,
+   "ai-shop-fakes": -0.4,
    "astra-gravity": -0.2,
-   "boe-bailey-crypto": -0.1,
    "boe-fsr": -0.2,
-   "dennys-plaque": -0.4,
-   "gpt62-limits": -0.2,
+   "dennys-plaque": -0.1,
+   "gpt62-limits": -0.1,
    "omega-94": -0.2,
-   "pentagon-dpa-denial": 0.1,
-   "sap-cuts": -0.2,
-   "taiwan-exodus": 1.7,
-   "talkie-geoblock": 5.0,
+   "pentagon-dpa-denial": -0.1,
+   "sap-cuts": -0.1,
+   "sg-chip-talks": 1.6,
+   "singleton-dc": 1.6,
+   "taiwan-exodus": -0.1,
+   "talkie-geoblock": -0.1,
    "trump-huang-term": -0.2
   }
  },
@@ -1292,24 +1298,24 @@
    ]
   },
   "crypto": {
-   "asOf": "11:13 pm ET",
+   "asOf": "12:13 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 61395.0,
-     "chg": 0.88
+     "price": 61634.0,
+     "chg": 1.28
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1728.16,
-     "chg": 1.64
+     "price": 1741.91,
+     "chg": 2.57
     }
    ]
   }
  },
- "next": "2026-11-27T05:18:00Z"
+ "next": "2026-11-27T06:18:00Z"
 }

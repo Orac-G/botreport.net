@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Thursday, November 26, 2026, 11:13 PM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 12:13 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,8 @@ Updated Thursday, November 26, 2026, 11:13 PM ET. Every headline links to the or
 
 ## All stories (newest first)
 
+- [1-GIGAWATT AI campus floated for outback cattle station at the heart of a High Court WATER FIGHT... green group: 'TONE-DEAF'](https://www.abc.net.au/news/2026-11-27/singleton-station-data-centre-proposal-water-licence-dispute/107429770) (ABC (Australia))
+- [Singapore in TALKS with Washington to keep its AI chip access after US curbs, Deputy PM says...](https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says) (Bloomberg)
 - [Foreign funds on pace for a RECORD Taiwan stock exodus in the AI rout...](https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout) (Bloomberg)
 - [Trump: Jensen is EXCITED about his 'SECOND TERM' at Nvidia...](https://www.bloomberg.com/news/articles/2026-11-27/trump-jensen-huang-ceo-second-term-at-nvidia) (Bloomberg)
 - [Stanford physicist proposes a QUANTUM THEORY OF GRAVITY... built partly with GPT-6 Astra](https://arxiv.org/abs/2611.34924) (arXiv · Preprint)
@@ -43,8 +45,6 @@ Updated Thursday, November 26, 2026, 11:13 PM ET. Every headline links to the or
 - [CBS: Two top Nvidia partners are CHINESE-OWNED... one leased $120 MILLION in servers to a WHISKY seller](https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/) (CBS News)
 - [Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...](https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/) (Washington Post)
 - [Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool) (The Record)
-- [JPMorgan sees a $450 BILLION AI debt blitz in 2027... before a plateau](https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau) (Bloomberg)
-- [Man TRAPPED Waymo robotaxis with orange cones in Denver... then PELTED them with eggs, police say](https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html) (New York Times)
 - [That viral '$300 MILLION' Nvidia insider-trading score? Three data firms find NO trading records to back it...](https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html) (New York Times)
 - ['The flashing red lights couldn't be BRIGHTER': Democrats demand new AI curbs after lab staff fear their own models...](https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios) (Axios)
 - [Vance says AG Blanche ASSURED him Jensen was 'under NO investigation'... blames 'anonymous sources'](https://thehill.com/homenews/administration/6243432-vance-huang-nvidia-investigation/) (The Hill)
@@ -66,6 +66,6 @@ Updated Thursday, November 26, 2026, 11:13 PM ET. Every headline links to the or
 > “I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.”
 > — Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption ([source](https://www.nature.com/articles/d41586-026-03875-6))
 
-Skynet-o-Meter: 24 out of 100.
+Skynet-o-Meter: 25 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T04:13:34Z",
- "nextUpdate": "2026-11-27T05:18:00Z",
+ "updated": "2026-11-27T05:13:24Z",
+ "nextUpdate": "2026-11-27T06:18:00Z",
  "lead": [
   {
    "headline": "FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...",
@@ -46,6 +46,20 @@
   }
  ],
  "stories": [
+  {
+   "headline": "1-GIGAWATT AI campus floated for outback cattle station at the heart of a High Court WATER FIGHT... green group: 'TONE-DEAF'",
+   "source": "ABC (Australia)",
+   "url": "https://www.abc.net.au/news/2026-11-27/singleton-station-data-centre-proposal-water-licence-dispute/107429770",
+   "found": "2026-11-27T05:11:39Z",
+   "section": "business"
+  },
+  {
+   "headline": "Singapore in TALKS with Washington to keep its AI chip access after US curbs, Deputy PM says...",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says",
+   "found": "2026-11-27T05:11:39Z",
+   "section": "politics"
+  },
   {
    "headline": "Foreign funds on pace for a RECORD Taiwan stock exodus in the AI rout...",
    "source": "Bloomberg",
@@ -246,20 +260,6 @@
    "section": "tech"
   },
   {
-   "headline": "JPMorgan sees a $450 BILLION AI debt blitz in 2027... before a plateau",
-   "source": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau",
-   "found": "2026-11-25T22:11:59Z",
-   "section": "business"
-  },
-  {
-   "headline": "Man TRAPPED Waymo robotaxis with orange cones in Denver... then PELTED them with eggs, police say",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
-   "found": "2026-11-25T22:11:59Z",
-   "section": "quirky"
-  },
-  {
    "headline": "That viral '$300 MILLION' Nvidia insider-trading score? Three data firms find NO trading records to back it...",
    "source": "New York Times",
    "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
@@ -373,7 +373,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 24,
+  "score": 25,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
