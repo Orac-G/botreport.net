@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-27T07:13:55Z",
+ "updated": "2026-11-27T08:14:16Z",
  "stories": [
+  {
+   "id": "blender-gpu",
+   "cat": "quirky",
+   "h": "AI chip FRENZY sends a Chinese BLENDER MAKER's stock soaring 370%... GPUs or 'grain processing units'?",
+   "src": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390",
+   "t": "2026-11-27T08:11:41Z",
+   "card": "AI chip frenzy sends a Chinese blender maker up 370%",
+   "col": 1
+  },
   {
    "id": "ne-datacentre",
    "cat": "politics",
@@ -115,25 +125,27 @@
    "src": "Newsweek",
    "url": "https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979",
    "t": "2026-11-26T20:12:02Z",
-   "col": 0,
-   "img": {
-    "src": "img/pete-hegseth.jpg",
-    "alt": "Defense Secretary Pete Hegseth",
-    "credit": "U.S. Department of Defense / Public domain",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Pete_Hegseth_Official_Portrait.jpg"
-   },
-   "card": "Pentagon: Hegseth wartime-law plan for Nvidia 'never happened'"
+   "card": "Pentagon: Hegseth wartime-law plan for Nvidia 'never happened'",
+   "top": true
   },
   {
    "id": "aaronson-crypto",
    "cat": "tech",
-   "h": "Scott Aaronson 'virtually certain' AI labs are sitting on ENCRYPTION-BREAKING BOMBSHELLS...",
+   "h": "Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...",
    "src": "Nature",
    "url": "https://www.nature.com/articles/d41586-026-03875-6",
    "t": "2026-11-26T19:11:37Z",
-   "top": true,
    "label": "Not yet verified",
-   "card": "Aaronson: AI labs likely sitting on crypto-breaking bombshells"
+   "card": "Aaronson: AI labs likely sitting on crypto-breaking bombshells",
+   "lead": true,
+   "saga": "science",
+   "sub": "Nature: rumoured algorithms would target RSA, the maths behind online banking... no lab has confirmed them",
+   "img": {
+    "src": "img/scott-aaronson.jpg",
+    "alt": "Computer scientist Scott Aaronson",
+    "credit": "Easy n / Public domain",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Scott_Aaronson_retouched.jpg"
+   }
   },
   {
    "id": "ai-shop-fakes",
@@ -196,7 +208,7 @@
    "t": "2026-11-26T15:12:03Z",
    "group": "election-fakes",
    "card": "Spain's opposition AI-fakes PM S\u00e1nchez into a Morocco shirt",
-   "top": true
+   "col": 0
   },
   {
    "id": "banks-ai-debt",
@@ -268,18 +280,7 @@
    "t": "2026-11-26T08:11:42Z",
    "group": "nvda-china",
    "card": "Flood of Nvidia AI chips for sale after US shuts China loophole",
-   "shout": "CHIP GLUT AFTER LOOPHOLE SHUT",
-   "stack": [
-    "cbs-nvda-partners",
-    "doj-diversion"
-   ],
-   "img": {
-    "src": "img/jensen-huang.jpg",
-    "alt": "Nvidia CEO Jensen Huang",
-    "credit": "Anders Eidesvik / CC BY-SA 4.0",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg"
-   },
-   "lead": true
+   "col": 0
   },
   {
    "id": "leet-ai-cheat",
@@ -384,7 +385,7 @@
    "url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/",
    "t": "2026-11-26T00:13:58Z",
    "card": "CBS: Nvidia's top-tier partners include Chinese-owned firms",
-   "shout": "PARTNERS CHINESE-OWNED"
+   "col": 0
   },
   {
    "id": "artex-typhoon",
@@ -547,19 +548,6 @@
    "col": 1
   },
   {
-   "id": "doj-diversion",
-   "cat": "politics",
-   "red": true,
-   "h": "NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...",
-   "src": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
-   "t": "2026-11-25T02:17:13Z",
-   "correction": "An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries.",
-   "group": "nvda-china",
-   "card": "Sources: DOJ has evidence others diverted Nvidia chips to China",
-   "shout": "DOJ: OTHERS DIVERTED CHIPS"
-  },
-  {
    "id": "grh-shrink",
    "cat": "tech",
    "group": "science",
@@ -584,26 +572,31 @@
  },
  "meter": {
   "level": 2,
-  "score": 23,
-  "delta": 0,
+  "score": 26,
+  "delta": 3,
   "moves": [
    {
-    "d": 2,
-    "why": "UK nature watchdog OBJECTED to an AI datacentre... weeks later, min...",
-    "id": "ne-datacentre"
+    "d": 5,
+    "why": "AI chip FRENZY sends a Chinese BLENDER MAKER's stock soaring 370%.....",
+    "id": "blender-gpu"
+   },
+   {
+    "d": -1,
+    "why": "After Apple boots it, AI companion Talkie goes DARK in Australia an...",
+    "id": "talkie-geoblock"
    }
   ],
   "contrib": {
-   "ne-datacentre": 1.7,
-   "singleton-dc": 1.5,
-   "sg-chip-talks": 1.5,
-   "talkie-geoblock": 4.1,
-   "taiwan-exodus": 1.4,
-   "trump-huang-term": 1.1,
-   "pentagon-dpa-denial": 0.1,
-   "astra-gravity": 0.8,
-   "omega-94": 0.4,
-   "gpt62-limits": 0.3
+   "blender-gpu": 4.9,
+   "ne-datacentre": 1.6,
+   "singleton-dc": 1.3,
+   "sg-chip-talks": 1.3,
+   "talkie-geoblock": 3.5,
+   "taiwan-exodus": 1.2,
+   "trump-huang-term": 0.9,
+   "astra-gravity": 0.6,
+   "omega-94": 0.3,
+   "gpt62-limits": 0.1
   },
   "lastAdjust": 0,
   "history": [
@@ -946,13 +939,17 @@
    {
     "t": "2026-11-27T07:13:51Z",
     "s": 23
+   },
+   {
+    "t": "2026-11-27T08:14:16Z",
+    "s": 26
    }
   ],
-  "at": "2026-11-27T07:13:51Z",
+  "at": "2026-11-27T08:14:16Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -20,
+   "delta": -14,
    "period": "in 24 hours",
    "line": [
     {
@@ -1122,37 +1119,41 @@
     {
      "t": "2026-11-27T07:13:51Z",
      "s": 23
+    },
+    {
+     "t": "2026-11-27T08:14:16Z",
+     "s": 26
     }
    ],
    "drivers": [
+    {
+     "d": 5,
+     "id": "blender-gpu",
+     "text": "AI chip frenzy sends a Chinese blender maker up 370%"
+    },
     {
      "d": 4,
      "id": "talkie-geoblock",
      "text": "AI companion Talkie goes dark in Australia and the UK"
     },
     {
-     "d": 2,
-     "id": "ne-datacentre",
-     "text": "Watchdog opposes AI datacentre; ministers threaten to scrap it"
-    },
-    {
-     "d": -26,
+     "d": -23,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "aaronson-crypto": -0.1,
-   "ai-shop-fakes": -0.4,
-   "astra-gravity": -0.1,
-   "gpt62-limits": -0.1,
-   "ne-datacentre": 1.7,
-   "omega-94": -0.2,
+   "astra-gravity": -0.2,
+   "blender-gpu": 4.9,
+   "gpt62-limits": -0.2,
+   "ne-datacentre": -0.1,
+   "omega-94": -0.1,
+   "pentagon-dpa-denial": -0.1,
    "sg-chip-talks": -0.2,
    "singleton-dc": -0.2,
-   "taiwan-exodus": -0.1,
-   "talkie-geoblock": -0.4,
-   "trump-huang-term": -0.1
+   "taiwan-exodus": -0.2,
+   "talkie-geoblock": -0.6,
+   "trump-huang-term": -0.2
   }
  },
  "state": {
@@ -1228,12 +1229,6 @@
      "name": "Palantir",
      "price": 163.59,
      "chg": 1.5
-    },
-    {
-     "sym": "NASDAQ",
-     "name": "Composite",
-     "price": 23585.8,
-     "chg": -0.62
     }
    ]
   },
@@ -1303,24 +1298,24 @@
    ]
   },
   "crypto": {
-   "asOf": "2:13 am ET",
+   "asOf": "3:14 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 61684.0,
-     "chg": 2.11
+     "price": 61816.0,
+     "chg": 2.04
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1731.87,
-     "chg": 2.77
+     "price": 1735.0,
+     "chg": 2.74
     }
    ]
   }
  },
- "next": "2026-11-27T08:18:00Z"
+ "next": "2026-11-27T09:18:00Z"
 }

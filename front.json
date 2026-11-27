@@ -3,15 +3,16 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T07:13:55Z",
- "nextUpdate": "2026-11-27T08:18:00Z",
+ "updated": "2026-11-27T08:14:16Z",
+ "nextUpdate": "2026-11-27T09:18:00Z",
  "lead": [
   {
-   "headline": "FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
-   "found": "2026-11-26T08:11:42Z",
-   "section": "business"
+   "headline": "Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...: Nature: rumoured algorithms would target RSA, the maths behind online banking... no lab has confirmed them",
+   "source": "Nature",
+   "url": "https://www.nature.com/articles/d41586-026-03875-6",
+   "found": "2026-11-26T19:11:37Z",
+   "section": "tech",
+   "label": "Not yet verified"
   }
  ],
  "topLinks": [
@@ -23,12 +24,11 @@
    "section": "quirky"
   },
   {
-   "headline": "Scott Aaronson 'virtually certain' AI labs are sitting on ENCRYPTION-BREAKING BOMBSHELLS...",
-   "source": "Nature",
-   "url": "https://www.nature.com/articles/d41586-026-03875-6",
-   "found": "2026-11-26T19:11:37Z",
-   "section": "tech",
-   "label": "Not yet verified"
+   "headline": "Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia: it 'NEVER HAPPENED'...",
+   "source": "Newsweek",
+   "url": "https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979",
+   "found": "2026-11-26T20:12:02Z",
+   "section": "politics"
   },
   {
    "headline": "Bank of England: AI money is 'COMPLEX, CIRCULAR AND OPAQUE'... $305 BILLION in hyperscaler bonds this year",
@@ -36,16 +36,16 @@
    "url": "https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026",
    "found": "2026-11-26T18:11:29Z",
    "section": "business"
-  },
-  {
-   "headline": "Spain's opposition uses AI to swap PM Sánchez's Spain jersey for a MOROCCO shirt... and comes under fire",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt",
-   "found": "2026-11-26T15:12:03Z",
-   "section": "politics"
   }
  ],
  "stories": [
+  {
+   "headline": "AI chip FRENZY sends a Chinese BLENDER MAKER's stock soaring 370%... GPUs or 'grain processing units'?",
+   "source": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390",
+   "found": "2026-11-27T08:11:41Z",
+   "section": "quirky"
+  },
   {
    "headline": "UK nature watchdog OBJECTED to an AI datacentre... weeks later, ministers threatened to ABOLISH it",
    "source": "The Guardian",
@@ -109,13 +109,6 @@
    }
   },
   {
-   "headline": "Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia: it 'NEVER HAPPENED'...",
-   "source": "Newsweek",
-   "url": "https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979",
-   "found": "2026-11-26T20:12:02Z",
-   "section": "politics"
-  },
-  {
    "headline": "Black Friday TRAP: AI shopping bots fooled by FAKE STORES built by scammers' AI...",
    "source": "CBS News",
    "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/",
@@ -144,6 +137,13 @@
    "section": "quirky"
   },
   {
+   "headline": "Spain's opposition uses AI to swap PM Sánchez's Spain jersey for a MOROCCO shirt... and comes under fire",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt",
+   "found": "2026-11-26T15:12:03Z",
+   "section": "politics"
+  },
+  {
    "headline": "Banks look to DUMP AI DEBT: Citi and JPMorgan shopping AI loan portfolios to investors, sources say...",
    "source": "Semafor",
    "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
@@ -170,6 +170,13 @@
    "url": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
    "found": "2026-11-26T10:13:18Z",
    "section": "quirky"
+  },
+  {
+   "headline": "FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+   "found": "2026-11-26T08:11:42Z",
+   "section": "business"
   },
   {
    "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...",
@@ -357,14 +364,6 @@
    "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
    "found": "2026-11-25T13:16:00Z",
    "section": "quirky"
-  },
-  {
-   "headline": "NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
-   "found": "2026-11-25T02:17:13Z",
-   "section": "politics",
-   "correction": "An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries."
   }
  ],
  "quoteOfTheDay": {
@@ -373,7 +372,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 23,
+  "score": 26,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
