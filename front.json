@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T01:13:37Z",
- "nextUpdate": "2026-11-27T02:18:00Z",
+ "updated": "2026-11-27T02:13:33Z",
+ "nextUpdate": "2026-11-27T03:18:00Z",
  "lead": [
   {
    "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...: FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
@@ -50,6 +50,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Trump: Jensen is EXCITED about his 'SECOND TERM' at Nvidia...",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-jensen-huang-ceo-second-term-at-nvidia",
+   "found": "2026-11-27T02:12:19Z",
+   "section": "politics"
+  },
   {
    "headline": "Stanford physicist proposes a QUANTUM THEORY OF GRAVITY... built partly with GPT-6 Astra",
    "source": "arXiv",
@@ -374,7 +381,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 22,
+  "score": 21,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

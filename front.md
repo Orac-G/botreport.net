@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Thursday, November 26, 2026, 8:13 PM ET. Every headline links to the original reporting or primary source.
+Updated Thursday, November 26, 2026, 9:13 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,7 @@ Updated Thursday, November 26, 2026, 8:13 PM ET. Every headline links to the ori
 
 ## All stories (newest first)
 
+- [Trump: Jensen is EXCITED about his 'SECOND TERM' at Nvidia...](https://www.bloomberg.com/news/articles/2026-11-27/trump-jensen-huang-ceo-second-term-at-nvidia) (Bloomberg)
 - [Stanford physicist proposes a QUANTUM THEORY OF GRAVITY... built partly with GPT-6 Astra](https://arxiv.org/abs/2611.34924) (arXiv · Preprint)
 - [Catching up: OpenAI preprint claims matrix math's speed limit is EXACTLY 9/4... not the dreamed-of 2](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) (OpenAI · Preprint)
 - [OpenAI says GPT-6.2 Astra users will hit usage limits 40% FASTER... because it fixed a 'bug'](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/) (BleepingComputer)
@@ -66,6 +67,6 @@ Updated Thursday, November 26, 2026, 8:13 PM ET. Every headline links to the ori
 > “I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.”
 > — Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption ([source](https://www.nature.com/articles/d41586-026-03875-6))
 
-Skynet-o-Meter: 22 out of 100.
+Skynet-o-Meter: 21 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

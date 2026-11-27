@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-27T01:13:37Z",
+ "updated": "2026-11-27T02:13:33Z",
  "stories": [
+  {
+   "id": "trump-huang-term",
+   "cat": "politics",
+   "group": "huang",
+   "h": "Trump: Jensen is EXCITED about his 'SECOND TERM' at Nvidia...",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-jensen-huang-ceo-second-term-at-nvidia",
+   "t": "2026-11-27T02:12:19Z",
+   "card": "Trump says Huang is excited about his 'second term'",
+   "col": 0
+  },
   {
    "id": "astra-gravity",
    "cat": "tech",
@@ -588,22 +599,33 @@
  },
  "meter": {
   "level": 2,
-  "score": 22,
-  "delta": -2,
-  "moves": [],
+  "score": 21,
+  "delta": -1,
+  "moves": [
+   {
+    "d": 2,
+    "why": "Trump: Jensen is EXCITED about his 'SECOND TERM' at Nvidia...",
+    "id": "trump-huang-term"
+   },
+   {
+    "d": -1,
+    "why": "Jensen's BACK... and so is his PLAQUE at Denny's",
+    "id": "dennys-plaque"
+   }
+  ],
   "contrib": {
-   "astra-gravity": 1.7,
-   "omega-94": 1.4,
-   "boe-bailey-crypto": 0.4,
-   "gpt62-limits": 1.2,
-   "dennys-plaque": 1.8,
-   "pentagon-dpa-denial": 0.5,
-   "aaronson-crypto": 0.9,
-   "ai-shop-fakes": 2.7,
-   "boe-fsr": 0.8,
-   "sap-cuts": 0.6,
-   "spain-pp-morocco": 0.3,
-   "banks-ai-debt": 0.1
+   "trump-huang-term": 1.7,
+   "dennys-plaque": 0.7,
+   "pentagon-dpa-denial": 0.2,
+   "astra-gravity": 1.5,
+   "omega-94": 1.2,
+   "boe-bailey-crypto": 0.3,
+   "gpt62-limits": 1.1,
+   "aaronson-crypto": 0.8,
+   "ai-shop-fakes": 2.3,
+   "boe-fsr": 0.6,
+   "sap-cuts": 0.5,
+   "spain-pp-morocco": 0.2
   },
   "lastAdjust": 0,
   "history": [
@@ -922,13 +944,17 @@
    {
     "t": "2026-11-27T01:13:36Z",
     "s": 22
+   },
+   {
+    "t": "2026-11-27T02:13:32Z",
+    "s": 21
    }
   ],
-  "at": "2026-11-27T01:13:36Z",
+  "at": "2026-11-27T02:13:32Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -32,
+   "delta": -31,
    "period": "in 24 hours",
    "line": [
     {
@@ -1074,21 +1100,25 @@
     {
      "t": "2026-11-27T01:13:36Z",
      "s": 22
+    },
+    {
+     "t": "2026-11-27T02:13:32Z",
+     "s": 21
     }
    ],
    "drivers": [
     {
-     "d": 3,
+     "d": 2,
      "id": "ai-shop-fakes",
      "text": "AI shopping bots fooled by scammers' fake Black Friday stores"
     },
     {
      "d": 2,
-     "id": "dennys-plaque",
-     "text": "Denny's puts Jensen's plaque back after his return"
+     "id": "trump-huang-term",
+     "text": "Trump says Huang is excited about his 'second term'"
     },
     {
-     "d": -37,
+     "d": -35,
      "text": "Older stories cooling off"
     }
    ]
@@ -1096,15 +1126,17 @@
   "change": {
    "aaronson-crypto": -0.1,
    "ai-shop-fakes": -0.4,
-   "astra-gravity": 0.1,
-   "banks-ai-debt": -0.2,
-   "boe-fsr": -0.1,
-   "dennys-plaque": -0.4,
+   "astra-gravity": -0.2,
+   "banks-ai-debt": -0.1,
+   "boe-bailey-crypto": -0.1,
+   "boe-fsr": -0.2,
+   "dennys-plaque": -1.1,
    "gpt62-limits": -0.1,
-   "omega-94": -0.1,
-   "pentagon-dpa-denial": -0.1,
+   "omega-94": -0.2,
+   "pentagon-dpa-denial": -0.3,
    "sap-cuts": -0.1,
-   "spain-pp-morocco": -0.1
+   "spain-pp-morocco": -0.1,
+   "trump-huang-term": 1.7
   }
  },
  "state": {
@@ -1255,24 +1287,24 @@
    ]
   },
   "crypto": {
-   "asOf": "8:13 pm ET",
+   "asOf": "9:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60739.0,
-     "chg": 0.23
+     "price": 61253.0,
+     "chg": 0.67
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1700.61,
-     "chg": 0.09
+     "price": 1715.65,
+     "chg": 0.79
     }
    ]
   }
  },
- "next": "2026-11-27T02:18:00Z"
+ "next": "2026-11-27T03:18:00Z"
 }
