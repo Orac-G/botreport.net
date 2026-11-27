@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T05:13:24Z",
- "nextUpdate": "2026-11-27T06:18:00Z",
+ "updated": "2026-11-27T06:13:35Z",
+ "nextUpdate": "2026-11-27T07:18:00Z",
  "lead": [
   {
    "headline": "FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...",
@@ -358,13 +358,6 @@
    "found": "2026-11-25T02:17:13Z",
    "section": "politics",
    "correction": "An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries."
-  },
-  {
-   "headline": "Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE",
-   "source": "Scientific American",
-   "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
-   "found": "2026-11-24T17:02:44Z",
-   "section": "quirky"
   }
  ],
  "quoteOfTheDay": {
@@ -373,7 +366,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 25,
+  "score": 23,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

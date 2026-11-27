@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 12:13 AM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 1:13 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -59,13 +59,12 @@ Updated Friday, November 27, 2026, 12:13 AM ET. Every headline links to the orig
 - [SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...](https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html) (New York Times)
 - [Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...](https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content) (South China Morning Post)
 - [NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...](https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html) (New York Times · Corrected: An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries.)
-- [Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE](https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/) (Scientific American)
 
 ## Quote of the Day
 
 > “I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.”
 > — Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption ([source](https://www.nature.com/articles/d41586-026-03875-6))
 
-Skynet-o-Meter: 25 out of 100.
+Skynet-o-Meter: 23 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

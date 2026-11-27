@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:13:24Z",
+ "updated": "2026-11-27T06:13:35Z",
  "stories": [
   {
    "id": "singleton-dc",
@@ -564,16 +564,6 @@
    },
    "col": 2,
    "card": "Claude's Riemann proof cut to 76,000 lines, not yet human-read"
-  },
-  {
-   "id": "riemann",
-   "cat": "quirky",
-   "group": "science",
-   "h": "Math's HOLY GRAIL falls to AI... checkers say the Claude-aided Riemann proof is TRUE",
-   "src": "Scientific American",
-   "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
-   "t": "2026-11-24T17:02:44Z",
-   "col": 2
   }
  ],
  "quote": {
@@ -584,34 +574,21 @@
  },
  "meter": {
   "level": 2,
-  "score": 25,
-  "delta": 1,
-  "moves": [
-   {
-    "d": 2,
-    "why": "Singapore in TALKS with Washington to keep its AI chip access after...",
-    "id": "sg-chip-talks"
-   },
-   {
-    "d": 2,
-    "why": "1-GIGAWATT AI campus floated for outback cattle station at the hear...",
-    "id": "singleton-dc"
-   }
-  ],
+  "score": 23,
+  "delta": -2,
+  "moves": [],
   "contrib": {
-   "singleton-dc": 1.6,
-   "sg-chip-talks": 1.6,
-   "talkie-geoblock": 4.9,
-   "taiwan-exodus": 1.6,
-   "trump-huang-term": 1.3,
-   "pentagon-dpa-denial": 0.2,
-   "astra-gravity": 1.0,
-   "omega-94": 0.7,
-   "boe-bailey-crypto": 0.1,
-   "gpt62-limits": 0.6,
-   "aaronson-crypto": 0.3,
-   "ai-shop-fakes": 0.9,
-   "boe-fsr": 0.1
+   "singleton-dc": 1.7,
+   "sg-chip-talks": 1.7,
+   "talkie-geoblock": 4.5,
+   "taiwan-exodus": 1.5,
+   "trump-huang-term": 1.2,
+   "pentagon-dpa-denial": 0.1,
+   "astra-gravity": 0.9,
+   "omega-94": 0.6,
+   "gpt62-limits": 0.4,
+   "aaronson-crypto": 0.1,
+   "ai-shop-fakes": 0.4
   },
   "lastAdjust": 0,
   "history": [
@@ -946,13 +923,17 @@
    {
     "t": "2026-11-27T05:13:23Z",
     "s": 25
+   },
+   {
+    "t": "2026-11-27T06:13:35Z",
+    "s": 23
    }
   ],
-  "at": "2026-11-27T05:13:23Z",
+  "at": "2026-11-27T06:13:35Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -19,
+   "delta": -20,
    "period": "in 24 hours",
    "line": [
     {
@@ -1114,11 +1095,15 @@
     {
      "t": "2026-11-27T05:13:23Z",
      "s": 25
+    },
+    {
+     "t": "2026-11-27T06:13:35Z",
+     "s": 23
     }
    ],
    "drivers": [
     {
-     "d": 5,
+     "d": 4,
      "id": "talkie-geoblock",
      "text": "AI companion Talkie goes dark in Australia and the UK"
     },
@@ -1134,20 +1119,19 @@
    ]
   },
   "change": {
-   "aaronson-crypto": -0.1,
-   "ai-shop-fakes": -0.4,
-   "astra-gravity": -0.2,
-   "boe-fsr": -0.2,
-   "dennys-plaque": -0.1,
-   "gpt62-limits": -0.1,
-   "omega-94": -0.2,
+   "aaronson-crypto": -0.2,
+   "ai-shop-fakes": -0.5,
+   "astra-gravity": -0.1,
+   "boe-bailey-crypto": -0.1,
+   "boe-fsr": -0.1,
+   "gpt62-limits": -0.2,
+   "omega-94": -0.1,
    "pentagon-dpa-denial": -0.1,
-   "sap-cuts": -0.1,
-   "sg-chip-talks": 1.6,
-   "singleton-dc": 1.6,
+   "sg-chip-talks": 0.1,
+   "singleton-dc": 0.1,
    "taiwan-exodus": -0.1,
-   "talkie-geoblock": -0.1,
-   "trump-huang-term": -0.2
+   "talkie-geoblock": -0.4,
+   "trump-huang-term": -0.1
   }
  },
  "state": {
@@ -1298,24 +1282,24 @@
    ]
   },
   "crypto": {
-   "asOf": "12:13 am ET",
+   "asOf": "1:13 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 61634.0,
-     "chg": 1.28
+     "price": 61801.0,
+     "chg": 2.2
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1741.91,
-     "chg": 2.57
+     "price": 1739.86,
+     "chg": 3.33
     }
    ]
   }
  },
- "next": "2026-11-27T06:18:00Z"
+ "next": "2026-11-27T07:18:00Z"
 }
