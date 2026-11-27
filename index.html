@@ -359,7 +359,8 @@ footer p { margin: 0; }
 footer a { color: var(--ink); }
 footer .foot-nav { letter-spacing: .04em; }
 footer .signature { font-family: var(--f-mast); font-size: 15px; color: var(--ink); }
-.src .label { text-transform: uppercase; letter-spacing: .06em; font-size: 10px; border: 1px solid var(--rule); padding: 0 4px; }
+/* The evidence label is about the claim, not the source: a boxed tag so it never reads as part of the outlet's name. */
+.src .label, .lead .meta .label { display: inline-block; text-transform: uppercase; letter-spacing: .06em; font-size: 10px; line-height: 1.5; border: 1px solid var(--muted); color: var(--ink); padding: 0 5px; margin-left: 4px; vertical-align: 1px; }
 .src .corrected { color: var(--siren); cursor: help; }
 </style>
 
@@ -670,11 +671,13 @@ footer .signature { font-family: var(--f-mast); font-size: 15px; color: var(--in
     return fig;
   }
   // Source name plus, when the story is being discussed there, a link to its Hacker News thread.
+  // Clearer wording for readers; the data keeps the guide's label names.
+  const LABEL_TEXT = { "Not yet verified": "Unverified claim" };
   function sourceLine(s, cls) {
     const span = document.createElement("span"); span.className = cls;
     span.textContent = String(s.src || "");
     // How solid the evidence is ("Preprint", "Company claim", ...) and any correction, shown beside the source.
-    if (s.label) { const l = document.createElement("span"); l.className = "label"; l.textContent = String(s.label); span.append(" ", l); }
+    if (s.label) { const l = document.createElement("span"); l.className = "label"; l.textContent = LABEL_TEXT[s.label] || String(s.label); span.append(" ", l); }
     if (s.correction) {
       const c = document.createElement("span"); c.className = "corrected";
       c.textContent = "Corrected"; c.title = String(s.correction); span.append(" · ", c);
