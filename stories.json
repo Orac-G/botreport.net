@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T21:13:53Z",
+ "updated": "2026-11-27T22:13:21Z",
  "stories": [
   {
    "id": "openai-apple-suit",
@@ -549,32 +549,31 @@
  },
  "meter": {
   "level": 2,
-  "score": 36,
+  "score": 33,
   "delta": -3,
   "moves": [
    {
     "d": -1,
-    "why": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to AL...",
-    "id": "blackwell-alice"
+    "why": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade s...",
+    "id": "openai-apple-suit"
    },
    {
     "d": -1,
-    "why": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade s...",
-    "id": "openai-apple-suit"
+    "why": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to AL...",
+    "id": "blackwell-alice"
    }
   ],
   "contrib": {
-   "openai-apple-suit": 12.0,
-   "anthropic-reclaims": 1.1,
-   "hynix-buyback": 0.2,
-   "google-belgium-halt": 1.1,
-   "kirill-apocalypse": 3.2,
-   "anthropic-hunger": 1.4,
-   "shopbot-blocks": 0.9,
-   "poland-palantir": 2.2,
-   "blackwell-alice": 2.4,
-   "tilly-treasons": 1.2,
-   "agent-pizza": 0.4
+   "openai-apple-suit": 11.2,
+   "anthropic-reclaims": 1.0,
+   "hynix-buyback": 0.1,
+   "google-belgium-halt": 1.0,
+   "kirill-apocalypse": 2.9,
+   "anthropic-hunger": 1.3,
+   "shopbot-blocks": 0.8,
+   "poland-palantir": 1.7,
+   "blackwell-alice": 1.7,
+   "tilly-treasons": 0.8
   },
   "lastAdjust": 0,
   "history": [
@@ -973,13 +972,17 @@
    {
     "t": "2026-11-27T21:13:53Z",
     "s": 36
+   },
+   {
+    "t": "2026-11-27T22:13:21Z",
+    "s": 33
    }
   ],
-  "at": "2026-11-27T21:13:53Z",
+  "at": "2026-11-27T22:13:21Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 7,
+   "delta": 6,
    "period": "in 24 hours",
    "line": [
     {
@@ -1205,11 +1208,15 @@
     {
      "t": "2026-11-27T21:13:53Z",
      "s": 36
+    },
+    {
+     "t": "2026-11-27T22:13:21Z",
+     "s": 33
     }
    ],
    "drivers": [
     {
-     "d": 12,
+     "d": 11,
      "id": "openai-apple-suit",
      "text": "OpenAI countersues, accusing Apple of stealing trade secrets"
     },
@@ -1229,14 +1236,13 @@
    "anthropic-hunger": -0.1,
    "anthropic-reclaims": -0.1,
    "blackwell-alice": -0.7,
-   "china-chip-surge": -0.1,
    "google-belgium-halt": -0.1,
    "hynix-buyback": -0.1,
    "kirill-apocalypse": -0.3,
-   "openai-apple-suit": -0.7,
-   "poland-palantir": -0.4,
+   "openai-apple-suit": -0.8,
+   "poland-palantir": -0.5,
    "shopbot-blocks": -0.1,
-   "tilly-treasons": -0.3
+   "tilly-treasons": -0.4
   }
  },
  "state": {
@@ -1369,24 +1375,24 @@
    ]
   },
   "crypto": {
-   "asOf": "4:13 pm ET",
+   "asOf": "5:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59802.0,
-     "chg": -1.55
+     "price": 59693.0,
+     "chg": -1.34
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1666.33,
-     "chg": -2.16
+     "price": 1658.51,
+     "chg": -2.24
     }
    ]
   }
  },
- "next": "2026-11-27T22:18:00Z"
+ "next": "2026-11-27T23:18:00Z"
 }
