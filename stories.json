@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-27T13:16:36Z",
+ "updated": "2026-11-27T14:14:44Z",
  "stories": [
+  {
+   "id": "futures-bounce",
+   "cat": "business",
+   "h": "Black Friday BOUNCE: Nasdaq futures UP 2.3% premarket, Nvidia up more than 4%, as tech claws back a volatile week...",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
+   "t": "2026-11-27T14:14:38Z",
+   "group": "markets",
+   "col": 1,
+   "card": "Nasdaq futures jump 2.3% premarket; Nvidia up over 4%"
+  },
   {
    "id": "poland-palantir",
    "cat": "military",
@@ -508,17 +519,6 @@
    "col": 1
   },
   {
-   "id": "talkie-pulled",
-   "cat": "quirky",
-   "h": "Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...",
-   "src": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
-   "t": "2026-11-25T13:16:00Z",
-   "group": "companions",
-   "card": "Apple pulls AI companion app Talkie worldwide over sex content",
-   "col": 1
-  },
-  {
    "id": "grh-shrink",
    "cat": "tech",
    "group": "science",
@@ -543,22 +543,39 @@
  },
  "meter": {
   "level": 2,
-  "score": 36,
-  "delta": -1,
-  "moves": [],
+  "score": 38,
+  "delta": 2,
+  "moves": [
+   {
+    "d": 6,
+    "why": "'WATERSHED MOMENT': Poland signs $300 MILLION Palantir deal for AI...",
+    "id": "poland-palantir"
+   },
+   {
+    "d": -1,
+    "why": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to AL...",
+    "id": "blackwell-alice"
+   },
+   {
+    "d": 1,
+    "why": "Black Friday BOUNCE: Nasdaq futures UP 2.3% premarket, Nvidia up mo...",
+    "id": "futures-bounce"
+   }
+  ],
   "contrib": {
-   "blackwell-alice": 8.9,
-   "trump-huang-term": 0.1,
-   "tilly-treasons": 4.4,
-   "hynix-buyback": 1.5,
-   "taiwan-exodus": 0.2,
-   "agent-pizza": 3.6,
-   "china-chip-surge": 1.1,
-   "blender-gpu": 2.8,
-   "ne-datacentre": 0.8,
-   "singleton-dc": 0.5,
-   "sg-chip-talks": 0.5,
-   "talkie-geoblock": 1.2
+   "blackwell-alice": 7.8,
+   "futures-bounce": 0.7,
+   "poland-palantir": 5.8,
+   "tilly-treasons": 3.9,
+   "hynix-buyback": 1.3,
+   "taiwan-exodus": 0.1,
+   "agent-pizza": 3.1,
+   "china-chip-surge": 0.9,
+   "blender-gpu": 2.3,
+   "ne-datacentre": 0.7,
+   "singleton-dc": 0.4,
+   "sg-chip-talks": 0.4,
+   "talkie-geoblock": 0.8
   },
   "lastAdjust": 0,
   "history": [
@@ -925,13 +942,17 @@
    {
     "t": "2026-11-27T13:16:36Z",
     "s": 36
+   },
+   {
+    "t": "2026-11-27T14:14:44Z",
+    "s": 38
    }
   ],
-  "at": "2026-11-27T13:16:36Z",
+  "at": "2026-11-27T14:14:44Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 3,
+   "delta": 7,
    "period": "in 24 hours",
    "line": [
     {
@@ -1125,40 +1146,49 @@
     {
      "t": "2026-11-27T13:16:36Z",
      "s": 36
+    },
+    {
+     "t": "2026-11-27T14:14:44Z",
+     "s": 38
     }
    ],
    "drivers": [
     {
-     "d": 9,
+     "d": 8,
      "id": "blackwell-alice",
      "text": "Blackwell chips found at Shanghai site tied to Alice Huang"
     },
     {
-     "d": 4,
-     "id": "tilly-treasons",
-     "text": "AI actress boasts of 'small treasons' to dodge deletion"
+     "d": 6,
+     "id": "poland-palantir",
+     "text": "Poland signs $300M Palantir deal for AI battlefield software"
     },
     {
-     "d": -10,
+     "d": -7,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "agent-pizza": -0.4,
-   "blackwell-alice": 0.2,
-   "blender-gpu": -0.4,
-   "china-chip-surge": -0.1,
+   "agent-pizza": -0.5,
+   "blackwell-alice": -1.1,
+   "blender-gpu": -0.5,
+   "china-chip-surge": -0.2,
+   "futures-bounce": 0.7,
+   "hynix-buyback": -0.2,
    "ne-datacentre": -0.1,
-   "sg-chip-talks": -0.2,
-   "singleton-dc": -0.2,
+   "poland-palantir": 5.8,
+   "sg-chip-talks": -0.1,
+   "singleton-dc": -0.1,
    "taiwan-exodus": -0.1,
-   "talkie-geoblock": -0.4
+   "talkie-geoblock": -0.4,
+   "tilly-treasons": -0.5,
+   "trump-huang-term": -0.1
   }
  },
  "state": {
   "models": {
-   "asOf": "Nov 26",
+   "asOf": "Nov 27",
    "src": "Artificial Analysis Intelligence Index",
    "url": "https://artificialanalysis.ai/leaderboards/models",
    "items": [
@@ -1298,24 +1328,24 @@
    ]
   },
   "crypto": {
-   "asOf": "8:16 am ET",
+   "asOf": "9:14 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 61461.0,
-     "chg": 1.13
+     "price": 61375.0,
+     "chg": 0.93
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1720.26,
-     "chg": 0.92
+     "price": 1721.95,
+     "chg": 1.11
     }
    ]
   }
  },
- "next": "2026-11-27T14:18:00Z"
+ "next": "2026-11-27T15:18:00Z"
 }

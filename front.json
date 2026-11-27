@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T13:16:36Z",
- "nextUpdate": "2026-11-27T14:18:00Z",
+ "updated": "2026-11-27T14:14:44Z",
+ "nextUpdate": "2026-11-27T15:18:00Z",
  "lead": [
   {
    "headline": "Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...: Nature: rumoured algorithms would target RSA, the maths behind online banking... no lab has confirmed them",
@@ -46,6 +46,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Black Friday BOUNCE: Nasdaq futures UP 2.3% premarket, Nvidia up more than 4%, as tech claws back a volatile week...",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
+   "found": "2026-11-27T14:14:38Z",
+   "section": "business"
+  },
   {
    "headline": "'WATERSHED MOMENT': Poland signs $300 MILLION Palantir deal for AI battlefield software... as Europe frets over US tech",
    "source": "Bloomberg",
@@ -335,13 +342,6 @@
    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
    "found": "2026-11-25T18:13:39Z",
    "section": "quirky"
-  },
-  {
-   "headline": "Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...",
-   "source": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
-   "found": "2026-11-25T13:16:00Z",
-   "section": "quirky"
   }
  ],
  "quoteOfTheDay": {
@@ -350,7 +350,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 36,
+  "score": 38,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
