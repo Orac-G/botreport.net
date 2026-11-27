@@ -1,6 +1,44 @@
 {
- "updated": "2026-11-27T16:14:01Z",
+ "updated": "2026-11-27T17:14:56Z",
  "stories": [
+  {
+   "id": "anthropic-reclaims",
+   "cat": "business",
+   "h": "Anthropic shares CLAW BACK above their $83 IPO price... as a rocky first week on the Nasdaq ends",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo",
+   "t": "2026-11-27T17:11:49Z",
+   "group": "markets",
+   "col": 1,
+   "img": {
+    "src": "img/dario-amodei.jpg",
+    "alt": "Anthropic CEO Dario Amodei",
+    "credit": "TechCrunch / CC BY 2.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_01_(cropped).jpg"
+   },
+   "card": "Anthropic shares climb back above their $83 IPO price"
+  },
+  {
+   "id": "google-belgium-halt",
+   "cat": "politics",
+   "h": "Belgium orders Google to HALT datacentre construction over missing permits... after Greenpeace showed work CARRYING ON",
+   "src": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+   "t": "2026-11-27T17:11:49Z",
+   "col": 1,
+   "card": "Belgium orders Google to halt datacentre build over permits"
+  },
+  {
+   "id": "kirill-apocalypse",
+   "cat": "quirky",
+   "h": "Russia's Patriarch Kirill calls on Christians to TAME AI... warns of 'APOCALYPSE'",
+   "src": "Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/11/27/russian-orthodox-church-patriarch-kirill-calls-christians-tame-ai/",
+   "t": "2026-11-27T17:11:49Z",
+   "group": "doom",
+   "col": 0,
+   "card": "Russia's patriarch warns of AI 'Apocalypse'"
+  },
   {
    "id": "anthropic-hunger",
    "cat": "quirky",
@@ -9,8 +47,8 @@
    "src": "Gizmodo",
    "url": "https://gizmodo.com/a-hunger-strike-against-self-improving-ai-is-happening-outside-of-anthropics-san-francisco-headquarters-2000846188",
    "t": "2026-11-27T16:13:47Z",
-   "col": 1,
-   "card": "Day five: hunger striker at Anthropic HQ demands an AI halt"
+   "card": "Day five: hunger striker at Anthropic HQ demands an AI halt",
+   "top": true
   },
   {
    "id": "shopbot-blocks",
@@ -22,17 +60,6 @@
    "t": "2026-11-27T16:13:47Z",
    "col": 1,
    "card": "Amazon, eBay, United curb AI shopping bots on Black Friday"
-  },
-  {
-   "id": "futures-bounce",
-   "cat": "business",
-   "h": "Black Friday premarket BOUNCE: Nasdaq futures were UP 2.3%, Nvidia up 4%, as tech tried to claw back a volatile week...",
-   "src": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
-   "t": "2026-11-27T14:14:38Z",
-   "group": "markets",
-   "col": 1,
-   "card": "Premarket: Nasdaq futures were up 2.3%; Nvidia up 4%"
   },
   {
    "id": "poland-palantir",
@@ -151,8 +178,8 @@
    "src": "ABC (Australia)",
    "url": "https://www.abc.net.au/news/2026-11-27/talkie-ai-app-blocked-taken-off-apple-store/107433834",
    "t": "2026-11-27T04:13:09Z",
-   "top": true,
-   "card": "AI companion Talkie goes dark in Australia and the UK"
+   "card": "AI companion Talkie goes dark in Australia and the UK",
+   "col": 1
   },
   {
    "id": "taiwan-exodus",
@@ -452,18 +479,6 @@
    }
   },
   {
-   "id": "softbank-rebound",
-   "cat": "business",
-   "red": true,
-   "h": "SoftBank SURGES as much as 11%+ as Asia's chip stocks bounce back from the AI rout...",
-   "src": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-   "t": "2026-11-26T02:12:14Z",
-   "saga": "markets",
-   "card": "SoftBank surges as much as 11% as Asia's chips rebound",
-   "col": 0
-  },
-  {
    "id": "hegseth-dpa",
    "cat": "politics",
    "red": true,
@@ -510,26 +525,6 @@
    "card": "Microsoft: Chinese hackers' AI tool takes networks in minutes"
   },
   {
-   "id": "dems-red-lights",
-   "cat": "politics",
-   "group": "doom",
-   "h": "'The flashing red lights couldn't be BRIGHTER': Democrats demand new AI curbs after lab staff fear their own models...",
-   "src": "Axios",
-   "url": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
-   "t": "2026-11-25T21:14:19Z",
-   "col": 1
-  },
-  {
-   "id": "agent-attacks",
-   "cat": "tech",
-   "h": "Italy and Switzerland warn AI AGENTS are breaching critical infrastructure... 'writing malicious code in real time'",
-   "src": "BleepingComputer",
-   "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-   "t": "2026-11-25T20:12:53Z",
-   "group": "hacks",
-   "col": 2
-  },
-  {
    "id": "cai-auction",
    "cat": "quirky",
    "red": true,
@@ -566,39 +561,39 @@
  },
  "meter": {
   "level": 2,
-  "score": 37,
-  "delta": 2,
+  "score": 38,
+  "delta": 1,
   "moves": [
    {
     "d": 4,
+    "why": "Russia's Patriarch Kirill calls on Christians to TAME AI... warns o...",
+    "id": "kirill-apocalypse"
+   },
+   {
+    "d": -2,
     "why": "DAY FIVE without food: hunger striker camps outside Anthropic HQ de...",
     "id": "anthropic-hunger"
    },
    {
-    "d": 2,
-    "why": "Black Friday BOT BLOCK: Amazon, eBay and United LIMIT or BAN AI sho...",
-    "id": "shopbot-blocks"
-   },
-   {
-    "d": -1,
-    "why": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to AL...",
-    "id": "blackwell-alice"
+    "d": 1,
+    "why": "Anthropic shares CLAW BACK above their $83 IPO price... as a rocky...",
+    "id": "anthropic-reclaims"
    }
   ],
   "contrib": {
-   "anthropic-hunger": 4.4,
-   "shopbot-blocks": 1.5,
-   "blackwell-alice": 6.4,
-   "futures-bounce": 0.7,
-   "poland-palantir": 4.8,
-   "tilly-treasons": 3.2,
-   "hynix-buyback": 1.1,
-   "agent-pizza": 2.4,
-   "china-chip-surge": 0.7,
-   "blender-gpu": 1.6,
-   "ne-datacentre": 0.4,
-   "singleton-dc": 0.1,
-   "sg-chip-talks": 0.1
+   "anthropic-reclaims": 1.4,
+   "hynix-buyback": 0.5,
+   "google-belgium-halt": 1.4,
+   "kirill-apocalypse": 4.3,
+   "anthropic-hunger": 2.2,
+   "shopbot-blocks": 1.4,
+   "poland-palantir": 4.2,
+   "blackwell-alice": 5.5,
+   "tilly-treasons": 2.8,
+   "agent-pizza": 2.0,
+   "china-chip-surge": 0.5,
+   "blender-gpu": 1.2,
+   "ne-datacentre": 0.3
   },
   "lastAdjust": 0,
   "history": [
@@ -977,13 +972,17 @@
    {
     "t": "2026-11-27T16:13:56Z",
     "s": 37
+   },
+   {
+    "t": "2026-11-27T17:14:56Z",
+    "s": 38
    }
   ],
-  "at": "2026-11-27T16:13:56Z",
+  "at": "2026-11-27T17:14:56Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 11,
+   "delta": 10,
    "period": "in 24 hours",
    "line": [
     {
@@ -1189,6 +1188,10 @@
     {
      "t": "2026-11-27T16:13:56Z",
      "s": 37
+    },
+    {
+     "t": "2026-11-27T17:14:56Z",
+     "s": 38
     }
    ],
    "drivers": [
@@ -1198,26 +1201,28 @@
      "text": "Blackwell chips found at Shanghai site tied to Alice Huang"
     },
     {
-     "d": 5,
-     "id": "poland-palantir",
-     "text": "Poland signs $300M Palantir deal for AI battlefield software"
+     "d": 4,
+     "id": "kirill-apocalypse",
+     "text": "Russia's patriarch warns of AI 'Apocalypse'"
     }
    ]
   },
   "change": {
    "agent-pizza": -0.4,
-   "anthropic-hunger": 4.4,
+   "anthropic-hunger": -2.2,
+   "anthropic-reclaims": 1.4,
    "blackwell-alice": -0.9,
    "blender-gpu": -0.4,
-   "china-chip-surge": -0.1,
-   "hynix-buyback": -0.1,
+   "china-chip-surge": -0.2,
+   "futures-bounce": -0.7,
+   "google-belgium-halt": 1.4,
+   "hynix-buyback": -0.6,
+   "kirill-apocalypse": 4.3,
    "ne-datacentre": -0.1,
    "poland-palantir": -0.6,
-   "sg-chip-talks": -0.2,
-   "shopbot-blocks": 1.5,
-   "singleton-dc": -0.2,
-   "taiwan-exodus": -0.1,
-   "talkie-geoblock": -0.4,
+   "sg-chip-talks": -0.1,
+   "shopbot-blocks": -0.1,
+   "singleton-dc": -0.1,
    "tilly-treasons": -0.4
   }
  },
@@ -1255,33 +1260,51 @@
    ]
   },
   "stocks": {
-   "asOf": "10:13 am ET",
+   "asOf": "12:13 pm ET",
    "src": "Yahoo Finance \u00b7 change vs. prior close",
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
     {
      "sym": "NVDA",
      "name": "Nvidia",
-     "price": 147.03,
-     "chg": -1.52
+     "price": 148.96,
+     "chg": -0.23
     },
     {
      "sym": "ANT",
      "name": "Anthropic",
-     "price": 88.07,
-     "chg": 6.38
+     "price": 91.76,
+     "chg": 10.83
     },
     {
      "sym": "CBRS",
      "name": "Cerebras",
-     "price": 90.71,
-     "chg": 1.15
+     "price": 92.93,
+     "chg": 3.62
     },
     {
      "sym": "CRWV",
      "name": "CoreWeave",
-     "price": 41.99,
-     "chg": -1.36
+     "price": 43.62,
+     "chg": 2.48
+    },
+    {
+     "sym": "NBIS",
+     "name": "Nebius",
+     "price": 87.97,
+     "chg": 3.51
+    },
+    {
+     "sym": "PLTR",
+     "name": "Palantir",
+     "price": 171.95,
+     "chg": 5.11
+    },
+    {
+     "sym": "NASDAQ",
+     "name": "Composite",
+     "price": 24016.65,
+     "chg": 1.83
     }
    ]
   },
@@ -1351,24 +1374,24 @@
    ]
   },
   "crypto": {
-   "asOf": "11:13 am ET",
+   "asOf": "12:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59948.0,
-     "chg": -1.09
+     "price": 59899.0,
+     "chg": -1.0
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1669.56,
-     "chg": -1.25
+     "price": 1668.52,
+     "chg": -1.39
     }
    ]
   }
  },
- "next": "2026-11-27T17:18:00Z"
+ "next": "2026-11-27T18:18:00Z"
 }

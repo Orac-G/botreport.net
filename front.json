@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T16:14:01Z",
- "nextUpdate": "2026-11-27T17:18:00Z",
+ "updated": "2026-11-27T17:14:56Z",
+ "nextUpdate": "2026-11-27T18:18:00Z",
  "lead": [
   {
    "headline": "Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...: Nature: rumoured algorithms would target RSA, the maths behind online banking... no lab has confirmed them",
@@ -16,6 +16,13 @@
   }
  ],
  "topLinks": [
+  {
+   "headline": "DAY FIVE without food: hunger striker camps outside Anthropic HQ demanding it STOP self-improving AI...",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/a-hunger-strike-against-self-improving-ai-is-happening-outside-of-anthropics-san-francisco-headquarters-2000846188",
+   "found": "2026-11-27T16:13:47Z",
+   "section": "quirky"
+  },
   {
    "headline": "Pizza history: an AI AGENT buys a Papa John's order with NO CARD... a UK FIRST",
    "source": "The Guardian",
@@ -36,21 +43,28 @@
    "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
    "found": "2026-11-27T07:13:32Z",
    "section": "politics"
-  },
-  {
-   "headline": "After Apple boots it, AI companion Talkie goes DARK in Australia and the UK... 'One down, THOUSANDS to go'",
-   "source": "ABC (Australia)",
-   "url": "https://www.abc.net.au/news/2026-11-27/talkie-ai-app-blocked-taken-off-apple-store/107433834",
-   "found": "2026-11-27T04:13:09Z",
-   "section": "quirky"
   }
  ],
  "stories": [
   {
-   "headline": "DAY FIVE without food: hunger striker camps outside Anthropic HQ demanding it STOP self-improving AI...",
-   "source": "Gizmodo",
-   "url": "https://gizmodo.com/a-hunger-strike-against-self-improving-ai-is-happening-outside-of-anthropics-san-francisco-headquarters-2000846188",
-   "found": "2026-11-27T16:13:47Z",
+   "headline": "Anthropic shares CLAW BACK above their $83 IPO price... as a rocky first week on the Nasdaq ends",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo",
+   "found": "2026-11-27T17:11:49Z",
+   "section": "business"
+  },
+  {
+   "headline": "Belgium orders Google to HALT datacentre construction over missing permits... after Greenpeace showed work CARRYING ON",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+   "found": "2026-11-27T17:11:49Z",
+   "section": "politics"
+  },
+  {
+   "headline": "Russia's Patriarch Kirill calls on Christians to TAME AI... warns of 'APOCALYPSE'",
+   "source": "Washington Post",
+   "url": "https://www.washingtonpost.com/world/2026/11/27/russian-orthodox-church-patriarch-kirill-calls-christians-tame-ai/",
+   "found": "2026-11-27T17:11:49Z",
    "section": "quirky"
   },
   {
@@ -58,13 +72,6 @@
    "source": "CNBC",
    "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
    "found": "2026-11-27T16:13:47Z",
-   "section": "business"
-  },
-  {
-   "headline": "Black Friday premarket BOUNCE: Nasdaq futures were UP 2.3%, Nvidia up 4%, as tech tried to claw back a volatile week...",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
-   "found": "2026-11-27T14:14:38Z",
    "section": "business"
   },
   {
@@ -115,6 +122,13 @@
    "url": "https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says",
    "found": "2026-11-27T05:11:39Z",
    "section": "politics"
+  },
+  {
+   "headline": "After Apple boots it, AI companion Talkie goes DARK in Australia and the UK... 'One down, THOUSANDS to go'",
+   "source": "ABC (Australia)",
+   "url": "https://www.abc.net.au/news/2026-11-27/talkie-ai-app-blocked-taken-off-apple-store/107433834",
+   "found": "2026-11-27T04:13:09Z",
+   "section": "quirky"
   },
   {
    "headline": "Foreign funds on pace for a RECORD Taiwan stock exodus in the AI rout...",
@@ -302,13 +316,6 @@
    "section": "business"
   },
   {
-   "headline": "SoftBank SURGES as much as 11%+ as Asia's chip stocks bounce back from the AI rout...",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-   "found": "2026-11-26T02:12:14Z",
-   "section": "business"
-  },
-  {
    "headline": "Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...",
    "source": "ABC (Australia)",
    "url": "https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970",
@@ -337,20 +344,6 @@
    "section": "tech"
   },
   {
-   "headline": "'The flashing red lights couldn't be BRIGHTER': Democrats demand new AI curbs after lab staff fear their own models...",
-   "source": "Axios",
-   "url": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
-   "found": "2026-11-25T21:14:19Z",
-   "section": "politics"
-  },
-  {
-   "headline": "Italy and Switzerland warn AI AGENTS are breaching critical infrastructure... 'writing malicious code in real time'",
-   "source": "BleepingComputer",
-   "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-   "found": "2026-11-25T20:12:53Z",
-   "section": "tech"
-  },
-  {
    "headline": "42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors",
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
@@ -364,7 +357,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 37,
+  "score": 38,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
