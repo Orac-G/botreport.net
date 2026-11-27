@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T09:13:30Z",
- "nextUpdate": "2026-11-27T10:18:00Z",
+ "updated": "2026-11-27T10:13:02Z",
+ "nextUpdate": "2026-11-27T11:18:00Z",
  "lead": [
   {
    "headline": "Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...: Nature: rumoured algorithms would target RSA, the maths behind online banking... no lab has confirmed them",
@@ -39,6 +39,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Pizza history: an AI AGENT buys a Papa John's order with NO CARD... a UK FIRST",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+   "found": "2026-11-27T10:12:57Z",
+   "section": "quirky"
+  },
   {
    "headline": "China's chip stocks have their BIGGEST DAY EVER... up 17% as Beijing signals market support",
    "source": "CNBC",
@@ -309,13 +316,6 @@
    "section": "tech"
   },
   {
-   "headline": "S&P puts Nvidia on DOWNGRADE WATCH over the Jensen U-turn... cites 'governance risks'",
-   "source": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries",
-   "found": "2026-11-25T19:11:51Z",
-   "section": "business"
-  },
-  {
    "headline": "Amodei HITS BACK at Axios: humans should NOT surrender free will to AI...",
    "source": "Axios",
    "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
@@ -335,13 +335,6 @@
    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
    "found": "2026-11-25T18:13:39Z",
    "section": "quirky"
-  },
-  {
-   "headline": "Nvidia and CoreWeave CREDIT-RISK gauges hit RECORD HIGHS as Wall Street's AI fears mount...",
-   "source": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
-   "found": "2026-11-25T17:11:53Z",
-   "section": "business"
   },
   {
    "headline": "Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds",
@@ -372,7 +365,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 26,
+  "score": 28,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
