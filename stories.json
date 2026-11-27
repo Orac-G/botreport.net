@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:13:33Z",
+ "updated": "2026-11-27T03:13:45Z",
  "stories": [
   {
    "id": "trump-huang-term",
@@ -243,18 +243,6 @@
    "t": "2026-11-26T06:11:48Z",
    "card": "Modi floats AI app tracking kids from age three",
    "col": 0
-  },
-  {
-   "id": "dow-rebound",
-   "cat": "business",
-   "red": true,
-   "h": "Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...",
-   "src": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-   "t": "2026-11-25T21:14:19Z",
-   "saga": "markets",
-   "card": "Dow wipes out a 1,100-point AI rout, closes higher",
-   "col": 1
   },
   {
    "id": "huawei-hbm",
@@ -598,34 +586,22 @@
   "day": "2026-11-26"
  },
  "meter": {
-  "level": 2,
-  "score": 21,
-  "delta": -1,
-  "moves": [
-   {
-    "d": 2,
-    "why": "Trump: Jensen is EXCITED about his 'SECOND TERM' at Nvidia...",
-    "id": "trump-huang-term"
-   },
-   {
-    "d": -1,
-    "why": "Jensen's BACK... and so is his PLAQUE at Denny's",
-    "id": "dennys-plaque"
-   }
-  ],
+  "level": 1,
+  "score": 19,
+  "delta": -2,
+  "moves": [],
   "contrib": {
    "trump-huang-term": 1.7,
-   "dennys-plaque": 0.7,
+   "dennys-plaque": 0.5,
    "pentagon-dpa-denial": 0.2,
-   "astra-gravity": 1.5,
-   "omega-94": 1.2,
-   "boe-bailey-crypto": 0.3,
-   "gpt62-limits": 1.1,
-   "aaronson-crypto": 0.8,
-   "ai-shop-fakes": 2.3,
-   "boe-fsr": 0.6,
-   "sap-cuts": 0.5,
-   "spain-pp-morocco": 0.2
+   "astra-gravity": 1.4,
+   "omega-94": 1.1,
+   "boe-bailey-crypto": 0.2,
+   "gpt62-limits": 0.9,
+   "aaronson-crypto": 0.6,
+   "ai-shop-fakes": 1.9,
+   "boe-fsr": 0.5,
+   "sap-cuts": 0.3
   },
   "lastAdjust": 0,
   "history": [
@@ -948,13 +924,17 @@
    {
     "t": "2026-11-27T02:13:32Z",
     "s": 21
+   },
+   {
+    "t": "2026-11-27T03:13:36Z",
+    "s": 19
    }
   ],
-  "at": "2026-11-27T02:13:32Z",
+  "at": "2026-11-27T03:13:36Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -31,
+   "delta": -29,
    "period": "in 24 hours",
    "line": [
     {
@@ -1104,6 +1084,10 @@
     {
      "t": "2026-11-27T02:13:32Z",
      "s": 21
+    },
+    {
+     "t": "2026-11-27T03:13:36Z",
+     "s": 19
     }
    ],
    "drivers": [
@@ -1118,25 +1102,22 @@
      "text": "Trump says Huang is excited about his 'second term'"
     },
     {
-     "d": -35,
+     "d": -33,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "aaronson-crypto": -0.1,
+   "aaronson-crypto": -0.2,
    "ai-shop-fakes": -0.4,
-   "astra-gravity": -0.2,
-   "banks-ai-debt": -0.1,
+   "astra-gravity": -0.1,
    "boe-bailey-crypto": -0.1,
-   "boe-fsr": -0.2,
-   "dennys-plaque": -1.1,
-   "gpt62-limits": -0.1,
-   "omega-94": -0.2,
-   "pentagon-dpa-denial": -0.3,
-   "sap-cuts": -0.1,
-   "spain-pp-morocco": -0.1,
-   "trump-huang-term": 1.7
+   "boe-fsr": -0.1,
+   "dennys-plaque": -0.2,
+   "gpt62-limits": -0.2,
+   "omega-94": -0.1,
+   "sap-cuts": -0.2,
+   "spain-pp-morocco": -0.2
   }
  },
  "state": {
@@ -1287,24 +1268,24 @@
    ]
   },
   "crypto": {
-   "asOf": "9:13 pm ET",
+   "asOf": "10:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 61253.0,
-     "chg": 0.67
+     "price": 61511.0,
+     "chg": 1.4
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1715.65,
-     "chg": 0.79
+     "price": 1728.73,
+     "chg": 1.95
     }
    ]
   }
  },
- "next": "2026-11-27T03:18:00Z"
+ "next": "2026-11-27T04:18:00Z"
 }

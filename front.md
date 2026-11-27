@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Thursday, November 26, 2026, 9:13 PM ET. Every headline links to the original reporting or primary source.
+Updated Thursday, November 26, 2026, 10:13 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -43,7 +43,6 @@ Updated Thursday, November 26, 2026, 9:13 PM ET. Every headline links to the ori
 - [Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool) (The Record)
 - [JPMorgan sees a $450 BILLION AI debt blitz in 2027... before a plateau](https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau) (Bloomberg)
 - [Man TRAPPED Waymo robotaxis with orange cones in Denver... then PELTED them with eggs, police say](https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html) (New York Times)
-- [Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...](https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html) (CNBC)
 - [That viral '$300 MILLION' Nvidia insider-trading score? Three data firms find NO trading records to back it...](https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html) (New York Times)
 - ['The flashing red lights couldn't be BRIGHTER': Democrats demand new AI curbs after lab staff fear their own models...](https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios) (Axios)
 - [Vance says AG Blanche ASSURED him Jensen was 'under NO investigation'... blames 'anonymous sources'](https://thehill.com/homenews/administration/6243432-vance-huang-nvidia-investigation/) (The Hill)
@@ -67,6 +66,6 @@ Updated Thursday, November 26, 2026, 9:13 PM ET. Every headline links to the ori
 > “I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.”
 > — Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption ([source](https://www.nature.com/articles/d41586-026-03875-6))
 
-Skynet-o-Meter: 21 out of 100.
+Skynet-o-Meter: 19 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

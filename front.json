@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T02:13:33Z",
- "nextUpdate": "2026-11-27T03:18:00Z",
+ "updated": "2026-11-27T03:13:45Z",
+ "nextUpdate": "2026-11-27T04:18:00Z",
  "lead": [
   {
    "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...: FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
@@ -246,13 +246,6 @@
    "section": "quirky"
   },
   {
-   "headline": "Dow WIPES OUT a 1,100-POINT AI rout and closes HIGHER...",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-   "found": "2026-11-25T21:14:19Z",
-   "section": "business"
-  },
-  {
    "headline": "That viral '$300 MILLION' Nvidia insider-trading score? Three data firms find NO trading records to back it...",
    "source": "New York Times",
    "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
@@ -381,7 +374,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 21,
+  "score": 19,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
