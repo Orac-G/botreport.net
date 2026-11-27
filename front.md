@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 3:14 PM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 4:13 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -65,15 +65,15 @@ Updated Friday, November 27, 2026, 3:14 PM ET. Every headline links to the origi
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **39/100, Restless (level 2 of 5), up 9 in 24 hours.**
+How nervous should humanity be about AI today? **36/100, Restless (level 2 of 5), up 7 in 24 hours.**
 
 What moved it:
 
-- OpenAI countersues, accusing Apple of stealing trade secrets (+13)
-- Russia's patriarch warns of AI 'Apocalypse' (+4)
+- OpenAI countersues, accusing Apple of stealing trade secrets (+12)
+- Russia's patriarch warns of AI 'Apocalypse' (+3)
 - Older stories cooling off (-8)
 
-Last 24 hours: 25 at 6 pm ET, 21 at 9 pm ET, 25 at 12 am ET, 26 at 3 am ET, 27 at 6 am ET, 38 at 9 am ET, 38 at 12 pm ET, 39 at 3 pm ET.
+Last 24 hours: 24 at 7 pm ET, 19 at 10 pm ET, 23 at 1 am ET, 26 at 4 am ET, 37 at 7 am ET, 35 at 10 am ET, 35 at 1 pm ET, 36 at 4 pm ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 

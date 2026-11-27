@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:14:39Z",
+ "updated": "2026-11-27T21:13:53Z",
  "stories": [
   {
    "id": "openai-apple-suit",
@@ -549,28 +549,32 @@
  },
  "meter": {
   "level": 2,
-  "score": 39,
+  "score": 36,
   "delta": -3,
   "moves": [
    {
     "d": -1,
     "why": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to AL...",
     "id": "blackwell-alice"
+   },
+   {
+    "d": -1,
+    "why": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade s...",
+    "id": "openai-apple-suit"
    }
   ],
   "contrib": {
-   "openai-apple-suit": 12.7,
-   "anthropic-reclaims": 1.2,
-   "hynix-buyback": 0.3,
-   "google-belgium-halt": 1.2,
-   "kirill-apocalypse": 3.5,
-   "anthropic-hunger": 1.5,
-   "shopbot-blocks": 1.0,
-   "poland-palantir": 2.6,
-   "blackwell-alice": 3.1,
-   "tilly-treasons": 1.5,
-   "agent-pizza": 0.8,
-   "china-chip-surge": 0.1
+   "openai-apple-suit": 12.0,
+   "anthropic-reclaims": 1.1,
+   "hynix-buyback": 0.2,
+   "google-belgium-halt": 1.1,
+   "kirill-apocalypse": 3.2,
+   "anthropic-hunger": 1.4,
+   "shopbot-blocks": 0.9,
+   "poland-palantir": 2.2,
+   "blackwell-alice": 2.4,
+   "tilly-treasons": 1.2,
+   "agent-pizza": 0.4
   },
   "lastAdjust": 0,
   "history": [
@@ -965,13 +969,17 @@
    {
     "t": "2026-11-27T20:14:39Z",
     "s": 39
+   },
+   {
+    "t": "2026-11-27T21:13:53Z",
+    "s": 36
    }
   ],
-  "at": "2026-11-27T20:14:39Z",
+  "at": "2026-11-27T21:13:53Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 9,
+   "delta": 7,
    "period": "in 24 hours",
    "line": [
     {
@@ -1193,16 +1201,20 @@
     {
      "t": "2026-11-27T20:14:39Z",
      "s": 39
+    },
+    {
+     "t": "2026-11-27T21:13:53Z",
+     "s": 36
     }
    ],
    "drivers": [
     {
-     "d": 13,
+     "d": 12,
      "id": "openai-apple-suit",
      "text": "OpenAI countersues, accusing Apple of stealing trade secrets"
     },
     {
-     "d": 4,
+     "d": 3,
      "id": "kirill-apocalypse",
      "text": "Russia's patriarch warns of AI 'Apocalypse'"
     },
@@ -1213,16 +1225,18 @@
    ]
   },
   "change": {
-   "agent-pizza": -0.3,
-   "anthropic-hunger": -0.2,
-   "blackwell-alice": -0.6,
-   "blender-gpu": -0.3,
+   "agent-pizza": -0.4,
+   "anthropic-hunger": -0.1,
+   "anthropic-reclaims": -0.1,
+   "blackwell-alice": -0.7,
    "china-chip-surge": -0.1,
-   "kirill-apocalypse": -0.2,
-   "openai-apple-suit": 0.3,
+   "google-belgium-halt": -0.1,
+   "hynix-buyback": -0.1,
+   "kirill-apocalypse": -0.3,
+   "openai-apple-suit": -0.7,
    "poland-palantir": -0.4,
    "shopbot-blocks": -0.1,
-   "tilly-treasons": -0.4
+   "tilly-treasons": -0.3
   }
  },
  "state": {
@@ -1264,12 +1278,6 @@
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
     {
-     "sym": "NVDA",
-     "name": "Nvidia",
-     "price": 150.49,
-     "chg": 0.8
-    },
-    {
      "sym": "ANT",
      "name": "Anthropic",
      "price": 91.88,
@@ -1280,18 +1288,6 @@
      "name": "Cerebras",
      "price": 94.24,
      "chg": 5.08
-    },
-    {
-     "sym": "CRWV",
-     "name": "CoreWeave",
-     "price": 44.15,
-     "chg": 3.71
-    },
-    {
-     "sym": "NBIS",
-     "name": "Nebius",
-     "price": 89.46,
-     "chg": 5.26
     },
     {
      "sym": "PLTR",
@@ -1373,24 +1369,24 @@
    ]
   },
   "crypto": {
-   "asOf": "3:14 pm ET",
+   "asOf": "4:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59732.0,
-     "chg": -1.58
+     "price": 59802.0,
+     "chg": -1.55
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1667.32,
-     "chg": -2.07
+     "price": 1666.33,
+     "chg": -2.16
     }
    ]
   }
  },
- "next": "2026-11-27T21:18:00Z"
+ "next": "2026-11-27T22:18:00Z"
 }
