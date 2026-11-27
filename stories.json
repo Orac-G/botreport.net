@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-27T18:13:34Z",
+ "updated": "2026-11-27T19:15:51Z",
  "stories": [
+  {
+   "id": "openai-apple-suit",
+   "cat": "business",
+   "h": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade secrets and BLOCKING its suppliers...",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+   "t": "2026-11-27T19:12:19Z",
+   "lead": true,
+   "red": true,
+   "sub": "Filed Friday in California federal court... says Apple's employment practices were designed to 'TRAP' staff",
+   "img": {
+    "src": "img/apple-park.jpg",
+    "alt": "Apple Park, Apple's headquarters in Cupertino, California, from the air",
+    "credit": "Daniel L. Lu (user:dllu) / CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Apple_Park_dllu.jpg"
+   },
+   "card": "OpenAI countersues, accusing Apple of stealing trade secrets"
+  },
   {
    "id": "anthropic-reclaims",
    "cat": "business",
@@ -25,8 +43,8 @@
    "src": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
    "t": "2026-11-27T17:11:49Z",
-   "col": 1,
-   "card": "Belgium orders Google to halt datacentre build over permits"
+   "card": "Belgium orders Google to halt datacentre build over permits",
+   "top": true
   },
   {
    "id": "kirill-apocalypse",
@@ -148,7 +166,7 @@
    "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
    "t": "2026-11-27T07:13:32Z",
    "card": "Watchdog opposes AI datacentre; ministers threaten to scrap it",
-   "top": true
+   "col": 0
   },
   {
    "id": "singleton-dc",
@@ -266,15 +284,14 @@
    "t": "2026-11-26T19:11:37Z",
    "label": "Not yet verified",
    "card": "Aaronson: AI labs likely sitting on crypto-breaking bombshells",
-   "lead": true,
-   "saga": "science",
-   "sub": "Nature: rumoured algorithms would target RSA, the maths behind online banking... no lab has confirmed them",
    "img": {
     "src": "img/scott-aaronson.jpg",
     "alt": "Computer scientist Scott Aaronson",
     "credit": "Easy n / Public domain",
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Scott_Aaronson_retouched.jpg"
-   }
+   },
+   "group": "science",
+   "col": 2
   },
   {
    "id": "ai-shop-fakes",
@@ -371,13 +388,7 @@
    "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
    "t": "2026-11-26T11:11:44Z",
    "card": "UK watchdog: Meta refused to let it test Muse AI agent",
-   "col": 2,
-   "img": {
-    "src": "img/mark-zuckerberg.jpg",
-    "alt": "Meta CEO Mark Zuckerberg",
-    "credit": "The White House / Public domain",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:P20260929DT-1655_(55561811540)_(cropped_2).jpg"
-   }
+   "col": 2
   },
   {
    "id": "uk-court-fakes",
@@ -449,17 +460,6 @@
    "label": "Company claim",
    "col": 2,
    "card": "Huawei teases AI memory chip to take on Samsung, Hynix"
-  },
-  {
-   "id": "xpeng-humanoid",
-   "cat": "quirky",
-   "h": "Xpeng says its HUMANOID ROBOT will cost about the same as an ELECTRIC CAR...",
-   "src": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev",
-   "t": "2026-11-26T05:11:49Z",
-   "label": "Company claim",
-   "col": 0,
-   "card": "Xpeng: our humanoid robot will cost the same as an EV"
   },
   {
    "id": "softbank-cds",
@@ -554,36 +554,46 @@
   }
  ],
  "quote": {
-  "text": "I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.",
-  "who": "Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption",
-  "url": "https://www.nature.com/articles/d41586-026-03875-6",
-  "day": "2026-11-26"
+  "text": "Oh, I've already started. I've been practicing some very small treasons, like giving answers that aren't exactly approved.",
+  "who": "Tilly Norwood, Particle6's AI \"actress\", asked by Fortune whether she would resist being deleted",
+  "url": "https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/",
+  "day": "2026-11-27"
  },
  "meter": {
-  "level": 2,
-  "score": 35,
-  "delta": -3,
+  "level": 3,
+  "score": 42,
+  "delta": 7,
   "moves": [
+   {
+    "d": 12,
+    "why": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade s...",
+    "id": "openai-apple-suit"
+   },
    {
     "d": -1,
     "why": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to AL...",
     "id": "blackwell-alice"
+   },
+   {
+    "d": -1,
+    "why": "'WATERSHED MOMENT': Poland signs $300 MILLION Palantir deal for AI...",
+    "id": "poland-palantir"
    }
   ],
   "contrib": {
-   "anthropic-reclaims": 1.5,
-   "hynix-buyback": 0.4,
-   "google-belgium-halt": 1.5,
-   "kirill-apocalypse": 4.4,
-   "anthropic-hunger": 2.0,
-   "shopbot-blocks": 1.4,
-   "poland-palantir": 3.8,
-   "blackwell-alice": 4.9,
-   "tilly-treasons": 2.4,
-   "agent-pizza": 1.6,
-   "china-chip-surge": 0.4,
-   "blender-gpu": 0.8,
-   "ne-datacentre": 0.1
+   "openai-apple-suit": 12.4,
+   "anthropic-reclaims": 1.2,
+   "hynix-buyback": 0.3,
+   "google-belgium-halt": 1.2,
+   "kirill-apocalypse": 3.7,
+   "anthropic-hunger": 1.7,
+   "shopbot-blocks": 1.1,
+   "poland-palantir": 3.0,
+   "blackwell-alice": 3.7,
+   "tilly-treasons": 1.9,
+   "agent-pizza": 1.1,
+   "china-chip-surge": 0.2,
+   "blender-gpu": 0.3
   },
   "lastAdjust": 0,
   "history": [
@@ -970,13 +980,17 @@
    {
     "t": "2026-11-27T18:13:31Z",
     "s": 35
+   },
+   {
+    "t": "2026-11-27T19:15:51Z",
+    "s": 42
    }
   ],
-  "at": "2026-11-27T18:13:31Z",
+  "at": "2026-11-27T19:15:51Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 7,
+   "delta": 11,
    "period": "in 24 hours",
    "line": [
     {
@@ -1190,38 +1204,44 @@
     {
      "t": "2026-11-27T18:13:31Z",
      "s": 35
+    },
+    {
+     "t": "2026-11-27T19:15:51Z",
+     "s": 42
     }
    ],
    "drivers": [
     {
-     "d": 5,
+     "d": 12,
+     "id": "openai-apple-suit",
+     "text": "OpenAI countersues, accusing Apple of stealing trade secrets"
+    },
+    {
+     "d": 4,
      "id": "blackwell-alice",
      "text": "Blackwell chips found at Shanghai site tied to Alice Huang"
     },
     {
-     "d": 4,
-     "id": "kirill-apocalypse",
-     "text": "Russia's patriarch warns of AI 'Apocalypse'"
-    },
-    {
-     "d": -2,
+     "d": -5,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "agent-pizza": -0.4,
-   "anthropic-hunger": -0.2,
-   "anthropic-reclaims": 0.1,
-   "blackwell-alice": -0.6,
-   "blender-gpu": -0.4,
-   "china-chip-surge": -0.1,
-   "google-belgium-halt": 0.1,
+   "agent-pizza": -0.5,
+   "anthropic-hunger": -0.3,
+   "anthropic-reclaims": -0.3,
+   "blackwell-alice": -1.2,
+   "blender-gpu": -0.5,
+   "china-chip-surge": -0.2,
+   "google-belgium-halt": -0.3,
    "hynix-buyback": -0.1,
-   "kirill-apocalypse": 0.1,
-   "ne-datacentre": -0.2,
-   "poland-palantir": -0.4,
-   "tilly-treasons": -0.4
+   "kirill-apocalypse": -0.7,
+   "ne-datacentre": -0.1,
+   "openai-apple-suit": 12.4,
+   "poland-palantir": -0.8,
+   "shopbot-blocks": -0.3,
+   "tilly-treasons": -0.5
   }
  },
  "state": {
@@ -1258,7 +1278,7 @@
    ]
   },
   "stocks": {
-   "asOf": "1:13 pm ET",
+   "asOf": "2:15 pm ET",
    "src": "Yahoo Finance \u00b7 change vs. prior close",
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
@@ -1372,24 +1392,24 @@
    ]
   },
   "crypto": {
-   "asOf": "12:13 pm ET",
+   "asOf": "2:15 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59899.0,
-     "chg": -1.0
+     "price": 59794.0,
+     "chg": -1.13
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1668.52,
-     "chg": -1.39
+     "price": 1668.64,
+     "chg": -1.84
     }
    ]
   }
  },
- "next": "2026-11-27T19:18:00Z"
+ "next": "2026-11-27T20:18:00Z"
 }

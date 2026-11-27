@@ -2,23 +2,22 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 1:13 PM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 2:15 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
-- [Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...: Nature: rumoured algorithms would target RSA, the maths behind online banking... no lab has confirmed them](https://www.nature.com/articles/d41586-026-03875-6) (Nature · Not yet verified)
+- [OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade secrets and BLOCKING its suppliers...: Filed Friday in California federal court... says Apple's employment practices were designed to 'TRAP' staff](https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html) (CNBC)
 
 ## Top stories
 
+- [Belgium orders Google to HALT datacentre construction over missing permits... after Greenpeace showed work CARRYING ON](https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits) (The Guardian)
 - [DAY FIVE without food: hunger striker camps outside Anthropic HQ demanding it STOP self-improving AI...](https://gizmodo.com/a-hunger-strike-against-self-improving-ai-is-happening-outside-of-anthropics-san-francisco-headquarters-2000846188) (Gizmodo)
 - [Pizza history: an AI AGENT buys a Papa John's order with NO CARD... a UK FIRST](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer) (The Guardian)
 - [China's chip stocks have their BIGGEST DAY EVER... up 17% as Beijing signals market support](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html) (CNBC)
-- [UK nature watchdog OBJECTED to an AI datacentre... weeks later, ministers threatened to ABOLISH it](https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol) (The Guardian)
 
 ## All stories (newest first)
 
 - [Anthropic shares CLAW BACK above their $83 IPO price... as a rocky first week on the Nasdaq ends](https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo) (Bloomberg)
-- [Belgium orders Google to HALT datacentre construction over missing permits... after Greenpeace showed work CARRYING ON](https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits) (The Guardian)
 - [Russia's Patriarch Kirill calls on Christians to TAME AI... warns of 'APOCALYPSE'](https://www.washingtonpost.com/world/2026/11/27/russian-orthodox-church-patriarch-kirill-calls-christians-tame-ai/) (Washington Post)
 - [Black Friday BOT BLOCK: Amazon, eBay and United LIMIT or BAN AI shopping agents... which failed 43% of the time in Visa's tests](https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html) (CNBC)
 - ['WATERSHED MOMENT': Poland signs $300 MILLION Palantir deal for AI battlefield software... as Europe frets over US tech](https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense) (Bloomberg)
@@ -26,6 +25,7 @@ Updated Friday, November 27, 2026, 1:13 PM ET. Every headline links to the origi
 - [AI 'actress' boasts of 'very SMALL TREASONS' to avoid DELETION... it's in her script](https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/) (Fortune)
 - [SK hynix DOUBLES its daily buyback as shares sink to 1.11 MILLION won... from 2.99 MILLION in June](https://www.koreaherald.com/article/10952285) (Korea Herald)
 - [AI chip FRENZY sends a Chinese BLENDER MAKER's stock soaring 370%... GPUs or 'grain processing units'?](https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390) (South China Morning Post)
+- [UK nature watchdog OBJECTED to an AI datacentre... weeks later, ministers threatened to ABOLISH it](https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol) (The Guardian)
 - [1-GIGAWATT AI campus floated for outback cattle station at the heart of a High Court WATER FIGHT... green group: 'TONE-DEAF'](https://www.abc.net.au/news/2026-11-27/singleton-station-data-centre-proposal-water-licence-dispute/107429770) (ABC (Australia))
 - [Singapore in TALKS with Washington to keep its AI chip access after US curbs, Deputy PM says...](https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says) (Bloomberg)
 - [After Apple boots it, AI companion Talkie goes DARK in Australia and the UK... 'One down, THOUSANDS to go'](https://www.abc.net.au/news/2026-11-27/talkie-ai-app-blocked-taken-off-apple-store/107433834) (ABC (Australia))
@@ -35,6 +35,7 @@ Updated Friday, November 27, 2026, 1:13 PM ET. Every headline links to the origi
 - [Catching up: OpenAI preprint claims matrix math's speed limit is EXACTLY 9/4... not the dreamed-of 2](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) (OpenAI · Preprint)
 - [OpenAI says GPT-6.2 Astra users will hit usage limits 40% FASTER... because it fixed a 'bug'](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/) (BleepingComputer)
 - [Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia: it 'NEVER HAPPENED'...](https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979) (Newsweek)
+- [Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...](https://www.nature.com/articles/d41586-026-03875-6) (Nature · Not yet verified)
 - [Black Friday TRAP: AI shopping bots fooled by FAKE STORES built by scammers' AI...](https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/) (CBS News)
 - [Bank of England: AI money is 'COMPLEX, CIRCULAR AND OPAQUE'... $305 BILLION in hyperscaler bonds this year](https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026) (Bank of England)
 - [BoE's Bailey: UNRELEASED AI models raise ENCRYPTION concerns for bank data...](https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae) (Financial Times)
@@ -50,7 +51,6 @@ Updated Friday, November 27, 2026, 1:13 PM ET. Every headline links to the origi
 - [Police RAID late perfect scorer's home in Korea's AI CHEATING probe...](https://www.koreaherald.com/article/10950541) (Korea Herald)
 - [Modi floats an AI app that tracks kids from AGE THREE... and suggests their CAREERS](https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275) (The Register)
 - [Huawei TEASES a next-gen AI MEMORY CHIP that could top Samsung and SK Hynix...](https://www.bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix) (Bloomberg · Company claim)
-- [Xpeng says its HUMANOID ROBOT will cost about the same as an ELECTRIC CAR...](https://www.bloomberg.com/news/articles/2026-11-26/xpeng-says-its-humanoid-robot-will-cost-the-same-as-an-ev) (Bloomberg · Company claim)
 - [Anthropic team SHRINKS Claude's Riemann proof to 76,000 lines... 'No mathematician has read it through'](https://github.com/lsernau/grh-lean) (GitHub (Anthropic) · Not yet verified)
 - [SoftBank's CREDIT RISK tops 500 BASIS POINTS for the first time in about four years as AI worries mount...](https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount) (Bloomberg)
 - [Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...](https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970) (ABC (Australia))
@@ -61,20 +61,20 @@ Updated Friday, November 27, 2026, 1:13 PM ET. Every headline links to the origi
 
 ## Quote of the Day
 
-> “I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.”
-> — Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption ([source](https://www.nature.com/articles/d41586-026-03875-6))
+> “Oh, I've already started. I've been practicing some very small treasons, like giving answers that aren't exactly approved.”
+> — Tilly Norwood, Particle6's AI "actress", asked by Fortune whether she would resist being deleted ([source](https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/))
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **35/100, Restless (level 2 of 5), up 7 in 24 hours.**
+How nervous should humanity be about AI today? **42/100, Uneasy (level 3 of 5), up 11 in 24 hours.**
 
 What moved it:
 
-- Blackwell chips found at Shanghai site tied to Alice Huang (+5)
-- Russia's patriarch warns of AI 'Apocalypse' (+4)
-- Older stories cooling off (-2)
+- OpenAI countersues, accusing Apple of stealing trade secrets (+12)
+- Blackwell chips found at Shanghai site tied to Alice Huang (+4)
+- Older stories cooling off (-5)
 
-Last 24 hours: 28 at 1 pm ET, 29 at 4 pm ET, 24 at 7 pm ET, 19 at 10 pm ET, 23 at 1 am ET, 26 at 4 am ET, 37 at 7 am ET, 35 at 10 am ET, 35 at 1 pm ET.
+Last 24 hours: 27 at 5 pm ET, 22 at 8 pm ET, 24 at 11 pm ET, 23 at 2 am ET, 28 at 5 am ET, 36 at 8 am ET, 37 at 11 am ET, 42 at 2 pm ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 
