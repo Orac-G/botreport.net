@@ -64,6 +64,17 @@ Updated Friday, November 27, 2026, 12:14 PM ET. Every headline links to the orig
 > “I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.”
 > — Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption ([source](https://www.nature.com/articles/d41586-026-03875-6))
 
-Skynet-o-Meter: 38 out of 100.
+## Skynet-o-Meter
+
+How nervous should humanity be about AI today? **38/100, Restless (level 2 of 5), up 10 in 24 hours.**
+
+What moved it:
+
+- Blackwell chips found at Shanghai site tied to Alice Huang (+6)
+- Russia's patriarch warns of AI 'Apocalypse' (+4)
+
+Last 24 hours: 30 at 3 pm ET, 25 at 6 pm ET, 21 at 9 pm ET, 25 at 12 am ET, 26 at 3 am ET, 27 at 6 am ET, 38 at 9 am ET, 38 at 12 pm ET.
+
+How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

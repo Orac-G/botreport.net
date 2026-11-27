@@ -9,7 +9,11 @@ Every headline links to the original reporting or primary source. Evidence is la
 - [Front page, Markdown](https://botreport.net/front.md): today's lead, top stories, all headlines, Quote of the Day
 - [Front page, JSON](https://botreport.net/front.json): the same, structured
 - [RSS feed](https://botreport.net/feed.xml): the latest 50 stories
-- [Front page, HTML](https://botreport.net/): the full page (headlines are in the raw HTML; no JavaScript needed)
+- [Front page, HTML](https://botreport.net/): the full page (headlines and the meter are in the raw HTML; no JavaScript needed)
+
+## Skynet-o-Meter
+
+How nervous should humanity be about AI today? Now: 38/100, Restless (level 2 of 5), up 10 in 24 hours. The full reading, what moved it and the last 24 hours are in front.md and front.json. Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 
 ## About
 

@@ -358,7 +358,57 @@
  },
  "skynetOMeter": {
   "score": 38,
-  "outOf": 100
+  "outOf": 100,
+  "level": 2,
+  "levelName": "Restless",
+  "change": 10,
+  "changePeriod": "in 24 hours",
+  "movers": [
+   {
+    "points": 6,
+    "story": "Blackwell chips found at Shanghai site tied to Alice Huang"
+   },
+   {
+    "points": 4,
+    "story": "Russia's patriarch warns of AI 'Apocalypse'"
+   }
+  ],
+  "readings": [
+   {
+    "t": "2026-11-26T20:13:34Z",
+    "score": 30
+   },
+   {
+    "t": "2026-11-26T23:13:59Z",
+    "score": 25
+   },
+   {
+    "t": "2026-11-27T02:13:32Z",
+    "score": 21
+   },
+   {
+    "t": "2026-11-27T05:13:23Z",
+    "score": 25
+   },
+   {
+    "t": "2026-11-27T08:14:16Z",
+    "score": 26
+   },
+   {
+    "t": "2026-11-27T11:12:48Z",
+    "score": 27
+   },
+   {
+    "t": "2026-11-27T14:14:44Z",
+    "score": 38
+   },
+   {
+    "t": "2026-11-27T17:14:56Z",
+    "score": 38
+   }
+  ],
+  "question": "How nervous should humanity be about AI today?",
+  "howScored": "Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+)."
  },
  "archive": "https://botreport.net/archive/",
  "about": "https://botreport.net/about/",
