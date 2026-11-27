@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T10:13:02Z",
- "nextUpdate": "2026-11-27T11:18:00Z",
+ "updated": "2026-11-27T11:12:48Z",
+ "nextUpdate": "2026-11-27T12:18:00Z",
  "lead": [
   {
    "headline": "Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...: Nature: rumoured algorithms would target RSA, the maths behind online banking... no lab has confirmed them",
@@ -365,7 +365,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 28,
+  "score": 27,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

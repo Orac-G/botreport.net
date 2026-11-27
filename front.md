@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 5:13 AM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 6:12 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -65,6 +65,6 @@ Updated Friday, November 27, 2026, 5:13 AM ET. Every headline links to the origi
 > “I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.”
 > — Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption ([source](https://www.nature.com/articles/d41586-026-03875-6))
 
-Skynet-o-Meter: 28 out of 100.
+Skynet-o-Meter: 27 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml
