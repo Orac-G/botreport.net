@@ -308,7 +308,6 @@ a.red, a.red:visited { color: var(--siren); }
 .filters button .n { color: var(--siren); }
 
 .latest { margin: 0 0 -4px; text-align: center; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
-.lead .newtag.big { font-size: 13px; padding: 2px 7px 1px; margin: 0 0 -2px; vertical-align: 0; }
 .newtag { display: inline-block; margin-right: 6px; padding: 1px 4px 0; border-radius: 2px; background: var(--siren); color: var(--bg); font-size: 10px; font-weight: 700; letter-spacing: .08em; line-height: 1.4; vertical-align: 2px; }
 .cols { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0 28px; }
 .col { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 16px; min-width: 0; }
@@ -628,7 +627,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   // A headline turns red only while it is big (red: true in the data), under 3 hours old, and among the 5 newest such stories.
   const RED_HOURS = 3, RED_MAX = 5, SIREN_HOURS = 3, STACK_MAX = 3;
   // KEY_SEEN holds the last update the reader saw (for counting new stories); KEY_AT holds when they were actually here.
-  const KEY_BEAT = "air-beat", KEY_SEEN = "air-last-visit", KEY_AT = "air-last-visit-at", KEY_LEAD = "air-last-lead";
+  const KEY_BEAT = "air-beat", KEY_SEEN = "air-last-visit", KEY_AT = "air-last-visit-at";
 
   let data = null, beat = "all", redIds = new Set(), forYou = new Set(), fresh = new Set(), stackIds = new Set();
   const store = {
@@ -637,8 +636,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   };
   beat = store.get(KEY_BEAT) || "all";
   if (!LABEL[beat]) beat = "all";
-  const lastVisit = store.get(KEY_SEEN), lastAt = store.get(KEY_AT), lastLead = store.get(KEY_LEAD);
-  let leadId = null;
+  const lastVisit = store.get(KEY_SEEN), lastAt = store.get(KEY_AT);
 
   const $ = (id) => document.getElementById(id);
   const safe = (u) => typeof u === "string" && u.startsWith("https://") ? u : null;
@@ -695,7 +693,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   // NEW marks what this reader hasn't seen: stories added since their last visit, or that arrived while the page was open.
   // A first-time visitor has no last visit, so for them NEW marks the latest update's stories (within NEW_MINUTES of it).
   const NEW_MINUTES = 45;
-  const newTag = (cls) => { const n = document.createElement("span"); n.className = "newtag" + (cls ? " " + cls : ""); n.textContent = "NEW"; return n; };
+  const newTag = () => { const n = document.createElement("span"); n.className = "newtag"; n.textContent = "NEW"; return n; };
   const isNew = (s) => data && (lastVisit ? forYou.has(s.id) : (new Date(data.updated) - new Date(s.t)) / 6e4 <= NEW_MINUTES);
   function age(s) {
     const mins = Math.max(0, Math.round((Date.now() - new Date(s.t)) / 6e4));
@@ -990,14 +988,11 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
     stories.filter((s) => s.top && !stackIds.has(s.id)).slice(0, 4).forEach((s) => { const li = document.createElement("li"), a = link(s); if (isNew(s)) a.prepend(newTag()); li.append(a); top.append(li); });
 
     const leadSec = $("lead");
-    leadSec.querySelectorAll("a, .meta, .sub, .photo, .stack, .newtag").forEach((n) => n.remove());
+    leadSec.querySelectorAll("a, .meta, .sub, .photo, .stack").forEach((n) => n.remove());
     if (lead) {
       // Headline first so it sits above the fold; the photo follows the source line.
       // NEW sits on its own line above the lead headline (inside it would be lost in the giant type).
-      // A promoted lead keeps its old time, so it also counts as new when it isn't the lead this reader last saw.
-      leadId = lead.id;
-      const leadNew = isNew(lead) || (lastVisit && lastLead && lastLead !== lead.id);
-      const parts = leadNew ? [newTag("big"), link(lead, "big")] : [link(lead, "big")];
+      const parts = [link(lead, "big")];  // no NEW tag on the lead: it fought the giant headline (founder, Nov 26)
       const fig = photo(lead);
       // Up to three follow-up angles on the lead story, each linking its own article.
       const stacked = [...stackIds].map((id) => data.stories.find((s) => s.id === id)).filter(Boolean);
@@ -1111,7 +1106,7 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   const SEEN_SECONDS = 30;
   let shownAt = document.visibilityState === "visible" ? Date.now() : null;
   const remember = () => {
-    if (data && shownAt && Date.now() - shownAt >= SEEN_SECONDS * 1000) { store.set(KEY_SEEN, data.updated); store.set(KEY_AT, new Date().toISOString()); if (leadId) store.set(KEY_LEAD, leadId); }
+    if (data && shownAt && Date.now() - shownAt >= SEEN_SECONDS * 1000) { store.set(KEY_SEEN, data.updated); store.set(KEY_AT, new Date().toISOString()); }
   };
   // Also save while the reader is still here: some browsers (notably on phones) skip the leave events.
   setInterval(() => { if (document.visibilityState === "visible") remember(); }, 15 * 1000);
