@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-27T06:13:35Z",
+ "updated": "2026-11-27T07:13:55Z",
  "stories": [
+  {
+   "id": "ne-datacentre",
+   "cat": "politics",
+   "h": "UK nature watchdog OBJECTED to an AI datacentre... weeks later, ministers threatened to ABOLISH it",
+   "src": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
+   "t": "2026-11-27T07:13:32Z",
+   "col": 2,
+   "card": "Watchdog objects to AI datacentre; ministers threaten to scrap it"
+  },
   {
    "id": "singleton-dc",
    "cat": "business",
@@ -575,20 +585,25 @@
  "meter": {
   "level": 2,
   "score": 23,
-  "delta": -2,
-  "moves": [],
+  "delta": 0,
+  "moves": [
+   {
+    "d": 2,
+    "why": "UK nature watchdog OBJECTED to an AI datacentre... weeks later, min...",
+    "id": "ne-datacentre"
+   }
+  ],
   "contrib": {
-   "singleton-dc": 1.7,
-   "sg-chip-talks": 1.7,
-   "talkie-geoblock": 4.5,
-   "taiwan-exodus": 1.5,
-   "trump-huang-term": 1.2,
+   "ne-datacentre": 1.7,
+   "singleton-dc": 1.5,
+   "sg-chip-talks": 1.5,
+   "talkie-geoblock": 4.1,
+   "taiwan-exodus": 1.4,
+   "trump-huang-term": 1.1,
    "pentagon-dpa-denial": 0.1,
-   "astra-gravity": 0.9,
-   "omega-94": 0.6,
-   "gpt62-limits": 0.4,
-   "aaronson-crypto": 0.1,
-   "ai-shop-fakes": 0.4
+   "astra-gravity": 0.8,
+   "omega-94": 0.4,
+   "gpt62-limits": 0.3
   },
   "lastAdjust": 0,
   "history": [
@@ -927,9 +942,13 @@
    {
     "t": "2026-11-27T06:13:35Z",
     "s": 23
+   },
+   {
+    "t": "2026-11-27T07:13:51Z",
+    "s": 23
    }
   ],
-  "at": "2026-11-27T06:13:35Z",
+  "at": "2026-11-27T07:13:51Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
@@ -1099,6 +1118,10 @@
     {
      "t": "2026-11-27T06:13:35Z",
      "s": 23
+    },
+    {
+     "t": "2026-11-27T07:13:51Z",
+     "s": 23
     }
    ],
    "drivers": [
@@ -1119,16 +1142,14 @@
    ]
   },
   "change": {
-   "aaronson-crypto": -0.2,
-   "ai-shop-fakes": -0.5,
+   "aaronson-crypto": -0.1,
+   "ai-shop-fakes": -0.4,
    "astra-gravity": -0.1,
-   "boe-bailey-crypto": -0.1,
-   "boe-fsr": -0.1,
-   "gpt62-limits": -0.2,
-   "omega-94": -0.1,
-   "pentagon-dpa-denial": -0.1,
-   "sg-chip-talks": 0.1,
-   "singleton-dc": 0.1,
+   "gpt62-limits": -0.1,
+   "ne-datacentre": 1.7,
+   "omega-94": -0.2,
+   "sg-chip-talks": -0.2,
+   "singleton-dc": -0.2,
    "taiwan-exodus": -0.1,
    "talkie-geoblock": -0.4,
    "trump-huang-term": -0.1
@@ -1282,24 +1303,24 @@
    ]
   },
   "crypto": {
-   "asOf": "1:13 am ET",
+   "asOf": "2:13 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 61801.0,
-     "chg": 2.2
+     "price": 61684.0,
+     "chg": 2.11
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1739.86,
-     "chg": 3.33
+     "price": 1731.87,
+     "chg": 2.77
     }
    ]
   }
  },
- "next": "2026-11-27T07:18:00Z"
+ "next": "2026-11-27T08:18:00Z"
 }

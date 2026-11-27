@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T06:13:35Z",
- "nextUpdate": "2026-11-27T07:18:00Z",
+ "updated": "2026-11-27T07:13:55Z",
+ "nextUpdate": "2026-11-27T08:18:00Z",
  "lead": [
   {
    "headline": "FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...",
@@ -46,6 +46,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "UK nature watchdog OBJECTED to an AI datacentre... weeks later, ministers threatened to ABOLISH it",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
+   "found": "2026-11-27T07:13:32Z",
+   "section": "politics"
+  },
   {
    "headline": "1-GIGAWATT AI campus floated for outback cattle station at the heart of a High Court WATER FIGHT... green group: 'TONE-DEAF'",
    "source": "ABC (Australia)",

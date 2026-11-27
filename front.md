@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 1:13 AM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 2:13 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,7 @@ Updated Friday, November 27, 2026, 1:13 AM ET. Every headline links to the origi
 
 ## All stories (newest first)
 
+- [UK nature watchdog OBJECTED to an AI datacentre... weeks later, ministers threatened to ABOLISH it](https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol) (The Guardian)
 - [1-GIGAWATT AI campus floated for outback cattle station at the heart of a High Court WATER FIGHT... green group: 'TONE-DEAF'](https://www.abc.net.au/news/2026-11-27/singleton-station-data-centre-proposal-water-licence-dispute/107429770) (ABC (Australia))
 - [Singapore in TALKS with Washington to keep its AI chip access after US curbs, Deputy PM says...](https://www.bloomberg.com/news/articles/2026-11-27/singapore-talking-to-us-to-keep-ai-chip-access-deputy-pm-says) (Bloomberg)
 - [Foreign funds on pace for a RECORD Taiwan stock exodus in the AI rout...](https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout) (Bloomberg)
