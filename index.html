@@ -1054,7 +1054,7 @@ footer .signature { font-family: var(--f-mast); font-size: 15px; color: var(--in
     if (!data) return;
     const due = new Date(data.next || new Date(data.updated).getTime() + 60 * 6e4);
     const mins = Math.round((due - Date.now()) / 6e4);
-    $("next").textContent = mins > 1 ? "Next update in about " + mins + " min" : "Next update any minute now";
+    $("next").textContent = mins > 1 ? "Next update: ~" + mins + " min" : "Next update: any minute";
   }
 
   async function load() {
