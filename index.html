@@ -471,7 +471,11 @@ footer .signature { font-family: var(--f-mast); font-size: 15px; color: var(--in
     </div>
   </section>
 
-  <section class="bb-box" aria-label="The Bot Brief"><div><h2><a href="/brief/">The Bot Brief</a></h2><p>The lead story, the Skynet-o-Meter and the stories that matter, in your inbox at 7 am ET. A 60-second read.</p></div><div><form class="bb-form" action="https://app.kit.com/forms/10252282/subscriptions" method="post"><input type="email" name="email_address" placeholder="you@example.com" aria-label="Email address" required autocomplete="email"><button type="submit">Subscribe</button></form><small>Free, daily. Unsubscribe in one click.</small></div></section>
+  <section class="bb-box" aria-label="The Bot Brief"><div><h2><a href="/brief/">The Bot Brief</a></h2><p>The lead story, the Skynet-o-Meter and the stories that matter, in your inbox at 7 am ET. A 60-second read.</p></div><div><form class="bb-form" action="https://app.kit.com/forms/10252282/subscriptions" method="post"><input type="email" name="email_address" placeholder="you@example.com" aria-label="Email address" required autocomplete="email"><button type="submit">Subscribe</button></form><small>Free, daily. Unsubscribe in one click.</small></div></section><script>document.querySelectorAll('form.bb-form').forEach(f=>f.addEventListener('submit',async e=>{
+e.preventDefault();const b=f.querySelector('button');b.disabled=true;
+try{const r=await fetch(f.action,{method:'POST',body:new URLSearchParams(new FormData(f)),headers:{Accept:'application/json'}});
+let j={};try{j=await r.json()}catch(_){}
+if(!r.ok||j.status==='failed'||j.errors)throw 0;location.href='/brief/thanks/'}catch(_){b.disabled=false;HTMLFormElement.prototype.submit.call(f)}}))</script>
   <nav class="filters" id="filters" aria-label="Filter stories"></nav>
 
   <p class="status" id="status" hidden></p>
