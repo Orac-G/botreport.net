@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 3:14 AM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 4:13 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -16,6 +16,7 @@ Updated Friday, November 27, 2026, 3:14 AM ET. Every headline links to the origi
 
 ## All stories (newest first)
 
+- [China's chip stocks have their BIGGEST DAY EVER... up 17% as Beijing signals market support](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html) (CNBC)
 - [AI chip FRENZY sends a Chinese BLENDER MAKER's stock soaring 370%... GPUs or 'grain processing units'?](https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390) (South China Morning Post)
 - [UK nature watchdog OBJECTED to an AI datacentre... weeks later, ministers threatened to ABOLISH it](https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol) (The Guardian)
 - [1-GIGAWATT AI campus floated for outback cattle station at the heart of a High Court WATER FIGHT... green group: 'TONE-DEAF'](https://www.abc.net.au/news/2026-11-27/singleton-station-data-centre-proposal-water-licence-dispute/107429770) (ABC (Australia))
@@ -56,7 +57,6 @@ Updated Friday, November 27, 2026, 3:14 AM ET. Every headline links to the origi
 - [FCC clears Musk's SpaceX to launch up to ONE MILLION satellites... for AI DATA CENTERS IN ORBIT](https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers) (Bloomberg)
 - [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
 - [Nvidia and CoreWeave CREDIT-RISK gauges hit RECORD HIGHS as Wall Street's AI fears mount...](https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount) (Bloomberg)
-- [BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Tencent GRIND TO A HALT after US chip curbs...](https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs) (Bloomberg)
 - [Half of AI models will pick MILITARY TARGETS when asked... nearly ALL do if told it's a GAME, study finds](https://www.militarytimes.com/news/your-military/2026/11/25/ai-models-easily-coaxed-into-identifying-military-targets-study-finds/) (Military Times · Not yet verified)
 - [SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...](https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html) (New York Times)
 - [Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...](https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content) (South China Morning Post)

@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-27T08:14:16Z",
+ "updated": "2026-11-27T09:13:30Z",
  "stories": [
+  {
+   "id": "china-chip-surge",
+   "cat": "business",
+   "h": "China's chip stocks have their BIGGEST DAY EVER... up 17% as Beijing signals market support",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+   "t": "2026-11-27T09:11:54Z",
+   "col": 0,
+   "card": "China's chip stocks log their BIGGEST DAY EVER: up 17%"
+  },
   {
    "id": "blender-gpu",
    "cat": "quirky",
@@ -492,17 +502,6 @@
    "col": 1
   },
   {
-   "id": "dc-loans",
-   "cat": "business",
-   "red": true,
-   "h": "BILLIONS in AI data-center loans tied to ByteDance, Alibaba and Tencent GRIND TO A HALT after US chip curbs...",
-   "src": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
-   "t": "2026-11-25T16:12:50Z",
-   "card": "Chip curbs FREEZE billions in China-linked AI loans",
-   "col": 0
-  },
-  {
    "id": "credit-fear",
    "cat": "business",
    "h": "Nvidia and CoreWeave CREDIT-RISK gauges hit RECORD HIGHS as Wall Street's AI fears mount...",
@@ -573,30 +572,25 @@
  "meter": {
   "level": 2,
   "score": 26,
-  "delta": 3,
+  "delta": 0,
   "moves": [
    {
-    "d": 5,
-    "why": "AI chip FRENZY sends a Chinese BLENDER MAKER's stock soaring 370%.....",
-    "id": "blender-gpu"
-   },
-   {
-    "d": -1,
-    "why": "After Apple boots it, AI companion Talkie goes DARK in Australia an...",
-    "id": "talkie-geoblock"
+    "d": 2,
+    "why": "China's chip stocks have their BIGGEST DAY EVER... up 17% as Beijin...",
+    "id": "china-chip-surge"
    }
   ],
   "contrib": {
+   "china-chip-surge": 1.6,
    "blender-gpu": 4.9,
-   "ne-datacentre": 1.6,
-   "singleton-dc": 1.3,
-   "sg-chip-talks": 1.3,
-   "talkie-geoblock": 3.5,
-   "taiwan-exodus": 1.2,
-   "trump-huang-term": 0.9,
-   "astra-gravity": 0.6,
-   "omega-94": 0.3,
-   "gpt62-limits": 0.1
+   "ne-datacentre": 1.5,
+   "singleton-dc": 1.2,
+   "sg-chip-talks": 1.2,
+   "talkie-geoblock": 3.1,
+   "taiwan-exodus": 1.0,
+   "trump-huang-term": 0.7,
+   "astra-gravity": 0.4,
+   "omega-94": 0.1
   },
   "lastAdjust": 0,
   "history": [
@@ -943,13 +937,17 @@
    {
     "t": "2026-11-27T08:14:16Z",
     "s": 26
+   },
+   {
+    "t": "2026-11-27T09:13:30Z",
+    "s": 26
    }
   ],
-  "at": "2026-11-27T08:14:16Z",
+  "at": "2026-11-27T09:13:30Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -14,
+   "delta": -10,
    "period": "in 24 hours",
    "line": [
     {
@@ -1123,6 +1121,10 @@
     {
      "t": "2026-11-27T08:14:16Z",
      "s": 26
+    },
+    {
+     "t": "2026-11-27T09:13:30Z",
+     "s": 26
     }
    ],
    "drivers": [
@@ -1132,27 +1134,26 @@
      "text": "AI chip frenzy sends a Chinese blender maker up 370%"
     },
     {
-     "d": 4,
+     "d": 3,
      "id": "talkie-geoblock",
      "text": "AI companion Talkie goes dark in Australia and the UK"
     },
     {
-     "d": -23,
+     "d": -18,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
    "astra-gravity": -0.2,
-   "blender-gpu": 4.9,
-   "gpt62-limits": -0.2,
+   "china-chip-surge": 1.6,
+   "gpt62-limits": -0.1,
    "ne-datacentre": -0.1,
-   "omega-94": -0.1,
-   "pentagon-dpa-denial": -0.1,
-   "sg-chip-talks": -0.2,
-   "singleton-dc": -0.2,
+   "omega-94": -0.2,
+   "sg-chip-talks": -0.1,
+   "singleton-dc": -0.1,
    "taiwan-exodus": -0.2,
-   "talkie-geoblock": -0.6,
+   "talkie-geoblock": -0.4,
    "trump-huang-term": -0.2
   }
  },
@@ -1229,6 +1230,12 @@
      "name": "Palantir",
      "price": 163.59,
      "chg": 1.5
+    },
+    {
+     "sym": "NASDAQ",
+     "name": "Composite",
+     "price": 23585.8,
+     "chg": -0.62
     }
    ]
   },
@@ -1298,24 +1305,24 @@
    ]
   },
   "crypto": {
-   "asOf": "3:14 am ET",
+   "asOf": "4:13 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 61816.0,
-     "chg": 2.04
+     "price": 61701.0,
+     "chg": 1.46
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1735.0,
-     "chg": 2.74
+     "price": 1730.11,
+     "chg": 1.8
     }
    ]
   }
  },
- "next": "2026-11-27T09:18:00Z"
+ "next": "2026-11-27T10:18:00Z"
 }
