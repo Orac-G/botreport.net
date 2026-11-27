@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T15:14:11Z",
- "nextUpdate": "2026-11-27T16:18:00Z",
+ "updated": "2026-11-27T16:14:01Z",
+ "nextUpdate": "2026-11-27T17:18:00Z",
  "lead": [
   {
    "headline": "Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...: Nature: rumoured algorithms would target RSA, the maths behind online banking... no lab has confirmed them",
@@ -46,6 +46,20 @@
   }
  ],
  "stories": [
+  {
+   "headline": "DAY FIVE without food: hunger striker camps outside Anthropic HQ demanding it STOP self-improving AI...",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/a-hunger-strike-against-self-improving-ai-is-happening-outside-of-anthropics-san-francisco-headquarters-2000846188",
+   "found": "2026-11-27T16:13:47Z",
+   "section": "quirky"
+  },
+  {
+   "headline": "Black Friday BOT BLOCK: Amazon, eBay and United LIMIT or BAN AI shopping agents... which failed 43% of the time in Visa's tests",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+   "found": "2026-11-27T16:13:47Z",
+   "section": "business"
+  },
   {
    "headline": "Black Friday premarket BOUNCE: Nasdaq futures were UP 2.3%, Nvidia up 4%, as tech tried to claw back a volatile week...",
    "source": "CNBC",
@@ -350,7 +364,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 35,
+  "score": 37,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

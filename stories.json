@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-27T15:14:11Z",
+ "updated": "2026-11-27T16:14:01Z",
  "stories": [
+  {
+   "id": "anthropic-hunger",
+   "cat": "quirky",
+   "group": "doom",
+   "h": "DAY FIVE without food: hunger striker camps outside Anthropic HQ demanding it STOP self-improving AI...",
+   "src": "Gizmodo",
+   "url": "https://gizmodo.com/a-hunger-strike-against-self-improving-ai-is-happening-outside-of-anthropics-san-francisco-headquarters-2000846188",
+   "t": "2026-11-27T16:13:47Z",
+   "col": 1,
+   "card": "Day five: hunger striker at Anthropic HQ demands an AI halt"
+  },
+  {
+   "id": "shopbot-blocks",
+   "cat": "business",
+   "group": "shopbots",
+   "h": "Black Friday BOT BLOCK: Amazon, eBay and United LIMIT or BAN AI shopping agents... which failed 43% of the time in Visa's tests",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html",
+   "t": "2026-11-27T16:13:47Z",
+   "col": 1,
+   "card": "Amazon, eBay, United curb AI shopping bots on Black Friday"
+  },
   {
    "id": "futures-bounce",
    "cat": "business",
@@ -235,7 +257,8 @@
    "url": "https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/",
    "t": "2026-11-26T19:11:37Z",
    "card": "AI shopping bots fooled by scammers' fake Black Friday stores",
-   "col": 1
+   "col": 1,
+   "group": "shopbots"
   },
   {
    "id": "boe-fsr",
@@ -483,7 +506,7 @@
    "src": "The Record",
    "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
    "t": "2026-11-25T22:11:59Z",
-   "col": 1,
+   "col": 2,
    "card": "Microsoft: Chinese hackers' AI tool takes networks in minutes"
   },
   {
@@ -504,7 +527,7 @@
    "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
    "t": "2026-11-25T20:12:53Z",
    "group": "hacks",
-   "col": 1
+   "col": 2
   },
   {
    "id": "cai-auction",
@@ -516,7 +539,7 @@
    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
    "t": "2026-11-25T18:13:39Z",
    "card": "42 AGs fight Character.ai sale of 21M users' private chats",
-   "col": 1
+   "col": 0
   },
   {
    "id": "grh-shrink",
@@ -543,23 +566,39 @@
  },
  "meter": {
   "level": 2,
-  "score": 35,
-  "delta": -3,
-  "moves": [],
+  "score": 37,
+  "delta": 2,
+  "moves": [
+   {
+    "d": 4,
+    "why": "DAY FIVE without food: hunger striker camps outside Anthropic HQ de...",
+    "id": "anthropic-hunger"
+   },
+   {
+    "d": 2,
+    "why": "Black Friday BOT BLOCK: Amazon, eBay and United LIMIT or BAN AI sho...",
+    "id": "shopbot-blocks"
+   },
+   {
+    "d": -1,
+    "why": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to AL...",
+    "id": "blackwell-alice"
+   }
+  ],
   "contrib": {
-   "blackwell-alice": 7.3,
+   "anthropic-hunger": 4.4,
+   "shopbot-blocks": 1.5,
+   "blackwell-alice": 6.4,
    "futures-bounce": 0.7,
-   "poland-palantir": 5.4,
-   "tilly-treasons": 3.6,
-   "hynix-buyback": 1.2,
-   "taiwan-exodus": 0.1,
-   "agent-pizza": 2.8,
-   "china-chip-surge": 0.8,
-   "blender-gpu": 2.0,
-   "ne-datacentre": 0.5,
-   "singleton-dc": 0.3,
-   "sg-chip-talks": 0.3,
-   "talkie-geoblock": 0.4
+   "poland-palantir": 4.8,
+   "tilly-treasons": 3.2,
+   "hynix-buyback": 1.1,
+   "agent-pizza": 2.4,
+   "china-chip-surge": 0.7,
+   "blender-gpu": 1.6,
+   "ne-datacentre": 0.4,
+   "singleton-dc": 0.1,
+   "sg-chip-talks": 0.1
   },
   "lastAdjust": 0,
   "history": [
@@ -934,13 +973,17 @@
    {
     "t": "2026-11-27T15:14:11Z",
     "s": 35
+   },
+   {
+    "t": "2026-11-27T16:13:56Z",
+    "s": 37
    }
   ],
-  "at": "2026-11-27T15:14:11Z",
+  "at": "2026-11-27T16:13:56Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 6,
+   "delta": 11,
    "period": "in 24 hours",
    "line": [
     {
@@ -1142,11 +1185,15 @@
     {
      "t": "2026-11-27T15:14:11Z",
      "s": 35
+    },
+    {
+     "t": "2026-11-27T16:13:56Z",
+     "s": 37
     }
    ],
    "drivers": [
     {
-     "d": 7,
+     "d": 6,
      "id": "blackwell-alice",
      "text": "Blackwell chips found at Shanghai site tied to Alice Huang"
     },
@@ -1154,25 +1201,24 @@
      "d": 5,
      "id": "poland-palantir",
      "text": "Poland signs $300M Palantir deal for AI battlefield software"
-    },
-    {
-     "d": -6,
-     "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "agent-pizza": -0.3,
-   "blackwell-alice": -0.5,
-   "blender-gpu": -0.3,
+   "agent-pizza": -0.4,
+   "anthropic-hunger": 4.4,
+   "blackwell-alice": -0.9,
+   "blender-gpu": -0.4,
    "china-chip-surge": -0.1,
    "hynix-buyback": -0.1,
-   "ne-datacentre": -0.2,
-   "poland-palantir": -0.4,
-   "sg-chip-talks": -0.1,
-   "singleton-dc": -0.1,
+   "ne-datacentre": -0.1,
+   "poland-palantir": -0.6,
+   "sg-chip-talks": -0.2,
+   "shopbot-blocks": 1.5,
+   "singleton-dc": -0.2,
+   "taiwan-exodus": -0.1,
    "talkie-geoblock": -0.4,
-   "tilly-treasons": -0.3
+   "tilly-treasons": -0.4
   }
  },
  "state": {
@@ -1305,24 +1351,24 @@
    ]
   },
   "crypto": {
-   "asOf": "10:13 am ET",
+   "asOf": "11:13 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59254.0,
-     "chg": -1.54
+     "price": 59948.0,
+     "chg": -1.09
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1646.29,
-     "chg": -1.83
+     "price": 1669.56,
+     "chg": -1.25
     }
    ]
   }
  },
- "next": "2026-11-27T16:18:00Z"
+ "next": "2026-11-27T17:18:00Z"
 }

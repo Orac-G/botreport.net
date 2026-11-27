@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 10:14 AM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 11:14 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,8 @@ Updated Friday, November 27, 2026, 10:14 AM ET. Every headline links to the orig
 
 ## All stories (newest first)
 
+- [DAY FIVE without food: hunger striker camps outside Anthropic HQ demanding it STOP self-improving AI...](https://gizmodo.com/a-hunger-strike-against-self-improving-ai-is-happening-outside-of-anthropics-san-francisco-headquarters-2000846188) (Gizmodo)
+- [Black Friday BOT BLOCK: Amazon, eBay and United LIMIT or BAN AI shopping agents... which failed 43% of the time in Visa's tests](https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html) (CNBC)
 - [Black Friday premarket BOUNCE: Nasdaq futures were UP 2.3%, Nvidia up 4%, as tech tried to claw back a volatile week...](https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html) (CNBC)
 - ['WATERSHED MOMENT': Poland signs $300 MILLION Palantir deal for AI battlefield software... as Europe frets over US tech](https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense) (Bloomberg)
 - [Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to ALICE HUANG...](https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang) (Bloomberg)
@@ -63,6 +65,6 @@ Updated Friday, November 27, 2026, 10:14 AM ET. Every headline links to the orig
 > “I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.”
 > — Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption ([source](https://www.nature.com/articles/d41586-026-03875-6))
 
-Skynet-o-Meter: 35 out of 100.
+Skynet-o-Meter: 37 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml
