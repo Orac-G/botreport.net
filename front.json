@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T12:14:49Z",
- "nextUpdate": "2026-11-27T13:18:00Z",
+ "updated": "2026-11-27T13:16:36Z",
+ "nextUpdate": "2026-11-27T14:18:00Z",
  "lead": [
   {
    "headline": "Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...: Nature: rumoured algorithms would target RSA, the maths behind online banking... no lab has confirmed them",
@@ -46,6 +46,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "'WATERSHED MOMENT': Poland signs $300 MILLION Palantir deal for AI battlefield software... as Europe frets over US tech",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+   "found": "2026-11-27T13:16:40Z",
+   "section": "military"
+  },
   {
    "headline": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to ALICE HUANG...",
    "source": "Bloomberg",
@@ -330,13 +337,6 @@
    "section": "quirky"
   },
   {
-   "headline": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...",
-   "source": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
-   "found": "2026-11-25T13:16:00Z",
-   "section": "politics"
-  },
-  {
    "headline": "Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...",
    "source": "South China Morning Post",
    "url": "https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content",
@@ -350,7 +350,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 37,
+  "score": 36,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

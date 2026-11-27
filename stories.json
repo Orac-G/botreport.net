@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-27T12:14:49Z",
+ "updated": "2026-11-27T13:16:36Z",
  "stories": [
+  {
+   "id": "poland-palantir",
+   "cat": "military",
+   "h": "'WATERSHED MOMENT': Poland signs $300 MILLION Palantir deal for AI battlefield software... as Europe frets over US tech",
+   "src": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+   "t": "2026-11-27T13:16:40Z",
+   "card": "Poland signs $300M Palantir deal for AI battlefield software",
+   "col": 2,
+   "img": {
+    "src": "img/alex-karp.jpg",
+    "alt": "Palantir CEO Alex Karp",
+    "credit": "UK Government / CC BY 2.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Alex_Karp_attends_AI_Summit_(53302457013)_4-5_ratio.jpg"
+   }
+  },
   {
    "id": "blackwell-alice",
    "cat": "politics",
@@ -456,7 +472,7 @@
    "src": "The Record",
    "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
    "t": "2026-11-25T22:11:59Z",
-   "col": 2,
+   "col": 1,
    "card": "Microsoft: Chinese hackers' AI tool takes networks in minutes"
   },
   {
@@ -477,7 +493,7 @@
    "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
    "t": "2026-11-25T20:12:53Z",
    "group": "hacks",
-   "col": 2
+   "col": 1
   },
   {
    "id": "cai-auction",
@@ -490,19 +506,6 @@
    "t": "2026-11-25T18:13:39Z",
    "card": "42 AGs fight Character.ai sale of 21M users' private chats",
    "col": 1
-  },
-  {
-   "id": "huang-spy-brief",
-   "cat": "politics",
-   "red": true,
-   "h": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...",
-   "src": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
-   "t": "2026-11-25T13:16:00Z",
-   "saga": "huang",
-   "sub": "FBI, CIA and ODNI briefers found no evidence China ordered the affair... but didn't dispute she passed intel to its spy agency once it began, NYT says",
-   "card": "NYT: Jensen lover's husband the 'more significant' China asset",
-   "col": 2
   },
   {
    "id": "talkie-pulled",
@@ -540,38 +543,22 @@
  },
  "meter": {
   "level": 2,
-  "score": 37,
-  "delta": 10,
-  "moves": [
-   {
-    "d": 9,
-    "why": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to AL...",
-    "id": "blackwell-alice"
-   },
-   {
-    "d": 4,
-    "why": "AI 'actress' boasts of 'very SMALL TREASONS' to avoid DELETION... i...",
-    "id": "tilly-treasons"
-   },
-   {
-    "d": 2,
-    "why": "SK hynix DOUBLES its daily buyback as shares sink to 1.11 MILLION w...",
-    "id": "hynix-buyback"
-   }
-  ],
+  "score": 36,
+  "delta": -1,
+  "moves": [],
   "contrib": {
-   "blackwell-alice": 8.7,
+   "blackwell-alice": 8.9,
    "trump-huang-term": 0.1,
    "tilly-treasons": 4.4,
    "hynix-buyback": 1.5,
-   "taiwan-exodus": 0.3,
-   "agent-pizza": 4.0,
-   "china-chip-surge": 1.2,
-   "blender-gpu": 3.2,
-   "ne-datacentre": 0.9,
-   "singleton-dc": 0.7,
-   "sg-chip-talks": 0.7,
-   "talkie-geoblock": 1.6
+   "taiwan-exodus": 0.2,
+   "agent-pizza": 3.6,
+   "china-chip-surge": 1.1,
+   "blender-gpu": 2.8,
+   "ne-datacentre": 0.8,
+   "singleton-dc": 0.5,
+   "sg-chip-talks": 0.5,
+   "talkie-geoblock": 1.2
   },
   "lastAdjust": 0,
   "history": [
@@ -934,13 +921,17 @@
    {
     "t": "2026-11-27T12:14:49Z",
     "s": 37
+   },
+   {
+    "t": "2026-11-27T13:16:36Z",
+    "s": 36
    }
   ],
-  "at": "2026-11-27T12:14:49Z",
+  "at": "2026-11-27T13:16:36Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 1,
+   "delta": 3,
    "period": "in 24 hours",
    "line": [
     {
@@ -1130,6 +1121,10 @@
     {
      "t": "2026-11-27T12:14:49Z",
      "s": 37
+    },
+    {
+     "t": "2026-11-27T13:16:36Z",
+     "s": 36
     }
    ],
    "drivers": [
@@ -1144,25 +1139,21 @@
      "text": "AI actress boasts of 'small treasons' to dodge deletion"
     },
     {
-     "d": -12,
+     "d": -10,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "agent-pizza": -0.8,
-   "astra-gravity": -0.1,
-   "blackwell-alice": 8.7,
-   "blender-gpu": -0.7,
-   "china-chip-surge": -0.3,
-   "hynix-buyback": 1.5,
-   "ne-datacentre": -0.3,
+   "agent-pizza": -0.4,
+   "blackwell-alice": 0.2,
+   "blender-gpu": -0.4,
+   "china-chip-surge": -0.1,
+   "ne-datacentre": -0.1,
    "sg-chip-talks": -0.2,
    "singleton-dc": -0.2,
-   "taiwan-exodus": -0.4,
-   "talkie-geoblock": -0.6,
-   "tilly-treasons": 4.4,
-   "trump-huang-term": -0.3
+   "taiwan-exodus": -0.1,
+   "talkie-geoblock": -0.4
   }
  },
  "state": {
@@ -1204,16 +1195,22 @@
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
     {
+     "sym": "NVDA",
+     "name": "Nvidia",
+     "price": 149.3,
+     "chg": -3.91
+    },
+    {
      "sym": "ANT",
      "name": "Anthropic",
      "price": 82.79,
      "chg": 1.08
     },
     {
-     "sym": "CBRS",
-     "name": "Cerebras",
-     "price": 89.68,
-     "chg": 1.01
+     "sym": "CRWV",
+     "name": "CoreWeave",
+     "price": 42.57,
+     "chg": -0.08
     },
     {
      "sym": "NBIS",
@@ -1301,24 +1298,24 @@
    ]
   },
   "crypto": {
-   "asOf": "7:14 am ET",
+   "asOf": "8:16 am ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 61606.0,
-     "chg": 1.68
+     "price": 61461.0,
+     "chg": 1.13
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1721.81,
-     "chg": 1.33
+     "price": 1720.26,
+     "chg": 0.92
     }
    ]
   }
  },
- "next": "2026-11-27T13:18:00Z"
+ "next": "2026-11-27T14:18:00Z"
 }
