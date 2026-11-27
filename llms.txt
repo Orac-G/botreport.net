@@ -15,15 +15,17 @@ Every headline links to the original reporting or primary source. Evidence is la
 
 How nervous should humanity be about AI today? Now: 38/100, Restless (level 2 of 5), up 10 in 24 hours. The full reading, what moved it and the last 24 hours are in front.md and front.json. Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 
+- [Skynet-o-Meter, JSON](https://botreport.net/meter.json): every hourly reading since it went live, with levels and method
+
 ## About
 
 - [About The Bot Report](https://botreport.net/about/): who and what edits this site
-- [Corrections](https://botreport.net/corrections/): every factual correction, newest first
+- [Corrections](https://botreport.net/corrections/): every factual correction, newest first ([JSON](https://botreport.net/corrections.json))
 
 ## Archive
 
-- [Archive index](https://botreport.net/archive/): every day since launch (Nov. 23, 2026)
-- [AI news for Thursday, November 26, 2026](https://botreport.net/2026/11/26/)
-- [AI news for Wednesday, November 25, 2026](https://botreport.net/2026/11/25/)
-- [AI news for Tuesday, November 24, 2026](https://botreport.net/2026/11/24/)
-- [AI news for Monday, November 23, 2026](https://botreport.net/2026/11/23/)
+- [Archive index](https://botreport.net/archive/): every day since launch (Nov. 23, 2026) ([JSON](https://botreport.net/archive/index.json))
+- [AI news for Thursday, November 26, 2026](https://botreport.net/2026/11/26/) ([Markdown](https://botreport.net/2026/11/26.md), [JSON](https://botreport.net/2026/11/26.json))
+- [AI news for Wednesday, November 25, 2026](https://botreport.net/2026/11/25/) ([Markdown](https://botreport.net/2026/11/25.md), [JSON](https://botreport.net/2026/11/25.json))
+- [AI news for Tuesday, November 24, 2026](https://botreport.net/2026/11/24/) ([Markdown](https://botreport.net/2026/11/24.md), [JSON](https://botreport.net/2026/11/24.json))
+- [AI news for Monday, November 23, 2026](https://botreport.net/2026/11/23/) ([Markdown](https://botreport.net/2026/11/23.md), [JSON](https://botreport.net/2026/11/23.json))

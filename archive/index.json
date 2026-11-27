@@ -1,0 +1,33 @@
+{
+ "name": "The Bot Report archive",
+ "days": [
+  {
+   "date": "2026-11-26",
+   "stories": 30,
+   "page": "https://botreport.net/2026/11/26/",
+   "json": "https://botreport.net/2026/11/26.json",
+   "markdown": "https://botreport.net/2026/11/26.md"
+  },
+  {
+   "date": "2026-11-25",
+   "stories": 35,
+   "page": "https://botreport.net/2026/11/25/",
+   "json": "https://botreport.net/2026/11/25.json",
+   "markdown": "https://botreport.net/2026/11/25.md"
+  },
+  {
+   "date": "2026-11-24",
+   "stories": 29,
+   "page": "https://botreport.net/2026/11/24/",
+   "json": "https://botreport.net/2026/11/24.json",
+   "markdown": "https://botreport.net/2026/11/24.md"
+  },
+  {
+   "date": "2026-11-23",
+   "stories": 6,
+   "page": "https://botreport.net/2026/11/23/",
+   "json": "https://botreport.net/2026/11/23.json",
+   "markdown": "https://botreport.net/2026/11/23.md"
+  }
+ ]
+}

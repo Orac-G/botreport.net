@@ -1,0 +1,54 @@
+{
+ "date": "2026-11-23",
+ "title": "AI news for Monday, November 23, 2026",
+ "page": "https://botreport.net/2026/11/23/",
+ "frozenAt": "2026-11-23T20:00:00Z",
+ "lead": null,
+ "stories": [
+  {
+   "headline": "Robot truck unleashes DRONE SWARM in Germany",
+   "source": "Zona Militar",
+   "url": "https://zona-militar.com/en/2026/11/22/us-army-demonstrates-autonomous-drone-swarm-launched-from-unmanned-ground-vehicle-in-germany",
+   "found": "2026-11-22T20:00:00Z",
+   "section": "military"
+  },
+  {
+   "headline": "Feds tricked ALL FOUR top chatbots into writing attack plans...",
+   "source": "GAO",
+   "url": "https://gao.gov/products/gao-27-108814",
+   "found": "2026-11-19T18:00:00Z",
+   "section": "politics"
+  },
+  {
+   "headline": "OpenAI unleashes GPT-6.2 Astra",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "found": "2026-11-17T18:00:00Z",
+   "section": "tech"
+  },
+  {
+   "headline": "Pentagon wants $50 BILLION for MILLIONS of attack drones",
+   "source": "Army Recognition",
+   "url": "https://www.armyrecognition.com/news/army-news/2026/u-s-plans-50-billion-push-to-build-millions-of-autonomous-weapons-and-attack-drones",
+   "found": "2026-11-12T18:00:00Z",
+   "section": "military"
+  },
+  {
+   "headline": "EU outlaws AI SEX FAKES... starting Dec. 2",
+   "source": "Brussels Times",
+   "url": "https://www.brusselstimes.com/2208963/eu-bans-ai-generated-sexual-deepfakes-as-high-risk-rules-face-delays",
+   "found": "2026-11-10T18:00:00Z",
+   "section": "politics"
+  },
+  {
+   "headline": "Pentagon plans four-star robot war command",
+   "source": "Arms Control Assn.",
+   "url": "https://www.armscontrol.org/act/2026-11/news/dod-seeks-autonomous-warfare-command",
+   "found": "2026-11-05T18:00:00Z",
+   "section": "military"
+  }
+ ],
+ "quoteOfTheDay": null,
+ "skynetOMeter": null,
+ "corrections": []
+}

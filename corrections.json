@@ -1,0 +1,35 @@
+{
+ "name": "The Bot Report corrections",
+ "policy": "Every factual correction, newest first. The archive is never quietly rewritten.",
+ "page": "https://botreport.net/corrections/",
+ "corrections": [
+  {
+   "date": "2026-11-24",
+   "story": "huang-therapy",
+   "note": "The headline attributed the therapy remark to more than one person present; the linked CNBC article cites one.",
+   "was": "Jensen tells Nvidia staff 'I HURT ALL OF YOU'... says he's in therapy, people present say",
+   "now": "Jensen tells Nvidia staff 'I HURT ALL OF YOU'... says he's in therapy, says one person in the room"
+  },
+  {
+   "date": "2026-11-24",
+   "story": "doj-diversion",
+   "note": "The headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries.",
+   "was": "NYT: Justice Dept. investigators gather evidence Nvidia chips were ILLEGALLY DIVERTED to China...",
+   "now": "NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say..."
+  },
+  {
+   "date": "2026-11-24",
+   "story": "trump-pardon",
+   "note": "The lead photo's credit linked to a different photo from the same event and gave the wrong licence.",
+   "was": "Photo credit: Anders Eidesvik / CC BY-SA 4.0 https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg",
+   "now": "Photo credit: Anders Eidesvik / CC BY 4.0 https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_005.jpg"
+  },
+  {
+   "date": "2026-11-24",
+   "story": "cia-hack",
+   "note": "The headline left out that the breached system was unclassified and that only some of the anonymous sources point to the AI tool.",
+   "was": "CIA HACKED... SOURCES POINT TO A CHINESE AI TOOL",
+   "now": "HACKERS HIT UNCLASSIFIED CIA SYSTEM... SOME SOURCES POINT TO A CHINESE AI TOOL"
+  }
+ ]
+}
