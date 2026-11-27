@@ -23,7 +23,7 @@ How nervous should humanity be about AI today? Now: 33/100, Restless (level 2 of
 
 ## Embed and API
 
-- [Embed the Skynet-o-Meter](https://botreport.net/embed/): widgets, badge, terms
+- [Embed the Skynet-o-Meter](https://botreport.net/skynet/): widgets, badge, terms
 - [Skynet-o-Meter API](https://botreport.net/api/v1/som.json): current reading + 7 days, JSON
 
 ## About

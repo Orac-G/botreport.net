@@ -276,7 +276,7 @@
   }
  ],
  "history_note": "Hourly readings for up to 7 days, from when the current formula started.",
- "embed": "https://botreport.net/embed/",
- "terms": "https://botreport.net/embed/#terms",
+ "embed": "https://botreport.net/skynet/",
+ "terms": "https://botreport.net/skynet/#terms",
  "schema_version": 1
 }

@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Skynet-o-Meter by The Bot Report</title><meta name="robots" content="noindex">
+<link rel="stylesheet" href="/fonts/fonts.css">
+<style>
+:root{--bg:#fff;--ink:#111214;--muted:#5a5f69;--rule:#d6d9df;--warn:#c8102e;--l1:#1e9a50;--l2:#7aa81c;--l3:#d9a400;--l4:#ea6a12;--l5:#d3162a;
+--wire:"Courier Prime","Courier New",Courier,monospace;--mast:"Old Standard TT","Times New Roman",serif}
+:root[data-theme=dark]{--bg:#101113;--ink:#ecedef;--muted:#9aa0ab;--rule:#2c2f35;--warn:#ff5a67;--l1:#3fcf78;--l2:#a6d63a;--l3:#f2c230;--l4:#ff8a3d;--l5:#ff4d5e;color-scheme:dark}
+@media (prefers-color-scheme:dark){:root[data-theme=auto]{--bg:#101113;--ink:#ecedef;--muted:#9aa0ab;--rule:#2c2f35;--warn:#ff5a67;--l1:#3fcf78;--l2:#a6d63a;--l3:#f2c230;--l4:#ff8a3d;--l5:#ff4d5e;color-scheme:dark}}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;background:var(--bg);color:var(--ink);font:12px/1.35 var(--wire);overflow:hidden}
+.w{height:100%;display:flex;flex-direction:column;gap:6px;padding:10px 12px;border:1px solid var(--ink)}
+.top{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.t{font-weight:700;letter-spacing:.14em;font-size:11px}
+.q{font:italic 12px var(--mast);color:var(--muted)}
+.main{display:flex;align-items:center;gap:12px}
+#g{width:140px;height:84px;flex:none}
+.side{flex:1;min-width:0}
+.name{font-weight:700;font-size:20px;letter-spacing:.04em;text-transform:uppercase}
+.ch{color:var(--muted);font-size:11px;letter-spacing:.06em;text-transform:uppercase;margin-top:2px}
+#c{width:100%;flex:1;min-height:56px;display:block}
+.ax{display:flex;justify-content:space-between;color:var(--muted);font-size:9px;letter-spacing:.06em;text-transform:uppercase}
+.foot{margin-top:auto;display:flex;justify-content:space-between;align-items:baseline;gap:8px;font-size:10px;color:var(--muted);white-space:nowrap}
+.emb{font-size:10px;color:var(--muted)}.up{color:var(--l5)}.down{color:var(--l1)}
+.foot a{color:var(--ink)}
+.stale{color:var(--warn);font-weight:700}
+.big{font-weight:700;font-size:34px;line-height:1;font-variant-numeric:tabular-nums}
+.compact .main{gap:10px}
+.compact .q,.compact #c,.compact .ax,.compact #g,.compact .emb{display:none}
+.msg{color:var(--muted);margin:auto;text-align:center}
+</style></head><body>
+<div class="w" id="w"><div class="msg">Loading the Skynet-o-Meter…</div></div>
+<script>
+(()=>{
+const P=new URLSearchParams(location.search);
+const size=P.get("size")==="compact"?"compact":"full";
+const theme=["light","dark","auto"].includes(P.get("theme"))?P.get("theme"):"light";
+document.documentElement.dataset.theme=theme;
+const W=document.getElementById("w"); if(size==="compact")W.classList.add("compact");
+const LINK="https://botreport.net/?ref=som-widget", NS="http://www.w3.org/2000/svg";
+const el=(t,c,x)=>{const n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=String(x);return n};
+const sv=(p,t,a)=>{const n=document.createElementNS(NS,t);for(const k in a)n.setAttribute(k,a[k]);p.append(n);return n};
+let last=null;
+function ago(ms){const m=Math.round(ms/6e4);return m<90?m+" min":Math.round(m/60)+" hrs"}
+function gauge(svg,score,lvl){
+  svg.setAttribute("viewBox","0 0 200 120");svg.replaceChildren();const CX=100,CY=92,R=78;
+  const pt=(s,r)=>{const a=Math.PI*(1-s/100);return[CX+r*Math.cos(a),CY-r*Math.sin(a)]};
+  for(let i=0;i<5;i++){const[a,b]=pt(i*20+.9,R),[c,d]=pt((i+1)*20-.9,R);
+    sv(svg,"path",{d:`M${a.toFixed(2)} ${b.toFixed(2)} A${R} ${R} 0 0 1 ${c.toFixed(2)} ${d.toFixed(2)}`,style:`fill:none;stroke:var(--l${i+1});stroke-width:16;opacity:${lvl!==i+1?.7:1}`})}
+  const[tx,ty]=pt(score,R-14),a=Math.PI*(1-score/100),nx=Math.sin(a)*5,ny=Math.cos(a)*5;
+  sv(svg,"path",{d:`M${(CX-nx).toFixed(2)} ${(CY-ny).toFixed(2)} L${tx.toFixed(2)} ${ty.toFixed(2)} L${(CX+nx).toFixed(2)} ${(CY+ny).toFixed(2)}Z`,style:"fill:var(--ink)"});
+  sv(svg,"circle",{cx:CX,cy:CY,r:7,style:"fill:var(--ink)"});
+  const t=sv(svg,"text",{x:CX,y:120,"text-anchor":"middle",style:`fill:var(--l${lvl});font:700 28px var(--wire)`});t.textContent=score;
+}
+function chart(svg,hist){
+  const Wd=296,H=64;svg.setAttribute("viewBox",`0 0 ${Wd} ${H}`);svg.setAttribute("preserveAspectRatio","none");svg.replaceChildren();
+  for(let i=0;i<5;i++)sv(svg,"rect",{x:0,y:H-(i+1)*H/5,width:Wd,height:H/5,style:`fill:var(--l${i+1});opacity:.22`});
+  const pts=hist.filter(p=>Number.isFinite(p.score));if(pts.length<2)return;
+  const t0=Date.parse(pts[0].t),t1=Date.parse(pts[pts.length-1].t),span=Math.max(t1-t0,1);
+  const d=pts.map((p,i)=>(i?"L":"M")+((Date.parse(p.t)-t0)/span*Wd).toFixed(1)+" "+(H-p.score/100*H).toFixed(1)).join(" ");
+  sv(svg,"path",{d,style:"fill:none;stroke:var(--ink);stroke-width:1.6;vector-effect:non-scaling-stroke"});
+}
+function render(s){
+  W.replaceChildren();
+  const top=el("div","top");top.append(el("span","t","SKYNET-O-METER"));
+  if(size==="full"){const e=el("a","emb","Embed ↗");e.href="/skynet/";e.target="_blank";e.rel="noopener";top.append(e)}
+  const q=el("div","q","How nervous should humanity be about AI today?");
+  const main=el("div","main");
+  const g=document.createElementNS(NS,"svg");g.id="g";g.setAttribute("role","img");g.setAttribute("aria-label",`${s.score} out of 100, ${s.classification}`);gauge(g,s.score,s.level);
+  const side=el("div","side");
+  if(size==="compact"){const b=el("div","big",s.score);b.style.color=`var(--l${s.level})`;main.append(b)}
+  const nm=el("div","name",s.classification);nm.style.color=`var(--l${s.level})`;side.append(nm);
+  const ch=s.change_24h,cd=el("div","ch");
+  if(ch===0)cd.textContent="No change in 24 hrs";else if(ch!=null){cd.append(el("span",ch>0?"up":"down",(ch>0?"▲ ":"▼ ")+Math.abs(ch))," in 24 hrs")}
+  side.append(cd);
+  main.append(g,side);
+  W.append(top,q,main);
+  if(size==="full"){const c=document.createElementNS(NS,"svg");c.id="c";c.setAttribute("aria-hidden","true");chart(c,s.history||[]);
+    const days=s.history&&s.history.length>1?Math.max(1,Math.round((Date.parse(s.history[s.history.length-1].t)-Date.parse(s.history[0].t))/864e5)):0;
+    const ax=el("div","ax");ax.append(el("span",null,days?days+(days===1?" day ago":" days ago"):""),el("span",null,"now"));W.append(c,ax)}
+  const age=Date.now()-Date.parse(s.updated_at),foot=el("div","foot");
+  const when=el("span",age>s.stale_after_minutes*6e4?"stale":null,age>s.stale_after_minutes*6e4?"Stale: last updated "+ago(age)+" ago":"Updated "+new Date(s.updated_at).toLocaleTimeString([],{hour:"numeric",minute:"2-digit"}).replace(" AM","am").replace(" PM","pm"));
+  const a=el("a",null,"Powered by The Bot Report");a.href=LINK;a.target="_blank";a.rel="noopener";
+  foot.append(when,a);W.append(foot);
+}
+function ok(s){return s&&Number.isInteger(s.score)&&s.score>=0&&s.score<=100&&s.level>=1&&s.level<=5&&!isNaN(Date.parse(s.updated_at))}
+async function load(){
+  try{const r=await fetch("/api/v1/som.json",{cache:"no-store"});const s=await r.json();if(!ok(s))throw 0;last=s;render(s)}
+  catch(_){if(last)render(last);else{W.replaceChildren(el("div","msg","The Skynet-o-Meter can't be reached right now."))}}
+}
+load();setInterval(load,10*60*1000);
+})();
+</script></body></html>
