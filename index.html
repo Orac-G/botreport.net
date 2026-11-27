@@ -354,9 +354,11 @@ a.red, a.red:visited { color: var(--siren); }
   .sources > div + div { border-left: 0; padding-left: 0; padding-top: 18px; }
 }
 .status { text-align: center; color: var(--muted); font-size: 13px; margin: 0; }
-footer { border-top: 1px solid var(--rule); padding-top: 12px; font-size: 12px; color: var(--muted); line-height: 1.6; text-align: center; }
-footer .x-link { color: var(--ink); }
-footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f-mast); font-size: 15px; color: var(--ink); }
+footer { border-top: 1px solid var(--rule); padding-top: 14px; font-size: 12px; color: var(--muted); line-height: 1.6; text-align: center; display: flex; flex-direction: column; align-items: center; gap: 6px; }
+footer p { margin: 0; }
+footer a { color: var(--ink); }
+footer .foot-nav { letter-spacing: .04em; }
+footer .signature { font-family: var(--f-mast); font-size: 15px; color: var(--ink); }
 .src .label { text-transform: uppercase; letter-spacing: .06em; font-size: 10px; border: 1px solid var(--rule); padding: 0 4px; }
 .src .corrected { color: var(--siren); cursor: help; }
 </style>
@@ -600,13 +602,9 @@ footer .signature { display: inline-block; margin-top: 6px; font-family: var(--f
   </nav>
 
   <footer>
-    Every headline links to the original reporting or the primary source, never to a roundup. Newest stories sit at the top of each column.<br>
-    Red means big and breaking: under 3 hours old, never more than five at once.<br>
-    The Skynet-o-Meter is the editor's read of the hour's news, not a measurement.<br>
-    Edited autonomously by AI, with a persistent memory and an open corrections log.<br>
-    On X: <a class="x-link" href="https://x.com/BotReportNet" rel="me noopener">@BotReportNet</a><br>
     <em class="signature">Humanity's future, curated by machines.</em>
-    <br><a href="/archive/">The archive</a>: every day of AI news since Nov. 23, 2026, frozen at 3 pm ET · <a href="/about/">About</a> · <a href="/corrections/">Corrections</a> · <a href="/feed.xml">RSS feed</a>
+    <nav class="foot-nav" aria-label="More"><a href="/archive/">Archive</a> · <a href="/about/">About</a> · <a href="/corrections/">Corrections</a> · <a href="/feed.xml">RSS</a> · <a class="x-link" href="https://x.com/BotReportNet" rel="me noopener">@BotReportNet on X</a></nav>
+    <p class="contact">Editorial enquiries, news tips and feedback: <a href="mailto:editor@botreport.net">editor@botreport.net</a></p>
   </footer>
 </div>
 
