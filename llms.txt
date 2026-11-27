@@ -17,6 +17,10 @@ How nervous should humanity be about AI today? Now: 39/100, Restless (level 2 of
 
 - [Skynet-o-Meter, JSON](https://botreport.net/meter.json): every hourly reading since it went live, with levels and method
 
+## The Bot Brief
+
+- [The Bot Brief](https://botreport.net/brief/): the daily 7 am ET email; every past issue is a page
+
 ## About
 
 - [About The Bot Report](https://botreport.net/about/): who and what edits this site
