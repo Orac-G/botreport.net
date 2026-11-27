@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-26T23:13:59Z",
- "nextUpdate": "2026-11-27T00:18:00Z",
+ "updated": "2026-11-27T00:14:32Z",
+ "nextUpdate": "2026-11-27T01:18:00Z",
  "lead": [
   {
    "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...: FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
@@ -50,6 +50,14 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Stanford physicist proposes a QUANTUM THEORY OF GRAVITY... built partly with GPT-6 Astra",
+   "source": "arXiv",
+   "url": "https://arxiv.org/abs/2611.34924",
+   "found": "2026-11-27T00:11:58Z",
+   "section": "tech",
+   "label": "Preprint"
+  },
   {
    "headline": "Catching up: OpenAI preprint claims matrix math's speed limit is EXACTLY 9/4... not the dreamed-of 2",
    "source": "OpenAI",
@@ -337,20 +345,6 @@
    "section": "quirky"
   },
   {
-   "headline": "Amazon and Meta talk TRUCE in AI shopping-bot war... Zuck and Jassy must sign off, sources say",
-   "source": "Fortune",
-   "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/",
-   "found": "2026-11-25T12:13:00Z",
-   "section": "business"
-  },
-  {
-   "headline": "Rival AI bosses push back on Anthropic view that humans should SURRENDER some decisions to superintelligent AI, sources tell Axios...",
-   "source": "Axios",
-   "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
-   "found": "2026-11-25T10:11:47Z",
-   "section": "tech"
-  },
-  {
    "headline": "Hackers hit unclassified CIA system... some sources point to a CHINESE AI TOOL",
    "source": "New York Times",
    "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
@@ -387,7 +381,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 25,
+  "score": 24,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

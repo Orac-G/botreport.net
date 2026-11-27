@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Thursday, November 26, 2026, 6:13 PM ET. Every headline links to the original reporting or primary source.
+Updated Thursday, November 26, 2026, 7:14 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,7 @@ Updated Thursday, November 26, 2026, 6:13 PM ET. Every headline links to the ori
 
 ## All stories (newest first)
 
+- [Stanford physicist proposes a QUANTUM THEORY OF GRAVITY... built partly with GPT-6 Astra](https://arxiv.org/abs/2611.34924) (arXiv · Preprint)
 - [Catching up: OpenAI preprint claims matrix math's speed limit is EXACTLY 9/4... not the dreamed-of 2](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) (OpenAI · Preprint)
 - [OpenAI says GPT-6.2 Astra users will hit usage limits 40% FASTER... because it fixed a 'bug'](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/) (BleepingComputer)
 - [Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia: it 'NEVER HAPPENED'...](https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979) (Newsweek)
@@ -56,8 +57,6 @@ Updated Thursday, November 26, 2026, 6:13 PM ET. Every headline links to the ori
 - [AI brings back the voice of late football legend John Motson for EA's FC 27... with his family's blessing](https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27) (The Guardian)
 - [SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...](https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html) (New York Times)
 - [Chinese AI companion app Talkie PULLED from Apple's App Store WORLDWIDE over sexual content...](https://www.scmp.com/tech/tech-trends/article/3375791/minimax-chatbot-talkie-removed-apple-app-store-over-alleged-sexual-content) (South China Morning Post)
-- [Amazon and Meta talk TRUCE in AI shopping-bot war... Zuck and Jassy must sign off, sources say](https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/) (Fortune)
-- [Rival AI bosses push back on Anthropic view that humans should SURRENDER some decisions to superintelligent AI, sources tell Axios...](https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will) (Axios)
 - [Hackers hit unclassified CIA system... some sources point to a CHINESE AI TOOL](https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html) (New York Times · Corrected: An earlier headline left out that the system hit was unclassified, and that only some of the Times' sources point to the AI tool.)
 - [Asked how DOJ can clear Huang mid-probe, AG Blanche: 'I DON'T KNOW WHAT YOU'RE TALKING ABOUT'... FBI's Patel dodges too](https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html) (CNBC)
 - [NYT: Justice Dept. has evidence OTHER FIRMS illegally diverted Nvidia chips to China, sources say...](https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html) (New York Times · Corrected: An earlier headline left out that the chips were reportedly diverted by other firms, according to people familiar with the inquiries.)
@@ -68,6 +67,6 @@ Updated Thursday, November 26, 2026, 6:13 PM ET. Every headline links to the ori
 > “I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.”
 > — Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption ([source](https://www.nature.com/articles/d41586-026-03875-6))
 
-Skynet-o-Meter: 25 out of 100.
+Skynet-o-Meter: 24 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml
