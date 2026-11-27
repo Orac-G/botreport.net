@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T00:14:32Z",
- "nextUpdate": "2026-11-27T01:18:00Z",
+ "updated": "2026-11-27T01:13:37Z",
+ "nextUpdate": "2026-11-27T02:18:00Z",
  "lead": [
   {
    "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...: FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
@@ -324,13 +324,6 @@
    "label": "Not yet verified"
   },
   {
-   "headline": "AI brings back the voice of late football legend John Motson for EA's FC 27... with his family's blessing",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
-   "found": "2026-11-25T16:12:50Z",
-   "section": "quirky"
-  },
-  {
    "headline": "SPY BRIEFING: Officials tell Congress Jensen's lover's HUSBAND was the 'MORE SIGNIFICANT' Chinese asset...",
    "source": "New York Times",
    "url": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
@@ -381,7 +374,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 24,
+  "score": 22,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",

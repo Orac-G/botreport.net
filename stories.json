@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:14:32Z",
+ "updated": "2026-11-27T01:13:37Z",
  "stories": [
   {
    "id": "astra-gravity",
@@ -339,7 +339,7 @@
    "src": "The Record",
    "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
    "t": "2026-11-25T22:11:59Z",
-   "col": 0,
+   "col": 2,
    "card": "Microsoft: Chinese hackers' AI tool takes networks in minutes"
   },
   {
@@ -399,7 +399,7 @@
    "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
    "t": "2026-11-25T20:12:53Z",
    "group": "hacks",
-   "col": 0
+   "col": 2
   },
   {
    "id": "nvda-sp-watch",
@@ -485,22 +485,6 @@
    "card": "Study: AI models pick military targets if told it's a game"
   },
   {
-   "id": "motson-ai",
-   "cat": "quirky",
-   "h": "AI brings back the voice of late football legend John Motson for EA's FC 27... with his family's blessing",
-   "src": "The Guardian",
-   "url": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
-   "t": "2026-11-25T16:12:50Z",
-   "col": 2,
-   "img": {
-    "src": "img/john-motson.jpg",
-    "alt": "John Motson in his trademark sheepskin coat in 2018",
-    "credit": "Everton Football Club / CC BY 3.0",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:John_Motson_2018.jpg"
-   },
-   "card": "AI brings back John Motson's voice for FC 27"
-  },
-  {
    "id": "huang-spy-brief",
    "cat": "politics",
    "red": true,
@@ -536,7 +520,7 @@
    "correction": "An earlier headline left out that the system hit was unclassified, and that only some of the Times' sources point to the AI tool.",
    "card": "Unclassified CIA system hit; some sources cite Chinese AI tool",
    "group": "hacks",
-   "col": 0
+   "col": 2
   },
   {
    "id": "blanche-dodge",
@@ -604,28 +588,22 @@
  },
  "meter": {
   "level": 2,
-  "score": 24,
-  "delta": -1,
-  "moves": [
-   {
-    "d": 2,
-    "why": "Stanford physicist proposes a QUANTUM THEORY OF GRAVITY... built pa...",
-    "id": "astra-gravity"
-   }
-  ],
+  "score": 22,
+  "delta": -2,
+  "moves": [],
   "contrib": {
-   "astra-gravity": 1.6,
-   "omega-94": 1.5,
+   "astra-gravity": 1.7,
+   "omega-94": 1.4,
    "boe-bailey-crypto": 0.4,
-   "gpt62-limits": 1.3,
-   "dennys-plaque": 2.2,
-   "pentagon-dpa-denial": 0.6,
-   "aaronson-crypto": 1.0,
-   "ai-shop-fakes": 3.1,
-   "boe-fsr": 0.9,
-   "sap-cuts": 0.7,
-   "spain-pp-morocco": 0.4,
-   "banks-ai-debt": 0.3
+   "gpt62-limits": 1.2,
+   "dennys-plaque": 1.8,
+   "pentagon-dpa-denial": 0.5,
+   "aaronson-crypto": 0.9,
+   "ai-shop-fakes": 2.7,
+   "boe-fsr": 0.8,
+   "sap-cuts": 0.6,
+   "spain-pp-morocco": 0.3,
+   "banks-ai-debt": 0.1
   },
   "lastAdjust": 0,
   "history": [
@@ -940,13 +918,17 @@
    {
     "t": "2026-11-27T00:14:29Z",
     "s": 24
+   },
+   {
+    "t": "2026-11-27T01:13:36Z",
+    "s": 22
    }
   ],
-  "at": "2026-11-27T00:14:29Z",
+  "at": "2026-11-27T01:13:36Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -33,
+   "delta": -32,
    "period": "in 24 hours",
    "line": [
     {
@@ -1088,6 +1070,10 @@
     {
      "t": "2026-11-27T00:14:29Z",
      "s": 24
+    },
+    {
+     "t": "2026-11-27T01:13:36Z",
+     "s": 22
     }
    ],
    "drivers": [
@@ -1102,25 +1088,23 @@
      "text": "Denny's puts Jensen's plaque back after his return"
     },
     {
-     "d": -38,
+     "d": -37,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "aaronson-crypto": -0.2,
-   "ai-shop-fakes": -0.5,
-   "astra-gravity": 1.6,
-   "banks-ai-debt": -0.1,
-   "boe-bailey-crypto": -0.1,
+   "aaronson-crypto": -0.1,
+   "ai-shop-fakes": -0.4,
+   "astra-gravity": 0.1,
+   "banks-ai-debt": -0.2,
    "boe-fsr": -0.1,
-   "dennys-plaque": -0.5,
-   "gpt62-limits": -0.2,
-   "korea-exam-cam": -0.4,
+   "dennys-plaque": -0.4,
+   "gpt62-limits": -0.1,
    "omega-94": -0.1,
    "pentagon-dpa-denial": -0.1,
-   "sap-cuts": -0.2,
-   "spain-pp-morocco": -0.2
+   "sap-cuts": -0.1,
+   "spain-pp-morocco": -0.1
   }
  },
  "state": {
@@ -1271,24 +1255,24 @@
    ]
   },
   "crypto": {
-   "asOf": "7:14 pm ET",
+   "asOf": "8:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60445.0,
-     "chg": -0.26
+     "price": 60739.0,
+     "chg": 0.23
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1687.19,
-     "chg": -0.41
+     "price": 1700.61,
+     "chg": 0.09
     }
    ]
   }
  },
- "next": "2026-11-27T01:18:00Z"
+ "next": "2026-11-27T02:18:00Z"
 }
