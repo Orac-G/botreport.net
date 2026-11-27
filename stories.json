@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:14:56Z",
+ "updated": "2026-11-27T18:13:34Z",
  "stories": [
   {
    "id": "anthropic-reclaims",
@@ -561,39 +561,29 @@
  },
  "meter": {
   "level": 2,
-  "score": 38,
-  "delta": 1,
+  "score": 35,
+  "delta": -3,
   "moves": [
    {
-    "d": 4,
-    "why": "Russia's Patriarch Kirill calls on Christians to TAME AI... warns o...",
-    "id": "kirill-apocalypse"
-   },
-   {
-    "d": -2,
-    "why": "DAY FIVE without food: hunger striker camps outside Anthropic HQ de...",
-    "id": "anthropic-hunger"
-   },
-   {
-    "d": 1,
-    "why": "Anthropic shares CLAW BACK above their $83 IPO price... as a rocky...",
-    "id": "anthropic-reclaims"
+    "d": -1,
+    "why": "Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to AL...",
+    "id": "blackwell-alice"
    }
   ],
   "contrib": {
-   "anthropic-reclaims": 1.4,
-   "hynix-buyback": 0.5,
-   "google-belgium-halt": 1.4,
-   "kirill-apocalypse": 4.3,
-   "anthropic-hunger": 2.2,
+   "anthropic-reclaims": 1.5,
+   "hynix-buyback": 0.4,
+   "google-belgium-halt": 1.5,
+   "kirill-apocalypse": 4.4,
+   "anthropic-hunger": 2.0,
    "shopbot-blocks": 1.4,
-   "poland-palantir": 4.2,
-   "blackwell-alice": 5.5,
-   "tilly-treasons": 2.8,
-   "agent-pizza": 2.0,
-   "china-chip-surge": 0.5,
-   "blender-gpu": 1.2,
-   "ne-datacentre": 0.3
+   "poland-palantir": 3.8,
+   "blackwell-alice": 4.9,
+   "tilly-treasons": 2.4,
+   "agent-pizza": 1.6,
+   "china-chip-surge": 0.4,
+   "blender-gpu": 0.8,
+   "ne-datacentre": 0.1
   },
   "lastAdjust": 0,
   "history": [
@@ -976,13 +966,17 @@
    {
     "t": "2026-11-27T17:14:56Z",
     "s": 38
+   },
+   {
+    "t": "2026-11-27T18:13:31Z",
+    "s": 35
    }
   ],
-  "at": "2026-11-27T17:14:56Z",
+  "at": "2026-11-27T18:13:31Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 10,
+   "delta": 7,
    "period": "in 24 hours",
    "line": [
     {
@@ -1192,11 +1186,15 @@
     {
      "t": "2026-11-27T17:14:56Z",
      "s": 38
+    },
+    {
+     "t": "2026-11-27T18:13:31Z",
+     "s": 35
     }
    ],
    "drivers": [
     {
-     "d": 6,
+     "d": 5,
      "id": "blackwell-alice",
      "text": "Blackwell chips found at Shanghai site tied to Alice Huang"
     },
@@ -1204,25 +1202,25 @@
      "d": 4,
      "id": "kirill-apocalypse",
      "text": "Russia's patriarch warns of AI 'Apocalypse'"
+    },
+    {
+     "d": -2,
+     "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
    "agent-pizza": -0.4,
-   "anthropic-hunger": -2.2,
-   "anthropic-reclaims": 1.4,
-   "blackwell-alice": -0.9,
+   "anthropic-hunger": -0.2,
+   "anthropic-reclaims": 0.1,
+   "blackwell-alice": -0.6,
    "blender-gpu": -0.4,
-   "china-chip-surge": -0.2,
-   "futures-bounce": -0.7,
-   "google-belgium-halt": 1.4,
-   "hynix-buyback": -0.6,
-   "kirill-apocalypse": 4.3,
-   "ne-datacentre": -0.1,
-   "poland-palantir": -0.6,
-   "sg-chip-talks": -0.1,
-   "shopbot-blocks": -0.1,
-   "singleton-dc": -0.1,
+   "china-chip-surge": -0.1,
+   "google-belgium-halt": 0.1,
+   "hynix-buyback": -0.1,
+   "kirill-apocalypse": 0.1,
+   "ne-datacentre": -0.2,
+   "poland-palantir": -0.4,
    "tilly-treasons": -0.4
   }
  },
@@ -1260,51 +1258,51 @@
    ]
   },
   "stocks": {
-   "asOf": "12:13 pm ET",
+   "asOf": "1:13 pm ET",
    "src": "Yahoo Finance \u00b7 change vs. prior close",
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
     {
      "sym": "NVDA",
      "name": "Nvidia",
-     "price": 148.96,
-     "chg": -0.23
+     "price": 150.49,
+     "chg": 0.8
     },
     {
      "sym": "ANT",
      "name": "Anthropic",
-     "price": 91.76,
-     "chg": 10.83
+     "price": 91.88,
+     "chg": 10.98
     },
     {
      "sym": "CBRS",
      "name": "Cerebras",
-     "price": 92.93,
-     "chg": 3.62
+     "price": 94.24,
+     "chg": 5.08
     },
     {
      "sym": "CRWV",
      "name": "CoreWeave",
-     "price": 43.62,
-     "chg": 2.48
+     "price": 44.15,
+     "chg": 3.71
     },
     {
      "sym": "NBIS",
      "name": "Nebius",
-     "price": 87.97,
-     "chg": 3.51
+     "price": 89.46,
+     "chg": 5.26
     },
     {
      "sym": "PLTR",
      "name": "Palantir",
-     "price": 171.95,
-     "chg": 5.11
+     "price": 172.17,
+     "chg": 5.24
     },
     {
      "sym": "NASDAQ",
      "name": "Composite",
-     "price": 24016.65,
-     "chg": 1.83
+     "price": 24129.5,
+     "chg": 2.31
     }
    ]
   },
@@ -1393,5 +1391,5 @@
    ]
   }
  },
- "next": "2026-11-27T18:18:00Z"
+ "next": "2026-11-27T19:18:00Z"
 }

@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T17:14:56Z",
- "nextUpdate": "2026-11-27T18:18:00Z",
+ "updated": "2026-11-27T18:13:34Z",
+ "nextUpdate": "2026-11-27T19:18:00Z",
  "lead": [
   {
    "headline": "Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...: Nature: rumoured algorithms would target RSA, the maths behind online banking... no lab has confirmed them",
@@ -357,54 +357,62 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 38,
+  "score": 35,
   "outOf": 100,
   "level": 2,
   "levelName": "Restless",
-  "change": 10,
+  "change": 7,
   "changePeriod": "in 24 hours",
   "movers": [
    {
-    "points": 6,
+    "points": 5,
     "story": "Blackwell chips found at Shanghai site tied to Alice Huang"
    },
    {
     "points": 4,
     "story": "Russia's patriarch warns of AI 'Apocalypse'"
+   },
+   {
+    "points": -2,
+    "story": "Older stories cooling off"
    }
   ],
   "readings": [
    {
-    "t": "2026-11-26T20:13:34Z",
-    "score": 30
+    "t": "2026-11-26T18:15:36Z",
+    "score": 28
    },
    {
-    "t": "2026-11-26T23:13:59Z",
-    "score": 25
+    "t": "2026-11-26T21:13:10Z",
+    "score": 29
    },
    {
-    "t": "2026-11-27T02:13:32Z",
-    "score": 21
+    "t": "2026-11-27T00:14:29Z",
+    "score": 24
    },
    {
-    "t": "2026-11-27T05:13:23Z",
-    "score": 25
+    "t": "2026-11-27T03:13:36Z",
+    "score": 19
    },
    {
-    "t": "2026-11-27T08:14:16Z",
+    "t": "2026-11-27T06:13:35Z",
+    "score": 23
+   },
+   {
+    "t": "2026-11-27T09:13:30Z",
     "score": 26
    },
    {
-    "t": "2026-11-27T11:12:48Z",
-    "score": 27
+    "t": "2026-11-27T12:14:49Z",
+    "score": 37
    },
    {
-    "t": "2026-11-27T14:14:44Z",
-    "score": 38
+    "t": "2026-11-27T15:14:11Z",
+    "score": 35
    },
    {
-    "t": "2026-11-27T17:14:56Z",
-    "score": 38
+    "t": "2026-11-27T18:13:31Z",
+    "score": 35
    }
   ],
   "question": "How nervous should humanity be about AI today?",
