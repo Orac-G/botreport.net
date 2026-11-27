@@ -115,8 +115,8 @@
    "src": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
    "t": "2026-11-26T17:11:37Z",
-   "top": true,
-   "card": "SAP mulls cutting 10,000+ jobs for AI, sources say"
+   "card": "SAP mulls cutting 10,000+ jobs for AI, sources say",
+   "col": 1
   },
   {
    "id": "dennys-plaque",
@@ -197,20 +197,9 @@
     "url": "https://news.ycombinator.com/item?id=50652248",
     "comments": 3
    },
-   "lead": true,
    "sub": "FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
-   "stack": [
-    "gpu-glut",
-    "cbs-nvda-partners",
-    "doj-diversion"
-   ],
    "saga": "nvda-china",
-   "img": {
-    "src": "img/jensen-huang.jpg",
-    "alt": "Nvidia CEO Jensen Huang",
-    "credit": "Anders Eidesvik / CC BY-SA 4.0",
-    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg"
-   }
+   "col": 0
   },
   {
    "id": "gpu-glut",
@@ -221,7 +210,18 @@
    "t": "2026-11-26T08:11:42Z",
    "group": "nvda-china",
    "card": "Flood of Nvidia AI chips for sale after US shuts China loophole",
-   "shout": "CHIP GLUT AFTER LOOPHOLE SHUT"
+   "shout": "CHIP GLUT AFTER LOOPHOLE SHUT",
+   "stack": [
+    "cbs-nvda-partners",
+    "doj-diversion"
+   ],
+   "img": {
+    "src": "img/jensen-huang.jpg",
+    "alt": "Nvidia CEO Jensen Huang",
+    "credit": "Anders Eidesvik / CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg"
+   },
+   "lead": true
   },
   {
    "id": "leet-ai-cheat",

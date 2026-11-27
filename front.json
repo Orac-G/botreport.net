@@ -7,15 +7,11 @@
  "nextUpdate": "2026-11-27T04:18:00Z",
  "lead": [
   {
-   "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...: FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
-   "source": "Financial Times",
-   "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
-   "found": "2026-11-26T07:11:54Z",
-   "section": "business",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50652248",
-    "comments": 3
-   }
+   "headline": "FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+   "found": "2026-11-26T08:11:42Z",
+   "section": "business"
   }
  ],
  "topLinks": [
@@ -32,13 +28,6 @@
    "source": "Bank of England",
    "url": "https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026",
    "found": "2026-11-26T18:11:29Z",
-   "section": "business"
-  },
-  {
-   "headline": "SAP weighs axing at least 10,000 JOBS to remake itself for the AI era, sources say...",
-   "source": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
-   "found": "2026-11-26T17:11:37Z",
    "section": "business"
   },
   {
@@ -106,6 +95,13 @@
    "section": "tech"
   },
   {
+   "headline": "SAP weighs axing at least 10,000 JOBS to remake itself for the AI era, sources say...",
+   "source": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
+   "found": "2026-11-26T17:11:37Z",
+   "section": "business"
+  },
+  {
    "headline": "Jensen's BACK... and so is his PLAQUE at Denny's",
    "source": "New York Times",
    "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
@@ -141,11 +137,15 @@
    "section": "quirky"
   },
   {
-   "headline": "FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
-   "found": "2026-11-26T08:11:42Z",
-   "section": "business"
+   "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...",
+   "source": "Financial Times",
+   "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
+   "found": "2026-11-26T07:11:54Z",
+   "section": "business",
+   "hackerNews": {
+    "url": "https://news.ycombinator.com/item?id=50652248",
+    "comments": 3
+   }
   },
   {
    "headline": "Police RAID late perfect scorer's home in Korea's AI CHEATING probe...",

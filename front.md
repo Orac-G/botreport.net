@@ -6,13 +6,12 @@ Updated Thursday, November 26, 2026, 10:13 PM ET. Every headline links to the or
 
 ## Lead
 
-- [Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...: FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there](https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370) (Financial Times)
+- [FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...](https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html) (CNBC)
 
 ## Top stories
 
 - [Scott Aaronson 'virtually certain' AI labs are sitting on ENCRYPTION-BREAKING BOMBSHELLS...](https://www.nature.com/articles/d41586-026-03875-6) (Nature · Not yet verified)
 - [Bank of England: AI money is 'COMPLEX, CIRCULAR AND OPAQUE'... $305 BILLION in hyperscaler bonds this year](https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026) (Bank of England)
-- [SAP weighs axing at least 10,000 JOBS to remake itself for the AI era, sources say...](https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring) (Bloomberg)
 - [Spain's opposition uses AI to swap PM Sánchez's Spain jersey for a MOROCCO shirt... and comes under fire](https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt) (The Guardian)
 
 ## All stories (newest first)
@@ -24,12 +23,13 @@ Updated Thursday, November 26, 2026, 10:13 PM ET. Every headline links to the or
 - [Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia: it 'NEVER HAPPENED'...](https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979) (Newsweek)
 - [Black Friday TRAP: AI shopping bots fooled by FAKE STORES built by scammers' AI...](https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/) (CBS News)
 - [BoE's Bailey: UNRELEASED AI models raise ENCRYPTION concerns for bank data...](https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae) (Financial Times)
+- [SAP weighs axing at least 10,000 JOBS to remake itself for the AI era, sources say...](https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring) (Bloomberg)
 - [Jensen's BACK... and so is his PLAQUE at Denny's](https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html) (New York Times)
 - [Banks look to DUMP AI DEBT: Citi and JPMorgan shopping AI loan portfolios to investors, sources say...](https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt) (Semafor)
 - [Police seek ARREST of Korean exam ace: CAMERA in correction tape, AI-fed answers...](https://www.koreaherald.com/article/10950986) (Korea Herald)
 - [Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/) (Wired)
 - [AI FAKES hit at least 25 court cases in England and Wales... invented case law and statutes that DON'T EXIST](https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026) (The Guardian)
-- [FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...](https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html) (CNBC)
+- [Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...](https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370) (Financial Times)
 - [Police RAID late perfect scorer's home in Korea's AI CHEATING probe...](https://www.koreaherald.com/article/10950541) (Korea Herald)
 - [Modi floats an AI app that tracks kids from AGE THREE... and suggests their CAREERS](https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275) (The Register)
 - [Huawei TEASES a next-gen AI MEMORY CHIP that could top Samsung and SK Hynix...](https://www.bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix) (Bloomberg · Company claim)
