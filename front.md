@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 5:13 PM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 6:14 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -10,10 +10,10 @@ Updated Friday, November 27, 2026, 5:13 PM ET. Every headline links to the origi
 
 ## Top stories
 
+- [Dow's BEST WEEK since 2022 as AI stocks ROAR back... Nasdaq up 6%+, Anthropic jumps nearly 11%](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html) (CNBC)
 - [Belgium orders Google to HALT datacentre construction over missing permits... after Greenpeace showed work CARRYING ON](https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits) (The Guardian)
 - [DAY FIVE without food: hunger striker camps outside Anthropic HQ demanding it STOP self-improving AI...](https://gizmodo.com/a-hunger-strike-against-self-improving-ai-is-happening-outside-of-anthropics-san-francisco-headquarters-2000846188) (Gizmodo)
 - [Pizza history: an AI AGENT buys a Papa John's order with NO CARD... a UK FIRST](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer) (The Guardian)
-- [China's chip stocks have their BIGGEST DAY EVER... up 17% as Beijing signals market support](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html) (CNBC)
 
 ## All stories (newest first)
 
@@ -24,6 +24,7 @@ Updated Friday, November 27, 2026, 5:13 PM ET. Every headline links to the origi
 - [Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to ALICE HUANG...](https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang) (Bloomberg)
 - [AI 'actress' boasts of 'very SMALL TREASONS' to avoid DELETION... it's in her script](https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/) (Fortune)
 - [SK hynix DOUBLES its daily buyback as shares sink to 1.11 MILLION won... from 2.99 MILLION in June](https://www.koreaherald.com/article/10952285) (Korea Herald)
+- [China's chip stocks have their BIGGEST DAY EVER... up 17% as Beijing signals market support](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html) (CNBC)
 - [AI chip FRENZY sends a Chinese BLENDER MAKER's stock soaring 370%... GPUs or 'grain processing units'?](https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390) (South China Morning Post)
 - [UK nature watchdog OBJECTED to an AI datacentre... weeks later, ministers threatened to ABOLISH it](https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol) (The Guardian)
 - [1-GIGAWATT AI campus floated for outback cattle station at the heart of a High Court WATER FIGHT... green group: 'TONE-DEAF'](https://www.abc.net.au/news/2026-11-27/singleton-station-data-centre-proposal-water-licence-dispute/107429770) (ABC (Australia))
@@ -40,7 +41,6 @@ Updated Friday, November 27, 2026, 5:13 PM ET. Every headline links to the origi
 - [Bank of England: AI money is 'COMPLEX, CIRCULAR AND OPAQUE'... $305 BILLION in hyperscaler bonds this year](https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026) (Bank of England)
 - [BoE's Bailey: UNRELEASED AI models raise ENCRYPTION concerns for bank data...](https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae) (Financial Times)
 - [SAP weighs axing at least 10,000 JOBS to remake itself for the AI era, sources say...](https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring) (Bloomberg)
-- [Jensen's BACK... and so is his PLAQUE at Denny's](https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html) (New York Times)
 - [Spain's opposition uses AI to swap PM Sánchez's Spain jersey for a MOROCCO shirt... and comes under fire](https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt) (The Guardian)
 - [Banks look to DUMP AI DEBT: Citi and JPMorgan shopping AI loan portfolios to investors, sources say...](https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt) (Semafor)
 - [Police seek ARREST of Korean exam ace: CAMERA in correction tape, AI-fed answers...](https://www.koreaherald.com/article/10950986) (Korea Herald)
@@ -54,8 +54,6 @@ Updated Friday, November 27, 2026, 5:13 PM ET. Every headline links to the origi
 - [Anthropic team SHRINKS Claude's Riemann proof to 76,000 lines... 'No mathematician has read it through'](https://github.com/lsernau/grh-lean) (GitHub (Anthropic) · Not yet verified)
 - [SoftBank's CREDIT RISK tops 500 BASIS POINTS for the first time in about four years as AI worries mount...](https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount) (Bloomberg)
 - [Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...](https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970) (ABC (Australia))
-- [Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...](https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/) (Washington Post)
-- [Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...](https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool) (The Record)
 - [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
 
 ## Quote of the Day
@@ -65,15 +63,15 @@ Updated Friday, November 27, 2026, 5:13 PM ET. Every headline links to the origi
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **33/100, Restless (level 2 of 5), up 6 in 24 hours.**
+How nervous should humanity be about AI today? **30/100, Restless (level 2 of 5), up 5 in 24 hours.**
 
 What moved it:
 
-- OpenAI countersues, accusing Apple of stealing trade secrets (+11)
-- Russia's patriarch warns of AI 'Apocalypse' (+3)
-- Older stories cooling off (-8)
+- OpenAI countersues, accusing Apple of stealing trade secrets (+10)
+- Russia's patriarch warns of AI 'Apocalypse' (+2)
+- Older stories cooling off (-7)
 
-Last 24 hours: 27 at 5 pm ET, 22 at 8 pm ET, 24 at 11 pm ET, 23 at 2 am ET, 28 at 5 am ET, 36 at 8 am ET, 37 at 11 am ET, 42 at 2 pm ET, 33 at 5 pm ET.
+Last 24 hours: 21 at 9 pm ET, 25 at 12 am ET, 26 at 3 am ET, 27 at 6 am ET, 38 at 9 am ET, 38 at 12 pm ET, 39 at 3 pm ET, 30 at 6 pm ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 

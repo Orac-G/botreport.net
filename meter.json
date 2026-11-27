@@ -36,62 +36,58 @@
 }
 ],
 "now": {
-"score": 33,
+"score": 30,
 "outOf": 100,
 "level": 2,
 "levelName": "Restless",
-"change": 6,
+"change": 5,
 "changePeriod": "in 24 hours",
 "movers": [
 {
-"points": 11,
+"points": 10,
 "story": "OpenAI countersues, accusing Apple of stealing trade secrets"
 },
 {
-"points": 3,
+"points": 2,
 "story": "Russia's patriarch warns of AI 'Apocalypse'"
 },
 {
-"points": -8,
+"points": -7,
 "story": "Older stories cooling off"
 }
 ],
 "readings": [
 {
-"t": "2026-11-26T22:14:16Z",
+"t": "2026-11-27T02:13:32Z",
+"score": 21
+},
+{
+"t": "2026-11-27T05:13:23Z",
+"score": 25
+},
+{
+"t": "2026-11-27T08:14:16Z",
+"score": 26
+},
+{
+"t": "2026-11-27T11:12:48Z",
 "score": 27
 },
 {
-"t": "2026-11-27T01:13:36Z",
-"score": 22
+"t": "2026-11-27T14:14:44Z",
+"score": 38
 },
 {
-"t": "2026-11-27T04:13:34Z",
-"score": 24
+"t": "2026-11-27T17:14:56Z",
+"score": 38
 },
 {
-"t": "2026-11-27T07:13:51Z",
-"score": 23
+"t": "2026-11-27T20:14:39Z",
+"score": 39
 },
 {
-"t": "2026-11-27T10:13:01Z",
-"score": 28
-},
-{
-"t": "2026-11-27T13:16:36Z",
-"score": 36
-},
-{
-"t": "2026-11-27T16:13:56Z",
-"score": 37
-},
-{
-"t": "2026-11-27T19:15:51Z",
-"score": 42
-},
-{
-"t": "2026-11-27T22:13:21Z",
-"score": 33
+"t": "2026-11-27T23:14:20Z",
+"score": 30
 }
 ],
 "question": "How nervous should humanity be about AI today?",
@@ -404,6 +400,10 @@
 {
 "t": "2026-11-27T22:13:21Z",
 "score": 33
+},
+{
+"t": "2026-11-27T23:14:20Z",
+"score": 30
 }
 ]
 }

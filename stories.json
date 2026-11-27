@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:13:21Z",
+ "updated": "2026-11-27T23:14:20Z",
  "stories": [
   {
    "id": "openai-apple-suit",
@@ -18,6 +18,17 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Apple_Park_dllu.jpg"
    },
    "card": "OpenAI countersues, accusing Apple of stealing trade secrets"
+  },
+  {
+   "id": "wall-st-best-week",
+   "cat": "business",
+   "h": "Dow's BEST WEEK since 2022 as AI stocks ROAR back... Nasdaq up 6%+, Anthropic jumps nearly 11%",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+   "t": "2026-11-27T23:12:03Z",
+   "top": true,
+   "group": "markets",
+   "card": "Dow's best week since 2022 as AI stocks roar back"
   },
   {
    "id": "anthropic-reclaims",
@@ -146,7 +157,7 @@
    "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
    "t": "2026-11-27T09:11:54Z",
    "card": "China's chip stocks log their BIGGEST DAY EVER: up 17%",
-   "top": true
+   "col": 0
   },
   {
    "id": "blender-gpu",
@@ -336,17 +347,6 @@
    "col": 1
   },
   {
-   "id": "dennys-plaque",
-   "cat": "quirky",
-   "group": "huang",
-   "h": "Jensen's BACK... and so is his PLAQUE at Denny's",
-   "src": "New York Times",
-   "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
-   "t": "2026-11-26T17:11:37Z",
-   "card": "Denny's puts Jensen's plaque back after his return",
-   "col": 0
-  },
-  {
    "id": "spain-pp-morocco",
    "cat": "politics",
    "h": "Spain's opposition uses AI to swap PM S\u00e1nchez's Spain jersey for a MOROCCO shirt... and comes under fire",
@@ -377,7 +377,7 @@
    "t": "2026-11-26T12:13:35Z",
    "group": "korea-cheat",
    "card": "Police: exam ace hid a camera in correction tape, AI fed answers",
-   "col": 1
+   "col": 0
   },
   {
    "id": "meta-muse-fca",
@@ -437,7 +437,7 @@
    "url": "https://www.koreaherald.com/article/10950541",
    "t": "2026-11-26T06:11:48Z",
    "card": "Police raid late perfect scorer's home in AI cheating probe",
-   "col": 1,
+   "col": 0,
    "group": "korea-cheat"
   },
   {
@@ -479,18 +479,6 @@
    }
   },
   {
-   "id": "hegseth-dpa",
-   "cat": "politics",
-   "red": true,
-   "h": "Hegseth and Pentagon officials floated a WARTIME LAW to reinstate Jensen, WaPo says...",
-   "src": "Washington Post",
-   "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo/",
-   "t": "2026-11-25T23:11:56Z",
-   "group": "huang-probe",
-   "card": "WaPo: Pentagon floated WARTIME LAW to reinstate Jensen",
-   "col": 0
-  },
-  {
    "id": "anthropic-dalby",
    "cat": "business",
    "h": "Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...",
@@ -498,19 +486,6 @@
    "url": "https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970",
    "t": "2026-11-26T01:11:56Z",
    "col": 2
-  },
-  {
-   "id": "artex-typhoon",
-   "cat": "tech",
-   "red": true,
-   "group": "hacks",
-   "saga": "hacks",
-   "h": "Microsoft: China's SALT TYPHOON hackers now wield AI attack tool that seizes networks 'in a matter of MINUTES'...",
-   "src": "The Record",
-   "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
-   "t": "2026-11-25T22:11:59Z",
-   "col": 2,
-   "card": "Microsoft: Chinese hackers' AI tool takes networks in minutes"
   },
   {
    "id": "cai-auction",
@@ -549,9 +524,14 @@
  },
  "meter": {
   "level": 2,
-  "score": 33,
+  "score": 30,
   "delta": -3,
   "moves": [
+   {
+    "d": 2,
+    "why": "Dow's BEST WEEK since 2022 as AI stocks ROAR back... Nasdaq up 6%+,...",
+    "id": "wall-st-best-week"
+   },
    {
     "d": -1,
     "why": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade s...",
@@ -564,16 +544,16 @@
    }
   ],
   "contrib": {
-   "openai-apple-suit": 11.2,
-   "anthropic-reclaims": 1.0,
-   "hynix-buyback": 0.1,
-   "google-belgium-halt": 1.0,
-   "kirill-apocalypse": 2.9,
-   "anthropic-hunger": 1.3,
-   "shopbot-blocks": 0.8,
-   "poland-palantir": 1.7,
-   "blackwell-alice": 1.7,
-   "tilly-treasons": 0.8
+   "openai-apple-suit": 10.2,
+   "wall-st-best-week": 1.6,
+   "anthropic-reclaims": 0.4,
+   "google-belgium-halt": 0.8,
+   "kirill-apocalypse": 2.5,
+   "anthropic-hunger": 1.1,
+   "shopbot-blocks": 0.7,
+   "poland-palantir": 1.2,
+   "blackwell-alice": 0.9,
+   "tilly-treasons": 0.4
   },
   "lastAdjust": 0,
   "history": [
@@ -976,13 +956,17 @@
    {
     "t": "2026-11-27T22:13:21Z",
     "s": 33
+   },
+   {
+    "t": "2026-11-27T23:14:20Z",
+    "s": 30
    }
   ],
-  "at": "2026-11-27T22:13:21Z",
+  "at": "2026-11-27T23:14:20Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 6,
+   "delta": 5,
    "period": "in 24 hours",
    "line": [
     {
@@ -1212,37 +1196,41 @@
     {
      "t": "2026-11-27T22:13:21Z",
      "s": 33
+    },
+    {
+     "t": "2026-11-27T23:14:20Z",
+     "s": 30
     }
    ],
    "drivers": [
     {
-     "d": 11,
+     "d": 10,
      "id": "openai-apple-suit",
      "text": "OpenAI countersues, accusing Apple of stealing trade secrets"
     },
     {
-     "d": 3,
+     "d": 2,
      "id": "kirill-apocalypse",
      "text": "Russia's patriarch warns of AI 'Apocalypse'"
     },
     {
-     "d": -8,
+     "d": -7,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "agent-pizza": -0.4,
-   "anthropic-hunger": -0.1,
-   "anthropic-reclaims": -0.1,
-   "blackwell-alice": -0.7,
-   "google-belgium-halt": -0.1,
+   "anthropic-hunger": -0.2,
+   "anthropic-reclaims": -0.6,
+   "blackwell-alice": -0.8,
+   "google-belgium-halt": -0.2,
    "hynix-buyback": -0.1,
-   "kirill-apocalypse": -0.3,
-   "openai-apple-suit": -0.8,
+   "kirill-apocalypse": -0.4,
+   "openai-apple-suit": -1.0,
    "poland-palantir": -0.5,
    "shopbot-blocks": -0.1,
-   "tilly-treasons": -0.4
+   "tilly-treasons": -0.4,
+   "wall-st-best-week": 1.6
   }
  },
  "state": {
@@ -1284,6 +1272,12 @@
    "url": "https://finance.yahoo.com/quote/%5EIXIC/",
    "items": [
     {
+     "sym": "NVDA",
+     "name": "Nvidia",
+     "price": 150.49,
+     "chg": 0.8
+    },
+    {
      "sym": "ANT",
      "name": "Anthropic",
      "price": 91.88,
@@ -1294,6 +1288,18 @@
      "name": "Cerebras",
      "price": 94.24,
      "chg": 5.08
+    },
+    {
+     "sym": "CRWV",
+     "name": "CoreWeave",
+     "price": 44.15,
+     "chg": 3.71
+    },
+    {
+     "sym": "NBIS",
+     "name": "Nebius",
+     "price": 89.46,
+     "chg": 5.26
     },
     {
      "sym": "PLTR",
@@ -1375,24 +1381,24 @@
    ]
   },
   "crypto": {
-   "asOf": "5:13 pm ET",
+   "asOf": "6:14 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59693.0,
-     "chg": -1.34
+     "price": 59771.0,
+     "chg": -1.05
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1658.51,
-     "chg": -2.24
+     "price": 1657.88,
+     "chg": -1.76
     }
    ]
   }
  },
- "next": "2026-11-27T23:18:00Z"
+ "next": "2026-11-28T00:18:00Z"
 }
