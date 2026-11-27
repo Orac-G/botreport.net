@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 9:14 AM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 10:14 AM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,7 +17,7 @@ Updated Friday, November 27, 2026, 9:14 AM ET. Every headline links to the origi
 
 ## All stories (newest first)
 
-- [Black Friday BOUNCE: Nasdaq futures UP 2.3% premarket, Nvidia up more than 4%, as tech claws back a volatile week...](https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html) (CNBC)
+- [Black Friday premarket BOUNCE: Nasdaq futures were UP 2.3%, Nvidia up 4%, as tech tried to claw back a volatile week...](https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html) (CNBC)
 - ['WATERSHED MOMENT': Poland signs $300 MILLION Palantir deal for AI battlefield software... as Europe frets over US tech](https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense) (Bloomberg)
 - [Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to ALICE HUANG...](https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang) (Bloomberg)
 - [AI 'actress' boasts of 'very SMALL TREASONS' to avoid DELETION... it's in her script](https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/) (Fortune)
@@ -63,6 +63,6 @@ Updated Friday, November 27, 2026, 9:14 AM ET. Every headline links to the origi
 > “I'm virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells.”
 > — Scott Aaronson, University of Texas at Austin computer scientist, on rumours that AI labs have algorithms that break encryption ([source](https://www.nature.com/articles/d41586-026-03875-6))
 
-Skynet-o-Meter: 38 out of 100.
+Skynet-o-Meter: 35 out of 100.
 
 Archive: https://botreport.net/archive/ · About: https://botreport.net/about/ · Corrections: https://botreport.net/corrections/ · RSS: https://botreport.net/feed.xml

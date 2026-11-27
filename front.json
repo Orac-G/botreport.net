@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-27T14:14:44Z",
- "nextUpdate": "2026-11-27T15:18:00Z",
+ "updated": "2026-11-27T15:14:11Z",
+ "nextUpdate": "2026-11-27T16:18:00Z",
  "lead": [
   {
    "headline": "Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...: Nature: rumoured algorithms would target RSA, the maths behind online banking... no lab has confirmed them",
@@ -47,7 +47,7 @@
  ],
  "stories": [
   {
-   "headline": "Black Friday BOUNCE: Nasdaq futures UP 2.3% premarket, Nvidia up more than 4%, as tech claws back a volatile week...",
+   "headline": "Black Friday premarket BOUNCE: Nasdaq futures were UP 2.3%, Nvidia up 4%, as tech tried to claw back a volatile week...",
    "source": "CNBC",
    "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html",
    "found": "2026-11-27T14:14:38Z",
@@ -350,7 +350,7 @@
   "url": "https://www.nature.com/articles/d41586-026-03875-6"
  },
  "skynetOMeter": {
-  "score": 38,
+  "score": 35,
   "outOf": 100
  },
  "archive": "https://botreport.net/archive/",
