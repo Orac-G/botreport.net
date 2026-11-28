@@ -98,6 +98,9 @@ a.red, a.red:visited { color: var(--siren); }
 }
 .dateline b { color: var(--ink); font-weight: 700; }
 .dateline .count { font-variant-numeric: tabular-nums; }
+/* Phones get the short date ("Fri, Nov 27") so the top row stays on one line. */
+.d-short { display: none; }
+@media (max-width: 560px) { #today { display: none; } .d-short { display: inline; } }
 
 .alert {
   display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 8px 14px;
@@ -389,8 +392,8 @@ footer .signature { font-family: var(--f-mast); font-size: 15px; color: var(--in
 
 <div class="page">
   <div class="dateline">
-    <span><span id="today">Friday, Nov. 27, 2026</span> · <a href="/brief/" style="color:inherit">The Bot Brief</a> · <a href="/about/" style="color:inherit">About</a></span>
-    <span>Wire checked <b id="checked">10:14 pm ET</b> · <span class="count" id="next">Updates hourly</span></span>
+    <span><span id="today">Friday, Nov. 27, 2026</span><span id="today-s" class="d-short">Fri, Nov 27</span> · <a href="/brief/" style="color:inherit">The Bot Brief</a> · <a href="/about/" style="color:inherit">About</a></span>
+    <span>Wire checked <b id="checked">22:14 ET</b> · <span class="count" id="next">Updates hourly</span></span>
   </div>
 
   <div class="bb-bar" id="bb-bar" hidden role="region" aria-label="The Bot Brief signup"><span>New here? The wire is checked every hour. Get the best of it in your inbox at 7 am ET.</span><form class="bb-form" data-where="top-bar" action="https://app.kit.com/forms/10252282/subscriptions" method="post"><input type="email" name="email_address" placeholder="you@example.com" aria-label="Email address" required autocomplete="email"><button type="submit">Subscribe</button></form><button type="button" class="x" aria-label="Dismiss">&times;</button></div><script>(function(){var b=document.getElementById('bb-bar');if(!b)return;
@@ -1012,7 +1015,8 @@ b.querySelector('.x').addEventListener('click',function(){b.hidden=true;s('bb-ba
     redIds = new Set(stories.filter((s) => s.red && (now - new Date(s.t)) / 36e5 <= RED_HOURS).slice(0, RED_MAX).map((s) => s.id));
 
     $("today").textContent = et(data.updated, { weekday: "long", month: "short", day: "numeric", year: "numeric" });
-    $("checked").textContent = et(data.updated, { hour: "numeric", minute: "2-digit" }) + " ET";
+    $("today-s").textContent = et(data.updated, { weekday: "short", month: "short", day: "numeric" });
+    $("checked").textContent = et(data.updated, { hour: "2-digit", minute: "2-digit", hourCycle: "h23" }) + " ET";
 
     const lead = stories.find((s) => s.lead) || stories[0];
     stackIds = new Set(lead && Array.isArray(lead.stack) ? lead.stack.filter((id) => id !== lead.id).slice(0, STACK_MAX) : []);
@@ -1087,7 +1091,7 @@ b.querySelector('.x').addEventListener('click',function(){b.hidden=true;s('bb-ba
     if (!data) return;
     const due = new Date(data.next || new Date(data.updated).getTime() + 60 * 6e4);
     const mins = Math.round((due - Date.now()) / 6e4);
-    $("next").textContent = mins > 1 ? "Next update: ~" + mins + " min" : "Next update: any minute";
+    $("next").textContent = mins > 1 ? "Next update ~" + mins + " min" : "Next update any minute";
   }
 
   async function load() {
