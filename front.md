@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 10:14 PM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 22:14 ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -74,7 +74,7 @@ What moved it:
 - Deep-learning author pulls his textbook over AI's dangers (+4)
 - Older stories cooling off (-3)
 
-Last 24 hours: 23 at 1 am ET, 26 at 4 am ET, 37 at 7 am ET, 35 at 10 am ET, 35 at 1 pm ET, 36 at 4 pm ET, 30 at 7 pm ET, 25 at 10 pm ET.
+Last 24 hours: 23 at 01:13 ET, 26 at 04:13 ET, 37 at 07:14 ET, 35 at 10:14 ET, 35 at 13:13 ET, 36 at 16:13 ET, 30 at 19:14 ET, 25 at 22:14 ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 

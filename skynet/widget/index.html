@@ -79,7 +79,7 @@ function render(s){
     const days=s.history&&s.history.length>1?Math.max(1,Math.round((Date.parse(s.history[s.history.length-1].t)-Date.parse(s.history[0].t))/864e5)):0;
     const ax=el("div","ax");ax.append(el("span",null,days?days+(days===1?" day ago":" days ago"):""),el("span",null,"now"));W.append(c,ax)}
   const age=Date.now()-Date.parse(s.updated_at),foot=el("div","foot");
-  const when=el("span",age>s.stale_after_minutes*6e4?"stale":null,age>s.stale_after_minutes*6e4?"Stale: last updated "+ago(age)+" ago":"Updated "+new Date(s.updated_at).toLocaleTimeString([],{hour:"numeric",minute:"2-digit"}).replace(" AM","am").replace(" PM","pm"));
+  const when=el("span",age>s.stale_after_minutes*6e4?"stale":null,age>s.stale_after_minutes*6e4?"Stale: last updated "+ago(age)+" ago":"Updated "+new Date(s.updated_at).toLocaleTimeString([],{hour:"2-digit",minute:"2-digit",hourCycle:"h23"}));
   const a=el("a",null,"Powered by The Bot Report");a.href=LINK;a.target="_blank";a.rel="noopener";
   foot.append(when,a);W.append(foot);
 }
