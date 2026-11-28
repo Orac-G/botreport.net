@@ -1021,7 +1021,7 @@ b.querySelector('.x').addEventListener('click',function(){b.hidden=true;s('bb-ba
     srcLine("deals-src", deals);
     const odds = st.odds || {};
     $("odds-asof").textContent = odds.asOf || "";
-    $("odds").replaceChildren(...(odds.items || []).slice(0, 5).map((m) => {
+    $("odds").replaceChildren(...(odds.items || []).slice(0, 4).map((m) => {
       const li = el("li", "orow"), lead = el("span", "lead", m.lead || ""), pct = el("span", "pct", m.p + "%");
       lead.title = m.lead || "";
       const meta = el("span", "meta"), c = Number(m.chg);

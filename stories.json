@@ -1473,21 +1473,21 @@
    ]
   },
   "crypto": {
-   "asOf": "03:13 ET",
+   "asOf": "03:12 ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59719.0,
-     "chg": -3.39
+     "price": 59702.0,
+     "chg": -3.44
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1656.66,
-     "chg": -4.5
+     "price": 1656.06,
+     "chg": -4.57
     }
    ]
   },
@@ -1587,7 +1587,7 @@
    "src": "Company announcements and original reports"
   },
   "odds": {
-   "asOf": "03:13 ET",
+   "asOf": "03:12 ET",
    "items": [
     {
      "key": "pm:which-math-problems-will-ai-solve-in-2026",
@@ -1628,16 +1628,6 @@
      "src": "Polymarket",
      "url": "https://polymarket.com/event/ai-bubble-burst-by",
      "v24": 33203
-    },
-    {
-     "key": "pm:which-ai-companies-get-a-credit-downgrade-before-2028",
-     "q": "Which AI companies get a credit downgrade before 2028?",
-     "lead": "TeraWulf",
-     "p": 57,
-     "chg": 28,
-     "src": "Polymarket",
-     "url": "https://polymarket.com/event/which-ai-companies-get-a-credit-downgrade-before-2028",
-     "v24": 21451
     }
    ],
    "src": "The most-traded AI markets, last 24 hrs"
