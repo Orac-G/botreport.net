@@ -314,9 +314,13 @@ a.red, a.red:visited { color: var(--siren); }
 .srow .chg.down { color: var(--siren); }
 .money li a { font-weight: 700; }
 .money .amt { font-weight: 700; font-variant-numeric: tabular-nums; }
-.money .note, .jobs .note { display: block; font-size: 11px; color: var(--muted); }
-.jobs li a { font-weight: 700; }
-.jobs .amt { font-weight: 700; font-variant-numeric: tabular-nums; }
+.money .note { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; overflow: hidden; font-size: 11px; color: var(--muted); }
+.orow { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 10px; align-items: baseline; }
+.orow a { font-weight: 700; }
+.orow .pct { font-size: 20px; font-weight: 700; font-variant-numeric: tabular-nums; text-align: right; line-height: 1.1; }
+.orow .pct small { font-size: 11px; font-weight: 400; color: var(--muted); margin-right: 4px; }
+.orow .meta { grid-column: 1 / -1; font-size: 11px; color: var(--muted); }
+.orow .meta .up, .orow .meta .down { color: var(--ink); font-weight: 700; }
 .tally { margin: 0; display: flex; flex-direction: column; gap: 2px; font-size: 11px; color: var(--muted); line-height: 1.35; }
 .tally .big { font-size: 24px; color: var(--ink); font-variant-numeric: tabular-nums; line-height: 1.1; }
 .tally .big:empty { display: none; }
@@ -500,7 +504,7 @@ b.querySelector('.x').addEventListener('click',function(){b.hidden=true;s('bb-ba
       <div class="panel"><h3>Smartest models <span id="models-asof"></span></h3><ol id="models"></ol><span class="src-line" id="models-src"></span></div>
       <div class="panel"><h3>AI stocks <span id="stocks-asof"></span></h3><ul id="stocks"></ul><span class="src-line" id="stocks-src"></span><div id="crypto-box" hidden><h3 class="sub">Crypto <span id="crypto-asof"></span></h3><ul id="crypto"></ul><span class="src-line" id="crypto-src"></span></div></div>
       <div class="panel money"><h3>Big deals <span>$10B+</span></h3><p class="tally"><b class="big" id="deals-total"></b><span id="deals-line"></span></p><ol id="deals"></ol><span class="src-line" id="deals-src"></span></div>
-      <div class="panel jobs"><h3>AI jobs toll <span>confirmed cuts</span></h3><p class="tally"><b class="big" id="jobs-total"></b><span id="jobs-line"></span><span class="rep" id="jobs-rep"></span></p><ol id="jobs"></ol><span class="src-line" id="jobs-src"></span></div>
+      <div class="panel odds"><h3>The odds <span id="odds-asof"></span></h3><ul id="odds"></ul><span class="src-line" id="odds-src"></span></div>
     </div>
   </section>
 
@@ -1003,26 +1007,30 @@ b.querySelector('.x').addEventListener('click',function(){b.hidden=true;s('bb-ba
     }));
     srcLine("crypto-src", crypto);
 
-    // Big Deals and the AI Jobs Toll (ledgers.py): a running total on top, the latest entries below.
+    // Big Deals (ledgers.py): a running total on top, the latest entries below. The Odds (odds.py): market prices.
     const deals = st.deals || {};
     $("deals-total").textContent = deals.total || "";
     $("deals-line").textContent = deals.total ? deals.line.replace(deals.total, "").trim() : (deals.line || "");
     $("deals").replaceChildren(...(deals.items || []).slice(0, 6).map((m) => {
       const li = el("li");
-      li.append(outLink(m.url, m.who), " ", el("span", "amt", m.amt), el("span", "note", [m.date, m.type, m.note].filter(Boolean).join(" · ")));
+      const note = el("span", "note", [m.date, m.type, m.note].filter(Boolean).join(" · ")); note.title = note.textContent;
+      li.append(outLink(m.url, m.who), " ", el("span", "amt", m.amt), note);
       return li;
     }));
     srcLine("deals-src", deals);
-    const jobs = st.jobs || {};
-    $("jobs-total").textContent = jobs.total || "";
-    $("jobs-line").textContent = jobs.total ? jobs.line.replace(jobs.total, "").trim() : (jobs.line || "");
-    $("jobs-rep").textContent = jobs.reported || "";
-    $("jobs").replaceChildren(...(jobs.items || []).slice(0, 5).map((m) => {
-      const li = el("li");
-      li.append(outLink(m.url, m.who), " ", el("span", "amt", m.jobs), el("span", "note", [m.date, m.note].filter(Boolean).join(" · ")));
+    const odds = st.odds || {};
+    $("odds-asof").textContent = odds.asOf || "";
+    $("odds").replaceChildren(...(odds.items || []).slice(0, 6).map((m) => {
+      const li = el("li", "orow"), pct = el("span", "pct");
+      if (m.lead) pct.append(el("small", null, m.lead));
+      pct.append(m.p + "%");
+      const meta = el("span", "meta"), c = Number(m.chg);
+      if (m.chg !== null && m.chg !== undefined && c !== 0) meta.append(el("span", c > 0 ? "up" : "down", (c > 0 ? "▲ " : "▼ ") + Math.abs(c)), " · ");
+      meta.append(m.src || "");
+      li.append(outLink(m.url, m.q), pct, meta);
       return li;
     }));
-    srcLine("jobs-src", jobs);
+    srcLine("odds-src", odds);
   }
 
   function render() {

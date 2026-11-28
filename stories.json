@@ -1477,7 +1477,7 @@
    "total": "$1.28 trillion",
    "count": 24,
    "since": "Jan 6",
-   "line": "$1.28 trillion in 24 AI deals of $10B+ since Jan 6",
+   "line": "$1.28 trillion in 24 deals since Jan 1",
    "items": [
     {
      "who": "CrowdStrike \u2192 Zscaler",
@@ -1566,6 +1566,66 @@
     }
    ],
    "src": "Company announcements and original reports"
+  },
+  "odds": {
+   "asOf": "01:27 ET",
+   "items": [
+    {
+     "key": "agi-2028",
+     "q": "AGI announced before 2028?",
+     "p": 52,
+     "lead": "",
+     "chg": -2,
+     "src": "Kalshi",
+     "url": "https://kalshi.com/markets/kxagico"
+    },
+    {
+     "key": "best-model-2026",
+     "q": "Best AI model at end of 2026",
+     "p": 80,
+     "lead": "Google",
+     "chg": 4,
+     "src": "Polymarket",
+     "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026"
+    },
+    {
+     "key": "openai-ipo-mid27",
+     "q": "OpenAI IPO by mid-2027?",
+     "p": 40,
+     "lead": "",
+     "chg": 6,
+     "src": "Polymarket",
+     "url": "https://polymarket.com/event/openai-ipo-by"
+    },
+    {
+     "key": "openai-bankrupt-28",
+     "q": "OpenAI bankrupt by end of 2028?",
+     "p": 16,
+     "lead": "",
+     "chg": 1,
+     "src": "Polymarket",
+     "url": "https://polymarket.com/event/openai-announces-bankruptcy-by"
+    },
+    {
+     "key": "us-safety-law-26",
+     "q": "US AI safety law before 2027?",
+     "p": 7,
+     "lead": "",
+     "chg": 2,
+     "src": "Polymarket",
+     "url": "https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027"
+    },
+    {
+     "key": "doom-2100",
+     "q": "AI wipes out humanity before 2100?",
+     "p": 14,
+     "lead": "",
+     "chg": null,
+     "src": "Manifold (play money)",
+     "url": "https://manifold.markets/jdilla/will-ai-wipe-out-humanity-before-th"
+    }
+   ],
+   "src": "Prediction-market prices \u00b7 change over 24 hrs"
   }
  },
  "next": "2026-11-28T07:18:00Z"
