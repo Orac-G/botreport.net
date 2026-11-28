@@ -1110,7 +1110,7 @@ b.querySelector('.x').addEventListener('click',function(){b.hidden=true;s('bb-ba
           if (forYou.size) showAlert(forYou.size + (forYou.size === 1 ? " new story" : " new stories") + " since your last visit", true);
           else {
             const due = new Date(data.next || new Date(data.updated).getTime() + 60 * 6e4);
-            const clock = (d) => et(d, { hour: "numeric", minute: "2-digit" }).toLowerCase();
+            const clock = (d) => et(d, { hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
             const now = new Date(), yest = new Date(now - 864e5), at = lastAt && new Date(lastAt);
             const when = !at || isNaN(at) ? "" : " (" + (sameDay(at, now) ? "" : sameDay(at, yest) ? "yesterday, " : et(at, { month: "short", day: "numeric" }) + ", ") + clock(at) + " ET)";
             showAlert("Nothing new since your last visit" + when + ". Next check about " + clock(due) + " ET.", false, true);
