@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Saturday, November 28, 2026, 00:14 ET. Every headline links to the original reporting or primary source.
+Updated Saturday, November 28, 2026, 01:13 ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,7 @@ Updated Saturday, November 28, 2026, 00:14 ET. Every headline links to the origi
 
 ## All stories (newest first)
 
+- [Dwarkesh Patel: AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil](https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil) (Dwarkesh Patel · Opinion)
 - [Korea's Lee: the AI race is 'a SILENT WAR'... breaks ground on a 2.4-GIGAWATT campus worth up to $90 BILLION](https://www.koreaherald.com/article/10952453) (Korea Herald)
 - [Scott Aaronson: Every call](https://scottaaronson.blog/?p=10387) (Shtetl-Optimized · Opinion)
 - [Author of a classic FREE deep-learning textbook PULLS it offline... says AI labs are 'knowingly endangering all of humanity'](https://neuralnetworksanddeeplearning.com/index.html) (Michael Nielsen)
@@ -56,9 +57,6 @@ Updated Saturday, November 28, 2026, 00:14 ET. Every headline links to the origi
 - [AI FAKES hit at least 25 court cases in England and Wales... invented case law and statutes that DON'T EXIST](https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026) (The Guardian)
 - [FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...](https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html) (CNBC)
 - [Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...](https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370) (Financial Times)
-- [Police RAID late perfect scorer's home in Korea's AI CHEATING probe...](https://www.koreaherald.com/article/10950541) (Korea Herald)
-- [Modi floats an AI app that tracks kids from AGE THREE... and suggests their CAREERS](https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275) (The Register)
-- [Anthropic team SHRINKS Claude's Riemann proof to 76,000 lines... 'No mathematician has read it through'](https://github.com/lsernau/grh-lean) (GitHub (Anthropic) · Not yet verified)
 - [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
 
 ## Quote of the Day
@@ -68,15 +66,15 @@ Updated Saturday, November 28, 2026, 00:14 ET. Every headline links to the origi
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **23/100, Restless (level 2 of 5), down 2 in 24 hours.**
+How nervous should humanity be about AI today? **21/100, Restless (level 2 of 5), down 2 in 24 hours.**
 
 What moved it:
 
 - Deep-learning author pulls his textbook over AI's dangers (+3)
-- OpenAI countersues, accusing Apple of stealing trade secrets (+3)
-- Older stories cooling off (-8)
+- Experts: AI labs may hold an encryption 'bombshell' (+2)
+- Older stories cooling off (-7)
 
-Last 24 hours: 26 at 03:14 ET, 27 at 06:12 ET, 38 at 09:14 ET, 38 at 12:14 ET, 39 at 15:14 ET, 30 at 18:14 ET, 27 at 21:31 ET, 23 at 00:14 ET.
+Last 24 hours: 23 at 01:13 ET, 26 at 04:13 ET, 37 at 07:14 ET, 35 at 10:14 ET, 35 at 13:13 ET, 36 at 16:13 ET, 30 at 19:14 ET, 25 at 22:14 ET, 21 at 01:13 ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 

@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-28T05:14:32Z",
- "nextUpdate": "2026-11-28T06:18:00Z",
+ "updated": "2026-11-28T06:13:24Z",
+ "nextUpdate": "2026-11-28T07:18:00Z",
  "lead": [
   {
    "headline": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade secrets and BLOCKING its suppliers...: Filed Friday in California federal court... says Apple's employment practices were designed to 'TRAP' staff",
@@ -46,6 +46,14 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Dwarkesh Patel: AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil",
+   "source": "Dwarkesh Patel",
+   "url": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
+   "found": "2026-11-28T05:15:52Z",
+   "section": "tech",
+   "label": "Opinion"
+  },
   {
    "headline": "Korea's Lee: the AI race is 'a SILENT WAR'... breaks ground on a 2.4-GIGAWATT campus worth up to $90 BILLION",
    "source": "Korea Herald",
@@ -338,32 +346,6 @@
    }
   },
   {
-   "headline": "Police RAID late perfect scorer's home in Korea's AI CHEATING probe...",
-   "source": "Korea Herald",
-   "url": "https://www.koreaherald.com/article/10950541",
-   "found": "2026-11-26T06:11:48Z",
-   "section": "quirky"
-  },
-  {
-   "headline": "Modi floats an AI app that tracks kids from AGE THREE... and suggests their CAREERS",
-   "source": "The Register",
-   "url": "https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275",
-   "found": "2026-11-26T06:11:48Z",
-   "section": "politics"
-  },
-  {
-   "headline": "Anthropic team SHRINKS Claude's Riemann proof to 76,000 lines... 'No mathematician has read it through'",
-   "source": "GitHub (Anthropic)",
-   "url": "https://github.com/lsernau/grh-lean",
-   "found": "2026-11-26T04:14:14Z",
-   "section": "tech",
-   "label": "Not yet verified",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50648050",
-    "comments": 349
-   }
-  },
-  {
    "headline": "42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors",
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
@@ -377,7 +359,7 @@
   "url": "https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/"
  },
  "skynetOMeter": {
-  "score": 23,
+  "score": 21,
   "outOf": 100,
   "level": 2,
   "levelName": "Restless",
@@ -389,46 +371,50 @@
     "story": "Deep-learning author pulls his textbook over AI's dangers"
    },
    {
-    "points": 3,
-    "story": "OpenAI countersues, accusing Apple of stealing trade secrets"
+    "points": 2,
+    "story": "Experts: AI labs may hold an encryption 'bombshell'"
    },
    {
-    "points": -8,
+    "points": -7,
     "story": "Older stories cooling off"
    }
   ],
   "readings": [
    {
-    "t": "2026-11-27T08:14:16Z",
+    "t": "2026-11-27T06:13:35Z",
+    "score": 23
+   },
+   {
+    "t": "2026-11-27T09:13:30Z",
     "score": 26
    },
    {
-    "t": "2026-11-27T11:12:48Z",
-    "score": 27
+    "t": "2026-11-27T12:14:49Z",
+    "score": 37
    },
    {
-    "t": "2026-11-27T14:14:44Z",
-    "score": 38
+    "t": "2026-11-27T15:14:11Z",
+    "score": 35
    },
    {
-    "t": "2026-11-27T17:14:56Z",
-    "score": 38
+    "t": "2026-11-27T18:13:31Z",
+    "score": 35
    },
    {
-    "t": "2026-11-27T20:14:39Z",
-    "score": 39
+    "t": "2026-11-27T21:13:53Z",
+    "score": 36
    },
    {
-    "t": "2026-11-27T23:14:20Z",
+    "t": "2026-11-28T00:14:01Z",
     "score": 30
    },
    {
-    "t": "2026-11-28T02:31:46Z",
-    "score": 27
+    "t": "2026-11-28T03:14:54Z",
+    "score": 25
    },
    {
-    "t": "2026-11-28T05:14:32Z",
-    "score": 23
+    "t": "2026-11-28T06:13:24Z",
+    "score": 21
    }
   ],
   "question": "How nervous should humanity be about AI today?",

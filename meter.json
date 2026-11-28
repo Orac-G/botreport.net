@@ -36,7 +36,7 @@
 }
 ],
 "now": {
-"score": 23,
+"score": 21,
 "outOf": 100,
 "level": 2,
 "levelName": "Restless",
@@ -48,46 +48,50 @@
 "story": "Deep-learning author pulls his textbook over AI's dangers"
 },
 {
-"points": 3,
-"story": "OpenAI countersues, accusing Apple of stealing trade secrets"
+"points": 2,
+"story": "Experts: AI labs may hold an encryption 'bombshell'"
 },
 {
-"points": -8,
+"points": -7,
 "story": "Older stories cooling off"
 }
 ],
 "readings": [
 {
-"t": "2026-11-27T08:14:16Z",
+"t": "2026-11-27T06:13:35Z",
+"score": 23
+},
+{
+"t": "2026-11-27T09:13:30Z",
 "score": 26
 },
 {
-"t": "2026-11-27T11:12:48Z",
-"score": 27
+"t": "2026-11-27T12:14:49Z",
+"score": 37
 },
 {
-"t": "2026-11-27T14:14:44Z",
-"score": 38
+"t": "2026-11-27T15:14:11Z",
+"score": 35
 },
 {
-"t": "2026-11-27T17:14:56Z",
-"score": 38
+"t": "2026-11-27T18:13:31Z",
+"score": 35
 },
 {
-"t": "2026-11-27T20:14:39Z",
-"score": 39
+"t": "2026-11-27T21:13:53Z",
+"score": 36
 },
 {
-"t": "2026-11-27T23:14:20Z",
+"t": "2026-11-28T00:14:01Z",
 "score": 30
 },
 {
-"t": "2026-11-28T02:31:46Z",
-"score": 27
+"t": "2026-11-28T03:14:54Z",
+"score": 25
 },
 {
-"t": "2026-11-28T05:14:32Z",
-"score": 23
+"t": "2026-11-28T06:13:24Z",
+"score": 21
 }
 ],
 "question": "How nervous should humanity be about AI today?",
@@ -436,6 +440,10 @@
 {
 "t": "2026-11-28T05:14:32Z",
 "score": 23
+},
+{
+"t": "2026-11-28T06:13:24Z",
+"score": 21
 }
 ]
 }
