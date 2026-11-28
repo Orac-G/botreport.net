@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 8:13 PM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 9:13 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,8 @@ Updated Friday, November 27, 2026, 8:13 PM ET. Every headline links to the origi
 
 ## All stories (newest first)
 
+- [DeepSeek orders an outside test of whether its V4 Pro model could ESCAPE HUMAN CONTROL...](https://www.scmp.com/tech/article/3376058/deepseek-chinas-latest-developer-worry-about-losing-control-ai) (South China Morning Post)
+- [Scott Aaronson: Every call](https://scottaaronson.blog/?p=10387) (Shtetl-Optimized · Opinion)
 - [Japan to revise its AI law to bring in PENALTIES... bill headed for parliament](https://www.japantimes.co.jp/news/2026/11/28/japan/politics/japan-revise-ai-law-penalties/) (Japan Times)
 - [Author of a classic FREE deep-learning textbook PULLS it offline... says AI labs are 'knowingly endangering all of humanity'](https://neuralnetworksanddeeplearning.com/index.html) (Michael Nielsen)
 - [Ted Cruz: 'China is paying money' to make you SCARED of data centres... 'You're being LIED to' about water](https://www.newsweek.com/ai-politics/ted-cruz-blames-china-for-data-center-water-fears-youre-being-lied-to-12775022) (Newsweek)
@@ -40,7 +42,7 @@ Updated Friday, November 27, 2026, 8:13 PM ET. Every headline links to the origi
 - [Catching up: OpenAI preprint claims matrix math's speed limit is EXACTLY 9/4... not the dreamed-of 2](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) (OpenAI · Preprint)
 - [OpenAI says GPT-6.2 Astra users will hit usage limits 40% FASTER... because it fixed a 'bug'](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/) (BleepingComputer)
 - [Pentagon official on WaPo's Hegseth WARTIME LAW report for Nvidia: it 'NEVER HAPPENED'...](https://www.newsweek.com/pentagon-denies-pete-hegseth-floated-wartime-law-to-pressure-nvidia-12770979) (Newsweek)
-- [Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...](https://www.nature.com/articles/d41586-026-03875-6) (Nature · Not yet verified)
+- [Scott Aaronson: AI labs will soon unveil a 'MAJOR BREAKTHROUGH' in cryptanalysis... but one he says won't endanger today's encryption](https://scottaaronson.blog/?p=10387) (Shtetl-Optimized (Scott Aaronson) · Not yet verified · Corrected: An earlier headline suggested Aaronson said AI labs had likely broken encryption in use today; he says the expected breakthrough is theoretical and won't endanger deployed encryption.)
 - [Black Friday TRAP: AI shopping bots fooled by FAKE STORES built by scammers' AI...](https://www.cbsnews.com/news/black-friday-ai-shopping-agents-fake-online-stores/) (CBS News)
 - [Bank of England: AI money is 'COMPLEX, CIRCULAR AND OPAQUE'... $305 BILLION in hyperscaler bonds this year](https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026) (Bank of England)
 - [BoE's Bailey: UNRELEASED AI models raise ENCRYPTION concerns for bank data...](https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae) (Financial Times)
@@ -65,15 +67,15 @@ Updated Friday, November 27, 2026, 8:13 PM ET. Every headline links to the origi
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **29/100, Restless (level 2 of 5), up 7 in 24 hours.**
+How nervous should humanity be about AI today? **28/100, Restless (level 2 of 5), up 7 in 24 hours.**
 
 What moved it:
 
-- OpenAI countersues, accusing Apple of stealing trade secrets (+8)
-- Deep-learning author pulls his textbook over AI's dangers (+5)
-- Older stories cooling off (-6)
+- OpenAI countersues, accusing Apple of stealing trade secrets (+6)
+- Deep-learning author pulls his textbook over AI's dangers (+4)
+- Older stories cooling off (-3)
 
-Last 24 hours: 24 at 11 pm ET, 23 at 2 am ET, 28 at 5 am ET, 36 at 8 am ET, 37 at 11 am ET, 42 at 2 pm ET, 33 at 5 pm ET, 29 at 8 pm ET.
+Last 24 hours: 21 at 9 pm ET, 25 at 12 am ET, 26 at 3 am ET, 27 at 6 am ET, 38 at 9 am ET, 38 at 12 pm ET, 39 at 3 pm ET, 30 at 6 pm ET, 28 at 9 pm ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 

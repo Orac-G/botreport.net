@@ -4,6 +4,13 @@
  "page": "https://botreport.net/corrections/",
  "corrections": [
   {
+   "date": "2026-11-28",
+   "story": "aaronson-crypto",
+   "note": "The headline suggested Aaronson said AI labs had likely broken encryption in use today; in his Nov. 27 post he says the breakthrough he expects is in theoretical cryptanalysis and will not endanger currently deployed cryptosystems.",
+   "was": "Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...",
+   "now": "Scott Aaronson: AI labs will soon unveil a 'MAJOR BREAKTHROUGH' in cryptanalysis... but one he says won't endanger today's encryption"
+  },
+  {
    "date": "2026-11-24",
    "story": "huang-therapy",
    "note": "The headline attributed the therapy remark to more than one person present; the linked CNBC article cites one.",

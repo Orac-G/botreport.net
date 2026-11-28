@@ -233,5 +233,13 @@
   "day": "2026-11-26"
  },
  "skynetOMeter": 30,
- "corrections": []
+ "corrections": [
+  {
+   "date": "2026-11-28",
+   "story": "aaronson-crypto",
+   "was": "Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...",
+   "now": "Scott Aaronson: AI labs will soon unveil a 'MAJOR BREAKTHROUGH' in cryptanalysis... but one he says won't endanger today's encryption",
+   "note": "The headline suggested Aaronson said AI labs had likely broken encryption in use today; in his Nov. 27 post he says the breakthrough he expects is in theoretical cryptanalysis and will not endanger currently deployed cryptosystems."
+  }
+ ]
 }

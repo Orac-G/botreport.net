@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-28T01:13:41Z",
+ "updated": "2026-11-28T02:13:28Z",
  "stories": [
+  {
+   "id": "deepseek-control-test",
+   "cat": "tech",
+   "h": "DeepSeek orders an outside test of whether its V4 Pro model could ESCAPE HUMAN CONTROL...",
+   "src": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/article/3376058/deepseek-chinas-latest-developer-worry-about-losing-control-ai",
+   "t": "2026-11-28T02:11:38Z",
+   "group": "doom",
+   "col": 0,
+   "card": "DeepSeek tests if its model could escape human control"
+  },
   {
    "id": "japan-ai-penalties",
    "cat": "politics",
@@ -330,12 +341,12 @@
   {
    "id": "aaronson-crypto",
    "cat": "tech",
-   "h": "Has AI CRACKED internet encryption? Scott Aaronson 'virtually certain' AI labs are sitting on 'BOMBSHELLS'...",
-   "src": "Nature",
-   "url": "https://www.nature.com/articles/d41586-026-03875-6",
+   "h": "Scott Aaronson: AI labs will soon unveil a 'MAJOR BREAKTHROUGH' in cryptanalysis... but one he says won't endanger today's encryption",
+   "src": "Shtetl-Optimized (Scott Aaronson)",
+   "url": "https://scottaaronson.blog/?p=10387",
    "t": "2026-11-26T19:11:37Z",
    "label": "Not yet verified",
-   "card": "Aaronson: AI labs likely sitting on crypto-breaking bombshells",
+   "card": "Aaronson: crypto breakthrough coming, but today's encryption safe",
    "img": {
     "src": "img/scott-aaronson.jpg",
     "alt": "Computer scientist Scott Aaronson",
@@ -343,7 +354,8 @@
     "creditUrl": "https://commons.wikimedia.org/wiki/File:Scott_Aaronson_retouched.jpg"
    },
    "group": "science",
-   "col": 2
+   "col": 2,
+   "correction": "An earlier headline suggested Aaronson said AI labs had likely broken encryption in use today; he says the expected breakthrough is theoretical and won't endanger deployed encryption."
   },
   {
    "id": "ai-shop-fakes",
@@ -540,6 +552,17 @@
    "label": "Opinion",
    "opinion": true,
    "col": 2
+  },
+  {
+   "id": "op-scott-aaronson-11280114",
+   "cat": "tech",
+   "h": "Scott Aaronson: Every call",
+   "src": "Shtetl-Optimized",
+   "url": "https://scottaaronson.blog/?p=10387",
+   "t": "2026-11-28T01:14:46Z",
+   "label": "Opinion",
+   "opinion": true,
+   "col": 1
   }
  ],
  "quote": {
@@ -550,36 +573,37 @@
  },
  "meter": {
   "level": 2,
-  "score": 29,
+  "score": 28,
   "delta": -1,
   "moves": [
-   {
-    "d": 2,
-    "why": "Japan to revise its AI law to bring in PENALTIES... bill headed for...",
-    "id": "japan-ai-penalties"
-   },
    {
     "d": -1,
     "why": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade s...",
     "id": "openai-apple-suit"
    },
    {
+    "d": 1,
+    "why": "DeepSeek orders an outside test of whether its V4 Pro model could E...",
+    "id": "deepseek-control-test"
+   },
+   {
     "d": -1,
-    "why": "'WATERSHED MOMENT': Poland signs $300 MILLION Palantir deal for AI...",
-    "id": "poland-palantir"
+    "why": "Russia's Patriarch Kirill calls on Christians to TAME AI... warns o...",
+    "id": "kirill-apocalypse"
    }
   ],
   "contrib": {
+   "nielsen-pulls-book": 4.4,
+   "deepseek-control-test": 0.8,
+   "kirill-apocalypse": 0.3,
+   "anthropic-hunger": 0.2,
    "japan-ai-penalties": 1.6,
-   "nielsen-pulls-book": 4.7,
-   "kirill-apocalypse": 0.9,
-   "anthropic-hunger": 0.3,
-   "cruz-china-water": 1.6,
-   "openai-apple-suit": 7.7,
-   "wall-st-best-week": 1.4,
-   "anthropic-reclaims": 0.3,
-   "google-belgium-halt": 0.6,
-   "shopbot-blocks": 0.4
+   "cruz-china-water": 1.5,
+   "openai-apple-suit": 6.5,
+   "wall-st-best-week": 1.3,
+   "anthropic-reclaims": 0.2,
+   "google-belgium-halt": 0.4,
+   "shopbot-blocks": 0.3
   },
   "lastAdjust": 0,
   "history": [
@@ -994,9 +1018,13 @@
    {
     "t": "2026-11-28T01:13:41Z",
     "s": 29
+   },
+   {
+    "t": "2026-11-28T02:13:28Z",
+    "s": 28
    }
   ],
-  "at": "2026-11-28T01:13:41Z",
+  "at": "2026-11-28T02:13:28Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
@@ -1242,21 +1270,25 @@
     {
      "t": "2026-11-28T01:13:41Z",
      "s": 29
+    },
+    {
+     "t": "2026-11-28T02:13:28Z",
+     "s": 28
     }
    ],
    "drivers": [
     {
-     "d": 8,
+     "d": 6,
      "id": "openai-apple-suit",
      "text": "OpenAI countersues, accusing Apple of stealing trade secrets"
     },
     {
-     "d": 5,
+     "d": 4,
      "id": "nielsen-pulls-book",
      "text": "Deep-learning author pulls his textbook over AI's dangers"
     },
     {
-     "d": -6,
+     "d": -3,
      "text": "Older stories cooling off"
     }
    ]
@@ -1264,13 +1296,14 @@
   "change": {
    "anthropic-hunger": -0.1,
    "anthropic-reclaims": -0.1,
-   "google-belgium-halt": -0.1,
-   "japan-ai-penalties": 1.6,
-   "kirill-apocalypse": -0.2,
+   "cruz-china-water": -0.1,
+   "deepseek-control-test": 0.8,
+   "google-belgium-halt": -0.2,
+   "kirill-apocalypse": -0.6,
+   "nielsen-pulls-book": -0.3,
    "openai-apple-suit": -1.2,
-   "poland-palantir": -0.6,
-   "shopbot-blocks": -0.2,
-   "wall-st-best-week": -0.2
+   "shopbot-blocks": -0.1,
+   "wall-st-best-week": -0.1
   }
  },
  "state": {
@@ -1421,24 +1454,24 @@
    ]
   },
   "crypto": {
-   "asOf": "8:13 pm ET",
+   "asOf": "9:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60016.0,
-     "chg": -1.19
+     "price": 60135.0,
+     "chg": -1.81
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1665.34,
-     "chg": -2.07
+     "price": 1668.42,
+     "chg": -2.67
     }
    ]
   }
  },
- "next": "2026-11-28T02:18:00Z"
+ "next": "2026-11-28T03:18:00Z"
 }
