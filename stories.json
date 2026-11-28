@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-28T07:13:23Z",
+ "updated": "2026-11-28T08:13:28Z",
  "stories": [
+  {
+   "id": "restaurant-bots",
+   "cat": "quirky",
+   "group": "muse",
+   "h": "'I told it to NEVER CALL ME AGAIN': AI bots wreak HAVOC on UK restaurant bookings... owners go back to the phone",
+   "src": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse",
+   "t": "2026-11-28T08:12:14Z",
+   "card": "AI booking bots wreak havoc on UK restaurants",
+   "col": 2
+  },
   {
    "id": "guardian-crypto-bombshell",
    "cat": "tech",
@@ -494,17 +505,6 @@
    "col": 0
   },
   {
-   "id": "gpu-glut",
-   "cat": "business",
-   "h": "FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...",
-   "src": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
-   "t": "2026-11-26T08:11:42Z",
-   "group": "nvda-china",
-   "card": "Flood of Nvidia AI chips for sale after US shuts China loophole",
-   "col": 0
-  },
-  {
    "id": "op-zvi-mowshowitz-11272327",
    "cat": "tech",
    "h": "Zvi Mowshowitz: Astra 6.2\u2019s Brain Gets Smart But Its Head Gets Dumb",
@@ -557,29 +557,25 @@
  },
  "meter": {
   "level": 2,
-  "score": 23,
-  "delta": 2,
+  "score": 26,
+  "delta": 3,
   "moves": [
    {
     "d": 5,
-    "why": "'THE KING IS BACK': Huang's return unleashes a DELUGE of AI DEEPFAK...",
-    "id": "huang-deepfakes"
-   },
-   {
-    "d": -1,
-    "why": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade s...",
-    "id": "openai-apple-suit"
+    "why": "'I told it to NEVER CALL ME AGAIN': AI bots wreak HAVOC on UK resta...",
+    "id": "restaurant-bots"
    }
   ],
   "contrib": {
-   "guardian-crypto-bombshell": 1.5,
-   "korea-dc-silent-war": 1.5,
-   "nielsen-pulls-book": 2.3,
-   "deepseek-control-test": 0.5,
-   "japan-ai-penalties": 0.9,
-   "cruz-china-water": 0.8,
-   "wall-st-best-week": 0.6,
-   "huang-deepfakes": 5.0
+   "restaurant-bots": 4.9,
+   "guardian-crypto-bombshell": 1.3,
+   "korea-dc-silent-war": 1.3,
+   "nielsen-pulls-book": 1.8,
+   "deepseek-control-test": 0.4,
+   "japan-ai-penalties": 0.7,
+   "cruz-china-water": 0.6,
+   "wall-st-best-week": 0.4,
+   "huang-deepfakes": 4.8
   },
   "lastAdjust": 0,
   "history": [
@@ -1018,9 +1014,13 @@
    {
     "t": "2026-11-28T07:13:23Z",
     "s": 23
+   },
+   {
+    "t": "2026-11-28T08:13:28Z",
+    "s": 26
    }
   ],
-  "at": "2026-11-28T07:13:23Z",
+  "at": "2026-11-28T08:13:28Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
@@ -1290,34 +1290,38 @@
     {
      "t": "2026-11-28T07:13:23Z",
      "s": 23
+    },
+    {
+     "t": "2026-11-28T08:13:28Z",
+     "s": 26
     }
    ],
    "drivers": [
+    {
+     "d": 5,
+     "id": "restaurant-bots",
+     "text": "AI booking bots wreak havoc on UK restaurants"
+    },
     {
      "d": 5,
      "id": "huang-deepfakes",
      "text": "Huang's back, and so is a FLOOD of AI deepfakes"
     },
     {
-     "d": 2,
-     "id": "nielsen-pulls-book",
-     "text": "Deep-learning author pulls his textbook over AI's dangers"
-    },
-    {
-     "d": -7,
+     "d": -10,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "cruz-china-water": -0.1,
+   "cruz-china-water": -0.2,
    "deepseek-control-test": -0.1,
    "guardian-crypto-bombshell": -0.2,
-   "huang-deepfakes": 5.0,
+   "huang-deepfakes": -0.2,
    "japan-ai-penalties": -0.2,
    "korea-dc-silent-war": -0.2,
    "nielsen-pulls-book": -0.5,
-   "openai-apple-suit": -1.4,
+   "restaurant-bots": 4.9,
    "wall-st-best-week": -0.2
   }
  },
@@ -1469,21 +1473,21 @@
    ]
   },
   "crypto": {
-   "asOf": "02:13 ET",
+   "asOf": "03:13 ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59460.0,
-     "chg": -3.63
+     "price": 59719.0,
+     "chg": -3.39
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1647.43,
-     "chg": -4.89
+     "price": 1656.66,
+     "chg": -4.5
     }
    ]
   },
@@ -1583,14 +1587,14 @@
    "src": "Company announcements and original reports"
   },
   "odds": {
-   "asOf": "02:13 ET",
+   "asOf": "03:13 ET",
    "items": [
     {
      "key": "pm:which-math-problems-will-ai-solve-in-2026",
      "q": "Which math problems will AI solve in 2026?",
      "lead": "Riemann Hypothesis",
-     "p": 75,
-     "chg": 14,
+     "p": 73,
+     "chg": 12,
      "src": "Polymarket",
      "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
      "v24": 203239
@@ -1599,8 +1603,8 @@
      "key": "pm:open-source-model-ranked-1-on-arena-by",
      "q": "Open-source model ranked #1 on Arena by...?",
      "lead": "Dec 31, 2027",
-     "p": 24,
-     "chg": -5,
+     "p": 25,
+     "chg": -4,
      "src": "Polymarket",
      "url": "https://polymarket.com/event/open-source-model-ranked-1-on-arena-by",
      "v24": 69618
@@ -1609,8 +1613,8 @@
      "key": "pm:which-company-has-best-ai-model-end-of-2026",
      "q": "Which company has best AI model end of 2026?",
      "lead": "Google",
-     "p": 80,
-     "chg": 4,
+     "p": 78,
+     "chg": 3,
      "src": "Polymarket",
      "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
      "v24": 68534
@@ -1628,9 +1632,9 @@
     {
      "key": "pm:which-ai-companies-get-a-credit-downgrade-before-2028",
      "q": "Which AI companies get a credit downgrade before 2028?",
-     "lead": "Meta",
-     "p": 68,
-     "chg": 18,
+     "lead": "TeraWulf",
+     "p": 57,
+     "chg": 28,
      "src": "Polymarket",
      "url": "https://polymarket.com/event/which-ai-companies-get-a-credit-downgrade-before-2028",
      "v24": 21451
@@ -1639,5 +1643,5 @@
    "src": "The most-traded AI markets, last 24 hrs"
   }
  },
- "next": "2026-11-28T08:18:00Z"
+ "next": "2026-11-28T09:18:00Z"
 }

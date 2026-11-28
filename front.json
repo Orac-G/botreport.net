@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-28T07:13:23Z",
- "nextUpdate": "2026-11-28T08:18:00Z",
+ "updated": "2026-11-28T08:13:28Z",
+ "nextUpdate": "2026-11-28T09:18:00Z",
  "lead": [
   {
    "headline": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade secrets and BLOCKING its suppliers...: Filed Friday in California federal court... says Apple's employment practices were designed to 'TRAP' staff",
@@ -46,6 +46,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "'I told it to NEVER CALL ME AGAIN': AI bots wreak HAVOC on UK restaurant bookings... owners go back to the phone",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse",
+   "found": "2026-11-28T08:12:14Z",
+   "section": "quirky"
+  },
   {
    "headline": "'THE KING IS BACK': Huang's return unleashes a DELUGE of AI DEEPFAKES...",
    "source": "Korea Times (AFP)",
@@ -335,13 +342,6 @@
    "section": "quirky"
   },
   {
-   "headline": "FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
-   "found": "2026-11-26T08:11:42Z",
-   "section": "business"
-  },
-  {
    "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...",
    "source": "Financial Times",
    "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
@@ -359,7 +359,7 @@
   "url": "https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/"
  },
  "skynetOMeter": {
-  "score": 23,
+  "score": 26,
   "outOf": 100,
   "level": 2,
   "levelName": "Restless",
@@ -368,53 +368,53 @@
   "movers": [
    {
     "points": 5,
+    "story": "AI booking bots wreak havoc on UK restaurants"
+   },
+   {
+    "points": 5,
     "story": "Huang's back, and so is a FLOOD of AI deepfakes"
    },
    {
-    "points": 2,
-    "story": "Deep-learning author pulls his textbook over AI's dangers"
-   },
-   {
-    "points": -7,
+    "points": -10,
     "story": "Older stories cooling off"
    }
   ],
   "readings": [
    {
-    "t": "2026-11-27T07:13:51Z",
+    "t": "2026-11-27T08:14:16Z",
+    "score": 26
+   },
+   {
+    "t": "2026-11-27T11:12:48Z",
+    "score": 27
+   },
+   {
+    "t": "2026-11-27T14:14:44Z",
+    "score": 38
+   },
+   {
+    "t": "2026-11-27T17:14:56Z",
+    "score": 38
+   },
+   {
+    "t": "2026-11-27T20:14:39Z",
+    "score": 39
+   },
+   {
+    "t": "2026-11-27T23:14:20Z",
+    "score": 30
+   },
+   {
+    "t": "2026-11-28T02:31:46Z",
+    "score": 27
+   },
+   {
+    "t": "2026-11-28T05:14:32Z",
     "score": 23
    },
    {
-    "t": "2026-11-27T10:13:01Z",
-    "score": 28
-   },
-   {
-    "t": "2026-11-27T13:16:36Z",
-    "score": 36
-   },
-   {
-    "t": "2026-11-27T16:13:56Z",
-    "score": 37
-   },
-   {
-    "t": "2026-11-27T19:15:51Z",
-    "score": 42
-   },
-   {
-    "t": "2026-11-27T22:13:21Z",
-    "score": 33
-   },
-   {
-    "t": "2026-11-28T01:13:41Z",
-    "score": 29
-   },
-   {
-    "t": "2026-11-28T04:13:00Z",
-    "score": 22
-   },
-   {
-    "t": "2026-11-28T07:13:23Z",
-    "score": 23
+    "t": "2026-11-28T08:13:28Z",
+    "score": 26
    }
   ],
   "question": "How nervous should humanity be about AI today?",
