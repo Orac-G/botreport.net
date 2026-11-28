@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Saturday, November 28, 2026, 01:13 ET. Every headline links to the original reporting or primary source.
+Updated Saturday, November 28, 2026, 02:13 ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,7 @@ Updated Saturday, November 28, 2026, 01:13 ET. Every headline links to the origi
 
 ## All stories (newest first)
 
+- ['THE KING IS BACK': Huang's return unleashes a DELUGE of AI DEEPFAKES...](https://www.koreatimes.co.kr/world/20261127/king-is-back-nvidia-bosss-return-sparks-fresh-ai-deepfake-deluge) (Korea Times (AFP))
 - [Dwarkesh Patel: AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil](https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil) (Dwarkesh Patel · Opinion)
 - [Korea's Lee: the AI race is 'a SILENT WAR'... breaks ground on a 2.4-GIGAWATT campus worth up to $90 BILLION](https://www.koreaherald.com/article/10952453) (Korea Herald)
 - [Scott Aaronson: Every call](https://scottaaronson.blog/?p=10387) (Shtetl-Optimized · Opinion)
@@ -57,7 +58,6 @@ Updated Saturday, November 28, 2026, 01:13 ET. Every headline links to the origi
 - [AI FAKES hit at least 25 court cases in England and Wales... invented case law and statutes that DON'T EXIST](https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026) (The Guardian)
 - [FLOOD of Nvidia AI chips hits the market after US shuts China's remote-access 'LOOPHOLES', sources tell CNBC...](https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html) (CNBC)
 - [Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...](https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370) (Financial Times)
-- [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
 
 ## Quote of the Day
 
@@ -66,15 +66,15 @@ Updated Saturday, November 28, 2026, 01:13 ET. Every headline links to the origi
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **21/100, Restless (level 2 of 5), down 2 in 24 hours.**
+How nervous should humanity be about AI today? **23/100, Restless (level 2 of 5), unchanged in 24 hours.**
 
 What moved it:
 
-- Deep-learning author pulls his textbook over AI's dangers (+3)
-- Experts: AI labs may hold an encryption 'bombshell' (+2)
+- Huang's back, and so is a FLOOD of AI deepfakes (+5)
+- Deep-learning author pulls his textbook over AI's dangers (+2)
 - Older stories cooling off (-7)
 
-Last 24 hours: 23 at 01:13 ET, 26 at 04:13 ET, 37 at 07:14 ET, 35 at 10:14 ET, 35 at 13:13 ET, 36 at 16:13 ET, 30 at 19:14 ET, 25 at 22:14 ET, 21 at 01:13 ET.
+Last 24 hours: 23 at 02:13 ET, 28 at 05:13 ET, 36 at 08:16 ET, 37 at 11:13 ET, 42 at 14:15 ET, 33 at 17:13 ET, 29 at 20:13 ET, 22 at 23:13 ET, 23 at 02:13 ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 

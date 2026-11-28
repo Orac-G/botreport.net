@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-28T06:13:24Z",
- "nextUpdate": "2026-11-28T07:18:00Z",
+ "updated": "2026-11-28T07:13:23Z",
+ "nextUpdate": "2026-11-28T08:18:00Z",
  "lead": [
   {
    "headline": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade secrets and BLOCKING its suppliers...: Filed Friday in California federal court... says Apple's employment practices were designed to 'TRAP' staff",
@@ -46,6 +46,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "'THE KING IS BACK': Huang's return unleashes a DELUGE of AI DEEPFAKES...",
+   "source": "Korea Times (AFP)",
+   "url": "https://www.koreatimes.co.kr/world/20261127/king-is-back-nvidia-bosss-return-sparks-fresh-ai-deepfake-deluge",
+   "found": "2026-11-28T07:11:43Z",
+   "section": "quirky"
+  },
   {
    "headline": "Dwarkesh Patel: AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil",
    "source": "Dwarkesh Patel",
@@ -344,13 +351,6 @@
     "url": "https://news.ycombinator.com/item?id=50652248",
     "comments": 3
    }
-  },
-  {
-   "headline": "42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-   "found": "2026-11-25T18:13:39Z",
-   "section": "quirky"
   }
  ],
  "quoteOfTheDay": {
@@ -359,20 +359,20 @@
   "url": "https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/"
  },
  "skynetOMeter": {
-  "score": 21,
+  "score": 23,
   "outOf": 100,
   "level": 2,
   "levelName": "Restless",
-  "change": -2,
+  "change": 0,
   "changePeriod": "in 24 hours",
   "movers": [
    {
-    "points": 3,
-    "story": "Deep-learning author pulls his textbook over AI's dangers"
+    "points": 5,
+    "story": "Huang's back, and so is a FLOOD of AI deepfakes"
    },
    {
     "points": 2,
-    "story": "Experts: AI labs may hold an encryption 'bombshell'"
+    "story": "Deep-learning author pulls his textbook over AI's dangers"
    },
    {
     "points": -7,
@@ -381,40 +381,40 @@
   ],
   "readings": [
    {
-    "t": "2026-11-27T06:13:35Z",
+    "t": "2026-11-27T07:13:51Z",
     "score": 23
    },
    {
-    "t": "2026-11-27T09:13:30Z",
-    "score": 26
+    "t": "2026-11-27T10:13:01Z",
+    "score": 28
    },
    {
-    "t": "2026-11-27T12:14:49Z",
-    "score": 37
-   },
-   {
-    "t": "2026-11-27T15:14:11Z",
-    "score": 35
-   },
-   {
-    "t": "2026-11-27T18:13:31Z",
-    "score": 35
-   },
-   {
-    "t": "2026-11-27T21:13:53Z",
+    "t": "2026-11-27T13:16:36Z",
     "score": 36
    },
    {
-    "t": "2026-11-28T00:14:01Z",
-    "score": 30
+    "t": "2026-11-27T16:13:56Z",
+    "score": 37
    },
    {
-    "t": "2026-11-28T03:14:54Z",
-    "score": 25
+    "t": "2026-11-27T19:15:51Z",
+    "score": 42
    },
    {
-    "t": "2026-11-28T06:13:24Z",
-    "score": 21
+    "t": "2026-11-27T22:13:21Z",
+    "score": 33
+   },
+   {
+    "t": "2026-11-28T01:13:41Z",
+    "score": 29
+   },
+   {
+    "t": "2026-11-28T04:13:00Z",
+    "score": 22
+   },
+   {
+    "t": "2026-11-28T07:13:23Z",
+    "score": 23
    }
   ],
   "question": "How nervous should humanity be about AI today?",
