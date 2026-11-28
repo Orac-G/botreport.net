@@ -3,12 +3,12 @@
  "source": "The Bot Report",
  "url": "https://botreport.net/",
  "question": "How nervous should humanity be about AI today?",
- "score": 28,
+ "score": 27,
  "outOf": 100,
  "level": 2,
  "classification": "Restless",
- "change_24h": 7,
- "updated_at": "2026-11-28T02:13:28Z",
+ "change_24h": 6,
+ "updated_at": "2026-11-28T02:26:52Z",
  "stale_after_minutes": 150,
  "methodology_version": 4,
  "methodology": "Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).",
@@ -289,6 +289,10 @@
   {
    "t": "2026-11-28T02:13:28Z",
    "score": 28
+  },
+  {
+   "t": "2026-11-28T02:26:52Z",
+   "score": 27
   }
  ],
  "history_note": "Hourly readings for up to 7 days, from when the current formula started.",

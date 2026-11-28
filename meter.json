@@ -36,11 +36,11 @@
 }
 ],
 "now": {
-"score": 28,
+"score": 27,
 "outOf": 100,
 "level": 2,
 "levelName": "Restless",
-"change": 7,
+"change": 6,
 "changePeriod": "in 24 hours",
 "movers": [
 {
@@ -52,15 +52,11 @@
 "story": "Deep-learning author pulls his textbook over AI's dangers"
 },
 {
-"points": -3,
+"points": -4,
 "story": "Older stories cooling off"
 }
 ],
 "readings": [
-{
-"t": "2026-11-27T02:13:32Z",
-"score": 21
-},
 {
 "t": "2026-11-27T05:13:23Z",
 "score": 25
@@ -90,8 +86,8 @@
 "score": 30
 },
 {
-"t": "2026-11-28T02:13:28Z",
-"score": 28
+"t": "2026-11-28T02:26:52Z",
+"score": 27
 }
 ],
 "question": "How nervous should humanity be about AI today?",
@@ -420,6 +416,10 @@
 {
 "t": "2026-11-28T02:13:28Z",
 "score": 28
+},
+{
+"t": "2026-11-28T02:26:52Z",
+"score": 27
 }
 ]
 }
