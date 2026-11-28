@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-28T08:13:28Z",
- "nextUpdate": "2026-11-28T09:18:00Z",
+ "updated": "2026-11-28T09:13:42Z",
+ "nextUpdate": "2026-11-28T10:18:00Z",
  "lead": [
   {
    "headline": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade secrets and BLOCKING its suppliers...: Filed Friday in California federal court... says Apple's employment practices were designed to 'TRAP' staff",
@@ -46,6 +46,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "'TOTAL LOCKDOWN': Chinese VC's 'DARKEST HOUR' post on US chip curbs... TAKEN DOWN",
+   "source": "Korea Times (AFP)",
+   "url": "https://www.koreatimes.co.kr/world/20261127/us-chip-restrictions-cast-shadow-over-chinese-ai-labs",
+   "found": "2026-11-28T09:13:30Z",
+   "section": "politics"
+  },
   {
    "headline": "'I told it to NEVER CALL ME AGAIN': AI bots wreak HAVOC on UK restaurant bookings... owners go back to the phone",
    "source": "The Guardian",
@@ -321,13 +328,6 @@
    "section": "business"
   },
   {
-   "headline": "Police seek ARREST of Korean exam ace: CAMERA in correction tape, AI-fed answers...",
-   "source": "Korea Herald",
-   "url": "https://www.koreaherald.com/article/10950986",
-   "found": "2026-11-26T12:13:35Z",
-   "section": "quirky"
-  },
-  {
    "headline": "Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...",
    "source": "Wired",
    "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
@@ -340,17 +340,6 @@
    "url": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
    "found": "2026-11-26T10:13:18Z",
    "section": "quirky"
-  },
-  {
-   "headline": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...",
-   "source": "Financial Times",
-   "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
-   "found": "2026-11-26T07:11:54Z",
-   "section": "business",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50652248",
-    "comments": 3
-   }
   }
  ],
  "quoteOfTheDay": {
@@ -371,49 +360,45 @@
     "story": "AI booking bots wreak havoc on UK restaurants"
    },
    {
-    "points": 5,
+    "points": 4,
     "story": "Huang's back, and so is a FLOOD of AI deepfakes"
    },
    {
-    "points": -10,
+    "points": -9,
     "story": "Older stories cooling off"
    }
   ],
   "readings": [
    {
-    "t": "2026-11-27T08:14:16Z",
-    "score": 26
+    "t": "2026-11-27T12:14:49Z",
+    "score": 37
    },
    {
-    "t": "2026-11-27T11:12:48Z",
-    "score": 27
+    "t": "2026-11-27T15:14:11Z",
+    "score": 35
    },
    {
-    "t": "2026-11-27T14:14:44Z",
-    "score": 38
+    "t": "2026-11-27T18:13:31Z",
+    "score": 35
    },
    {
-    "t": "2026-11-27T17:14:56Z",
-    "score": 38
+    "t": "2026-11-27T21:13:53Z",
+    "score": 36
    },
    {
-    "t": "2026-11-27T20:14:39Z",
-    "score": 39
-   },
-   {
-    "t": "2026-11-27T23:14:20Z",
+    "t": "2026-11-28T00:14:01Z",
     "score": 30
    },
    {
-    "t": "2026-11-28T02:31:46Z",
-    "score": 27
+    "t": "2026-11-28T03:14:54Z",
+    "score": 25
    },
    {
-    "t": "2026-11-28T05:14:32Z",
-    "score": 23
+    "t": "2026-11-28T06:13:24Z",
+    "score": 21
    },
    {
-    "t": "2026-11-28T08:13:28Z",
+    "t": "2026-11-28T09:13:42Z",
     "score": 26
    }
   ],

@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-28T08:13:28Z",
+ "updated": "2026-11-28T09:13:42Z",
  "stories": [
+  {
+   "id": "china-darkest-hour",
+   "cat": "politics",
+   "h": "'TOTAL LOCKDOWN': Chinese VC's 'DARKEST HOUR' post on US chip curbs... TAKEN DOWN",
+   "src": "Korea Times (AFP)",
+   "url": "https://www.koreatimes.co.kr/world/20261127/us-chip-restrictions-cast-shadow-over-chinese-ai-labs",
+   "t": "2026-11-28T09:13:30Z",
+   "group": "nvda-china",
+   "col": 0,
+   "card": "'TOTAL LOCKDOWN': China AI's 'DARKEST HOUR' post vanishes"
+  },
   {
    "id": "restaurant-bots",
    "cat": "quirky",
@@ -455,17 +466,6 @@
    "col": 1
   },
   {
-   "id": "korea-exam-cam",
-   "cat": "quirky",
-   "h": "Police seek ARREST of Korean exam ace: CAMERA in correction tape, AI-fed answers...",
-   "src": "Korea Herald",
-   "url": "https://www.koreaherald.com/article/10950986",
-   "t": "2026-11-26T12:13:35Z",
-   "group": "korea-cheat",
-   "card": "Police: exam ace hid a camera in correction tape, AI fed answers",
-   "col": 0
-  },
-  {
    "id": "meta-muse-fca",
    "cat": "politics",
    "group": "muse",
@@ -485,24 +485,6 @@
    "t": "2026-11-26T10:13:18Z",
    "col": 0,
    "card": "AI fakes hit 25+ court cases in England and Wales"
-  },
-  {
-   "id": "nvda-sea-halt",
-   "cat": "business",
-   "red": true,
-   "group": "nvda-china",
-   "h": "Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...",
-   "src": "Financial Times",
-   "url": "https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370",
-   "t": "2026-11-26T07:11:54Z",
-   "card": "Nvidia freezes server shipments to 4 Southeast Asian nations",
-   "hn": {
-    "url": "https://news.ycombinator.com/item?id=50652248",
-    "comments": 3
-   },
-   "sub": "FT and NYT report the shipping freeze follows a new US rule requiring licences for buyers there",
-   "saga": "nvda-china",
-   "col": 0
   },
   {
    "id": "op-zvi-mowshowitz-11272327",
@@ -558,24 +540,25 @@
  "meter": {
   "level": 2,
   "score": 26,
-  "delta": 3,
+  "delta": 0,
   "moves": [
    {
-    "d": 5,
-    "why": "'I told it to NEVER CALL ME AGAIN': AI bots wreak HAVOC on UK resta...",
-    "id": "restaurant-bots"
+    "d": 2,
+    "why": "'TOTAL LOCKDOWN': Chinese VC's 'DARKEST HOUR' post on US chip curbs...",
+    "id": "china-darkest-hour"
    }
   ],
   "contrib": {
-   "restaurant-bots": 4.9,
-   "guardian-crypto-bombshell": 1.3,
-   "korea-dc-silent-war": 1.3,
-   "nielsen-pulls-book": 1.8,
+   "china-darkest-hour": 1.6,
+   "restaurant-bots": 4.8,
+   "guardian-crypto-bombshell": 1.2,
+   "korea-dc-silent-war": 1.2,
+   "nielsen-pulls-book": 1.3,
    "deepseek-control-test": 0.4,
-   "japan-ai-penalties": 0.7,
-   "cruz-china-water": 0.6,
-   "wall-st-best-week": 0.4,
-   "huang-deepfakes": 4.8
+   "japan-ai-penalties": 0.6,
+   "cruz-china-water": 0.4,
+   "wall-st-best-week": 0.3,
+   "huang-deepfakes": 4.4
   },
   "lastAdjust": 0,
   "history": [
@@ -1018,9 +1001,13 @@
    {
     "t": "2026-11-28T08:13:28Z",
     "s": 26
+   },
+   {
+    "t": "2026-11-28T09:13:42Z",
+    "s": 26
    }
   ],
-  "at": "2026-11-28T08:13:28Z",
+  "at": "2026-11-28T09:13:42Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
@@ -1294,6 +1281,10 @@
     {
      "t": "2026-11-28T08:13:28Z",
      "s": 26
+    },
+    {
+     "t": "2026-11-28T09:13:42Z",
+     "s": 26
     }
    ],
    "drivers": [
@@ -1303,26 +1294,26 @@
      "text": "AI booking bots wreak havoc on UK restaurants"
     },
     {
-     "d": 5,
+     "d": 4,
      "id": "huang-deepfakes",
      "text": "Huang's back, and so is a FLOOD of AI deepfakes"
     },
     {
-     "d": -10,
+     "d": -9,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
+   "china-darkest-hour": 1.6,
    "cruz-china-water": -0.2,
-   "deepseek-control-test": -0.1,
-   "guardian-crypto-bombshell": -0.2,
-   "huang-deepfakes": -0.2,
-   "japan-ai-penalties": -0.2,
-   "korea-dc-silent-war": -0.2,
+   "guardian-crypto-bombshell": -0.1,
+   "huang-deepfakes": -0.4,
+   "japan-ai-penalties": -0.1,
+   "korea-dc-silent-war": -0.1,
    "nielsen-pulls-book": -0.5,
-   "restaurant-bots": 4.9,
-   "wall-st-best-week": -0.2
+   "restaurant-bots": -0.1,
+   "wall-st-best-week": -0.1
   }
  },
  "state": {
@@ -1633,5 +1624,5 @@
    "src": "The most-traded AI markets, last 24 hrs"
   }
  },
- "next": "2026-11-28T09:18:00Z"
+ "next": "2026-11-28T10:18:00Z"
 }
