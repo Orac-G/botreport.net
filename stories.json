@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:14:06Z",
+ "updated": "2026-11-28T11:13:42Z",
  "stories": [
   {
    "id": "huang-triggered",
@@ -42,7 +42,6 @@
   {
    "id": "restaurant-bots",
    "cat": "quirky",
-   "group": "muse",
    "h": "'I told it to NEVER CALL ME AGAIN': AI bots wreak HAVOC on UK restaurant bookings... owners go back to the phone",
    "src": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse",
@@ -479,7 +478,7 @@
    "t": "2026-11-26T15:12:03Z",
    "group": "election-fakes",
    "card": "Spain's opposition AI-fakes PM S\u00e1nchez into a Morocco shirt",
-   "col": 0
+   "col": 2
   },
   {
    "id": "banks-ai-debt",
@@ -491,17 +490,6 @@
    "group": "markets",
    "card": "Citi and JPMorgan shop AI loans to investors, sources say",
    "col": 1
-  },
-  {
-   "id": "meta-muse-fca",
-   "cat": "politics",
-   "group": "muse",
-   "h": "Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...",
-   "src": "Wired",
-   "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
-   "t": "2026-11-26T11:11:44Z",
-   "card": "UK watchdog: Meta refused to let it test Muse AI agent",
-   "col": 2
   },
   {
    "id": "op-zvi-mowshowitz-11272327",
@@ -556,33 +544,27 @@
  },
  "meter": {
   "level": 2,
-  "score": 29,
-  "delta": 3,
+  "score": 27,
+  "delta": -2,
   "moves": [
    {
-    "d": 5,
-    "why": "Sainsbury's staff using FACIAL RECOGNITION wrongly flag a woman wit...",
-    "id": "sainsburys-facewatch"
-   },
-   {
-    "d": 1,
-    "why": "How Silicon Valley got 'TRIGGERED' and saved Jensen Huang... tech t...",
-    "id": "huang-triggered"
+    "d": -1,
+    "why": "Author of a classic FREE deep-learning textbook PULLS it offline......",
+    "id": "nielsen-pulls-book"
    }
   ],
   "contrib": {
-   "huang-deepfakes": 3.9,
+   "huang-deepfakes": 3.5,
    "huang-triggered": 0.8,
-   "sainsburys-facewatch": 4.7,
-   "china-darkest-hour": 1.6,
-   "restaurant-bots": 4.3,
-   "guardian-crypto-bombshell": 1.0,
-   "korea-dc-silent-war": 1.0,
-   "nielsen-pulls-book": 0.8,
-   "deepseek-control-test": 0.3,
-   "japan-ai-penalties": 0.4,
-   "cruz-china-water": 0.3,
-   "wall-st-best-week": 0.1
+   "sainsburys-facewatch": 4.8,
+   "china-darkest-hour": 1.5,
+   "restaurant-bots": 3.9,
+   "guardian-crypto-bombshell": 0.9,
+   "korea-dc-silent-war": 0.9,
+   "deepseek-control-test": 0.4,
+   "nielsen-pulls-book": 0.2,
+   "japan-ai-penalties": 0.3,
+   "cruz-china-water": 0.1
   },
   "lastAdjust": 0,
   "history": [
@@ -1033,13 +1015,17 @@
    {
     "t": "2026-11-28T10:14:00Z",
     "s": 29
+   },
+   {
+    "t": "2026-11-28T11:13:42Z",
+    "s": 27
    }
   ],
-  "at": "2026-11-28T10:14:00Z",
+  "at": "2026-11-28T11:13:42Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 1,
+   "delta": 0,
    "period": "in 24 hours",
    "line": [
     {
@@ -1317,6 +1303,10 @@
     {
      "t": "2026-11-28T10:14:00Z",
      "s": 29
+    },
+    {
+     "t": "2026-11-28T11:13:42Z",
+     "s": 27
     }
    ],
    "drivers": [
@@ -1331,23 +1321,23 @@
      "text": "AI booking bots wreak havoc on UK restaurants"
     },
     {
-     "d": -8,
+     "d": -9,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "cruz-china-water": -0.1,
-   "deepseek-control-test": -0.1,
-   "guardian-crypto-bombshell": -0.2,
-   "huang-deepfakes": -0.5,
-   "huang-triggered": 0.8,
-   "japan-ai-penalties": -0.2,
-   "korea-dc-silent-war": -0.2,
-   "nielsen-pulls-book": -0.5,
-   "restaurant-bots": -0.5,
-   "sainsburys-facewatch": 4.7,
-   "wall-st-best-week": -0.2
+   "china-darkest-hour": -0.1,
+   "cruz-china-water": -0.2,
+   "deepseek-control-test": 0.1,
+   "guardian-crypto-bombshell": -0.1,
+   "huang-deepfakes": -0.4,
+   "japan-ai-penalties": -0.1,
+   "korea-dc-silent-war": -0.1,
+   "nielsen-pulls-book": -0.6,
+   "restaurant-bots": -0.4,
+   "sainsburys-facewatch": 0.1,
+   "wall-st-best-week": -0.1
   }
  },
  "state": {
@@ -1658,5 +1648,5 @@
    "src": "The most-traded AI markets, last 24 hrs"
   }
  },
- "next": "2026-11-28T11:18:00Z"
+ "next": "2026-11-28T12:18:00Z"
 }

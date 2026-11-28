@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-28T10:14:06Z",
- "nextUpdate": "2026-11-28T11:18:00Z",
+ "updated": "2026-11-28T11:13:42Z",
+ "nextUpdate": "2026-11-28T12:18:00Z",
  "lead": [
   {
    "headline": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade secrets and BLOCKING its suppliers...: Filed Friday in California federal court... says Apple's employment practices were designed to 'TRAP' staff",
@@ -340,13 +340,6 @@
    "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
    "found": "2026-11-26T14:12:38Z",
    "section": "business"
-  },
-  {
-   "headline": "Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...",
-   "source": "Wired",
-   "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
-   "found": "2026-11-26T11:11:44Z",
-   "section": "politics"
   }
  ],
  "quoteOfTheDay": {
@@ -355,11 +348,11 @@
   "url": "https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/"
  },
  "skynetOMeter": {
-  "score": 29,
+  "score": 27,
   "outOf": 100,
   "level": 2,
   "levelName": "Restless",
-  "change": 1,
+  "change": 0,
   "changePeriod": "in 24 hours",
   "movers": [
    {
@@ -371,42 +364,42 @@
     "story": "AI booking bots wreak havoc on UK restaurants"
    },
    {
-    "points": -8,
+    "points": -9,
     "story": "Older stories cooling off"
    }
   ],
   "readings": [
    {
-    "t": "2026-11-27T13:16:36Z",
-    "score": 36
+    "t": "2026-11-27T14:14:44Z",
+    "score": 38
    },
    {
-    "t": "2026-11-27T16:13:56Z",
-    "score": 37
+    "t": "2026-11-27T17:14:56Z",
+    "score": 38
    },
    {
-    "t": "2026-11-27T19:15:51Z",
-    "score": 42
+    "t": "2026-11-27T20:14:39Z",
+    "score": 39
    },
    {
-    "t": "2026-11-27T22:13:21Z",
-    "score": 33
+    "t": "2026-11-27T23:14:20Z",
+    "score": 30
    },
    {
-    "t": "2026-11-28T01:13:41Z",
-    "score": 29
+    "t": "2026-11-28T02:31:46Z",
+    "score": 27
    },
    {
-    "t": "2026-11-28T04:13:00Z",
-    "score": 22
-   },
-   {
-    "t": "2026-11-28T07:13:23Z",
+    "t": "2026-11-28T05:14:32Z",
     "score": 23
    },
    {
-    "t": "2026-11-28T10:14:00Z",
-    "score": 29
+    "t": "2026-11-28T08:13:28Z",
+    "score": 26
+   },
+   {
+    "t": "2026-11-28T11:13:42Z",
+    "score": 27
    }
   ],
   "question": "How nervous should humanity be about AI today?",

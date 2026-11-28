@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Saturday, November 28, 2026, 05:14 ET. Every headline links to the original reporting or primary source.
+Updated Saturday, November 28, 2026, 06:13 ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -57,7 +57,6 @@ Updated Saturday, November 28, 2026, 05:14 ET. Every headline links to the origi
 - [SAP weighs axing at least 10,000 JOBS to remake itself for the AI era, sources say...](https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring) (Bloomberg)
 - [Spain's opposition uses AI to swap PM Sánchez's Spain jersey for a MOROCCO shirt... and comes under fire](https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt) (The Guardian)
 - [Banks look to DUMP AI DEBT: Citi and JPMorgan shopping AI loan portfolios to investors, sources say...](https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt) (Semafor)
-- [Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/) (Wired)
 
 ## Quote of the Day
 
@@ -66,15 +65,15 @@ Updated Saturday, November 28, 2026, 05:14 ET. Every headline links to the origi
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **29/100, Restless (level 2 of 5), up 1 in 24 hours.**
+How nervous should humanity be about AI today? **27/100, Restless (level 2 of 5), unchanged in 24 hours.**
 
 What moved it:
 
 - Facial recognition error gets woman with cancer banned from shop (+5)
 - AI booking bots wreak havoc on UK restaurants (+4)
-- Older stories cooling off (-8)
+- Older stories cooling off (-9)
 
-Last 24 hours: 36 at 08:16 ET, 37 at 11:13 ET, 42 at 14:15 ET, 33 at 17:13 ET, 29 at 20:13 ET, 22 at 23:13 ET, 23 at 02:13 ET, 29 at 05:14 ET.
+Last 24 hours: 38 at 09:14 ET, 38 at 12:14 ET, 39 at 15:14 ET, 30 at 18:14 ET, 27 at 21:31 ET, 23 at 00:14 ET, 26 at 03:13 ET, 27 at 06:13 ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 
