@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-28T03:14:54Z",
- "nextUpdate": "2026-11-28T04:18:00Z",
+ "updated": "2026-11-28T04:13:00Z",
+ "nextUpdate": "2026-11-28T05:18:00Z",
  "lead": [
   {
    "headline": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade secrets and BLOCKING its suppliers...: Filed Friday in California federal court... says Apple's employment practices were designed to 'TRAP' staff",
@@ -23,6 +23,17 @@
    "section": "tech"
   },
   {
+   "headline": "Author of a classic FREE deep-learning textbook PULLS it offline... says AI labs are 'knowingly endangering all of humanity'",
+   "source": "Michael Nielsen",
+   "url": "https://neuralnetworksanddeeplearning.com/index.html",
+   "found": "2026-11-28T00:11:44Z",
+   "section": "quirky",
+   "hackerNews": {
+    "url": "https://news.ycombinator.com/item?id=50670757",
+    "comments": 275
+   }
+  },
+  {
    "headline": "Dow's BEST WEEK since 2022 as AI stocks ROAR back... Nasdaq up 6%+, Anthropic jumps nearly 11%",
    "source": "CNBC",
    "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
@@ -35,13 +46,6 @@
    "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
    "found": "2026-11-27T17:11:49Z",
    "section": "politics"
-  },
-  {
-   "headline": "Pizza history: an AI AGENT buys a Papa John's order with NO CARD... a UK FIRST",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-   "found": "2026-11-27T10:12:57Z",
-   "section": "quirky"
   }
  ],
  "stories": [
@@ -59,17 +63,6 @@
    "url": "https://www.japantimes.co.jp/news/2026/11/28/japan/politics/japan-revise-ai-law-penalties/",
    "found": "2026-11-28T01:11:56Z",
    "section": "politics"
-  },
-  {
-   "headline": "Author of a classic FREE deep-learning textbook PULLS it offline... says AI labs are 'knowingly endangering all of humanity'",
-   "source": "Michael Nielsen",
-   "url": "https://neuralnetworksanddeeplearning.com/index.html",
-   "found": "2026-11-28T00:11:44Z",
-   "section": "quirky",
-   "hackerNews": {
-    "url": "https://news.ycombinator.com/item?id=50670757",
-    "comments": 230
-   }
   },
   {
    "headline": "Ted Cruz: 'China is paying money' to make you SCARED of data centres... 'You're being LIED to' about water",
@@ -141,6 +134,13 @@
    "url": "https://www.koreaherald.com/article/10952285",
    "found": "2026-11-27T12:14:35Z",
    "section": "business"
+  },
+  {
+   "headline": "Pizza history: an AI AGENT buys a Papa John's order with NO CARD... a UK FIRST",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+   "found": "2026-11-27T10:12:57Z",
+   "section": "quirky"
   },
   {
    "headline": "China's chip stocks have their BIGGEST DAY EVER... up 17% as Beijing signals market support",
@@ -362,15 +362,15 @@
   "url": "https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/"
  },
  "skynetOMeter": {
-  "score": 25,
+  "score": 22,
   "outOf": 100,
   "level": 2,
   "levelName": "Restless",
-  "change": 6,
+  "change": -2,
   "changePeriod": "in 24 hours",
   "movers": [
    {
-    "points": 5,
+    "points": 4,
     "story": "OpenAI countersues, accusing Apple of stealing trade secrets"
    },
    {
@@ -378,42 +378,46 @@
     "story": "Deep-learning author pulls his textbook over AI's dangers"
    },
    {
-    "points": -3,
+    "points": -10,
     "story": "Older stories cooling off"
    }
   ],
   "readings": [
    {
-    "t": "2026-11-27T06:13:35Z",
+    "t": "2026-11-27T04:13:34Z",
+    "score": 24
+   },
+   {
+    "t": "2026-11-27T07:13:51Z",
     "score": 23
    },
    {
-    "t": "2026-11-27T09:13:30Z",
-    "score": 26
+    "t": "2026-11-27T10:13:01Z",
+    "score": 28
    },
    {
-    "t": "2026-11-27T12:14:49Z",
-    "score": 37
-   },
-   {
-    "t": "2026-11-27T15:14:11Z",
-    "score": 35
-   },
-   {
-    "t": "2026-11-27T18:13:31Z",
-    "score": 35
-   },
-   {
-    "t": "2026-11-27T21:13:53Z",
+    "t": "2026-11-27T13:16:36Z",
     "score": 36
    },
    {
-    "t": "2026-11-28T00:14:01Z",
-    "score": 30
+    "t": "2026-11-27T16:13:56Z",
+    "score": 37
    },
    {
-    "t": "2026-11-28T03:14:54Z",
-    "score": 25
+    "t": "2026-11-27T19:15:51Z",
+    "score": 42
+   },
+   {
+    "t": "2026-11-27T22:13:21Z",
+    "score": 33
+   },
+   {
+    "t": "2026-11-28T01:13:41Z",
+    "score": 29
+   },
+   {
+    "t": "2026-11-28T04:13:00Z",
+    "score": 22
    }
   ],
   "question": "How nervous should humanity be about AI today?",

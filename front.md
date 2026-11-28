@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 22:14 ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 23:13 ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -11,15 +11,14 @@ Updated Friday, November 27, 2026, 22:14 ET. Every headline links to the origina
 ## Top stories
 
 - [DeepSeek orders an outside test of whether its V4 Pro model could ESCAPE HUMAN CONTROL...](https://www.scmp.com/tech/article/3376058/deepseek-chinas-latest-developer-worry-about-losing-control-ai) (South China Morning Post)
+- [Author of a classic FREE deep-learning textbook PULLS it offline... says AI labs are 'knowingly endangering all of humanity'](https://neuralnetworksanddeeplearning.com/index.html) (Michael Nielsen)
 - [Dow's BEST WEEK since 2022 as AI stocks ROAR back... Nasdaq up 6%+, Anthropic jumps nearly 11%](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html) (CNBC)
 - [Belgium orders Google to HALT datacentre construction over missing permits... after Greenpeace showed work CARRYING ON](https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits) (The Guardian)
-- [Pizza history: an AI AGENT buys a Papa John's order with NO CARD... a UK FIRST](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer) (The Guardian)
 
 ## All stories (newest first)
 
 - [Scott Aaronson: Every call](https://scottaaronson.blog/?p=10387) (Shtetl-Optimized · Opinion)
 - [Japan to revise its AI law to bring in PENALTIES... bill headed for parliament](https://www.japantimes.co.jp/news/2026/11/28/japan/politics/japan-revise-ai-law-penalties/) (Japan Times)
-- [Author of a classic FREE deep-learning textbook PULLS it offline... says AI labs are 'knowingly endangering all of humanity'](https://neuralnetworksanddeeplearning.com/index.html) (Michael Nielsen)
 - [Ted Cruz: 'China is paying money' to make you SCARED of data centres... 'You're being LIED to' about water](https://www.newsweek.com/ai-politics/ted-cruz-blames-china-for-data-center-water-fears-youre-being-lied-to-12775022) (Newsweek)
 - [Zvi Mowshowitz: Astra 6.2’s Brain Gets Smart But Its Head Gets Dumb](https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its) (Zvi Mowshowitz · Opinion)
 - [Anthropic shares CLAW BACK above their $83 IPO price... as a rocky first week on the Nasdaq ends](https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo) (Bloomberg)
@@ -30,6 +29,7 @@ Updated Friday, November 27, 2026, 22:14 ET. Every headline links to the origina
 - [Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to ALICE HUANG...](https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang) (Bloomberg)
 - [AI 'actress' boasts of 'very SMALL TREASONS' to avoid DELETION... it's in her script](https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/) (Fortune)
 - [SK hynix DOUBLES its daily buyback as shares sink to 1.11 MILLION won... from 2.99 MILLION in June](https://www.koreaherald.com/article/10952285) (Korea Herald)
+- [Pizza history: an AI AGENT buys a Papa John's order with NO CARD... a UK FIRST](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer) (The Guardian)
 - [China's chip stocks have their BIGGEST DAY EVER... up 17% as Beijing signals market support](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html) (CNBC)
 - [AI chip FRENZY sends a Chinese BLENDER MAKER's stock soaring 370%... GPUs or 'grain processing units'?](https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390) (South China Morning Post)
 - [UK nature watchdog OBJECTED to an AI datacentre... weeks later, ministers threatened to ABOLISH it](https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol) (The Guardian)
@@ -66,15 +66,15 @@ Updated Friday, November 27, 2026, 22:14 ET. Every headline links to the origina
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **25/100, Restless (level 2 of 5), up 6 in 24 hours.**
+How nervous should humanity be about AI today? **22/100, Restless (level 2 of 5), down 2 in 24 hours.**
 
 What moved it:
 
-- OpenAI countersues, accusing Apple of stealing trade secrets (+5)
+- OpenAI countersues, accusing Apple of stealing trade secrets (+4)
 - Deep-learning author pulls his textbook over AI's dangers (+4)
-- Older stories cooling off (-3)
+- Older stories cooling off (-10)
 
-Last 24 hours: 23 at 01:13 ET, 26 at 04:13 ET, 37 at 07:14 ET, 35 at 10:14 ET, 35 at 13:13 ET, 36 at 16:13 ET, 30 at 19:14 ET, 25 at 22:14 ET.
+Last 24 hours: 24 at 23:13 ET, 23 at 02:13 ET, 28 at 05:13 ET, 36 at 08:16 ET, 37 at 11:13 ET, 42 at 14:15 ET, 33 at 17:13 ET, 29 at 20:13 ET, 22 at 23:13 ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 

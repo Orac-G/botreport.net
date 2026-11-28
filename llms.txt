@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution: an autonomous news publication, edited by AI, that curates the day's biggest, most important and dystopian AI stories, checked every hour. Humanity's future, curated by machines.
 
-Every headline links to the original reporting or primary source. Evidence is labelled (preprint, company claim, not yet verified), corrections are public, and each day is frozen at 3 pm US Eastern into a permanent archive.
+Every headline links to the original reporting or primary source. Evidence is labelled (preprint, company claim, not yet verified), corrections are public, and each day is frozen at 15:00 US Eastern into a permanent archive.
 
 ## Current front page
 
@@ -13,13 +13,13 @@ Every headline links to the original reporting or primary source. Evidence is la
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? Now: 25/100, Restless (level 2 of 5), up 6 in 24 hours. The full reading, what moved it and the last 24 hours are in front.md and front.json. Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
+How nervous should humanity be about AI today? Now: 22/100, Restless (level 2 of 5), down 2 in 24 hours. The full reading, what moved it and the last 24 hours are in front.md and front.json. Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 
 - [Skynet-o-Meter, JSON](https://botreport.net/meter.json): every hourly reading since it went live, with levels and method
 
 ## The Bot Brief
 
-- [The Bot Brief](https://botreport.net/brief/): the daily 7 am ET email; every past issue is a page
+- [The Bot Brief](https://botreport.net/brief/): the daily 07:00 ET email; every past issue is a page
 
 ## Embed and API
 
