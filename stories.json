@@ -1568,7 +1568,7 @@
    "src": "Company announcements and original reports"
   },
   "odds": {
-   "asOf": "01:30 ET",
+   "asOf": "01:31 ET",
    "items": [
     {
      "key": "agi-2028",
@@ -1607,13 +1607,13 @@
      "url": "https://polymarket.com/event/openai-announces-bankruptcy-by"
     },
     {
-     "key": "doom-2100",
-     "q": "AI wipes out humanity before 2100?",
-     "p": 14,
+     "key": "ai-bubble-mid27",
+     "q": "AI bubble bursts by mid-2027?",
+     "p": 40,
      "lead": "",
-     "chg": null,
-     "src": "Manifold (play money)",
-     "url": "https://manifold.markets/jdilla/will-ai-wipe-out-humanity-before-th"
+     "chg": 2,
+     "src": "Polymarket",
+     "url": "https://polymarket.com/event/ai-bubble-burst-by"
     }
    ],
    "src": "Prediction-market prices \u00b7 change over 24 hrs"
