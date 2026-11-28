@@ -1568,55 +1568,60 @@
    "src": "Company announcements and original reports"
   },
   "odds": {
-   "asOf": "01:31 ET",
+   "asOf": "01:46 ET",
    "items": [
     {
-     "key": "agi-2028",
-     "q": "AGI announced before 2028?",
-     "p": 52,
-     "lead": "",
-     "chg": -2,
-     "src": "Kalshi",
-     "url": "https://kalshi.com/markets/kxagico"
+     "key": "pm:which-math-problems-will-ai-solve-in-2026",
+     "q": "Which math problems will AI solve in 2026?",
+     "lead": "Riemann Hypothesis",
+     "p": 72,
+     "chg": 10,
+     "src": "Polymarket",
+     "url": "https://polymarket.com/event/which-math-problems-will-ai-solve-in-2026",
+     "v24": 203239
     },
     {
-     "key": "best-model-2026",
-     "q": "Best AI model at end of 2026",
-     "p": 80,
+     "key": "pm:open-source-model-ranked-1-on-arena-by",
+     "q": "Open-source model ranked #1 on Arena by...?",
+     "lead": "Dec 31, 2027",
+     "p": 24,
+     "chg": -5,
+     "src": "Polymarket",
+     "url": "https://polymarket.com/event/open-source-model-ranked-1-on-arena-by",
+     "v24": 69618
+    },
+    {
+     "key": "pm:which-company-has-best-ai-model-end-of-2026",
+     "q": "Which company has best AI model end of 2026?",
      "lead": "Google",
+     "p": 80,
      "chg": 4,
      "src": "Polymarket",
-     "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026"
+     "url": "https://polymarket.com/event/which-company-has-best-ai-model-end-of-2026",
+     "v24": 68534
     },
     {
-     "key": "openai-ipo-mid27",
-     "q": "OpenAI IPO by mid-2027?",
+     "key": "pm:ai-bubble-burst-by",
+     "q": "AI bubble burst by...?",
+     "lead": "Jun 30, 2027",
      "p": 40,
-     "lead": "",
-     "chg": 6,
-     "src": "Polymarket",
-     "url": "https://polymarket.com/event/openai-ipo-by"
-    },
-    {
-     "key": "openai-bankrupt-28",
-     "q": "OpenAI bankrupt by end of 2028?",
-     "p": 16,
-     "lead": "",
-     "chg": 1,
-     "src": "Polymarket",
-     "url": "https://polymarket.com/event/openai-announces-bankruptcy-by"
-    },
-    {
-     "key": "ai-bubble-mid27",
-     "q": "AI bubble bursts by mid-2027?",
-     "p": 40,
-     "lead": "",
      "chg": 2,
      "src": "Polymarket",
-     "url": "https://polymarket.com/event/ai-bubble-burst-by"
+     "url": "https://polymarket.com/event/ai-bubble-burst-by",
+     "v24": 33203
+    },
+    {
+     "key": "pm:which-ai-companies-get-a-credit-downgrade-before-2028",
+     "q": "Which AI companies get a credit downgrade before 2028?",
+     "lead": "Meta",
+     "p": 68,
+     "chg": 18,
+     "src": "Polymarket",
+     "url": "https://polymarket.com/event/which-ai-companies-get-a-credit-downgrade-before-2028",
+     "v24": 21451
     }
    ],
-   "src": "Prediction-market prices \u00b7 change over 24 hrs"
+   "src": "The most-traded AI markets, last 24 hrs"
   }
  },
  "next": "2026-11-28T07:18:00Z"
