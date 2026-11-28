@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-28T04:13:00Z",
- "nextUpdate": "2026-11-28T05:18:00Z",
+ "updated": "2026-11-28T05:14:32Z",
+ "nextUpdate": "2026-11-28T06:18:00Z",
  "lead": [
   {
    "headline": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade secrets and BLOCKING its suppliers...: Filed Friday in California federal court... says Apple's employment practices were designed to 'TRAP' staff",
@@ -16,11 +16,50 @@
  ],
  "topLinks": [
   {
+   "headline": "Experts warn AI labs may be sitting on encryption 'BOMBSHELL'... that could cause GLOBAL CHAOS for banks and governments",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+   "found": "2026-11-28T05:12:15Z",
+   "section": "tech",
+   "label": "Not yet verified"
+  },
+  {
    "headline": "DeepSeek orders an outside test of whether its V4 Pro model could ESCAPE HUMAN CONTROL...",
    "source": "South China Morning Post",
    "url": "https://www.scmp.com/tech/article/3376058/deepseek-chinas-latest-developer-worry-about-losing-control-ai",
    "found": "2026-11-28T02:11:38Z",
    "section": "tech"
+  },
+  {
+   "headline": "Japan to revise its AI law to bring in PENALTIES... bill headed for parliament",
+   "source": "Japan Times",
+   "url": "https://www.japantimes.co.jp/news/2026/11/28/japan/politics/japan-revise-ai-law-penalties/",
+   "found": "2026-11-28T01:11:56Z",
+   "section": "politics"
+  },
+  {
+   "headline": "Dow's BEST WEEK since 2022 as AI stocks ROAR back... Nasdaq up 6%+, Anthropic jumps nearly 11%",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+   "found": "2026-11-27T23:12:03Z",
+   "section": "business"
+  }
+ ],
+ "stories": [
+  {
+   "headline": "Korea's Lee: the AI race is 'a SILENT WAR'... breaks ground on a 2.4-GIGAWATT campus worth up to $90 BILLION",
+   "source": "Korea Herald",
+   "url": "https://www.koreaherald.com/article/10952453",
+   "found": "2026-11-28T05:12:15Z",
+   "section": "politics"
+  },
+  {
+   "headline": "Scott Aaronson: Every call",
+   "source": "Shtetl-Optimized",
+   "url": "https://scottaaronson.blog/?p=10387",
+   "found": "2026-11-28T01:14:46Z",
+   "section": "tech",
+   "label": "Opinion"
   },
   {
    "headline": "Author of a classic FREE deep-learning textbook PULLS it offline... says AI labs are 'knowingly endangering all of humanity'",
@@ -32,37 +71,6 @@
     "url": "https://news.ycombinator.com/item?id=50670757",
     "comments": 275
    }
-  },
-  {
-   "headline": "Dow's BEST WEEK since 2022 as AI stocks ROAR back... Nasdaq up 6%+, Anthropic jumps nearly 11%",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
-   "found": "2026-11-27T23:12:03Z",
-   "section": "business"
-  },
-  {
-   "headline": "Belgium orders Google to HALT datacentre construction over missing permits... after Greenpeace showed work CARRYING ON",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
-   "found": "2026-11-27T17:11:49Z",
-   "section": "politics"
-  }
- ],
- "stories": [
-  {
-   "headline": "Scott Aaronson: Every call",
-   "source": "Shtetl-Optimized",
-   "url": "https://scottaaronson.blog/?p=10387",
-   "found": "2026-11-28T01:14:46Z",
-   "section": "tech",
-   "label": "Opinion"
-  },
-  {
-   "headline": "Japan to revise its AI law to bring in PENALTIES... bill headed for parliament",
-   "source": "Japan Times",
-   "url": "https://www.japantimes.co.jp/news/2026/11/28/japan/politics/japan-revise-ai-law-penalties/",
-   "found": "2026-11-28T01:11:56Z",
-   "section": "politics"
   },
   {
    "headline": "Ted Cruz: 'China is paying money' to make you SCARED of data centres... 'You're being LIED to' about water",
@@ -85,6 +93,13 @@
    "url": "https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo",
    "found": "2026-11-27T17:11:49Z",
    "section": "business"
+  },
+  {
+   "headline": "Belgium orders Google to HALT datacentre construction over missing permits... after Greenpeace showed work CARRYING ON",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+   "found": "2026-11-27T17:11:49Z",
+   "section": "politics"
   },
   {
    "headline": "Russia's Patriarch Kirill calls on Christians to TAME AI... warns of 'APOCALYPSE'",
@@ -362,7 +377,7 @@
   "url": "https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/"
  },
  "skynetOMeter": {
-  "score": 22,
+  "score": 23,
   "outOf": 100,
   "level": 2,
   "levelName": "Restless",
@@ -370,54 +385,50 @@
   "changePeriod": "in 24 hours",
   "movers": [
    {
-    "points": 4,
-    "story": "OpenAI countersues, accusing Apple of stealing trade secrets"
-   },
-   {
-    "points": 4,
+    "points": 3,
     "story": "Deep-learning author pulls his textbook over AI's dangers"
    },
    {
-    "points": -10,
+    "points": 3,
+    "story": "OpenAI countersues, accusing Apple of stealing trade secrets"
+   },
+   {
+    "points": -8,
     "story": "Older stories cooling off"
    }
   ],
   "readings": [
    {
-    "t": "2026-11-27T04:13:34Z",
-    "score": 24
+    "t": "2026-11-27T08:14:16Z",
+    "score": 26
    },
    {
-    "t": "2026-11-27T07:13:51Z",
+    "t": "2026-11-27T11:12:48Z",
+    "score": 27
+   },
+   {
+    "t": "2026-11-27T14:14:44Z",
+    "score": 38
+   },
+   {
+    "t": "2026-11-27T17:14:56Z",
+    "score": 38
+   },
+   {
+    "t": "2026-11-27T20:14:39Z",
+    "score": 39
+   },
+   {
+    "t": "2026-11-27T23:14:20Z",
+    "score": 30
+   },
+   {
+    "t": "2026-11-28T02:31:46Z",
+    "score": 27
+   },
+   {
+    "t": "2026-11-28T05:14:32Z",
     "score": 23
-   },
-   {
-    "t": "2026-11-27T10:13:01Z",
-    "score": 28
-   },
-   {
-    "t": "2026-11-27T13:16:36Z",
-    "score": 36
-   },
-   {
-    "t": "2026-11-27T16:13:56Z",
-    "score": 37
-   },
-   {
-    "t": "2026-11-27T19:15:51Z",
-    "score": 42
-   },
-   {
-    "t": "2026-11-27T22:13:21Z",
-    "score": 33
-   },
-   {
-    "t": "2026-11-28T01:13:41Z",
-    "score": 29
-   },
-   {
-    "t": "2026-11-28T04:13:00Z",
-    "score": 22
    }
   ],
   "question": "How nervous should humanity be about AI today?",

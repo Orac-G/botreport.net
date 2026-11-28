@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 23:13 ET. Every headline links to the original reporting or primary source.
+Updated Saturday, November 28, 2026, 00:14 ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -10,18 +10,20 @@ Updated Friday, November 27, 2026, 23:13 ET. Every headline links to the origina
 
 ## Top stories
 
+- [Experts warn AI labs may be sitting on encryption 'BOMBSHELL'... that could cause GLOBAL CHAOS for banks and governments](https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos) (The Guardian · Not yet verified)
 - [DeepSeek orders an outside test of whether its V4 Pro model could ESCAPE HUMAN CONTROL...](https://www.scmp.com/tech/article/3376058/deepseek-chinas-latest-developer-worry-about-losing-control-ai) (South China Morning Post)
-- [Author of a classic FREE deep-learning textbook PULLS it offline... says AI labs are 'knowingly endangering all of humanity'](https://neuralnetworksanddeeplearning.com/index.html) (Michael Nielsen)
+- [Japan to revise its AI law to bring in PENALTIES... bill headed for parliament](https://www.japantimes.co.jp/news/2026/11/28/japan/politics/japan-revise-ai-law-penalties/) (Japan Times)
 - [Dow's BEST WEEK since 2022 as AI stocks ROAR back... Nasdaq up 6%+, Anthropic jumps nearly 11%](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html) (CNBC)
-- [Belgium orders Google to HALT datacentre construction over missing permits... after Greenpeace showed work CARRYING ON](https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits) (The Guardian)
 
 ## All stories (newest first)
 
+- [Korea's Lee: the AI race is 'a SILENT WAR'... breaks ground on a 2.4-GIGAWATT campus worth up to $90 BILLION](https://www.koreaherald.com/article/10952453) (Korea Herald)
 - [Scott Aaronson: Every call](https://scottaaronson.blog/?p=10387) (Shtetl-Optimized · Opinion)
-- [Japan to revise its AI law to bring in PENALTIES... bill headed for parliament](https://www.japantimes.co.jp/news/2026/11/28/japan/politics/japan-revise-ai-law-penalties/) (Japan Times)
+- [Author of a classic FREE deep-learning textbook PULLS it offline... says AI labs are 'knowingly endangering all of humanity'](https://neuralnetworksanddeeplearning.com/index.html) (Michael Nielsen)
 - [Ted Cruz: 'China is paying money' to make you SCARED of data centres... 'You're being LIED to' about water](https://www.newsweek.com/ai-politics/ted-cruz-blames-china-for-data-center-water-fears-youre-being-lied-to-12775022) (Newsweek)
 - [Zvi Mowshowitz: Astra 6.2’s Brain Gets Smart But Its Head Gets Dumb](https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its) (Zvi Mowshowitz · Opinion)
 - [Anthropic shares CLAW BACK above their $83 IPO price... as a rocky first week on the Nasdaq ends](https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo) (Bloomberg)
+- [Belgium orders Google to HALT datacentre construction over missing permits... after Greenpeace showed work CARRYING ON](https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits) (The Guardian)
 - [Russia's Patriarch Kirill calls on Christians to TAME AI... warns of 'APOCALYPSE'](https://www.washingtonpost.com/world/2026/11/27/russian-orthodox-church-patriarch-kirill-calls-christians-tame-ai/) (Washington Post)
 - [DAY FIVE without food: hunger striker camps outside Anthropic HQ demanding it STOP self-improving AI...](https://gizmodo.com/a-hunger-strike-against-self-improving-ai-is-happening-outside-of-anthropics-san-francisco-headquarters-2000846188) (Gizmodo)
 - [Black Friday BOT BLOCK: Amazon, eBay and United LIMIT or BAN AI shopping agents... which failed 43% of the time in Visa's tests](https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html) (CNBC)
@@ -66,15 +68,15 @@ Updated Friday, November 27, 2026, 23:13 ET. Every headline links to the origina
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **22/100, Restless (level 2 of 5), down 2 in 24 hours.**
+How nervous should humanity be about AI today? **23/100, Restless (level 2 of 5), down 2 in 24 hours.**
 
 What moved it:
 
-- OpenAI countersues, accusing Apple of stealing trade secrets (+4)
-- Deep-learning author pulls his textbook over AI's dangers (+4)
-- Older stories cooling off (-10)
+- Deep-learning author pulls his textbook over AI's dangers (+3)
+- OpenAI countersues, accusing Apple of stealing trade secrets (+3)
+- Older stories cooling off (-8)
 
-Last 24 hours: 24 at 23:13 ET, 23 at 02:13 ET, 28 at 05:13 ET, 36 at 08:16 ET, 37 at 11:13 ET, 42 at 14:15 ET, 33 at 17:13 ET, 29 at 20:13 ET, 22 at 23:13 ET.
+Last 24 hours: 26 at 03:14 ET, 27 at 06:12 ET, 38 at 09:14 ET, 38 at 12:14 ET, 39 at 15:14 ET, 30 at 18:14 ET, 27 at 21:31 ET, 23 at 00:14 ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 
