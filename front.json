@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-28T00:14:05Z",
- "nextUpdate": "2026-11-28T01:18:00Z",
+ "updated": "2026-11-28T01:13:41Z",
+ "nextUpdate": "2026-11-28T02:18:00Z",
  "lead": [
   {
    "headline": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade secrets and BLOCKING its suppliers...: Filed Friday in California federal court... says Apple's employment practices were designed to 'TRAP' staff",
@@ -45,6 +45,13 @@
   }
  ],
  "stories": [
+  {
+   "headline": "Japan to revise its AI law to bring in PENALTIES... bill headed for parliament",
+   "source": "Japan Times",
+   "url": "https://www.japantimes.co.jp/news/2026/11/28/japan/politics/japan-revise-ai-law-penalties/",
+   "found": "2026-11-28T01:11:56Z",
+   "section": "politics"
+  },
   {
    "headline": "Author of a classic FREE deep-learning textbook PULLS it offline... says AI labs are 'knowingly endangering all of humanity'",
    "source": "Michael Nielsen",
@@ -346,15 +353,15 @@
   "url": "https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/"
  },
  "skynetOMeter": {
-  "score": 30,
+  "score": 29,
   "outOf": 100,
   "level": 2,
   "levelName": "Restless",
-  "change": 6,
+  "change": 7,
   "changePeriod": "in 24 hours",
   "movers": [
    {
-    "points": 9,
+    "points": 8,
     "story": "OpenAI countersues, accusing Apple of stealing trade secrets"
    },
    {
@@ -362,46 +369,42 @@
     "story": "Deep-learning author pulls his textbook over AI's dangers"
    },
    {
-    "points": -8,
+    "points": -6,
     "story": "Older stories cooling off"
    }
   ],
   "readings": [
    {
-    "t": "2026-11-27T00:14:29Z",
+    "t": "2026-11-27T04:13:34Z",
     "score": 24
    },
    {
-    "t": "2026-11-27T03:13:36Z",
-    "score": 19
-   },
-   {
-    "t": "2026-11-27T06:13:35Z",
+    "t": "2026-11-27T07:13:51Z",
     "score": 23
    },
    {
-    "t": "2026-11-27T09:13:30Z",
-    "score": 26
+    "t": "2026-11-27T10:13:01Z",
+    "score": 28
    },
    {
-    "t": "2026-11-27T12:14:49Z",
-    "score": 37
-   },
-   {
-    "t": "2026-11-27T15:14:11Z",
-    "score": 35
-   },
-   {
-    "t": "2026-11-27T18:13:31Z",
-    "score": 35
-   },
-   {
-    "t": "2026-11-27T21:13:53Z",
+    "t": "2026-11-27T13:16:36Z",
     "score": 36
    },
    {
-    "t": "2026-11-28T00:14:01Z",
-    "score": 30
+    "t": "2026-11-27T16:13:56Z",
+    "score": 37
+   },
+   {
+    "t": "2026-11-27T19:15:51Z",
+    "score": 42
+   },
+   {
+    "t": "2026-11-27T22:13:21Z",
+    "score": 33
+   },
+   {
+    "t": "2026-11-28T01:13:41Z",
+    "score": 29
    }
   ],
   "question": "How nervous should humanity be about AI today?",

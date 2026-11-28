@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-28T00:14:05Z",
+ "updated": "2026-11-28T01:13:41Z",
  "stories": [
+  {
+   "id": "japan-ai-penalties",
+   "cat": "politics",
+   "h": "Japan to revise its AI law to bring in PENALTIES... bill headed for parliament",
+   "src": "Japan Times",
+   "url": "https://www.japantimes.co.jp/news/2026/11/28/japan/politics/japan-revise-ai-law-penalties/",
+   "t": "2026-11-28T01:11:56Z",
+   "col": 2,
+   "card": "Japan moves to put PENALTIES into its AI law"
+  },
   {
    "id": "nielsen-pulls-book",
    "cat": "quirky",
@@ -540,36 +550,36 @@
  },
  "meter": {
   "level": 2,
-  "score": 30,
-  "delta": 0,
+  "score": 29,
+  "delta": -1,
   "moves": [
    {
-    "d": 5,
-    "why": "Author of a classic FREE deep-learning textbook PULLS it offline......",
-    "id": "nielsen-pulls-book"
-   },
-   {
     "d": 2,
-    "why": "Ted Cruz: 'China is paying money' to make you SCARED of data centre...",
-    "id": "cruz-china-water"
+    "why": "Japan to revise its AI law to bring in PENALTIES... bill headed for...",
+    "id": "japan-ai-penalties"
    },
    {
     "d": -1,
-    "why": "Russia's Patriarch Kirill calls on Christians to TAME AI... warns o...",
-    "id": "kirill-apocalypse"
+    "why": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade s...",
+    "id": "openai-apple-suit"
+   },
+   {
+    "d": -1,
+    "why": "'WATERSHED MOMENT': Poland signs $300 MILLION Palantir deal for AI...",
+    "id": "poland-palantir"
    }
   ],
   "contrib": {
+   "japan-ai-penalties": 1.6,
    "nielsen-pulls-book": 4.7,
-   "kirill-apocalypse": 1.1,
-   "anthropic-hunger": 0.4,
+   "kirill-apocalypse": 0.9,
+   "anthropic-hunger": 0.3,
    "cruz-china-water": 1.6,
-   "openai-apple-suit": 8.9,
-   "wall-st-best-week": 1.6,
-   "anthropic-reclaims": 0.4,
-   "google-belgium-halt": 0.7,
-   "shopbot-blocks": 0.6,
-   "poland-palantir": 0.6
+   "openai-apple-suit": 7.7,
+   "wall-st-best-week": 1.4,
+   "anthropic-reclaims": 0.3,
+   "google-belgium-halt": 0.6,
+   "shopbot-blocks": 0.4
   },
   "lastAdjust": 0,
   "history": [
@@ -980,13 +990,17 @@
    {
     "t": "2026-11-28T00:14:01Z",
     "s": 30
+   },
+   {
+    "t": "2026-11-28T01:13:41Z",
+    "s": 29
    }
   ],
-  "at": "2026-11-28T00:14:01Z",
+  "at": "2026-11-28T01:13:41Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 6,
+   "delta": 7,
    "period": "in 24 hours",
    "line": [
     {
@@ -1224,11 +1238,15 @@
     {
      "t": "2026-11-28T00:14:01Z",
      "s": 30
+    },
+    {
+     "t": "2026-11-28T01:13:41Z",
+     "s": 29
     }
    ],
    "drivers": [
     {
-     "d": 9,
+     "d": 8,
      "id": "openai-apple-suit",
      "text": "OpenAI countersues, accusing Apple of stealing trade secrets"
     },
@@ -1238,22 +1256,21 @@
      "text": "Deep-learning author pulls his textbook over AI's dangers"
     },
     {
-     "d": -8,
+     "d": -6,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "anthropic-hunger": -0.7,
-   "blackwell-alice": -0.9,
-   "cruz-china-water": 1.6,
+   "anthropic-hunger": -0.1,
+   "anthropic-reclaims": -0.1,
    "google-belgium-halt": -0.1,
-   "kirill-apocalypse": -1.4,
-   "nielsen-pulls-book": 4.7,
-   "openai-apple-suit": -1.3,
+   "japan-ai-penalties": 1.6,
+   "kirill-apocalypse": -0.2,
+   "openai-apple-suit": -1.2,
    "poland-palantir": -0.6,
-   "shopbot-blocks": -0.1,
-   "tilly-treasons": -0.4
+   "shopbot-blocks": -0.2,
+   "wall-st-best-week": -0.2
   }
  },
  "state": {
@@ -1404,24 +1421,24 @@
    ]
   },
   "crypto": {
-   "asOf": "7:13 pm ET",
+   "asOf": "8:13 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 59920.0,
-     "chg": -0.95
+     "price": 60016.0,
+     "chg": -1.19
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1663.46,
-     "chg": -1.41
+     "price": 1665.34,
+     "chg": -2.07
     }
    ]
   }
  },
- "next": "2026-11-28T01:18:00Z"
+ "next": "2026-11-28T02:18:00Z"
 }

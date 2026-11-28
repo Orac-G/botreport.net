@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 7:14 PM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 8:13 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,7 @@ Updated Friday, November 27, 2026, 7:14 PM ET. Every headline links to the origi
 
 ## All stories (newest first)
 
+- [Japan to revise its AI law to bring in PENALTIES... bill headed for parliament](https://www.japantimes.co.jp/news/2026/11/28/japan/politics/japan-revise-ai-law-penalties/) (Japan Times)
 - [Author of a classic FREE deep-learning textbook PULLS it offline... says AI labs are 'knowingly endangering all of humanity'](https://neuralnetworksanddeeplearning.com/index.html) (Michael Nielsen)
 - [Ted Cruz: 'China is paying money' to make you SCARED of data centres... 'You're being LIED to' about water](https://www.newsweek.com/ai-politics/ted-cruz-blames-china-for-data-center-water-fears-youre-being-lied-to-12775022) (Newsweek)
 - [Zvi Mowshowitz: Astra 6.2’s Brain Gets Smart But Its Head Gets Dumb](https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its) (Zvi Mowshowitz · Opinion)
@@ -64,15 +65,15 @@ Updated Friday, November 27, 2026, 7:14 PM ET. Every headline links to the origi
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **30/100, Restless (level 2 of 5), up 6 in 24 hours.**
+How nervous should humanity be about AI today? **29/100, Restless (level 2 of 5), up 7 in 24 hours.**
 
 What moved it:
 
-- OpenAI countersues, accusing Apple of stealing trade secrets (+9)
+- OpenAI countersues, accusing Apple of stealing trade secrets (+8)
 - Deep-learning author pulls his textbook over AI's dangers (+5)
-- Older stories cooling off (-8)
+- Older stories cooling off (-6)
 
-Last 24 hours: 24 at 7 pm ET, 19 at 10 pm ET, 23 at 1 am ET, 26 at 4 am ET, 37 at 7 am ET, 35 at 10 am ET, 35 at 1 pm ET, 36 at 4 pm ET, 30 at 7 pm ET.
+Last 24 hours: 24 at 11 pm ET, 23 at 2 am ET, 28 at 5 am ET, 36 at 8 am ET, 37 at 11 am ET, 42 at 2 pm ET, 33 at 5 pm ET, 29 at 8 pm ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 
