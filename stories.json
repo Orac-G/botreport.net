@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:26:52Z",
+ "updated": "2026-11-28T02:31:46Z",
  "stories": [
   {
    "id": "deepseek-control-test",
@@ -577,17 +577,17 @@
   "delta": -2,
   "moves": [],
   "contrib": {
-   "nielsen-pulls-book": 4.3,
+   "nielsen-pulls-book": 4.2,
    "deepseek-control-test": 0.8,
    "kirill-apocalypse": 0.3,
    "anthropic-hunger": 0.2,
    "japan-ai-penalties": 1.6,
    "cruz-china-water": 1.4,
-   "openai-apple-suit": 6.3,
+   "openai-apple-suit": 6.2,
    "wall-st-best-week": 1.3,
    "anthropic-reclaims": 0.2,
    "google-belgium-halt": 0.4,
-   "shopbot-blocks": 0.3
+   "shopbot-blocks": 0.2
   },
   "lastAdjust": 0,
   "history": [
@@ -1004,11 +1004,11 @@
     "s": 29
    },
    {
-    "t": "2026-11-28T02:26:52Z",
+    "t": "2026-11-28T02:31:46Z",
     "s": 27
    }
   ],
-  "at": "2026-11-28T02:26:52Z",
+  "at": "2026-11-28T02:31:46Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
@@ -1256,7 +1256,7 @@
      "s": 29
     },
     {
-     "t": "2026-11-28T02:26:52Z",
+     "t": "2026-11-28T02:31:46Z",
      "s": 27
     }
    ],
@@ -1278,9 +1278,9 @@
    ]
   },
   "change": {
-   "cruz-china-water": -0.1,
    "nielsen-pulls-book": -0.1,
-   "openai-apple-suit": -0.2
+   "openai-apple-suit": -0.1,
+   "shopbot-blocks": -0.1
   }
  },
  "state": {
@@ -1431,21 +1431,21 @@
    ]
   },
   "crypto": {
-   "asOf": "9:26 pm ET",
+   "asOf": "9:31 pm ET",
    "src": "CoinGecko \u00b7 24-hour change",
    "url": "https://www.coingecko.com/",
    "items": [
     {
      "sym": "BTC",
      "name": "Bitcoin",
-     "price": 60149.0,
-     "chg": -2.1
+     "price": 60092.0,
+     "chg": -2.42
     },
     {
      "sym": "ETH",
      "name": "Ether",
-     "price": 1668.99,
-     "chg": -3.01
+     "price": 1667.56,
+     "chg": -3.5
     }
    ]
   }
