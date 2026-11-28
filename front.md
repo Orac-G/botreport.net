@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Saturday, November 28, 2026, 06:13 ET. Every headline links to the original reporting or primary source.
+Updated Saturday, November 28, 2026, 07:15 ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,7 @@ Updated Saturday, November 28, 2026, 06:13 ET. Every headline links to the origi
 
 ## All stories (newest first)
 
+- [Siemens automation chief: Silicon Valley's AI jobs story was 'pretty TOXIC AND SELF-SERVING'...](https://fortune.com/2026/11/28/siemens-ujjwal-kumar-silicon-valley-ai-jobs-toxic-greenfield-data-centers-factories/) (Fortune)
 - [How Silicon Valley got 'TRIGGERED' and saved Jensen Huang... tech titans took his case all the way to the WHITE HOUSE](https://www.washingtonpost.com/technology/2026/11/28/how-silicon-valley-got-triggered-saved-jensen-huang/) (Washington Post)
 - [Sainsbury's staff using FACIAL RECOGNITION wrongly flag a woman with TERMINAL CANCER... shoplifting ban leaves her 'TRAUMATISED and VIOLATED'](https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error) (The Guardian)
 - ['TOTAL LOCKDOWN': Chinese VC's 'DARKEST HOUR' post on US chip curbs... TAKEN DOWN](https://www.koreatimes.co.kr/world/20261127/us-chip-restrictions-cast-shadow-over-chinese-ai-labs) (Korea Times (AFP))
@@ -55,7 +56,6 @@ Updated Saturday, November 28, 2026, 06:13 ET. Every headline links to the origi
 - [Bank of England: AI money is 'COMPLEX, CIRCULAR AND OPAQUE'... $305 BILLION in hyperscaler bonds this year](https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026) (Bank of England)
 - [BoE's Bailey: UNRELEASED AI models raise ENCRYPTION concerns for bank data...](https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae) (Financial Times)
 - [SAP weighs axing at least 10,000 JOBS to remake itself for the AI era, sources say...](https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring) (Bloomberg)
-- [Spain's opposition uses AI to swap PM Sánchez's Spain jersey for a MOROCCO shirt... and comes under fire](https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt) (The Guardian)
 - [Banks look to DUMP AI DEBT: Citi and JPMorgan shopping AI loan portfolios to investors, sources say...](https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt) (Semafor)
 
 ## Quote of the Day
@@ -65,15 +65,15 @@ Updated Saturday, November 28, 2026, 06:13 ET. Every headline links to the origi
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **27/100, Restless (level 2 of 5), unchanged in 24 hours.**
+How nervous should humanity be about AI today? **26/100, Restless (level 2 of 5), down 11 in 24 hours.**
 
 What moved it:
 
-- Facial recognition error gets woman with cancer banned from shop (+5)
+- Facial recognition error gets woman with cancer banned from shop (+4)
 - AI booking bots wreak havoc on UK restaurants (+4)
-- Older stories cooling off (-9)
+- Older stories cooling off (-19)
 
-Last 24 hours: 38 at 09:14 ET, 38 at 12:14 ET, 39 at 15:14 ET, 30 at 18:14 ET, 27 at 21:31 ET, 23 at 00:14 ET, 26 at 03:13 ET, 27 at 06:13 ET.
+Last 24 hours: 35 at 10:14 ET, 35 at 13:13 ET, 36 at 16:13 ET, 30 at 19:14 ET, 25 at 22:14 ET, 21 at 01:13 ET, 26 at 04:13 ET, 26 at 07:15 ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 
