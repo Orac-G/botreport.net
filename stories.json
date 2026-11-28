@@ -1,6 +1,33 @@
 {
- "updated": "2026-11-28T09:13:42Z",
+ "updated": "2026-11-28T10:14:06Z",
  "stories": [
+  {
+   "id": "huang-triggered",
+   "cat": "politics",
+   "group": "huang",
+   "h": "How Silicon Valley got 'TRIGGERED' and saved Jensen Huang... tech titans took his case all the way to the WHITE HOUSE",
+   "src": "Washington Post",
+   "url": "https://www.washingtonpost.com/technology/2026/11/28/how-silicon-valley-got-triggered-saved-jensen-huang/",
+   "t": "2026-11-28T10:11:58Z",
+   "col": 0,
+   "img": {
+    "src": "img/jensen-huang.jpg",
+    "alt": "Nvidia CEO Jensen Huang",
+    "credit": "Anders Eidesvik / CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg"
+   },
+   "card": "Silicon Valley got 'triggered' and saved Jensen Huang"
+  },
+  {
+   "id": "sainsburys-facewatch",
+   "cat": "quirky",
+   "h": "Sainsbury's staff using FACIAL RECOGNITION wrongly flag a woman with TERMINAL CANCER... shoplifting ban leaves her 'TRAUMATISED and VIOLATED'",
+   "src": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error",
+   "t": "2026-11-28T10:11:58Z",
+   "col": 0,
+   "card": "Facial recognition error gets woman with cancer banned from shop"
+  },
   {
    "id": "china-darkest-hour",
    "cat": "politics",
@@ -76,7 +103,7 @@
    "t": "2026-11-28T00:11:44Z",
    "hn": {
     "url": "https://news.ycombinator.com/item?id=50670757",
-    "comments": 275
+    "comments": 334
    },
    "card": "Deep-learning author pulls his textbook over AI's dangers",
    "col": 0
@@ -477,16 +504,6 @@
    "col": 2
   },
   {
-   "id": "uk-court-fakes",
-   "cat": "quirky",
-   "h": "AI FAKES hit at least 25 court cases in England and Wales... invented case law and statutes that DON'T EXIST",
-   "src": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
-   "t": "2026-11-26T10:13:18Z",
-   "col": 0,
-   "card": "AI fakes hit 25+ court cases in England and Wales"
-  },
-  {
    "id": "op-zvi-mowshowitz-11272327",
    "cat": "tech",
    "h": "Zvi Mowshowitz: Astra 6.2\u2019s Brain Gets Smart But Its Head Gets Dumb",
@@ -539,26 +556,33 @@
  },
  "meter": {
   "level": 2,
-  "score": 26,
-  "delta": 0,
+  "score": 29,
+  "delta": 3,
   "moves": [
    {
-    "d": 2,
-    "why": "'TOTAL LOCKDOWN': Chinese VC's 'DARKEST HOUR' post on US chip curbs...",
-    "id": "china-darkest-hour"
+    "d": 5,
+    "why": "Sainsbury's staff using FACIAL RECOGNITION wrongly flag a woman wit...",
+    "id": "sainsburys-facewatch"
+   },
+   {
+    "d": 1,
+    "why": "How Silicon Valley got 'TRIGGERED' and saved Jensen Huang... tech t...",
+    "id": "huang-triggered"
    }
   ],
   "contrib": {
+   "huang-deepfakes": 3.9,
+   "huang-triggered": 0.8,
+   "sainsburys-facewatch": 4.7,
    "china-darkest-hour": 1.6,
-   "restaurant-bots": 4.8,
-   "guardian-crypto-bombshell": 1.2,
-   "korea-dc-silent-war": 1.2,
-   "nielsen-pulls-book": 1.3,
-   "deepseek-control-test": 0.4,
-   "japan-ai-penalties": 0.6,
-   "cruz-china-water": 0.4,
-   "wall-st-best-week": 0.3,
-   "huang-deepfakes": 4.4
+   "restaurant-bots": 4.3,
+   "guardian-crypto-bombshell": 1.0,
+   "korea-dc-silent-war": 1.0,
+   "nielsen-pulls-book": 0.8,
+   "deepseek-control-test": 0.3,
+   "japan-ai-penalties": 0.4,
+   "cruz-china-water": 0.3,
+   "wall-st-best-week": 0.1
   },
   "lastAdjust": 0,
   "history": [
@@ -1005,13 +1029,17 @@
    {
     "t": "2026-11-28T09:13:42Z",
     "s": 26
+   },
+   {
+    "t": "2026-11-28T10:14:00Z",
+    "s": 29
    }
   ],
-  "at": "2026-11-28T09:13:42Z",
+  "at": "2026-11-28T10:14:00Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": 0,
+   "delta": 1,
    "period": "in 24 hours",
    "line": [
     {
@@ -1285,35 +1313,41 @@
     {
      "t": "2026-11-28T09:13:42Z",
      "s": 26
+    },
+    {
+     "t": "2026-11-28T10:14:00Z",
+     "s": 29
     }
    ],
    "drivers": [
     {
      "d": 5,
+     "id": "sainsburys-facewatch",
+     "text": "Facial recognition error gets woman with cancer banned from shop"
+    },
+    {
+     "d": 4,
      "id": "restaurant-bots",
      "text": "AI booking bots wreak havoc on UK restaurants"
     },
     {
-     "d": 4,
-     "id": "huang-deepfakes",
-     "text": "Huang's back, and so is a FLOOD of AI deepfakes"
-    },
-    {
-     "d": -9,
+     "d": -8,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "china-darkest-hour": 1.6,
-   "cruz-china-water": -0.2,
-   "guardian-crypto-bombshell": -0.1,
-   "huang-deepfakes": -0.4,
-   "japan-ai-penalties": -0.1,
-   "korea-dc-silent-war": -0.1,
+   "cruz-china-water": -0.1,
+   "deepseek-control-test": -0.1,
+   "guardian-crypto-bombshell": -0.2,
+   "huang-deepfakes": -0.5,
+   "huang-triggered": 0.8,
+   "japan-ai-penalties": -0.2,
+   "korea-dc-silent-war": -0.2,
    "nielsen-pulls-book": -0.5,
-   "restaurant-bots": -0.1,
-   "wall-st-best-week": -0.1
+   "restaurant-bots": -0.5,
+   "sainsburys-facewatch": 4.7,
+   "wall-st-best-week": -0.2
   }
  },
  "state": {
@@ -1624,5 +1658,5 @@
    "src": "The most-traded AI markets, last 24 hrs"
   }
  },
- "next": "2026-11-28T10:18:00Z"
+ "next": "2026-11-28T11:18:00Z"
 }

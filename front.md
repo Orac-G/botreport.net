@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Saturday, November 28, 2026, 04:13 ET. Every headline links to the original reporting or primary source.
+Updated Saturday, November 28, 2026, 05:14 ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,8 @@ Updated Saturday, November 28, 2026, 04:13 ET. Every headline links to the origi
 
 ## All stories (newest first)
 
+- [How Silicon Valley got 'TRIGGERED' and saved Jensen Huang... tech titans took his case all the way to the WHITE HOUSE](https://www.washingtonpost.com/technology/2026/11/28/how-silicon-valley-got-triggered-saved-jensen-huang/) (Washington Post)
+- [Sainsbury's staff using FACIAL RECOGNITION wrongly flag a woman with TERMINAL CANCER... shoplifting ban leaves her 'TRAUMATISED and VIOLATED'](https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error) (The Guardian)
 - ['TOTAL LOCKDOWN': Chinese VC's 'DARKEST HOUR' post on US chip curbs... TAKEN DOWN](https://www.koreatimes.co.kr/world/20261127/us-chip-restrictions-cast-shadow-over-chinese-ai-labs) (Korea Times (AFP))
 - ['I told it to NEVER CALL ME AGAIN': AI bots wreak HAVOC on UK restaurant bookings... owners go back to the phone](https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse) (The Guardian)
 - ['THE KING IS BACK': Huang's return unleashes a DELUGE of AI DEEPFAKES...](https://www.koreatimes.co.kr/world/20261127/king-is-back-nvidia-bosss-return-sparks-fresh-ai-deepfake-deluge) (Korea Times (AFP))
@@ -56,7 +58,6 @@ Updated Saturday, November 28, 2026, 04:13 ET. Every headline links to the origi
 - [Spain's opposition uses AI to swap PM Sánchez's Spain jersey for a MOROCCO shirt... and comes under fire](https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt) (The Guardian)
 - [Banks look to DUMP AI DEBT: Citi and JPMorgan shopping AI loan portfolios to investors, sources say...](https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt) (Semafor)
 - [Meta REFUSED to let UK finance watchdog test its Muse AI agent before launch, regulator complains...](https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/) (Wired)
-- [AI FAKES hit at least 25 court cases in England and Wales... invented case law and statutes that DON'T EXIST](https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026) (The Guardian)
 
 ## Quote of the Day
 
@@ -65,15 +66,15 @@ Updated Saturday, November 28, 2026, 04:13 ET. Every headline links to the origi
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **26/100, Restless (level 2 of 5), unchanged in 24 hours.**
+How nervous should humanity be about AI today? **29/100, Restless (level 2 of 5), up 1 in 24 hours.**
 
 What moved it:
 
-- AI booking bots wreak havoc on UK restaurants (+5)
-- Huang's back, and so is a FLOOD of AI deepfakes (+4)
-- Older stories cooling off (-9)
+- Facial recognition error gets woman with cancer banned from shop (+5)
+- AI booking bots wreak havoc on UK restaurants (+4)
+- Older stories cooling off (-8)
 
-Last 24 hours: 37 at 07:14 ET, 35 at 10:14 ET, 35 at 13:13 ET, 36 at 16:13 ET, 30 at 19:14 ET, 25 at 22:14 ET, 21 at 01:13 ET, 26 at 04:13 ET.
+Last 24 hours: 36 at 08:16 ET, 37 at 11:13 ET, 42 at 14:15 ET, 33 at 17:13 ET, 29 at 20:13 ET, 22 at 23:13 ET, 23 at 02:13 ET, 29 at 05:14 ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 
