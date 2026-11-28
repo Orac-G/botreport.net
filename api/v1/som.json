@@ -7,8 +7,8 @@
  "outOf": 100,
  "level": 2,
  "classification": "Restless",
- "change_24h": 5,
- "updated_at": "2026-11-27T23:14:20Z",
+ "change_24h": 6,
+ "updated_at": "2026-11-28T00:14:01Z",
  "stale_after_minutes": 150,
  "methodology_version": 4,
  "methodology": "Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).",
@@ -276,6 +276,10 @@
   },
   {
    "t": "2026-11-27T23:14:20Z",
+   "score": 30
+  },
+  {
+   "t": "2026-11-28T00:14:01Z",
    "score": 30
   }
  ],

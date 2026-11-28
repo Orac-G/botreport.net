@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 6:14 PM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 7:14 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,9 @@ Updated Friday, November 27, 2026, 6:14 PM ET. Every headline links to the origi
 
 ## All stories (newest first)
 
+- [Author of a classic FREE deep-learning textbook PULLS it offline... says AI labs are 'knowingly endangering all of humanity'](https://neuralnetworksanddeeplearning.com/index.html) (Michael Nielsen)
+- [Ted Cruz: 'China is paying money' to make you SCARED of data centres... 'You're being LIED to' about water](https://www.newsweek.com/ai-politics/ted-cruz-blames-china-for-data-center-water-fears-youre-being-lied-to-12775022) (Newsweek)
+- [Zvi Mowshowitz: Astra 6.2’s Brain Gets Smart But Its Head Gets Dumb](https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its) (Zvi Mowshowitz · Opinion)
 - [Anthropic shares CLAW BACK above their $83 IPO price... as a rocky first week on the Nasdaq ends](https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo) (Bloomberg)
 - [Russia's Patriarch Kirill calls on Christians to TAME AI... warns of 'APOCALYPSE'](https://www.washingtonpost.com/world/2026/11/27/russian-orthodox-church-patriarch-kirill-calls-christians-tame-ai/) (Washington Post)
 - [Black Friday BOT BLOCK: Amazon, eBay and United LIMIT or BAN AI shopping agents... which failed 43% of the time in Visa's tests](https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html) (CNBC)
@@ -50,10 +53,8 @@ Updated Friday, November 27, 2026, 6:14 PM ET. Every headline links to the origi
 - [Nvidia HALTS sales to FOUR Southeast Asian countries as US tightens the China chip squeeze...](https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370) (Financial Times)
 - [Police RAID late perfect scorer's home in Korea's AI CHEATING probe...](https://www.koreaherald.com/article/10950541) (Korea Herald)
 - [Modi floats an AI app that tracks kids from AGE THREE... and suggests their CAREERS](https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275) (The Register)
-- [Huawei TEASES a next-gen AI MEMORY CHIP that could top Samsung and SK Hynix...](https://www.bloomberg.com/news/articles/2026-11-26/huawei-teases-next-gen-ai-memory-chip-to-take-on-samsung-hynix) (Bloomberg · Company claim)
 - [Anthropic team SHRINKS Claude's Riemann proof to 76,000 lines... 'No mathematician has read it through'](https://github.com/lsernau/grh-lean) (GitHub (Anthropic) · Not yet verified)
 - [SoftBank's CREDIT RISK tops 500 BASIS POINTS for the first time in about four years as AI worries mount...](https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount) (Bloomberg)
-- [Australia WAVES THROUGH $32 BILLION Anthropic data centre on a cattle feedlot...](https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970) (ABC (Australia))
 - [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
 
 ## Quote of the Day
@@ -63,15 +64,15 @@ Updated Friday, November 27, 2026, 6:14 PM ET. Every headline links to the origi
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **30/100, Restless (level 2 of 5), up 5 in 24 hours.**
+How nervous should humanity be about AI today? **30/100, Restless (level 2 of 5), up 6 in 24 hours.**
 
 What moved it:
 
-- OpenAI countersues, accusing Apple of stealing trade secrets (+10)
-- Russia's patriarch warns of AI 'Apocalypse' (+2)
-- Older stories cooling off (-7)
+- OpenAI countersues, accusing Apple of stealing trade secrets (+9)
+- Deep-learning author pulls his textbook over AI's dangers (+5)
+- Older stories cooling off (-8)
 
-Last 24 hours: 21 at 9 pm ET, 25 at 12 am ET, 26 at 3 am ET, 27 at 6 am ET, 38 at 9 am ET, 38 at 12 pm ET, 39 at 3 pm ET, 30 at 6 pm ET.
+Last 24 hours: 24 at 7 pm ET, 19 at 10 pm ET, 23 at 1 am ET, 26 at 4 am ET, 37 at 7 am ET, 35 at 10 am ET, 35 at 1 pm ET, 36 at 4 pm ET, 30 at 7 pm ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 
