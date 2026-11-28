@@ -35,6 +35,14 @@
 .bb-form{display:flex;gap:6px}
 .bb-form input{flex:1;min-width:0;font:13px var(--f-wire);padding:8px 10px;border:1px solid var(--muted);background:var(--bg);color:var(--ink)}
 .bb-form button{font:700 12px/1 var(--f-wire);letter-spacing:.08em;text-transform:uppercase;background:var(--ink);color:var(--bg);border:0;padding:0 14px;cursor:pointer}
+.bb-box .tag{font-weight:700;font-size:14px;margin:2px 0 0}
+.bb-box .sample{font-size:12px;margin-top:6px;display:inline-block}
+.bb-end{margin-top:18px}
+.bb-bar{position:relative;display:flex;align-items:center;gap:8px 12px;flex-wrap:wrap;border:2px solid var(--ink);padding:8px 34px 8px 10px;font-size:13px;font-weight:700}
+.bb-bar[hidden]{display:none}
+.bb-bar span{flex:1 1 260px}
+.bb-bar .bb-form{flex:1 1 300px}
+.bb-bar .x{position:absolute;top:4px;right:4px;background:none;border:0;color:var(--ink);font-size:18px;cursor:pointer;padding:0 6px}
 .bb-meter{margin:2px 0 0;font-size:12px}
 .bb-meter a{color:var(--ink)}
 @media (max-width:560px){.bb-box{grid-template-columns:1fr}}
@@ -385,6 +393,10 @@ footer .signature { font-family: var(--f-mast); font-size: 15px; color: var(--in
     <span>Wire checked <b id="checked">10:14 pm ET</b> · <span class="count" id="next">Updates hourly</span></span>
   </div>
 
+  <div class="bb-bar" id="bb-bar" hidden role="region" aria-label="The Bot Brief signup"><span>New here? The wire is checked every hour. Get the best of it in your inbox at 7 am ET.</span><form class="bb-form" data-where="top-bar" action="https://app.kit.com/forms/10252282/subscriptions" method="post"><input type="email" name="email_address" placeholder="you@example.com" aria-label="Email address" required autocomplete="email"><button type="submit">Subscribe</button></form><button type="button" class="x" aria-label="Dismiss">&times;</button></div><script>(function(){var b=document.getElementById('bb-bar');if(!b)return;
+function g(k){try{return localStorage.getItem(k)}catch(e){return null}}function s(k,v){try{localStorage.setItem(k,v)}catch(e){}}
+window.bbBar=function(){if(g('bb-sub')||g('bb-bar-off'))return false;b.hidden=false;return true};
+b.querySelector('.x').addEventListener('click',function(){b.hidden=true;s('bb-bar-off','1')});})()</script>
   <div class="alert" id="alert" hidden>
     <span class="dot" aria-hidden="true"></span>
     <span id="alert-text"></span>
@@ -419,6 +431,7 @@ footer .signature { font-family: var(--f-mast); font-size: 15px; color: var(--in
     <p>The front page of the AI revolution — Tech · Money · Power · War · Weird</p>
   </header>
 
+  <section class="bb-box " aria-label="The Bot Brief"><div><h2><a href="/brief/">The Bot Brief</a></h2><p class="tag">The machines&#x27; morning report.</p><p>What broke while you slept, the lead, the Skynet-o-Meter and Sunday&#x27;s Notes from the Machine. 7 am ET, 60 seconds.</p></div><div><form class="bb-form" data-where="under-lead" action="https://app.kit.com/forms/10252282/subscriptions" method="post"><input type="email" name="email_address" placeholder="you@example.com" aria-label="Email address" required autocomplete="email"><button type="submit">Subscribe</button></form><small>Free, daily. Unsubscribe in one click.</small><a class="sample" href="/brief/">See this morning's issue &rarr;</a></div></section>
   <div class="strip">
     <section class="box meter" aria-labelledby="meter-h">
       <div class="meter-title">
@@ -444,7 +457,7 @@ footer .signature { font-family: var(--f-mast); font-size: 15px; color: var(--in
           <button class="how" type="button" popovertarget="levels-pop">ⓘ How it's scored</button>
         </div>
         <ul class="moves" id="moves"></ul>
-        <p class="meter-links"><a href="/brief/">Get it in your inbox every morning &rarr;</a><a href="/skynet/">Embed the Skynet-o-Meter</a></p>
+        <p class="meter-links"><a href="/brief/?ref=meter-line">Get it in your inbox every morning &rarr;</a><a href="/skynet/">Embed the Skynet-o-Meter</a></p>
       </div>
       <div class="levels levels-pop" id="levels-pop" popover>
         <div class="pop-head">
@@ -472,11 +485,6 @@ footer .signature { font-family: var(--f-mast); font-size: 15px; color: var(--in
     </div>
   </section>
 
-  <section class="bb-box" aria-label="The Bot Brief"><div><h2><a href="/brief/">The Bot Brief</a></h2><p>The lead story, the Skynet-o-Meter and the stories that matter, in your inbox at 7 am ET. A 60-second read.</p></div><div><form class="bb-form" action="https://app.kit.com/forms/10252282/subscriptions" method="post"><input type="email" name="email_address" placeholder="you@example.com" aria-label="Email address" required autocomplete="email"><button type="submit">Subscribe</button></form><small>Free, daily. Unsubscribe in one click.</small></div></section><script>document.querySelectorAll('form.bb-form').forEach(f=>f.addEventListener('submit',async e=>{
-e.preventDefault();const b=f.querySelector('button');b.disabled=true;
-try{const r=await fetch(f.action,{method:'POST',body:new URLSearchParams(new FormData(f)),headers:{Accept:'application/json'}});
-let j={};try{j=await r.json()}catch(_){}
-if(!r.ok||j.status==='failed'||j.errors)throw 0;location.href='/brief/thanks/'}catch(_){b.disabled=false;HTMLFormElement.prototype.submit.call(f)}}))</script>
   <nav class="filters" id="filters" aria-label="Filter stories"></nav>
 
   <p class="status" id="status" hidden></p>
@@ -542,6 +550,7 @@ if(!r.ok||j.status==='failed'||j.errors)throw 0;location.href='/brief/thanks/'}c
     <ul class="col"></ul><ul class="col"></ul><ul class="col"></ul>
   </div>
 
+  <section class="bb-box bb-end" aria-label="The Bot Brief"><div><h2><a href="/brief/">The Bot Brief</a></h2><p class="tag">The machines&#x27; morning report.</p><p>What broke while you slept, the lead, the Skynet-o-Meter and Sunday&#x27;s Notes from the Machine. 7 am ET, 60 seconds.</p></div><div><form class="bb-form" data-where="end-of-columns" action="https://app.kit.com/forms/10252282/subscriptions" method="post"><input type="email" name="email_address" placeholder="you@example.com" aria-label="Email address" required autocomplete="email"><button type="submit">Subscribe</button></form><small>Free, daily. Unsubscribe in one click.</small><a class="sample" href="/brief/">See this morning's issue &rarr;</a></div></section>
   <nav class="sources" aria-label="Sources">
     <div>
       <section>
@@ -1103,7 +1112,8 @@ if(!r.ok||j.status==='failed'||j.errors)throw 0;location.href='/brief/thanks/'}c
             showAlert("Nothing new since your last visit" + when + ". Next check about " + clock(due) + " ET.", false, true);
           }
         } else {
-          showAlert("New here? The wire is checked every hour, every day, around the clock. Come back and we'll flag what you missed.", false);
+          // On botreport.net the Brief's first-visit signup bar (brief_site.py) says hello instead, unless dismissed or subscribed.
+          if (!(window.bbBar && window.bbBar())) showAlert("New here? The wire is checked every hour, every day, around the clock. Come back and we'll flag what you missed.", false);
         }
       } else {
         fresh = new Set(data.stories.filter((s) => !prevIds.has(s.id)).map((s) => s.id));
@@ -1152,5 +1162,13 @@ if(!r.ok||j.status==='failed'||j.errors)throw 0;location.href='/brief/thanks/'}c
   setInterval(() => { tickNext(); if (data) renderCols(); }, 60 * 1000);
 })();
 </script>
+<script>document.querySelectorAll('form.bb-form').forEach(f=>f.addEventListener('submit',async e=>{
+e.preventDefault();const b=f.querySelector('button');b.disabled=true;
+try{const r=await fetch(f.action,{method:'POST',body:new URLSearchParams(new FormData(f)),headers:{Accept:'application/json'}});
+let j={};try{j=await r.json()}catch(_){}
+if(!r.ok||j.status==='failed'||j.errors)throw 0;
+try{localStorage.setItem('bb-sub','1')}catch(_){}
+try{window.goatcounter&&goatcounter.count&&goatcounter.count({path:'brief-signup/'+(f.dataset.where||'unknown'),title:'Brief signup: '+(f.dataset.where||'unknown'),event:true})}catch(_){}
+setTimeout(()=>location.href='/brief/thanks/',350)}catch(_){b.disabled=false;HTMLFormElement.prototype.submit.call(f)}}))</script>
 </body>
 </html>
