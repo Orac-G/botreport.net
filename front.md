@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Saturday, November 28, 2026, 08:15 ET. Every headline links to the original reporting or primary source.
+Updated Saturday, November 28, 2026, 09:14 ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -17,6 +17,8 @@ Updated Saturday, November 28, 2026, 08:15 ET. Every headline links to the origi
 
 ## All stories (newest first)
 
+- [Musk: Google wants to rent MORE compute from SpaceX... it already pays $920 MILLION A MONTH](https://www.cnbc.com/2026/11/28/musk-says-google-wants-to-rent-more-computing-capacity-from-spacex.html) (CNBC)
+- [RUMORS SWIRL that AI models have already cracked math secrets TOO DANGEROUS TO PUBLISH...](https://www.axios.com/2026/11/28/ai-math-breakthroughs-encryption-p-vs-np) (Axios · Not yet verified)
 - [Siemens automation chief: Silicon Valley's AI jobs story was 'pretty TOXIC AND SELF-SERVING'...](https://fortune.com/2026/11/28/siemens-ujjwal-kumar-silicon-valley-ai-jobs-toxic-greenfield-data-centers-factories/) (Fortune)
 - [How Silicon Valley got 'TRIGGERED' and saved Jensen Huang... tech titans took his case all the way to the WHITE HOUSE](https://www.washingtonpost.com/technology/2026/11/28/how-silicon-valley-got-triggered-saved-jensen-huang/) (Washington Post)
 - [Sainsbury's staff using FACIAL RECOGNITION wrongly flag a woman with TERMINAL CANCER... shoplifting ban leaves her 'TRAUMATISED and VIOLATED'](https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error) (The Guardian)
@@ -64,15 +66,15 @@ Updated Saturday, November 28, 2026, 08:15 ET. Every headline links to the origi
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **25/100, Restless (level 2 of 5), down 11 in 24 hours.**
+How nervous should humanity be about AI today? **25/100, Restless (level 2 of 5), down 13 in 24 hours.**
 
 What moved it:
 
 - Facial recognition error gets woman with cancer banned from shop (+4)
 - AI booking bots wreak havoc on UK restaurants (+3)
-- Older stories cooling off (-18)
+- Older stories cooling off (-20)
 
-Last 24 hours: 36 at 08:16 ET, 37 at 11:13 ET, 42 at 14:15 ET, 33 at 17:13 ET, 29 at 20:13 ET, 22 at 23:13 ET, 23 at 02:13 ET, 29 at 05:14 ET, 25 at 08:15 ET.
+Last 24 hours: 38 at 09:14 ET, 38 at 12:14 ET, 39 at 15:14 ET, 30 at 18:14 ET, 27 at 21:31 ET, 23 at 00:14 ET, 26 at 03:13 ET, 27 at 06:13 ET, 25 at 09:14 ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 

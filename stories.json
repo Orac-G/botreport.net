@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-28T13:15:05Z",
+ "updated": "2026-11-28T14:14:42Z",
  "stories": [
+  {
+   "id": "musk-google-compute",
+   "cat": "business",
+   "h": "Musk: Google wants to rent MORE compute from SpaceX... it already pays $920 MILLION A MONTH",
+   "src": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/28/musk-says-google-wants-to-rent-more-computing-capacity-from-spacex.html",
+   "t": "2026-11-28T14:12:21Z",
+   "col": 1,
+   "card": "Musk: Google wants MORE SpaceX compute... at $920M a month"
+  },
+  {
+   "id": "axios-math-secrets",
+   "cat": "tech",
+   "h": "RUMORS SWIRL that AI models have already cracked math secrets TOO DANGEROUS TO PUBLISH...",
+   "src": "Axios",
+   "url": "https://www.axios.com/2026/11/28/ai-math-breakthroughs-encryption-p-vs-np",
+   "t": "2026-11-28T14:12:21Z",
+   "label": "Not yet verified",
+   "group": "science",
+   "col": 2,
+   "card": "Rumors: AI already cracked math TOO DANGEROUS to publish"
+  },
   {
    "id": "siemens-toxic",
    "cat": "business",
@@ -533,18 +555,30 @@
  "meter": {
   "level": 2,
   "score": 25,
-  "delta": -1,
-  "moves": [],
+  "delta": 0,
+  "moves": [
+   {
+    "d": 2,
+    "why": "RUMORS SWIRL that AI models have already cracked math secrets TOO D...",
+    "id": "axios-math-secrets"
+   },
+   {
+    "d": 2,
+    "why": "Musk: Google wants to rent MORE compute from SpaceX... it already p...",
+    "id": "musk-google-compute"
+   }
+  ],
   "contrib": {
-   "siemens-toxic": 1.6,
-   "huang-deepfakes": 2.7,
-   "huang-triggered": 0.7,
-   "sainsburys-facewatch": 4.0,
-   "china-darkest-hour": 1.2,
-   "restaurant-bots": 3.1,
-   "guardian-crypto-bombshell": 0.6,
-   "korea-dc-silent-war": 0.6,
-   "deepseek-control-test": 0.1
+   "musk-google-compute": 1.6,
+   "axios-math-secrets": 1.6,
+   "guardian-crypto-bombshell": 0.2,
+   "siemens-toxic": 1.5,
+   "huang-deepfakes": 2.2,
+   "huang-triggered": 0.6,
+   "sainsburys-facewatch": 3.5,
+   "china-darkest-hour": 1.0,
+   "restaurant-bots": 2.7,
+   "korea-dc-silent-war": 0.4
   },
   "lastAdjust": 0,
   "history": [
@@ -1007,13 +1041,17 @@
    {
     "t": "2026-11-28T13:15:05Z",
     "s": 25
+   },
+   {
+    "t": "2026-11-28T14:14:30Z",
+    "s": 25
    }
   ],
-  "at": "2026-11-28T13:15:05Z",
+  "at": "2026-11-28T14:14:30Z",
   "formulaSince": "2026-11-25T14:16:09Z",
   "formula": 4,
   "show": {
-   "delta": -11,
+   "delta": -13,
    "period": "in 24 hours",
    "line": [
     {
@@ -1303,6 +1341,10 @@
     {
      "t": "2026-11-28T13:15:05Z",
      "s": 25
+    },
+    {
+     "t": "2026-11-28T14:14:30Z",
+     "s": 25
     }
    ],
    "drivers": [
@@ -1317,20 +1359,23 @@
      "text": "AI booking bots wreak havoc on UK restaurants"
     },
     {
-     "d": -18,
+     "d": -20,
      "text": "Older stories cooling off"
     }
    ]
   },
   "change": {
-   "china-darkest-hour": -0.1,
-   "deepseek-control-test": -0.2,
-   "guardian-crypto-bombshell": -0.1,
-   "huang-deepfakes": -0.4,
-   "japan-ai-penalties": -0.1,
-   "korea-dc-silent-war": -0.1,
+   "axios-math-secrets": 1.6,
+   "china-darkest-hour": -0.2,
+   "deepseek-control-test": -0.1,
+   "guardian-crypto-bombshell": -0.4,
+   "huang-deepfakes": -0.5,
+   "huang-triggered": -0.1,
+   "korea-dc-silent-war": -0.2,
+   "musk-google-compute": 1.6,
    "restaurant-bots": -0.4,
-   "sainsburys-facewatch": -0.4
+   "sainsburys-facewatch": -0.5,
+   "siemens-toxic": -0.1
   }
  },
  "state": {
@@ -1641,5 +1686,5 @@
    "src": "The most-traded AI markets, last 24 hrs"
   }
  },
- "next": "2026-11-28T14:18:00Z"
+ "next": "2026-11-28T15:18:00Z"
 }
