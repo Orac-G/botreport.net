@@ -3,8 +3,8 @@
  "url": "https://botreport.net/",
  "positioning": "The front page of the AI revolution.",
  "signature": "Humanity's future, curated by machines.",
- "updated": "2026-11-28T02:31:46Z",
- "nextUpdate": "2026-11-28T03:18:00Z",
+ "updated": "2026-11-28T03:14:54Z",
+ "nextUpdate": "2026-11-28T04:18:00Z",
  "lead": [
   {
    "headline": "OpenAI HITS BACK: countersuit accuses Apple of STEALING its trade secrets and BLOCKING its suppliers...: Filed Friday in California federal court... says Apple's employment practices were designed to 'TRAP' staff",
@@ -15,6 +15,13 @@
   }
  ],
  "topLinks": [
+  {
+   "headline": "DeepSeek orders an outside test of whether its V4 Pro model could ESCAPE HUMAN CONTROL...",
+   "source": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/article/3376058/deepseek-chinas-latest-developer-worry-about-losing-control-ai",
+   "found": "2026-11-28T02:11:38Z",
+   "section": "tech"
+  },
   {
    "headline": "Dow's BEST WEEK since 2022 as AI stocks ROAR back... Nasdaq up 6%+, Anthropic jumps nearly 11%",
    "source": "CNBC",
@@ -30,13 +37,6 @@
    "section": "politics"
   },
   {
-   "headline": "DAY FIVE without food: hunger striker camps outside Anthropic HQ demanding it STOP self-improving AI...",
-   "source": "Gizmodo",
-   "url": "https://gizmodo.com/a-hunger-strike-against-self-improving-ai-is-happening-outside-of-anthropics-san-francisco-headquarters-2000846188",
-   "found": "2026-11-27T16:13:47Z",
-   "section": "quirky"
-  },
-  {
    "headline": "Pizza history: an AI AGENT buys a Papa John's order with NO CARD... a UK FIRST",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
@@ -45,13 +45,6 @@
   }
  ],
  "stories": [
-  {
-   "headline": "DeepSeek orders an outside test of whether its V4 Pro model could ESCAPE HUMAN CONTROL...",
-   "source": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/article/3376058/deepseek-chinas-latest-developer-worry-about-losing-control-ai",
-   "found": "2026-11-28T02:11:38Z",
-   "section": "tech"
-  },
   {
    "headline": "Scott Aaronson: Every call",
    "source": "Shtetl-Optimized",
@@ -105,6 +98,13 @@
    "source": "Washington Post",
    "url": "https://www.washingtonpost.com/world/2026/11/27/russian-orthodox-church-patriarch-kirill-calls-christians-tame-ai/",
    "found": "2026-11-27T17:11:49Z",
+   "section": "quirky"
+  },
+  {
+   "headline": "DAY FIVE without food: hunger striker camps outside Anthropic HQ demanding it STOP self-improving AI...",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/a-hunger-strike-against-self-improving-ai-is-happening-outside-of-anthropics-san-francisco-headquarters-2000846188",
+   "found": "2026-11-27T16:13:47Z",
    "section": "quirky"
   },
   {
@@ -349,13 +349,6 @@
    }
   },
   {
-   "headline": "SoftBank's CREDIT RISK tops 500 BASIS POINTS for the first time in about four years as AI worries mount...",
-   "source": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount",
-   "found": "2026-11-26T03:11:36Z",
-   "section": "business"
-  },
-  {
    "headline": "42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors",
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
@@ -369,7 +362,7 @@
   "url": "https://fortune.com/2026/11/27/ai-actress-tilly-norwood-lies-avoid-being-deleted-no-guilt/"
  },
  "skynetOMeter": {
-  "score": 27,
+  "score": 25,
   "outOf": 100,
   "level": 2,
   "levelName": "Restless",
@@ -377,7 +370,7 @@
   "changePeriod": "in 24 hours",
   "movers": [
    {
-    "points": 6,
+    "points": 5,
     "story": "OpenAI countersues, accusing Apple of stealing trade secrets"
    },
    {
@@ -385,42 +378,42 @@
     "story": "Deep-learning author pulls his textbook over AI's dangers"
    },
    {
-    "points": -4,
+    "points": -3,
     "story": "Older stories cooling off"
    }
   ],
   "readings": [
    {
-    "t": "2026-11-27T05:13:23Z",
-    "score": 25
+    "t": "2026-11-27T06:13:35Z",
+    "score": 23
    },
    {
-    "t": "2026-11-27T08:14:16Z",
+    "t": "2026-11-27T09:13:30Z",
     "score": 26
    },
    {
-    "t": "2026-11-27T11:12:48Z",
-    "score": 27
+    "t": "2026-11-27T12:14:49Z",
+    "score": 37
    },
    {
-    "t": "2026-11-27T14:14:44Z",
-    "score": 38
+    "t": "2026-11-27T15:14:11Z",
+    "score": 35
    },
    {
-    "t": "2026-11-27T17:14:56Z",
-    "score": 38
+    "t": "2026-11-27T18:13:31Z",
+    "score": 35
    },
    {
-    "t": "2026-11-27T20:14:39Z",
-    "score": 39
+    "t": "2026-11-27T21:13:53Z",
+    "score": 36
    },
    {
-    "t": "2026-11-27T23:14:20Z",
+    "t": "2026-11-28T00:14:01Z",
     "score": 30
    },
    {
-    "t": "2026-11-28T02:31:46Z",
-    "score": 27
+    "t": "2026-11-28T03:14:54Z",
+    "score": 25
    }
   ],
   "question": "How nervous should humanity be about AI today?",

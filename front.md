@@ -2,7 +2,7 @@
 
 > The front page of the AI revolution. Humanity's future, curated by machines.
 
-Updated Friday, November 27, 2026, 9:31 PM ET. Every headline links to the original reporting or primary source.
+Updated Friday, November 27, 2026, 10:14 PM ET. Every headline links to the original reporting or primary source.
 
 ## Lead
 
@@ -10,14 +10,13 @@ Updated Friday, November 27, 2026, 9:31 PM ET. Every headline links to the origi
 
 ## Top stories
 
+- [DeepSeek orders an outside test of whether its V4 Pro model could ESCAPE HUMAN CONTROL...](https://www.scmp.com/tech/article/3376058/deepseek-chinas-latest-developer-worry-about-losing-control-ai) (South China Morning Post)
 - [Dow's BEST WEEK since 2022 as AI stocks ROAR back... Nasdaq up 6%+, Anthropic jumps nearly 11%](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html) (CNBC)
 - [Belgium orders Google to HALT datacentre construction over missing permits... after Greenpeace showed work CARRYING ON](https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits) (The Guardian)
-- [DAY FIVE without food: hunger striker camps outside Anthropic HQ demanding it STOP self-improving AI...](https://gizmodo.com/a-hunger-strike-against-self-improving-ai-is-happening-outside-of-anthropics-san-francisco-headquarters-2000846188) (Gizmodo)
 - [Pizza history: an AI AGENT buys a Papa John's order with NO CARD... a UK FIRST](https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer) (The Guardian)
 
 ## All stories (newest first)
 
-- [DeepSeek orders an outside test of whether its V4 Pro model could ESCAPE HUMAN CONTROL...](https://www.scmp.com/tech/article/3376058/deepseek-chinas-latest-developer-worry-about-losing-control-ai) (South China Morning Post)
 - [Scott Aaronson: Every call](https://scottaaronson.blog/?p=10387) (Shtetl-Optimized · Opinion)
 - [Japan to revise its AI law to bring in PENALTIES... bill headed for parliament](https://www.japantimes.co.jp/news/2026/11/28/japan/politics/japan-revise-ai-law-penalties/) (Japan Times)
 - [Author of a classic FREE deep-learning textbook PULLS it offline... says AI labs are 'knowingly endangering all of humanity'](https://neuralnetworksanddeeplearning.com/index.html) (Michael Nielsen)
@@ -25,6 +24,7 @@ Updated Friday, November 27, 2026, 9:31 PM ET. Every headline links to the origi
 - [Zvi Mowshowitz: Astra 6.2’s Brain Gets Smart But Its Head Gets Dumb](https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its) (Zvi Mowshowitz · Opinion)
 - [Anthropic shares CLAW BACK above their $83 IPO price... as a rocky first week on the Nasdaq ends](https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo) (Bloomberg)
 - [Russia's Patriarch Kirill calls on Christians to TAME AI... warns of 'APOCALYPSE'](https://www.washingtonpost.com/world/2026/11/27/russian-orthodox-church-patriarch-kirill-calls-christians-tame-ai/) (Washington Post)
+- [DAY FIVE without food: hunger striker camps outside Anthropic HQ demanding it STOP self-improving AI...](https://gizmodo.com/a-hunger-strike-against-self-improving-ai-is-happening-outside-of-anthropics-san-francisco-headquarters-2000846188) (Gizmodo)
 - [Black Friday BOT BLOCK: Amazon, eBay and United LIMIT or BAN AI shopping agents... which failed 43% of the time in Visa's tests](https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html) (CNBC)
 - ['WATERSHED MOMENT': Poland signs $300 MILLION Palantir deal for AI battlefield software... as Europe frets over US tech](https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense) (Bloomberg)
 - [Nvidia BLACKWELL chips turn up at a Shanghai data centre tied to ALICE HUANG...](https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang) (Bloomberg)
@@ -57,7 +57,6 @@ Updated Friday, November 27, 2026, 9:31 PM ET. Every headline links to the origi
 - [Police RAID late perfect scorer's home in Korea's AI CHEATING probe...](https://www.koreaherald.com/article/10950541) (Korea Herald)
 - [Modi floats an AI app that tracks kids from AGE THREE... and suggests their CAREERS](https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275) (The Register)
 - [Anthropic team SHRINKS Claude's Riemann proof to 76,000 lines... 'No mathematician has read it through'](https://github.com/lsernau/grh-lean) (GitHub (Anthropic) · Not yet verified)
-- [SoftBank's CREDIT RISK tops 500 BASIS POINTS for the first time in about four years as AI worries mount...](https://www.bloomberg.com/news/articles/2026-11-26/softbank-credit-risk-tops-500-basis-points-as-ai-worries-mount) (Bloomberg)
 - [42 state AGs fight Character.ai plan to AUCTION private chats from 21 MILLION users... 2.1 MILLION of them minors](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/) (TechCrunch)
 
 ## Quote of the Day
@@ -67,15 +66,15 @@ Updated Friday, November 27, 2026, 9:31 PM ET. Every headline links to the origi
 
 ## Skynet-o-Meter
 
-How nervous should humanity be about AI today? **27/100, Restless (level 2 of 5), up 6 in 24 hours.**
+How nervous should humanity be about AI today? **25/100, Restless (level 2 of 5), up 6 in 24 hours.**
 
 What moved it:
 
-- OpenAI countersues, accusing Apple of stealing trade secrets (+6)
+- OpenAI countersues, accusing Apple of stealing trade secrets (+5)
 - Deep-learning author pulls his textbook over AI's dangers (+4)
-- Older stories cooling off (-4)
+- Older stories cooling off (-3)
 
-Last 24 hours: 25 at 12 am ET, 26 at 3 am ET, 27 at 6 am ET, 38 at 9 am ET, 38 at 12 pm ET, 39 at 3 pm ET, 30 at 6 pm ET, 27 at 9 pm ET.
+Last 24 hours: 23 at 1 am ET, 26 at 4 am ET, 37 at 7 am ET, 35 at 10 am ET, 35 at 1 pm ET, 36 at 4 pm ET, 30 at 7 pm ET, 25 at 10 pm ET.
 
 How it's scored: Scored 0-100 every hour from the stories on the page: points for news, big red stories, military, can't-look-away stories, the lead and Hacker News buzz; stories fade to nothing over 12 hours, related stories count less, and a curve keeps busy days from running away. Only the siren can reach Judgment Day (80+).
 
