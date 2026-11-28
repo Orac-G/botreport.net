@@ -1568,7 +1568,7 @@
    "src": "Company announcements and original reports"
   },
   "odds": {
-   "asOf": "01:27 ET",
+   "asOf": "01:30 ET",
    "items": [
     {
      "key": "agi-2028",
@@ -1605,15 +1605,6 @@
      "chg": 1,
      "src": "Polymarket",
      "url": "https://polymarket.com/event/openai-announces-bankruptcy-by"
-    },
-    {
-     "key": "us-safety-law-26",
-     "q": "US AI safety law before 2027?",
-     "p": 7,
-     "lead": "",
-     "chg": 2,
-     "src": "Polymarket",
-     "url": "https://polymarket.com/event/us-enacts-ai-safety-bill-before-2027"
     },
     {
      "key": "doom-2100",
